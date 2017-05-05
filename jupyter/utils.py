@@ -1,18 +1,22 @@
 import json
 import gzip
 import logging
+import glob
 import pandas as pd
 
 logger = logging.getLogger()
 
 
-def tweet_iter(filepaths, limit=None, tweet_transform_func=None):
+def tweet_load_iter(limit=None, tweet_transform_func=None):
     # Load tweets from gzipped, line-oriented JSON files, possibly transforming with provided function
     # and limiting by number of tweets.
     # Returns an iterator.
-    for filepath in filepaths:
+    count = 0
+    for filepath in glob.glob('tweets/*.json.gz'):
+        logging.info('Loading from %s', filepath)
         with gzip.open(filepath) as file:
-            for count, line in enumerate(file):
+            for line in file:
+                count += 1
                 if count % 50000 == 0:
                     logging.debug('Loaded %s', count)
                 tweet = json.loads(line)
@@ -25,8 +29,8 @@ def tweet_iter(filepaths, limit=None, tweet_transform_func=None):
                         yield tweet_transform_ret
                 else:
                     yield tweet
-                if count + 1 == limit:
-                    break
+                if count == limit:
+                    return
 
 
 def tweet_type(tweet):
@@ -50,15 +54,16 @@ def seed_iter(seed_file_map):
 
 def load_screen_name_lookup_df():
     seed_file_map = {
-        'newspaper_reporters.csv': 'reporters',
-        'periodical_reporters.csv': 'reporters',
-        'administration_officials.csv': 'politicians',
-        'news_outlets.csv': 'media',
-        'media.csv': 'media',
-        'cabinet.csv': 'politicians',
-        'representatives.csv': 'politicians',
-        'senators.csv': 'politicians',
-        'federal_agencies.csv': 'government',
+        'lookups/newspaper_reporters_lookup.csv': 'reporters',
+        'lookups/periodical_reporters_lookup.csv': 'reporters',
+        'lookups/tv_and_radio_reporters_lookup.csv': 'reporters',
+        'lookups/administration_officials_lookup.csv': 'politicians',
+        'lookups/press_galleries_lookup.csv': 'media',
+        'lookups/news_outlets_lookup.csv': 'media',
+        'lookups/cabinet_lookup.csv': 'politicians',
+        'lookups/representatives_lookup.csv': 'politicians',
+        'lookups/senators_lookup.csv': 'politicians',
+        'lookups/federal_agencies_lookup.csv': 'government',
     }
     df = pd.DataFrame(seed_iter(seed_file_map))
     df['screen_name_lower'] = df.screen_name.apply(str.lower)
