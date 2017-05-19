@@ -52,11 +52,11 @@ def seed_iter(seed_file_map):
                 yield {'screen_name': screen_name, 'user_id': user_id[:-1], 'type': type}
 
 
-def load_screen_name_lookup_df():
+def load_user_type_lookup_df():
     seed_file_map = {
-        'lookups/newspaper_reporters_lookup.csv': 'reporters',
-        'lookups/periodical_reporters_lookup.csv': 'reporters',
-        'lookups/tv_and_radio_reporters_lookup.csv': 'reporters',
+        'lookups/newspaper_reporters_lookup.csv': 'journalists',
+        'lookups/periodical_reporters_lookup.csv': 'journalists',
+        'lookups/tv_and_radio_reporters_lookup.csv': 'journalists',
         'lookups/administration_officials_lookup.csv': 'politicians',
         'lookups/press_galleries_lookup.csv': 'media',
         'lookups/news_outlets_lookup.csv': 'media',
@@ -64,6 +64,27 @@ def load_screen_name_lookup_df():
         'lookups/representatives_lookup.csv': 'politicians',
         'lookups/senators_lookup.csv': 'politicians',
         'lookups/federal_agencies_lookup.csv': 'government',
+        'lookups/coded_academic_institution_lookup.csv': 'academic',
+        'lookups/coded_academic_lookup.csv': 'academic',
+        'lookups/coded_business_person_lookup.csv': 'business',
+        'lookups/coded_company_lookup.csv': 'business',
+        'lookups/coded_entertainment_lookup.csv': 'cultural',
+        'lookups/coded_foreign_government_lookup.csv': 'foreign_political',
+        'lookups/coded_foreign_politician_lookup.csv': 'foreign_political',
+        'lookups/coded_gov_official_lookup.csv': 'government',
+        'lookups/coded_government_lookup.csv': 'government',
+        'lookups/coded_media_lookup.csv': 'media',
+        'lookups/coded_ngo_lookup.csv': 'ngo',
+        'lookups/coded_ngo_staff_lookup.csv': 'ngo',
+        'lookups/coded_non-federal_government_lookup.csv': 'government',
+        'lookups/coded_other_lookup.csv': 'other',
+        'lookups/coded_political_org_lookup.csv': 'other_political',
+        'lookups/coded_political_staff_lookup.csv': 'other_political',
+        'lookups/coded_politician_lookup.csv': 'politicians',
+        'lookups/coded_public_figure_lookup.csv': 'cultural',
+        'lookups/coded_pundit_lookup.csv': 'pundit',
+        'lookups/coded_reporter_lookup.csv': 'journalists',
+        'lookups/coded_sports_lookup.csv': 'cultural'
     }
     df = pd.DataFrame(seed_iter(seed_file_map))
     df['screen_name_lower'] = df.screen_name.apply(str.lower)
