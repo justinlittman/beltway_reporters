@@ -1,6 +1,7 @@
 import csv
 import os
 
+
 def read_csv(filepath):
     with open(filepath, newline='') as csvfile:
         type_map = {}
