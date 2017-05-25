@@ -33,6 +33,15 @@ def tweet_load_iter(limit=None, tweet_transform_func=None):
                     return
 
 
+def load_tweet_df(tweet_transform_func, columns, limit=None, dedupe=True):
+    tweet_df = pd.DataFrame(tweet_load_iter(tweet_transform_func=tweet_transform_func, limit=limit),
+                        columns=columns)
+    if dedupe:
+        tweet_df.drop_duplicates(['tweet_id'], keep='last', inplace=True)
+
+    return tweet_df
+
+
 def tweet_type(tweet):
     # Determine the type of a tweet
     if tweet.get('in_reply_to_status_id'):
