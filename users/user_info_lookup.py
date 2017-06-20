@@ -7,22 +7,21 @@ t = Twarc()
 
 # From a CSV containing names, organizations, screen names, position, gender, race,
 # create a lookup CSV containing screen names, user_ids, name, organization, position
-# gender, race, user_created_at, follower_counts, following_counts, tweet_count, verified, protected
+# gender, user_created_at, follower_counts, following_counts, tweet_count, verified, protected
 
 def csv_iter(filepaths):
     for filepath in filepaths:
-        with open(filepath, newline='') as csvfile:
+        with open(filepath, newline='', encoding='utf-8-sig') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 handle = clean_cell(row['Handle'])
-                if handle:
+                if handle and row['Color (y/p/w)'].lower() == 'w':
                     yield {
                         'screen_name': handle.lower().lstrip('@'),
                         'name': clean_cell(row['Name']),
                         'organization': clean_cell(row['Organization']),
                         'position': clean_cell(row['Position']),
                         'gender': clean_cell(row['Gender']),
-                        'race': clean_cell(row['Race'])
                     }
 
 
@@ -30,7 +29,7 @@ def write_csv(user_map):
     with open('user_info_lookup.csv', 'w', newline='') as csvfile:
         writer = csv.DictWriter(csvfile, quoting=csv.QUOTE_ALL,
                                 fieldnames=['screen_name', 'user_id', 'name', 'organization', 'position', 'gender',
-                                            'race', 'followers_count', 'following_count', 'tweet_count',
+                                            'followers_count', 'following_count', 'tweet_count',
                                             'user_created_at', 'verified', 'protected'])
         writer.writerows(user_map.values())
 
@@ -43,7 +42,7 @@ def clean_cell(cell):
 
 if __name__ == '__main__':
     user_map = {}
-    for user in csv_iter(['Senate_Press_Galleries.csv', 'Periodical_Press_Galleries.csv', 'Radio_and_Television.csv']):
+    for user in csv_iter(['Senate_Press_Galleries.csv', 'Senate_Periodical_Galleries.csv', 'Radio_and_Television.csv']):
         user_map[user['screen_name']] = user
 
     for user_json in t.user_lookup(screen_names=user_map.keys()):

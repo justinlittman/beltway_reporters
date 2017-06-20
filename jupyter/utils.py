@@ -3,13 +3,14 @@ import gzip
 import logging
 import glob
 import pandas as pd
+import csv
 
 logger = logging.getLogger()
 
 
-def tweet_load_iter(limit=None, tweet_transform_func=None):
+def tweet_load_iter(limit=None, tweet_transform_func=None, limit_user_ids=None):
     # Load tweets from gzipped, line-oriented JSON files, possibly transforming with provided function
-    # and limiting by number of tweets.
+    # and limiting by number of tweets and a set of user ids.
     # Returns an iterator.
     count = 0
     for filepath in glob.glob('tweets/*.json.gz'):
@@ -20,22 +21,33 @@ def tweet_load_iter(limit=None, tweet_transform_func=None):
                 if count % 50000 == 0:
                     logging.debug('Loaded %s', count)
                 tweet = json.loads(line)
-                if tweet_transform_func:
-                    tweet_transform_ret = tweet_transform_func(tweet)
-                    if isinstance(tweet_transform_ret, list):
-                        for tweet in tweet_transform_ret:
-                            yield tweet
-                    elif tweet_transform_ret is not None:
-                        yield tweet_transform_ret
-                else:
-                    yield tweet
+                if not limit_user_ids or tweet['user']['id_str'] in limit_user_ids:
+                    if tweet_transform_func:
+                        tweet_transform_ret = tweet_transform_func(tweet)
+                        if isinstance(tweet_transform_ret, list):
+                            for tweet in tweet_transform_ret:
+                                yield tweet
+                        elif tweet_transform_ret is not None:
+                            yield tweet_transform_ret
+                    else:
+                        yield tweet
                 if count == limit:
                     return
 
 
-def load_tweet_df(tweet_transform_func, columns, limit=None, dedupe=True):
-    tweet_df = pd.DataFrame(tweet_load_iter(tweet_transform_func=tweet_transform_func, limit=limit),
-                        columns=columns)
+def load_tweet_df(tweet_transform_func, columns, limit=None, dedupe=True, limit_by_user_ids=True):
+    limit_user_ids = None
+    if limit_by_user_ids:
+        limit_user_ids = set()
+        for lookup_filepath in (
+                'lookups/periodical_press_lookup.csv',
+                'lookups/senate_press_lookup.csv',
+                'lookups/radio_and_television_lookup.csv'):
+            limit_user_ids.update(load_seed_list_dict(lookup_filepath).keys())
+
+    tweet_df = pd.DataFrame(
+        tweet_load_iter(tweet_transform_func=tweet_transform_func, limit=limit, limit_user_ids=limit_user_ids),
+        columns=columns)
     if dedupe:
         tweet_df.drop_duplicates(['tweet_id'], keep='last', inplace=True)
 
@@ -53,6 +65,20 @@ def tweet_type(tweet):
     return 'original'
 
 
+def load_seed_list_dict(filepath):
+    """
+    For reading a seed list downloaded from SFM into a dictionary.
+    """
+    lookup = {}
+    # Encoding handles the BOM
+    with open(filepath, encoding='utf-8-sig') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            # user id to screen name
+            lookup[row['Uid']] = row['Token']
+    return lookup
+
+
 def seed_iter(seed_file_map):
     for filepath, type in seed_file_map.items():
         with open(filepath) as file:
@@ -60,12 +86,11 @@ def seed_iter(seed_file_map):
                 screen_name, user_id = line.split(',')
                 yield {'screen_name': screen_name, 'user_id': user_id[:-1], 'type': type}
 
-
 def load_user_type_lookup_df():
     seed_file_map = {
-        'lookups/newspaper_reporters_lookup.csv': 'journalists',
-        'lookups/periodical_reporters_lookup.csv': 'journalists',
-        'lookups/tv_and_radio_reporters_lookup.csv': 'journalists',
+        'lookups/senate_press_lookup.csv': 'journalists',
+        'lookups/periodical_press_lookup.csv': 'journalists',
+        'lookups/radio_and_television_lookup.csv': 'journalists',
         'lookups/administration_officials_lookup.csv': 'politicians',
         'lookups/press_galleries_lookup.csv': 'media',
         'lookups/news_outlets_lookup.csv': 'media',

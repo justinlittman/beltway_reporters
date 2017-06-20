@@ -1,5 +1,6 @@
 from twarc import Twarc
 import csv
+import argparse
 
 t = Twarc()
 
@@ -34,8 +35,9 @@ def user_lookup(user_ids):
         user_description_map[user['id_str']] = user['description']
     return user_description_map
 
-if __name__ == '__main__':
-    field_names, rows = read_csv('unknown_mentions.csv')
+
+def process(filename):
+    field_names, rows = read_csv(filename)
     if field_names[-1] != 'description':
         field_names.append('description')
 
@@ -53,7 +55,14 @@ if __name__ == '__main__':
                         row.append(user_description_map[row[0]])
                     else:
                         row.append('-')
-        if group_count % 1000 == 0:
-            write_csv('unknown_mentions.csv', field_names, rows)
+    write_csv(filename, field_names, rows)
 
-    write_csv('unknown_mentions.csv', field_names, rows)
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument("filename")
+
+    args = parser.parse_args()
+    process(args.filename)
+
+
