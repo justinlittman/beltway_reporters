@@ -93,3 +93,6 @@ ENV/
 
 # OS X
 .DS_Store
+
+# ORA files
+ora/**/*.xml

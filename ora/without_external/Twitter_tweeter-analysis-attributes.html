@@ -1,0 +1,750 @@
+<html><meta charset='utf-8'>
+<head>
+<a name='top'/>
+<title>Analysis of Tweeter Attributes</title>
+<link rel='stylesheet' type='text/css' href='Twitter-style-sheet.css'/>
+<link rel='stylesheet' type='text/css' href = 'https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css'>
+<script type='text/javascript' language='javascript' src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+<script type='text/javascript' language='javascript' src='https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js'></script>
+<script type='text/javascript' language='javascript' src='RankedTables.js'></script>
+<script type='text/javascript' language='javascript' src='Chart.js'></script>
+</head>
+<h1>Analysis of Tweeter Attributes</h1>
+<blockquote>
+<p>This section analyzes the measure and attributes values of two tweeter groups: Verified and News Agencies.</p>
+<p><a href="Twitter.html">Return to previous page</a></p>
+<h2>Continuous Attribute TWEET_COUNT by Tweeter Group</h2>
+<blockquote>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Top Ranked</td>
+<td style='color:green'>1</td>
+<td style='color:green'>814.120</td>
+<td style='color:green'>6391</td>
+<td style='color:green'>1161.138</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Verified</td>
+<td style='color:green'>1</td>
+<td style='color:green'>390.314</td>
+<td style='color:green'>9584</td>
+<td style='color:green'>633.288</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>News Agencies</td>
+<td style='color:green'>3</td>
+<td style='color:green'>593.019</td>
+<td style='color:green'>3521</td>
+<td style='color:green'>787.320</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>280.460</td>
+<td>9584</td>
+<td>580.794</td>
+</tr>
+</table>
+</blockquote>
+<h2>Continuous Attribute NUMBER_FOLLOWERS by Tweeter Group</h2>
+<blockquote>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>Top Ranked</td>
+<td style='color:red'>40</td>
+<td style='color:red'>115725.510</td>
+<td style='color:red'>2132175</td>
+<td style='color:red'>334169.691</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Verified</td>
+<td style='color:green'>133</td>
+<td style='color:green'>27686.441</td>
+<td style='color:green'>2132175</td>
+<td style='color:green'>119067.285</td>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>News Agencies</td>
+<td style='color:red'>612</td>
+<td style='color:red'>186714.115</td>
+<td style='color:red'>2132175</td>
+<td style='color:red'>439355.573</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>15489.229</td>
+<td>2132175</td>
+<td>87176.900</td>
+</tr>
+</table>
+</blockquote>
+<h2>Measure Directly Influential (high degree in followers) by Tweeter Group</h2>
+<blockquote>
+<p>Input: entire meta-network considered as a single network</p>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>Top Ranked</td>
+<td style='color:red'>1.876e-05</td>
+<td style='color:red'>0.054</td>
+<td style='color:red'>1</td>
+<td style='color:red'>0.157</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Verified</td>
+<td style='color:green'>6.238e-05</td>
+<td style='color:green'>0.013</td>
+<td style='color:green'>1</td>
+<td style='color:green'>0.056</td>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>News Agencies</td>
+<td style='color:red'>2.870e-04</td>
+<td style='color:red'>0.088</td>
+<td style='color:red'>1</td>
+<td style='color:red'>0.206</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>0.007</td>
+<td>1</td>
+<td>0.041</td>
+</tr>
+</table>
+</blockquote>
+<h2>Measure Wants to be an Influencer (high in-degree) by Tweeter Group</h2>
+<blockquote>
+<p>Input network(s): Agent x Agent - Retweeted-By</p>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>Top Ranked</td>
+<td style='color:red'>0</td>
+<td style='color:red'>0.018</td>
+<td style='color:red'>0.118</td>
+<td style='color:red'>0.025</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Verified</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.009</td>
+<td style='color:green'>0.118</td>
+<td style='color:green'>0.013</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>News Agencies</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.012</td>
+<td style='color:green'>0.078</td>
+<td style='color:green'>0.016</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>0.006</td>
+<td>0.118</td>
+<td>0.011</td>
+</tr>
+</table>
+</blockquote>
+<h2>Measure Actual Influencer (high weighted in-degree) by Tweeter Group</h2>
+<blockquote>
+<p>Input network(s): Agent x Agent - Mentioned-By, Agent x Agent - Retweeted-By</p>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>Top Ranked</td>
+<td style='color:red'>8.228e-07</td>
+<td style='color:red'>0.090</td>
+<td style='color:red'>1</td>
+<td style='color:red'>0.154</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Verified</td>
+<td style='color:green'>3.979e-07</td>
+<td style='color:green'>0.019</td>
+<td style='color:green'>1</td>
+<td style='color:green'>0.059</td>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>News Agencies</td>
+<td style='color:red'>1.831e-06</td>
+<td style='color:red'>0.080</td>
+<td style='color:red'>1</td>
+<td style='color:red'>0.180</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>1.197e-08</td>
+<td>0.011</td>
+<td>1</td>
+<td>0.044</td>
+</tr>
+</table>
+</blockquote>
+<h2>Measure Trusted or Interesting Source (high out-degree) by Tweeter Group</h2>
+<blockquote>
+<p>Input network(s): Agent x Agent - Retweeted-By</p>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>Top Ranked</td>
+<td style='color:red'>0</td>
+<td style='color:red'>0.035</td>
+<td style='color:red'>0.132</td>
+<td style='color:red'>0.038</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Verified</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.011</td>
+<td style='color:green'>0.132</td>
+<td style='color:green'>0.019</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>News Agencies</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.020</td>
+<td style='color:green'>0.132</td>
+<td style='color:green'>0.031</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>0.006</td>
+<td>0.132</td>
+<td>0.015</td>
+</tr>
+</table>
+</blockquote>
+<h2>Measure Most Mentioned (high in-degree in mentions network) by Tweeter Group</h2>
+<blockquote>
+<p>Input network(s): Agent x Agent - Mentioned-By</p>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>Top Ranked</td>
+<td style='color:red'>0</td>
+<td style='color:red'>0.045</td>
+<td style='color:red'>0.166</td>
+<td style='color:red'>0.044</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Verified</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.015</td>
+<td style='color:green'>0.166</td>
+<td style='color:green'>0.023</td>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>News Agencies</td>
+<td style='color:red'>0</td>
+<td style='color:red'>0.028</td>
+<td style='color:red'>0.166</td>
+<td style='color:red'>0.036</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>0.009</td>
+<td>0.166</td>
+<td>0.018</td>
+</tr>
+</table>
+</blockquote>
+<h2>Measure twitter-potentialReach by Tweeter Group</h2>
+<blockquote>
+<p>Input network(s): Agent x Agent - Mentioned-By, Agent x Agent - Retweeted-By</p>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>Top Ranked</td>
+<td style='color:red'>0</td>
+<td style='color:red'>2.378e-04</td>
+<td style='color:red'>7.831e-04</td>
+<td style='color:red'>1.522e-04</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Verified</td>
+<td style='color:green'>0</td>
+<td style='color:green'>1.280e-04</td>
+<td style='color:green'>7.831e-04</td>
+<td style='color:green'>1.157e-04</td>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>News Agencies</td>
+<td style='color:red'>0</td>
+<td style='color:red'>2.171e-04</td>
+<td style='color:red'>7.831e-04</td>
+<td style='color:red'>1.488e-04</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>8.312e-05</td>
+<td>7.831e-04</td>
+<td>1.045e-04</td>
+</tr>
+</table>
+</blockquote>
+<h2>Measure twitter-potentialConnectors by Tweeter Group</h2>
+<blockquote>
+<p>Input network(s): Agent x Agent - Mentioned-By, Agent x Agent - Retweeted-By</p>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>Top Ranked</td>
+<td style='color:red'>0</td>
+<td style='color:red'>4.075e-04</td>
+<td style='color:red'>0.002</td>
+<td style='color:red'>5.112e-04</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Verified</td>
+<td style='color:green'>0</td>
+<td style='color:green'>1.399e-04</td>
+<td style='color:green'>0.002</td>
+<td style='color:green'>2.410e-04</td>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>News Agencies</td>
+<td style='color:red'>0</td>
+<td style='color:red'>4.153e-04</td>
+<td style='color:red'>0.002</td>
+<td style='color:red'>5.224e-04</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>8.312e-05</td>
+<td>0.002</td>
+<td>1.906e-04</td>
+</tr>
+</table>
+</blockquote>
+<h2>Measure Uses Many Mentions in Tweets (high degree in mentions network) by Tweeter Group</h2>
+<blockquote>
+<p>Input network(s): Agent x Agent - Mentioned-By</p>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:red'>
+<td style='color:red'>Top Ranked</td>
+<td style='color:red'>0</td>
+<td style='color:red'>1.406e-04</td>
+<td style='color:red'>0.001</td>
+<td style='color:red'>2.146e-04</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Verified</td>
+<td style='color:green'>0</td>
+<td style='color:green'>5.861e-05</td>
+<td style='color:green'>0.001</td>
+<td style='color:green'>1.007e-04</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>News Agencies</td>
+<td style='color:green'>0</td>
+<td style='color:green'>8.273e-05</td>
+<td style='color:green'>4.806e-04</td>
+<td style='color:green'>1.155e-04</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>4.070e-05</td>
+<td>0.001</td>
+<td>8.479e-05</td>
+</tr>
+</table>
+</blockquote>
+<h2>Measure Average mentions per tweet by Tweeter Group</h2>
+<blockquote>
+<p>Input network(s): Agent x Agent - Mentioned-By, Agent x Tweet - Sender</p>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Top Ranked</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.077</td>
+<td style='color:green'>1</td>
+<td style='color:green'>0.117</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Verified</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.055</td>
+<td style='color:green'>0.298</td>
+<td style='color:green'>0.042</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>News Agencies</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.062</td>
+<td style='color:green'>0.298</td>
+<td style='color:green'>0.058</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>0.052</td>
+<td>1</td>
+<td>0.054</td>
+</tr>
+</table>
+</blockquote>
+<h2>Categorical Attribute LANGUAGE_SENDER</h2>
+<blockquote>
+<table>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<tr>
+<td></td>
+<th>En</th>
+<th>Tr</th>
+<th>Und</th>
+<th>Hi</th>
+<th>In</th>
+<th>Ro</th>
+<th>Fr</th>
+<th>Es</th>
+<th>Pt</th>
+<th>Eu</th>
+<th>Da</th>
+<th>De</th>
+<th>Ar</th>
+<th>Iw</th>
+<th>Nl</th>
+<th>Ht</th>
+<th>Cy</th>
+<th>Et</th>
+<th>Tl</th>
+<th>Pl</th>
+<th>It</th>
+<th>No</th>
+<th>Lt</th>
+<th>Fi</th>
+<th>Cs</th>
+<th>Is</th>
+<th>Sv</th>
+<th>Hu</th>
+<th>Vi</th>
+<th>Ja</th>
+<th>Lv</th>
+<th>Ru</th>
+<th>Sl</th>
+<th>Fa</th>
+<th>Zh</th>
+<th>Ko</th>
+<th>Ur</th>
+<th>Bo</th>
+<th>Uk</th>
+<th>My</th>
+<th>Km</th>
+<th>No Value</th>
+</tr>
+<tr>
+<th>Top Ranked</th>
+<td>9</td>
+<td>3</td>
+<td>5</td>
+<td>0</td>
+<td>3</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<th>Verified</th>
+<td>1211</td>
+<td>65</td>
+<td>894</td>
+<td>21</td>
+<td>210</td>
+<td>110</td>
+<td>365</td>
+<td>327</td>
+<td>116</td>
+<td>43</td>
+<td>112</td>
+<td>163</td>
+<td>8</td>
+<td>5</td>
+<td>119</td>
+<td>114</td>
+<td>81</td>
+<td>121</td>
+<td>170</td>
+<td>97</td>
+<td>108</td>
+<td>83</td>
+<td>34</td>
+<td>28</td>
+<td>25</td>
+<td>13</td>
+<td>88</td>
+<td>16</td>
+<td>10</td>
+<td>4</td>
+<td>14</td>
+<td>15</td>
+<td>8</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<th>News Agencies</th>
+<td>52</td>
+<td>4</td>
+<td>38</td>
+<td>1</td>
+<td>13</td>
+<td>10</td>
+<td>19</td>
+<td>10</td>
+<td>5</td>
+<td>1</td>
+<td>7</td>
+<td>7</td>
+<td>1</td>
+<td>0</td>
+<td>6</td>
+<td>6</td>
+<td>3</td>
+<td>10</td>
+<td>9</td>
+<td>5</td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
+<td>3</td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</table>
+</blockquote>
+</blockquote>
+<p><a href="Twitter.html">Return to previous page</a></p>
+</html>

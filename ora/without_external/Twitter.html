@@ -1,0 +1,140 @@
+<html><meta charset='utf-8'>
+<head>
+<a name='top'/>
+<title>TWITTER REPORT</title>
+<link rel='stylesheet' type='text/css' href='Twitter-style-sheet.css'/>
+<link rel='stylesheet' type='text/css' href = 'https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css'>
+<script type='text/javascript' language='javascript' src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+<script type='text/javascript' language='javascript' src='https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js'></script>
+<script type='text/javascript' language='javascript' src='RankedTables.js'></script>
+<script type='text/javascript' language='javascript' src='Chart.js'></script>
+</head>
+<h1>TWITTER REPORT</h1>
+<blockquote>
+<p>Dataset contains external users as mentions and replies.</p>
+<p>Input data: Twitter JSON 6b6a0be4f70640648b56447b387f17a2_001</p>
+<p>Start time: Sun Jul  9 20:27:25 2017
+</p>
+<p><a href="Twitter_network-data-description.html">Data Description</a></p>
+</blockquote>
+<blockquote>
+<h2>Import Summary</h2>
+<blockquote>
+<p>This is an overview of the import process that was used to create the dataset.</p>
+<table>
+<col width='300px'/>
+<col width='500px'/>
+<tr>
+<td>Twitter file(s) imported</td>
+<td>/Users/justinlittman/Data/usher/beltway_reporters/jupyter/tweets/6b6a0be4f70640648b56447b387f17a2_001.json, /Users/justinlittman/Data/usher/beltway_reporters/jupyter/tweets/6b6a0be4f70640648b56447b387f17a2_002.json, /Users/justinlittman/Data/usher/beltway_reporters/jupyter/tweets/7bff8603fb4a49d5953197361d548346_001.json, /Users/justinlittman/Data/usher/beltway_reporters/jupyter/tweets/b3f330f5b6cc4572b6d7dabc3752b2b9_001.json</td>
+</tr>
+<tr>
+<td>Twitter file format</td>
+<td>Twitter JSON</td>
+</tr>
+<tr>
+<td>Dynamic meta-network?</td>
+<td>No, all tweets are in one meta-network</td>
+</tr>
+</table>
+</blockquote>
+<h2>Import Data Statistics</h2>
+<blockquote>
+<p>This is an overview of the tweet activity in the dataset. The dataset contains only one meta-network and all tweets are analyzed.</p>
+<table>
+<col width='300px'/>
+<col class='multi-even' width='250px'/>
+<tr>
+<td>Network</td>
+<th>Twitter JSON 6b6a0be4f70640648b56447b387f17a2_001</th>
+</tr>
+<tr>
+<td>First tweet date</td>
+<td>2007-03-21 15:41:30-04</td>
+</tr>
+<tr>
+<td>Last tweet date</td>
+<td>2017-06-19 10:03:56-04</td>
+</tr>
+<tr>
+<td>Number of tweets</td>
+<td>835243</td>
+</tr>
+<tr>
+<td>Number of tweets with geotag</td>
+<td>623</td>
+</tr>
+<tr>
+<td>Number of tweets with URL</td>
+<td>461837</td>
+</tr>
+<tr>
+<td>Number of retweets</td>
+<td>284826</td>
+</tr>
+<tr>
+<td>Number of tweeters</td>
+<td>2293</td>
+</tr>
+<tr>
+<td>Number of verified tweeters</td>
+<td>1215</td>
+</tr>
+<tr>
+<td>Number of news agency tweeters</td>
+<td>52</td>
+</tr>
+<tr>
+<td>Number of mentions</td>
+<td>147647</td>
+</tr>
+<tr>
+<td>Number of distinct hashtags</td>
+<td>21632</td>
+</tr>
+<tr>
+<td>Number of distinct hashtags used more than once</td>
+<td>14716</td>
+</tr>
+<tr>
+<td>Number of distinct words</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Number of distinct words used more than once</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Number of distinct locations</td>
+<td>383</td>
+</tr>
+</table>
+<p>The following links give more detailed statistics by category.</p>
+<p><a href="Twitter_tweet-statistics.html">Tweet Statistics</a></p>
+<p><a href="Twitter_all-tweeter-statistics.html">All Tweeters Statistics</a></p>
+<p><a href="Twitter_verified-tweeter-statistics.html">Verified Tweeter Statistics</a></p>
+<p><a href="Twitter_news-agency-tweeter-statistics.html">News Agency Tweeter Statistics</a></p>
+</blockquote>
+<h2>Available Analyses</h2>
+<blockquote>
+<p>Click on an analysis below for detailed results.</p>
+<p><a href="Twitter_tweeter-analysis-key-influencer-super-spreader.html">Analysis of Tweeters - Super Spreaders</a></p>
+<p><a href="Twitter_tweeter-analysis-key-influencer-super-friend.html">Analysis of Tweeters - Super Friends</a></p>
+<p><a href="Twitter_tweeter-analysis-key-influencer.html">Analysis of Tweeters - Other Influencers</a></p>
+<p><a href="Twitter_tweeter-analysis-attributes.html">Analysis of Tweeters - Attributes</a></p>
+<p><a href="Twitter_hashtag-analysis.html">Analysis of Hashtags</a></p>
+<p><a href="Twitter_word-analysis.html">Analysis of Words</a></p>
+<p><a href="Twitter_location-analysis.html">Analysis of Locations</a></p>
+<p><a href="Twitter_tweet-analysis.html">Analysis of Tweets</a></p>
+<p><a href="Twitter_tweet-analysis-attributes.html">Analysis of Tweets - Attributes</a></p>
+</blockquote>
+<h2>Research Notes</h2>
+<blockquote>
+<p>Paths in re-tweet networks tend to be small and hierarchical which makes many traditional social network measures empirically uninteresting.</p>
+<p>Closeness is not calculated for twitter data because: a) most nodes are not reachable, and b) it is expensive to calculate given the size of the data.</p>
+<p>Traditional betweenness is not calculated because: a) given the length of chains, most nodes have only a small value and it does not discriminate among nodes, and b) it is expensive to calculate given the size of the data.</p>
+<p>Eigenvector centrality is not calculated because: a) there are rarely cases of mutual retweeting and so dense interconnected networks that would lead to high values, and b) it is expensive to calculate given the size of the data.</p>
+<p>Verified actors have a plus(+) appended to their name. News sources have an asterisk(*) appended to their name.</p>
+</blockquote>
+</blockquote>
+<p>Produced by ORA-NetScenes, a joint product of the CASOS center at Carnegie Mellon University and Netanomics</p>
