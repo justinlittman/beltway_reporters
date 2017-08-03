@@ -81,44 +81,47 @@ def load_seed_list_dict(filepath):
 
 def seed_iter(seed_file_map):
     for filepath, type in seed_file_map.items():
-        with open(filepath) as file:
+        logging.info('Loading lookups from %s', filepath)
+        with open(filepath, encoding='utf-8' if 'coded_' in filepath else 'utf-8-sig') as file:
             for line in file:
-                screen_name, user_id = line.split(',')
-                yield {'screen_name': screen_name, 'user_id': user_id[:-1], 'type': type}
+                if not line.startswith('Token,Uid,Link'):
+                    line_split = line[:-1].split(',')
+                    yield {'screen_name': line_split[0], 'user_id': line_split[1], 'type': type}
+
 
 def load_user_type_lookup_df():
     seed_file_map = {
-        'lookups/senate_press_lookup.csv': 'journalists',
-        'lookups/periodical_press_lookup.csv': 'journalists',
-        'lookups/radio_and_television_lookup.csv': 'journalists',
-        'lookups/administration_officials_lookup.csv': 'politicians',
-        'lookups/press_galleries_lookup.csv': 'media',
-        'lookups/news_outlets_lookup.csv': 'media',
-        'lookups/cabinet_lookup.csv': 'politicians',
-        'lookups/representatives_lookup.csv': 'politicians',
-        'lookups/senators_lookup.csv': 'politicians',
-        'lookups/federal_agencies_lookup.csv': 'government',
-        'lookups/coded_academic_institution_lookup.csv': 'academic',
-        'lookups/coded_academic_lookup.csv': 'academic',
-        'lookups/coded_business_person_lookup.csv': 'business',
-        'lookups/coded_company_lookup.csv': 'business',
-        'lookups/coded_entertainment_lookup.csv': 'cultural',
-        'lookups/coded_foreign_government_lookup.csv': 'foreign_political',
-        'lookups/coded_foreign_politician_lookup.csv': 'foreign_political',
-        'lookups/coded_gov_official_lookup.csv': 'government',
-        'lookups/coded_government_lookup.csv': 'government',
-        'lookups/coded_media_lookup.csv': 'media',
-        'lookups/coded_ngo_lookup.csv': 'ngo',
-        'lookups/coded_ngo_staff_lookup.csv': 'ngo',
-        'lookups/coded_non-federal_government_lookup.csv': 'government',
-        'lookups/coded_other_lookup.csv': 'other',
-        'lookups/coded_political_org_lookup.csv': 'other_political',
-        'lookups/coded_political_staff_lookup.csv': 'other_political',
-        'lookups/coded_politician_lookup.csv': 'politicians',
-        'lookups/coded_public_figure_lookup.csv': 'cultural',
-        'lookups/coded_pundit_lookup.csv': 'pundit',
-        'lookups/coded_reporter_lookup.csv': 'journalists',
-        'lookups/coded_sports_lookup.csv': 'cultural'
+        'lookups/senate_press_lookup.csv': 'beltway_journalists',
+        'lookups/periodical_press_lookup.csv': 'beltway_journalists',
+        'lookups/radio_and_television_lookup.csv': 'beltway_journalists',
+        # 'lookups/administration_officials_lookup.csv': 'politicians',
+        # 'lookups/press_galleries_lookup.csv': 'media',
+        # 'lookups/news_outlets_lookup.csv': 'media',
+        # 'lookups/cabinet_lookup.csv': 'politicians',
+        # 'lookups/representatives_lookup.csv': 'politicians',
+        # 'lookups/senators_lookup.csv': 'politicians',
+        # 'lookups/federal_agencies_lookup.csv': 'government',
+        # 'lookups/coded_academic_institution_lookup.csv': 'academic',
+        # 'lookups/coded_academic_lookup.csv': 'academic',
+        # 'lookups/coded_business_person_lookup.csv': 'business',
+        # 'lookups/coded_company_lookup.csv': 'business',
+        # 'lookups/coded_entertainment_lookup.csv': 'cultural',
+        # 'lookups/coded_foreign_government_lookup.csv': 'foreign_political',
+        # 'lookups/coded_foreign_politician_lookup.csv': 'foreign_political',
+        # 'lookups/coded_gov_official_lookup.csv': 'government',
+        # 'lookups/coded_government_lookup.csv': 'government',
+        # 'lookups/coded_media_lookup.csv': 'media',
+        # 'lookups/coded_ngo_lookup.csv': 'ngo',
+        # 'lookups/coded_ngo_staff_lookup.csv': 'ngo',
+        # 'lookups/coded_non-federal_government_lookup.csv': 'government',
+        # 'lookups/coded_other_lookup.csv': 'other',
+        # 'lookups/coded_political_org_lookup.csv': 'other_political',
+        # 'lookups/coded_political_staff_lookup.csv': 'other_political',
+        # 'lookups/coded_politician_lookup.csv': 'politicians',
+        # 'lookups/coded_public_figure_lookup.csv': 'cultural',
+        # 'lookups/coded_pundit_lookup.csv': 'pundit',
+        # 'lookups/coded_reporter_lookup.csv': 'journalists',
+        # 'lookups/coded_sports_lookup.csv': 'cultural'
     }
     df = pd.DataFrame(seed_iter(seed_file_map))
     df['screen_name_lower'] = df.screen_name.apply(str.lower)

@@ -36,7 +36,7 @@ def write_csv(user_map):
 
 def clean_cell(cell):
     if cell and cell != '-':
-        return cell
+        return cell.strip()
     return None
 
 
