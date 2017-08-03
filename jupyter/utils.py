@@ -35,7 +35,7 @@ def tweet_load_iter(limit=None, tweet_transform_func=None, limit_user_ids=None):
                     return
 
 
-def load_tweet_df(tweet_transform_func, columns, limit=None, dedupe=True, limit_by_user_ids=True):
+def load_tweet_df(tweet_transform_func, columns, limit=None, dedupe_columns=None, limit_by_user_ids=True):
     limit_user_ids = None
     if limit_by_user_ids:
         limit_user_ids = set()
@@ -48,8 +48,8 @@ def load_tweet_df(tweet_transform_func, columns, limit=None, dedupe=True, limit_
     tweet_df = pd.DataFrame(
         tweet_load_iter(tweet_transform_func=tweet_transform_func, limit=limit, limit_user_ids=limit_user_ids),
         columns=columns)
-    if dedupe:
-        tweet_df.drop_duplicates(['tweet_id'], keep='last', inplace=True)
+    if dedupe_columns:
+        tweet_df.drop_duplicates(dedupe_columns, keep='last', inplace=True)
 
     return tweet_df
 
