@@ -1,8 +1,21 @@
-import fileinput
 from twarc import Twarc
 import os
+import csv
 
 t = Twarc()
+
+def load_seed_list(filepath):
+    """
+    For reading user ids from a seed list downloaded from SFM into a dictionary.
+    """
+    user_ids = set()
+    # Encoding handles the BOM
+    with open(filepath, encoding='utf-8-sig') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            # user id to screen name
+            user_ids.add(row['Uid'])
+    return user_ids
 
 
 def get_followings(user_ids):
@@ -38,5 +51,12 @@ def user_id_from_line(line):
 
 
 if __name__ == '__main__':
+    user_ids = set()
+    for lookup_filepath in (
+            'periodical_press_lookup.csv',
+            'senate_press_lookup.csv',
+            'radio_and_television_lookup.csv'):
+        user_ids.update(load_seed_list(lookup_filepath))
+
     # Given one or more files with screen_name,user_id per line.
-    get_followings(user_id_from_line(line) for line in fileinput.input())
+    get_followings(user_ids)
