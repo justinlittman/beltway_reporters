@@ -10,6 +10,7 @@ def load_limit_user_ids():
         limit_user_ids.update(load_seed_list(lookup_filepath))
     return limit_user_ids
 
+
 def load_seed_list(filepath):
     """
     For reading a list of user ids from a seed list downloaded from SFM.
