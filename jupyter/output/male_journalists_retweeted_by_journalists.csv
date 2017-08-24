@@ -240,8 +240,8 @@
 273540698,MKTWgoldstein,"Goldstein, Steven",MarketWatch,Washington Bureau Chief,M,10185,1407,41497,Mon Mar 28 17:54:09 +0000 2011,True,False,449.0,365.0,857.0,226.0,1897.0,61,20
 15993122,dsamuelsohn,"Samuelsohn, Darren Sean",Politico,Senior White House Reporter,M,9759,8563,4286,Tue Aug 26 05:54:38 +0000 2008,True,False,158.0,0.0,3.0,15.0,176.0,60,45
 251983774,juddzeez,"Judd, Donald",CNN,Assignment Editor,M,1974,885,8550,Mon Feb 14 07:08:45 +0000 2011,True,False,222.0,198.0,91.0,63.0,574.0,60,30
-1181134878,FitzFox5DC,"Fitzgerald, Tom",WTTG–Fox Television,Reporter,M,5575,4297,15311,Fri Feb 15 04:57:45 +0000 2013,True,False,111.0,31.0,106.0,66.0,314.0,60,16
 33938700,Jamie_Weinstein,"Weinstein, Jamie",Daily Caller,Podcast Host,M,20730,398,31937,Tue Apr 21 15:34:11 +0000 2009,True,False,160.0,285.0,158.0,141.0,744.0,60,16
+1181134878,FitzFox5DC,"Fitzgerald, Tom",WTTG–Fox Television,Reporter,M,5575,4297,15311,Fri Feb 15 04:57:45 +0000 2013,True,False,111.0,31.0,106.0,66.0,314.0,60,16
 11384102,mattizcoop,"Cooper, Matthew Stanley",Newsweek,Political Editor,M,15659,2679,17909,Thu Dec 20 20:53:28 +0000 2007,True,False,113.0,15.0,56.0,134.0,318.0,59,47
 274294204,willsommer,"Sommer, William F.V.",The Hill,Campaign Editor,M,12261,2016,3941,Wed Mar 30 02:47:48 +0000 2011,True,False,268.0,93.0,467.0,133.0,961.0,59,40
 25702314,EricMGarcia,"Garcia, Eric M.",CQ Roll Call,Reporter,M,3094,3879,44783,Sat Mar 21 17:44:40 +0000 2009,False,False,470.0,1723.0,863.0,528.0,3584.0,59,34
@@ -253,9 +253,9 @@
 807975026,svdate,"Date, Shirish",Huffington Post,White House Correspondent,M,5828,819,13482,Fri Sep 07 01:50:06 +0000 2012,True,False,165.0,146.0,473.0,371.0,1155.0,57,32
 106135104,russellberman,"Berman, Russell",The Atlantic,Senior Assocate Editor,M,7477,1337,5518,Mon Jan 18 16:18:32 +0000 2010,True,False,107.0,6.0,3.0,47.0,163.0,57,30
 269314519,MichaelLaRosaDC,"Larosa, Michael",NBC News,"Producer, Hardball",M,6261,4462,33229,Sun Mar 20 14:35:56 +0000 2011,False,False,481.0,87.0,3.0,574.0,1145.0,57,29
+15365623,benjamin_oc,"O’Connell, Benjamin",C–SPAN,Managing Editor,M,1455,397,26395,Wed Jul 09 13:57:56 +0000 2008,False,False,216.0,107.0,627.0,141.0,1091.0,57,21
 117467779,palbergo,"Albergo, Paul F.",Bloomberg BNA,Bureau Chief,M,1191,492,18083,Thu Feb 25 17:14:47 +0000 2010,True,False,1043.0,3.0,10.0,180.0,1236.0,57,21
 126334018,rking_19,"King, Robert",Washington Examiner,Healthcare Reporter,M,741,392,6193,Thu Mar 25 14:37:18 +0000 2010,False,False,173.0,218.0,120.0,278.0,789.0,57,21
-15365623,benjamin_oc,"O’Connell, Benjamin",C–SPAN,Managing Editor,M,1455,397,26395,Wed Jul 09 13:57:56 +0000 2008,False,False,216.0,107.0,627.0,141.0,1091.0,57,21
 16431311,JohnHendel,"Hendel, John",Communications Daily,Congress Reporter,M,1286,373,10960,Wed Sep 24 06:05:15 +0000 2008,True,False,164.0,89.0,25.0,168.0,446.0,56,12
 175330919,HadiNili,"Nili, Hadi",BBC,"Correspondent, BBC Persian",M,23225,498,18061,Fri Aug 06 09:02:46 +0000 2010,True,False,147.0,189.0,264.0,460.0,1060.0,56,5
 126401831,elwasson,"Wasson, Erik",Bloomberg News,Congress Reporter,M,4489,2411,12372,Thu Mar 25 19:17:44 +0000 2010,True,False,80.0,48.0,10.0,585.0,723.0,55,32
@@ -283,12 +283,12 @@
 31464192,MatthewDalyWDC,"Daly, Matthew",Associated Press,Congressional Reporter,M,9123,3799,7104,Wed Apr 15 17:37:30 +0000 2009,True,False,148.0,13.0,1.0,64.0,226.0,49,25
 95297779,Noahbierman,"Bierman, Noah",Los Angeles Times,White House Reporter,M,6454,1434,8725,Mon Dec 07 22:55:49 +0000 2009,True,False,123.0,35.0,7.0,124.0,289.0,49,20
 177822689,umairfan,"Irfan, Umair",E&E News,Tech Reporter,M,528,750,2584,Fri Aug 13 04:12:37 +0000 2010,False,False,123.0,44.0,75.0,100.0,342.0,49,19
-14924885,thomaswburr,"Burr, Thomas",Salt Lake Tribune,Washington Bureau Chief,M,4256,1260,13387,Tue May 27 20:05:37 +0000 2008,True,False,66.0,58.0,13.0,308.0,445.0,48,37
 16285830,philewing,"Ewing, Philip T.",National Public Radio,National Security Editor,M,9931,581,44276,Sun Sep 14 18:46:07 +0000 2008,True,False,121.0,470.0,232.0,659.0,1482.0,48,37
+14924885,thomaswburr,"Burr, Thomas",Salt Lake Tribune,Washington Bureau Chief,M,4256,1260,13387,Tue May 27 20:05:37 +0000 2008,True,False,66.0,58.0,13.0,308.0,445.0,48,37
 25299244,jamiejmcintyre,"McIntyre, Jamie",Washington Examiner,"Senior Writer, Defense & National Security",M,3032,319,1667,Thu Mar 19 14:05:07 +0000 2009,False,False,218.0,17.0,1.0,17.0,253.0,48,28
 168674628,SangerNYT,"Sanger, David",New York Times,National Security Correspondent,M,50806,1000,2254,Tue Jul 20 14:15:12 +0000 2010,False,False,33.0,49.0,3.0,89.0,174.0,47,35
-485083111,HorsleyScott,"Horsley, Scott",National Public Radio,White House Correspondent,M,17474,78,1066,Mon Feb 06 20:24:38 +0000 2012,True,False,98.0,20.0,20.0,3.0,141.0,47,28
 87063281,michaelcrowley,"Crowley, Michael",Politico,Senior Foreign Affairs Correspondent,M,37999,1260,11518,Mon Nov 02 23:56:19 +0000 2009,True,False,72.0,39.0,21.0,65.0,197.0,47,28
+485083111,HorsleyScott,"Horsley, Scott",National Public Radio,White House Correspondent,M,17474,78,1066,Mon Feb 06 20:24:38 +0000 2012,True,False,98.0,20.0,20.0,3.0,141.0,47,28
 16877032,mattacklandfox5,"Ackland, Matthew",WTTG–Fox Television,Anchor & Reporter,M,7343,1104,15555,Mon Oct 20 23:21:51 +0000 2008,True,False,153.0,43.0,46.0,119.0,361.0,47,24
 92544900,evanperez,"Perez, Evan",CNN,Justice Correspondent,M,18283,1970,21012,Wed Nov 25 15:26:44 +0000 2009,True,False,51.0,75.0,12.0,362.0,500.0,46,33
 13067732,dnewhauser,"Newhauser, Daniel",National Journal,Staff Correspondent,M,7418,2350,12421,Mon Feb 04 21:54:39 +0000 2008,True,False,43.0,16.0,14.0,12.0,85.0,46,31
@@ -296,8 +296,8 @@
 420832039,StephenLosey,"Losey, Stephen",Sightline Media Group,"Senior Writer, Air Force Times",M,2366,757,8241,Fri Nov 25 04:47:36 +0000 2011,True,False,75.0,72.0,180.0,117.0,444.0,46,20
 12134692,MikeMadden,"Madden, Mike R.",Washington Post,"Editor, Post Outlook & Post Everything",M,18304,2485,83055,Fri Jan 11 22:43:03 +0000 2008,True,False,343.0,237.0,458.0,1399.0,2437.0,45,34
 16068266,TPCarney,"Carney, Timothy",Washington Examiner,Commentary Editor,M,40740,1096,61161,Sun Aug 31 17:01:56 +0000 2008,False,False,253.0,150.0,344.0,237.0,984.0,45,28
-247729807,tom_geoghegan,"Geoghegan, Tom",BBC,Editor,M,1206,1835,3467,Sat Feb 05 12:51:22 +0000 2011,False,False,114.0,11.0,3.0,6.0,134.0,45,15
 65349332,GlobeRowland,"Rowland, Christopher",Boston Globe,Washington Bureau Chief,M,2275,1446,7263,Thu Aug 13 12:18:40 +0000 2009,True,False,185.0,76.0,4.0,163.0,428.0,45,15
+247729807,tom_geoghegan,"Geoghegan, Tom",BBC,Editor,M,1206,1835,3467,Sat Feb 05 12:51:22 +0000 2011,False,False,114.0,11.0,3.0,6.0,134.0,45,15
 25819140,DefTechPat,"Tucker, Patrick M.",Defense One,Tech Editor,M,16157,3176,16478,Sun Mar 22 13:49:21 +0000 2009,True,False,259.0,84.0,141.0,211.0,695.0,45,13
 19545932,kampeas,"Kampeas, Ron",Jewish Telegraphic Agency,Washington Bureau Chief,M,6977,1965,53053,Mon Jan 26 17:37:58 +0000 2009,False,False,472.0,444.0,345.0,1988.0,3249.0,45,12
 28496589,TenaciousTopper,"Shutt, Charles",WUSA–TV,Chief Meteorologist,M,15868,295,18391,Fri Apr 03 03:54:40 +0000 2009,True,False,496.0,30.0,6.0,250.0,782.0,45,11
@@ -306,8 +306,8 @@
 59936143,Dimi,"Sevastopulo, Demetri",Financial Times,Washington Bureau Chief,M,41562,8629,14990,Sat Jul 25 00:53:24 +0000 2009,True,False,195.0,25.0,16.0,80.0,316.0,44,10
 458234232,marwanbishara,"Bishara, Marwan",Aljazeera English,Chief Political Analyst,M,17780,362,4420,Sun Jan 08 10:03:04 +0000 2012,True,False,99.0,305.0,3.0,196.0,603.0,44,5
 129879105,MikeEmanuelFox,"Emanuel, Mike",Fox News,Senior Political & Chief Congressional Correspondent,M,31256,1825,15136,Mon Apr 05 17:52:26 +0000 2010,True,False,241.0,119.0,5.0,603.0,968.0,43,29
-164273824,DaveClark_AFP,"Clark, David",Agence France-Presse,Diplomatic Correspondent,M,7816,3063,19763,Thu Jul 08 13:29:28 +0000 2010,True,False,101.0,106.0,249.0,287.0,743.0,43,27
 52521572,MikeGrunwald,"Grunwald, Michael",Politico,Senior Writer,M,33786,511,18207,Tue Jun 30 21:08:41 +0000 2009,True,False,107.0,76.0,66.0,31.0,280.0,43,27
+164273824,DaveClark_AFP,"Clark, David",Agence France-Presse,Diplomatic Correspondent,M,7816,3063,19763,Thu Jul 08 13:29:28 +0000 2010,True,False,101.0,106.0,249.0,287.0,743.0,43,27
 130104942,BBCJonSopel,"Sopel, Jon",BBC,North America Editor,M,76088,632,5270,Tue Apr 06 09:37:41 +0000 2010,True,False,165.0,274.0,103.0,160.0,702.0,43,22
 24730470,davidjlynch,"Lynch, David",Financial Times,Washington Correspondent,M,3022,1517,12348,Mon Mar 16 17:29:19 +0000 2009,False,False,136.0,232.0,24.0,920.0,1312.0,43,12
 140144781,harry_horton,"Horton, Harry",Feature Story News,Correspondent,M,2845,2387,25335,Tue May 04 18:24:25 +0000 2010,True,False,143.0,116.0,49.0,200.0,508.0,43,8
@@ -349,13 +349,13 @@
 241682176,Zachary_Cohen,"Cohen, Zachary C.",The Hotline,Governors Reporter,M,2843,3125,25529,Sat Jan 22 21:52:06 +0000 2011,True,False,124.0,62.0,87.0,230.0,503.0,34,15
 28366439,SpyTalker,"Stein, Jeffrey H.",Newsweek,National Security Correspondent,M,23234,4371,22329,Thu Apr 02 16:18:49 +0000 2009,True,False,439.0,165.0,52.0,352.0,1008.0,34,14
 30977516,JasonCalvi,"Calvi, Jason",EWTN,Capitol Hill Correspondent,M,1447,526,3923,Mon Apr 13 22:28:41 +0000 2009,False,False,181.0,37.0,145.0,38.0,401.0,34,6
-120233868,MarkLandler,"Landler, Mark",New York Times,White House Correspondent,M,21006,585,1974,Fri Mar 05 21:47:32 +0000 2010,True,False,39.0,1.0,0.0,1.0,41.0,33,30
 59676104,danbalz,"Balz, Daniel",Washington Post,Political Reporter,M,90819,1461,3185,Fri Jul 24 03:20:14 +0000 2009,True,False,32.0,18.0,0.0,48.0,98.0,33,30
+120233868,MarkLandler,"Landler, Mark",New York Times,White House Correspondent,M,21006,585,1974,Fri Mar 05 21:47:32 +0000 2010,True,False,39.0,1.0,0.0,1.0,41.0,33,30
 2385474493,TerenceHyland,"Hyland, Terence M.",Bloomberg BNA,"Managing Editor, Employment Law News",M,666,1232,2124,Wed Mar 12 16:02:49 +0000 2014,True,False,46.0,1.0,1.0,82.0,130.0,33,13
 21842781,DHBerman,"Berman, Dan",CNN,Digital Enterprise Editor,M,7081,2372,25716,Wed Feb 25 06:25:31 +0000 2009,True,False,182.0,12.0,30.0,201.0,425.0,32,27
 57072084,krisvancleave,"Van Cleave, Kris",CBS News,Transportation Correspondent,M,4751,1340,20461,Wed Jul 15 17:06:08 +0000 2009,True,False,136.0,24.0,101.0,58.0,319.0,32,27
-217530311,jasonjdick,"Dick, Jason J.",CQ Roll Call,Deputy Editor,M,1836,126,3106,Fri Nov 19 19:50:00 +0000 2010,False,False,38.0,23.0,11.0,10.0,82.0,32,17
 23773209,BruceLeshan,"Leshan, Bruce:",WUSA–TV,Reporter,M,6260,3145,9205,Wed Mar 11 14:55:18 +0000 2009,True,False,82.0,14.0,14.0,11.0,121.0,32,17
+217530311,jasonjdick,"Dick, Jason J.",CQ Roll Call,Deputy Editor,M,1836,126,3106,Fri Nov 19 19:50:00 +0000 2010,False,False,38.0,23.0,11.0,10.0,82.0,32,17
 17822855,ajchavar,"Chavar, A.J.",The New York Times On The Web,Video Journalist,M,5213,855,6909,Wed Dec 03 00:02:36 +0000 2008,True,False,241.0,200.0,463.0,544.0,1448.0,32,16
 39564433,ryanjtracy,"Tracy, Ryan",Wall Street Journal / Dow Jones,"Reporter, WSJ Financial Regulation",M,3589,746,4658,Tue May 12 18:43:42 +0000 2009,True,False,42.0,22.0,31.0,62.0,157.0,32,15
 19140465,TomSportsWUSA9,"Hunsicker, Thomas",WUSA–TV,Sports Producer,M,1265,3321,13597,Sun Jan 18 09:17:39 +0000 2009,False,False,230.0,61.0,76.0,239.0,606.0,32,14
@@ -390,14 +390,14 @@
 308233424,politicoroger,"Simon, Roger M.",Politico,Chief Political Columnist,M,45445,1826,23933,Tue May 31 01:57:55 +0000 2011,False,False,138.0,35.0,22.0,10.0,205.0,27,24
 18993104,devindwyer,"Dwyer, Devin",ABC News,"Contributing Correspondent & Coordinating Producer, White House",M,7447,681,4677,Wed Jan 14 20:13:48 +0000 2009,True,False,14.0,0.0,0.0,8.0,22.0,27,20
 605608408,GWMacGillivray,"MacGillivray, Graham",C–SPAN,Associate Producer,M,760,1070,4857,Mon Jun 11 17:43:37 +0000 2012,False,False,98.0,26.0,33.0,74.0,231.0,27,18
-134918286,deantscott,"Scott, Dean T.",Bloomberg BNA,Senior Climate Change Reporter,M,1625,598,1506,Mon Apr 19 20:52:55 +0000 2010,True,False,32.0,7.0,1.0,22.0,62.0,27,16
 98228006,richardjwolf,"Wolf, Richard",USA Today,Court Reporter,M,3603,241,1927,Sun Dec 20 23:19:18 +0000 2009,False,False,62.0,14.0,0.0,2.0,78.0,27,16
+134918286,deantscott,"Scott, Dean T.",Bloomberg BNA,Senior Climate Change Reporter,M,1625,598,1506,Mon Apr 19 20:52:55 +0000 2010,True,False,32.0,7.0,1.0,22.0,62.0,27,16
 16660725,netouhey,"Touhey, Emmanuel",C–SPAN,Web Editor,M,1412,3460,22815,Thu Oct 09 02:25:21 +0000 2008,False,False,277.0,43.0,61.0,1324.0,1705.0,27,15
 72949789,benhulac,"Hulac, Benjamin",E&E News,"Business, Finance & Climate Change Reporter",M,1219,318,6371,Wed Sep 09 21:00:25 +0000 2009,False,False,112.0,23.0,50.0,61.0,246.0,27,15
 18954306,SteveKoff,"Koff, Stephen",Cleveland Plain Dealer,Washington Bureau Chief,M,2096,249,5504,Tue Jan 13 21:29:13 +0000 2009,True,False,233.0,64.0,33.0,92.0,422.0,27,14
 36918479,MikeMurilloWTOP,"Murillo, Mike",WTOP Radio,News Anchor & Reporter,M,1489,1774,4295,Fri May 01 10:20:41 +0000 2009,False,False,96.0,5.0,7.0,5.0,113.0,27,14
-16247719,FrancoOrdonez,"Ordonez, Francisco",McClatchy Newspapers,White House Correspondent,M,3567,1777,4610,Thu Sep 11 21:04:33 +0000 2008,True,False,138.0,11.0,2.0,105.0,256.0,27,13
 1928468941,TonyPerkinsFOX5,"Perkins, Anthony",WTTG–Fox Television,Anchor,M,17402,1434,26475,Wed Oct 02 22:38:38 +0000 2013,True,False,57.0,353.0,249.0,495.0,1154.0,27,13
+16247719,FrancoOrdonez,"Ordonez, Francisco",McClatchy Newspapers,White House Correspondent,M,3567,1777,4610,Thu Sep 11 21:04:33 +0000 2008,True,False,138.0,11.0,2.0,105.0,256.0,27,13
 180633358,swdoody,"Doody, Sean",C–SPAN,Congressional Producer,M,396,494,2198,Fri Aug 20 02:55:13 +0000 2010,False,False,175.0,3.0,2.0,108.0,288.0,27,12
 552204936,rplardner,"Lardner, Richard",Associated Press,Reporter,M,641,359,902,Thu Apr 12 19:51:51 +0000 2012,False,False,88.0,0.0,3.0,78.0,169.0,27,8
 59507002,Stephen_Sawchuk,"Sawchuk, Stephen A.",Education Week,Reporter,M,23762,730,9450,Thu Jul 23 16:07:32 +0000 2009,False,False,119.0,17.0,145.0,134.0,415.0,27,6
@@ -409,8 +409,8 @@
 3739469775,AlexClearfield,"Clearfield, Alexander",CQ Roll Call,"Reporter, CQ Now",M,400,708,5381,Tue Sep 22 14:14:34 +0000 2015,False,False,103.0,135.0,247.0,285.0,770.0,26,14
 21769429,asiddons,"Siddons, Andrew",CQ Roll Call,FDA & Food Safety Reporter,M,879,468,2297,Tue Feb 24 16:41:39 +0000 2009,False,False,22.0,46.0,43.0,102.0,213.0,26,12
 19502995,GeoffRBennett,"Bennett, Geoffrey",Time Warner Cable,Congressional Reporter,M,8867,2206,4072,Sun Jan 25 20:21:13 +0000 2009,False,False,66.0,19.0,9.0,134.0,228.0,26,11
-225163993,ChrisRugaber,"Rugaber, Chris",Associated Press,Employment & Economy Reporter,M,3324,2052,5856,Fri Dec 10 21:31:12 +0000 2010,True,False,42.0,29.0,14.0,177.0,262.0,26,7
 42352386,rschles,"Schlesinger, Robert",U.S. News & World Report,"Managing Editor, Opinion",M,4553,2003,35375,Mon May 25 04:52:44 +0000 2009,True,False,109.0,617.0,89.0,1644.0,2459.0,26,7
+225163993,ChrisRugaber,"Rugaber, Chris",Associated Press,Employment & Economy Reporter,M,3324,2052,5856,Fri Dec 10 21:31:12 +0000 2010,True,False,42.0,29.0,14.0,177.0,262.0,26,7
 219189088,Mike_Eckel,"Eckel, Michael",Voice of America,Reporter,M,713,764,3252,Wed Nov 24 04:57:49 +0000 2010,False,False,179.0,72.0,125.0,44.0,420.0,26,1
 47408060,JonathanLanday,"Landay, Jonathan",McClatchy Newspapers,National Security Correspondent,M,11213,1117,81042,Mon Jun 15 18:42:47 +0000 2009,True,False,428.0,80.0,90.0,3687.0,4285.0,25,24
 20813112,dlippman,"Lippman, Daniel",Politico,Reporter,M,12201,11859,2452,Fri Feb 13 22:25:42 +0000 2009,True,False,142.0,0.0,1.0,79.0,222.0,25,22
@@ -427,8 +427,8 @@
 16073416,zcolman,"Colman, Zachary",Christian Science Monitor,Energy & Environment Reporter,M,4883,1572,16324,Mon Sep 01 00:54:46 +0000 2008,True,False,92.0,29.0,16.0,130.0,267.0,24,15
 17289717,byersalex,"Byers, Alex",Politico,Tech Policy Reporter,M,5857,2724,19219,Mon Nov 10 16:42:46 +0000 2008,True,False,91.0,69.0,31.0,115.0,306.0,24,14
 206255858,tvandenbrook,"Vanden Brook, Tom",USA Today,Pentagon Correspondent,M,2116,910,2921,Fri Oct 22 15:53:25 +0000 2010,True,False,36.0,27.0,13.0,74.0,150.0,24,12
-370763752,Scott_McCrary,"McCrary, Scott",WUSA–TV,Senior Producer,M,1666,1324,11536,Fri Sep 09 15:54:36 +0000 2011,False,False,66.0,115.0,117.0,43.0,341.0,24,10
 8083262,jeremybowers,"Bowers, Jeremy",New York Times,"Senior Editor, News Applications",M,9975,3142,58033,Thu Aug 09 16:00:54 +0000 2007,True,False,223.0,265.0,666.0,244.0,1398.0,24,10
+370763752,Scott_McCrary,"McCrary, Scott",WUSA–TV,Senior Producer,M,1666,1324,11536,Fri Sep 09 15:54:36 +0000 2011,False,False,66.0,115.0,117.0,43.0,341.0,24,10
 245905047,PrivateAplin,"Aplin, Donald G.",Bloomberg BNA,"Managing Editor, Privacy & Data",M,636,716,2387,Tue Feb 01 18:26:47 +0000 2011,False,False,16.0,1.0,2.0,161.0,180.0,24,7
 22189918,ArdenFarhi,"Farhi, Arden",CBS News,White House Producer,M,3124,969,1948,Fri Feb 27 21:03:25 +0000 2009,True,False,25.0,1.0,0.0,12.0,38.0,23,21
 15731368,HowardKurtz,"Kurtz, Howard",Fox News,"Host, Media Buzz",M,172634,219,19168,Tue Aug 05 02:49:06 +0000 2008,True,False,274.0,6.0,10.0,7.0,297.0,23,20
@@ -446,9 +446,9 @@
 54891614,brucejohnson9,"Johnson, Bruce",WUSA–TV,Anchor & Reporter,M,24820,10847,17317,Wed Jul 08 13:17:34 +0000 2009,True,False,400.0,73.0,15.0,175.0,663.0,22,15
 88215673,mjs_DC,"Stern, Mark Joseph",Slate,"Writer, Law & LGBT Issues",M,16887,3757,19009,Sat Nov 07 16:18:03 +0000 2009,True,False,123.0,160.0,304.0,779.0,1366.0,22,13
 93082722,briandabbs,"Dabbs, Brian",Bloomberg BNA,Energy Reporter,M,455,413,2068,Sat Nov 28 00:32:04 +0000 2009,False,False,136.0,19.0,10.0,28.0,193.0,22,13
-1055956286,mtill50,"Till, Morgan",PBS NewsHour,Senior Producer,M,2004,2395,28284,Wed Jan 02 19:52:09 +0000 2013,True,False,167.0,103.0,86.0,363.0,719.0,22,12
-17115027,scottbroom,"Broom, Scott",WUSA–TV,Prince George's County Bureau Chief,M,2798,681,4222,Sun Nov 02 14:46:52 +0000 2008,True,False,141.0,17.0,4.0,82.0,244.0,22,12
 27710985,David_Pittman,"Pittman, David",Politico,"eHealth Reporter, Politico Pro",M,5344,1063,9450,Mon Mar 30 19:39:12 +0000 2009,True,False,20.0,23.0,8.0,13.0,64.0,22,12
+17115027,scottbroom,"Broom, Scott",WUSA–TV,Prince George's County Bureau Chief,M,2798,681,4222,Sun Nov 02 14:46:52 +0000 2008,True,False,141.0,17.0,4.0,82.0,244.0,22,12
+1055956286,mtill50,"Till, Morgan",PBS NewsHour,Senior Producer,M,2004,2395,28284,Wed Jan 02 19:52:09 +0000 2013,True,False,167.0,103.0,86.0,363.0,719.0,22,12
 12988312,hamrickisms,"Hamrick, Mark",Bankrate,Senior Economic Analyst & Washington Bureau Chief,M,5510,6008,27839,Sat Feb 02 19:36:45 +0000 2008,True,False,184.0,321.0,0.0,289.0,794.0,22,11
 48937174,barnardfox5dc,"Barnard, Bob",WTTG–Fox Television,Reporter,M,3023,1978,2734,Sat Jun 20 05:33:57 +0000 2009,True,False,44.0,0.0,11.0,3.0,58.0,22,11
 224711189,IanMcKendry13,"McKendry, Ian",American Banker,Reporter,M,618,646,1519,Thu Dec 09 17:41:09 +0000 2010,False,False,86.0,9.0,3.0,36.0,134.0,22,10
@@ -461,16 +461,16 @@
 53739928,davidbschultz,"Schultz, David B.",Bloomberg BNA,Environmental Policy Reporter,M,1633,1690,8856,Sat Jul 04 19:20:28 +0000 2009,True,False,21.0,4.0,31.0,74.0,130.0,21,7
 19608273,Milbank,"Milbank, Dana",Washington Post,Columnist,M,71589,663,3175,Tue Jan 27 18:55:18 +0000 2009,True,False,92.0,6.0,11.0,15.0,124.0,20,19
 568565386,Jason_Plautz,"Plautz, Jason",National Journal,Reporter,M,2387,1133,2294,Tue May 01 21:45:08 +0000 2012,True,False,14.0,2.0,5.0,3.0,24.0,20,16
-479886158,dcraiggordon,"Gordon, D. Craig",Bloomberg News,"Executive Editor, Washington",M,1503,641,1445,Tue Jan 31 21:52:02 +0000 2012,False,False,46.0,4.0,1.0,3.0,54.0,20,15
 81168795,CorbinHiar,"Hiar, Corbin W.",E&E News,Natural Resources Reporter,M,3744,1911,25007,Fri Oct 09 18:15:29 +0000 2009,True,False,47.0,11.0,8.0,56.0,122.0,20,15
+479886158,dcraiggordon,"Gordon, D. Craig",Bloomberg News,"Executive Editor, Washington",M,1503,641,1445,Tue Jan 31 21:52:02 +0000 2012,False,False,46.0,4.0,1.0,3.0,54.0,20,15
 242893326,cflav,"Flavelle, Christopher",Bloomberg News,Cimate & Adaptation Policy Reporter,M,4366,2357,12472,Tue Jan 25 20:59:10 +0000 2011,True,False,123.0,19.0,23.0,201.0,366.0,20,14
 365694250,jessebyrnes,"Byrnes, Jesse",The Hill,Associate Editor,M,2467,999,14592,Wed Aug 31 21:30:39 +0000 2011,True,False,155.0,39.0,9.0,45.0,248.0,20,14
 15824967,HerbNJDC,"Jackson, Herbert","Record (Bergen County, NJ)",Washington Correspondent,M,4046,990,7414,Tue Aug 12 17:11:08 +0000 2008,False,False,140.0,9.0,42.0,75.0,266.0,20,13
 455824116,SweeneyABC,"Sweeney, Sam",WJLA–TV / Newschannel 8,Good Morning Washington Reporter,M,2085,447,989,Thu Jan 05 15:15:49 +0000 2012,True,False,52.0,6.0,12.0,14.0,84.0,20,13
-18029328,SecretsBedard,"Bedard, Paul",Washington Examiner,Washington Secrets Writer,M,13871,4443,22824,Wed Dec 10 20:24:36 +0000 2008,True,False,515.0,63.0,16.0,217.0,811.0,20,10
-280299519,Joseph_Marks_,"Marks, Joseph H.",Government Executive,"Cybersecurity Reporter, Nextgov",M,2916,1065,9306,Mon Apr 11 02:07:22 +0000 2011,True,False,133.0,36.0,54.0,90.0,313.0,20,10
 48029066,JamesRosenTV,"Rosen, James",Fox News,chief washington correspondent,M,179188,52196,24296,Wed Jun 17 16:58:41 +0000 2009,True,False,157.0,0.0,159.0,78.0,394.0,20,10
+18029328,SecretsBedard,"Bedard, Paul",Washington Examiner,Washington Secrets Writer,M,13871,4443,22824,Wed Dec 10 20:24:36 +0000 2008,True,False,515.0,63.0,16.0,217.0,811.0,20,10
 9484732,amacker,"Ackerman, Andrew",Wall Street Journal / Dow Jones,Financial Regulatory Policy Reporter,M,4961,1473,15421,Tue Oct 16 19:44:30 +0000 2007,True,False,122.0,20.0,46.0,133.0,321.0,20,10
+280299519,Joseph_Marks_,"Marks, Joseph H.",Government Executive,"Cybersecurity Reporter, Nextgov",M,2916,1065,9306,Mon Apr 11 02:07:22 +0000 2011,True,False,133.0,36.0,54.0,90.0,313.0,20,10
 325615084,SeanatGreenwire,"Reilly, Sean",E&E News,Air Quality Reporter,M,1523,1473,4473,Tue Jun 28 15:52:05 +0000 2011,False,False,68.0,8.0,5.0,172.0,253.0,20,9
 175384910,mikehydeck,"Hydeck, Michael",WUSA–TV,Morning Anchor & Reporter,M,3710,3316,6433,Fri Aug 06 13:16:48 +0000 2010,True,False,97.0,47.0,84.0,71.0,299.0,20,7
 783887263,jason_donner,"Donner, Jason",Fox News,Producer,M,800,830,2423,Mon Aug 27 05:26:27 +0000 2012,True,False,261.0,26.0,9.0,127.0,423.0,20,7
@@ -481,8 +481,8 @@
 300552750,B_resnick,"Resnick, Brian",Vox Media,Science Reporter,M,3959,1796,11846,Tue May 17 23:35:30 +0000 2011,True,False,133.0,58.0,107.0,87.0,385.0,19,7
 118188665,mikeviqueira,"Viqueira, Mike",Aljazeera America,Former White House Correspondent,M,8229,831,6036,Sat Feb 27 21:53:55 +0000 2010,False,False,30.0,43.0,123.0,27.0,223.0,19,6
 341118458,EricSchmittNYT,"Schmitt, Eric",New York Times,"Senior Writer, Terrorism & National Security",M,20661,565,749,Sat Jul 23 20:53:07 +0000 2011,False,False,27.0,0.0,0.0,30.0,57.0,18,13
-126411852,alisterbull1,"Bull, Alister",Bloomberg News,Federal Reserve Editor,M,2344,1163,6990,Thu Mar 25 20:00:14 +0000 2010,True,False,93.0,0.0,2.0,186.0,281.0,18,12
 18097821,PrestonCNN,"Preston, Mark",CNN,Executive Editor,M,46077,1533,8769,Sat Dec 13 12:52:32 +0000 2008,True,False,23.0,105.0,4.0,83.0,215.0,18,12
+126411852,alisterbull1,"Bull, Alister",Bloomberg News,Federal Reserve Editor,M,2344,1163,6990,Thu Mar 25 20:00:14 +0000 2010,True,False,93.0,0.0,2.0,186.0,281.0,18,12
 24464743,AndrewNBCNews,"Rafferty, Andrew",NBC News,Political Reporter,M,14603,2141,8422,Sun Mar 15 01:24:12 +0000 2009,True,False,69.0,22.0,4.0,22.0,117.0,18,9
 1633828237,BrianJScheid,"Scheid, Brian J.",S&P Global Platts,Crude Oil Policy Reporter,M,2714,615,2999,Tue Jul 30 20:52:42 +0000 2013,False,False,75.0,5.0,26.0,121.0,227.0,18,8
 19052248,jmillerWFED,"Miller, Jason",Federal News Radio 1500 AM,Executive Editor,M,5633,176,16465,Fri Jan 16 03:09:45 +0000 2009,False,False,128.0,28.0,10.0,106.0,272.0,18,6
@@ -499,9 +499,9 @@
 132482136,Yaro_RT,"Yaroshevsky, Alexey",RTTV America,Reporter,M,12968,407,26795,Tue Apr 13 10:43:03 +0000 2010,True,False,121.0,133.0,910.0,35.0,1199.0,17,4
 113039126,matthadro,"Hadro, Matt",Crux: Catholic News Agency,DC Correspondent for @cnalive,M,1885,525,7493,Wed Feb 10 14:10:35 +0000 2010,False,False,32.0,43.0,52.0,55.0,182.0,17,1
 232235048,PostBaron,"Baron, Martin",Washington Post,Executive Editor,M,53200,541,2120,Thu Dec 30 16:09:00 +0000 2010,True,False,6.0,0.0,0.0,0.0,6.0,16,16
+47960267,AllMattNYT,"Rosenberg, Matthew",New York Times,National Security & Intelligence Reporter,M,30356,1156,4719,Wed Jun 17 13:31:47 +0000 2009,True,False,25.0,12.0,2.0,69.0,108.0,16,13
 114881944,gzornick,"Zornick, George",Nation,Washington Editor,M,9491,1570,21142,Tue Feb 16 22:36:08 +0000 2010,True,False,94.0,77.0,113.0,182.0,466.0,16,13
 46713710,bscanlanCSPAN,"Scanlan, William",C–SPAN,Producer & Host,M,867,897,6926,Fri Jun 12 18:27:18 +0000 2009,False,False,134.0,43.0,27.0,36.0,240.0,16,13
-47960267,AllMattNYT,"Rosenberg, Matthew",New York Times,National Security & Intelligence Reporter,M,30356,1156,4719,Wed Jun 17 13:31:47 +0000 2009,True,False,25.0,12.0,2.0,69.0,108.0,16,13
 41312893,ABC7Kevin,"Lewis, Kevin",WJLA–TV / Newschannel 8,News Reporter,M,2882,643,4742,Wed May 20 06:57:34 +0000 2009,True,False,133.0,1.0,21.0,35.0,190.0,16,10
 2176318914,AaronELorenzo,"Lorenzo, Aaron E.",Politico,Tax Reporter,M,689,1090,490,Tue Nov 05 15:43:50 +0000 2013,False,False,4.0,11.0,22.0,9.0,46.0,16,9
 26021583,sshoptaw,"Kussin-Shoptaw, Samuel",Bloomberg Government,Government Affairs Data Team Lead,M,635,1392,5866,Mon Mar 23 15:28:29 +0000 2009,True,False,50.0,35.0,25.0,62.0,172.0,16,6
@@ -510,469 +510,469 @@
 165998897,JonEasley,"Easley, Jonathan C.",The Hill,Campaigns Reporter,M,4118,2368,9830,Tue Jul 13 02:21:29 +0000 2010,True,False,40.0,4.0,7.0,41.0,92.0,15,13
 31447311,dariusss,"Dixon, Darius Ajani",Politico,Energy Reporter,M,2987,1036,3408,Wed Apr 15 16:28:37 +0000 2009,True,False,25.0,35.0,19.0,52.0,131.0,15,12
 15936246,philgalewitz,"Galewitz, Phil",Kaiser Health News,Senior Correspondent,M,7573,1155,6303,Thu Aug 21 20:12:37 +0000 2008,False,False,162.0,23.0,0.0,203.0,388.0,15,10
-493581364,Pat_Host,"Host, Patrick",Defense Daily,Reporter,M,1055,839,1907,Wed Feb 15 23:25:40 +0000 2012,False,False,192.0,80.0,462.0,26.0,760.0,15,10
 53474981,charlienbc,"Bragale, Charles",WRC–TV / NBC–4,News Assignment Manager,M,2560,1254,4867,Fri Jul 03 19:29:02 +0000 2009,False,False,42.0,0.0,1.0,24.0,67.0,15,10
+493581364,Pat_Host,"Host, Patrick",Defense Daily,Reporter,M,1055,839,1907,Wed Feb 15 23:25:40 +0000 2012,False,False,192.0,80.0,462.0,26.0,760.0,15,10
 55874399,dariustahir,"Tahir, Darius A.",Politico,"eHealth Reporter, Politico Pro",M,2124,528,19949,Sat Jul 11 17:01:55 +0000 2009,False,False,55.0,23.0,350.0,42.0,470.0,15,9
 135162675,AleemMaqbool,"Maqbool, Aleem",BBC,North America Correspondent,M,30280,1695,6136,Tue Apr 20 14:18:50 +0000 2010,True,False,56.0,40.0,8.0,95.0,199.0,15,8
 827605131109793792,OSHAReporter,"Rolfsen, Bruce R.",Bloomberg BNA,OSHA Reporter,M,221,500,334,Fri Feb 03 19:50:14 +0000 2017,False,False,98.0,0.0,0.0,1.0,99.0,15,8
-10877082,iduncan,"Duncan, Ian",Baltimore Sun,Maryland General Assembly Reporter,M,5321,1094,12189,Wed Dec 05 17:32:37 +0000 2007,True,False,136.0,29.0,77.0,48.0,290.0,15,7
-15887713,davidamichaels,"Michaels, David",Wall Street Journal / Dow Jones,Financial Regulation Reporter,M,2736,1218,3894,Mon Aug 18 02:41:42 +0000 2008,False,False,65.0,4.0,28.0,13.0,110.0,15,7
-20760831,jeffsparshott,"Sparshott, Jeffrey",Wall Street Journal / Dow Jones,Reporter,M,4142,1079,6848,Fri Feb 13 10:17:09 +0000 2009,True,False,68.0,9.0,23.0,93.0,193.0,15,7
-373743799,Rubinations,"Rubin, Gabe",Wall Street Journal,Multimedia Producer,M,889,748,2894,Thu Sep 15 03:48:50 +0000 2011,True,False,42.0,27.0,39.0,87.0,195.0,15,7
 568311929,CNNFieldSuper,"Janney, Oliver",CNN,Senior Field Production Supervisor,M,7792,3028,4236,Tue May 01 15:48:36 +0000 2012,True,False,78.0,0.0,2.0,58.0,138.0,15,7
+10877082,iduncan,"Duncan, Ian",Baltimore Sun,Maryland General Assembly Reporter,M,5321,1094,12189,Wed Dec 05 17:32:37 +0000 2007,True,False,136.0,29.0,77.0,48.0,290.0,15,7
+20760831,jeffsparshott,"Sparshott, Jeffrey",Wall Street Journal / Dow Jones,Reporter,M,4142,1079,6848,Fri Feb 13 10:17:09 +0000 2009,True,False,68.0,9.0,23.0,93.0,193.0,15,7
+15887713,davidamichaels,"Michaels, David",Wall Street Journal / Dow Jones,Financial Regulation Reporter,M,2736,1218,3894,Mon Aug 18 02:41:42 +0000 2008,False,False,65.0,4.0,28.0,13.0,110.0,15,7
+373743799,Rubinations,"Rubin, Gabe",Wall Street Journal,Multimedia Producer,M,889,748,2894,Thu Sep 15 03:48:50 +0000 2011,True,False,42.0,27.0,39.0,87.0,195.0,15,7
+168738167,abc7jeffg,"Goldberg, Jeff",WJLA–TV / Newschannel 8,Virginia Reporter,M,3497,405,12316,Tue Jul 20 17:22:10 +0000 2010,False,False,170.0,10.0,6.0,3.0,189.0,15,6
 1247573930,WM_BBC,"McKenna, William",BBC,Producer & Editor,M,3292,2239,6469,Thu Mar 07 00:35:24 +0000 2013,False,False,192.0,47.0,58.0,301.0,598.0,15,6
 15821824,BDOH,"Doherty, Brian",Fox News,Producer,M,1865,1909,23762,Tue Aug 12 12:58:19 +0000 2008,False,False,301.0,371.0,277.0,1343.0,2292.0,15,6
-168738167,abc7jeffg,"Goldberg, Jeff",WJLA–TV / Newschannel 8,Virginia Reporter,M,3497,405,12316,Tue Jul 20 17:22:10 +0000 2010,False,False,170.0,10.0,6.0,3.0,189.0,15,6
 385045862,JackTorry1,"Torry, Jack",Columbus Dispatch,D.C. Bureau Chief,M,1636,2346,3707,Tue Oct 04 19:38:17 +0000 2011,False,False,128.0,1.0,1.0,26.0,156.0,15,6
 47767146,jesseahamilton,"Hamilton, Jesse",Bloomberg News,Financial Regulation Reporter,M,1577,547,2906,Tue Jun 16 23:05:41 +0000 2009,True,False,27.0,0.0,1.0,57.0,85.0,15,5
-15606793,jordanjfrasier,"Frasier, Jordan",NBC News,"Producer / Digital Reporter, Meet the Press",M,3529,889,9310,Sat Jul 26 02:34:53 +0000 2008,False,False,42.0,26.0,6.0,50.0,124.0,14,13
-16713948,jackgillum,"Gillum, Jack",Associated Press,Washington Investigative Reporter,M,5824,1025,9778,Mon Oct 13 00:21:16 +0000 2008,True,False,13.0,2.0,34.0,46.0,95.0,14,13
 18810140,darrensands,"Sands, Darren",BuzzFeed,Political Reporter,M,7905,2463,27942,Fri Jan 09 18:40:36 +0000 2009,True,False,93.0,110.0,145.0,291.0,639.0,14,13
+16713948,jackgillum,"Gillum, Jack",Associated Press,Washington Investigative Reporter,M,5824,1025,9778,Mon Oct 13 00:21:16 +0000 2008,True,False,13.0,2.0,34.0,46.0,95.0,14,13
+15606793,jordanjfrasier,"Frasier, Jordan",NBC News,"Producer / Digital Reporter, Meet the Press",M,3529,889,9310,Sat Jul 26 02:34:53 +0000 2008,False,False,42.0,26.0,6.0,50.0,124.0,14,13
 872421781,EricM_Katz,"Katz, Eric",Government Executive,Senior Correspondent,M,2140,373,2898,Wed Oct 10 20:00:25 +0000 2012,True,False,38.0,19.0,15.0,4.0,76.0,14,9
 16097702,ChrisStirewalt,"Stirewalt, Chris",Fox News,"politics editor, fox news channel",M,67843,2041,7862,Tue Sep 02 15:04:20 +0000 2008,True,False,64.0,66.0,93.0,25.0,248.0,14,8
 14075981,gelles,"Gelles, David",CNN,"Executive Producer, CNN Political Programming",M,2357,1241,6387,Tue Mar 04 02:59:12 +0000 2008,True,False,169.0,21.0,5.0,235.0,430.0,14,7
 195550861,smeghaniAP,"Meghani, Sagar",AP–Broadcast,Washington Corresponden,M,660,750,984,Mon Sep 27 00:28:20 +0000 2010,False,False,48.0,2.0,15.0,55.0,120.0,14,7
 15906481,TPM_dk,"Kurtz, David",Talking Points Memo,Managing Editor,M,7106,856,16677,Tue Aug 19 17:03:12 +0000 2008,True,False,82.0,31.0,9.0,147.0,269.0,14,6
-184143817,theodoricmeyer,"Meyer, Theodoric",Politico,Lobbying Reporter,M,2312,282,3648,Sat Aug 28 20:18:13 +0000 2010,True,False,17.0,0.0,22.0,17.0,56.0,13,12
 61879600,herszenhorn,"Herszenhorn, David",Politico,Chief Brussels Correspondent,M,11777,667,3503,Fri Jul 31 21:29:05 +0000 2009,True,False,209.0,15.0,14.0,30.0,268.0,13,12
+184143817,theodoricmeyer,"Meyer, Theodoric",Politico,Lobbying Reporter,M,2312,282,3648,Sat Aug 28 20:18:13 +0000 2010,True,False,17.0,0.0,22.0,17.0,56.0,13,12
 606626730,cjf39,"Finnegan, Conor",ABC News,State Department Digital Reporter,M,2243,2232,8430,Tue Jun 12 18:50:46 +0000 2012,True,False,43.0,12.0,15.0,457.0,527.0,13,11
-148771088,shawnzeller,"Zeller, Shawn",CQ Roll Call,"Senior Writer, CQ Now",M,13740,4241,3724,Thu May 27 15:21:25 +0000 2010,False,False,24.0,0.0,0.0,248.0,272.0,13,9
 252681042,JimHandly,"Handly, Jim",WRC–TV / NBC–4,Anchor,M,14153,1086,4633,Tue Feb 15 17:55:42 +0000 2011,True,False,42.0,14.0,5.0,82.0,143.0,13,9
+148771088,shawnzeller,"Zeller, Shawn",CQ Roll Call,"Senior Writer, CQ Now",M,13740,4241,3724,Thu May 27 15:21:25 +0000 2010,False,False,24.0,0.0,0.0,248.0,272.0,13,9
 37895887,gordonnyt,"Gordon, Michael",New York Times,National Security Reporter,M,8868,848,716,Tue May 05 10:14:28 +0000 2009,False,False,29.0,1.0,0.0,23.0,53.0,13,9
 391560579,hshaban,"Shaban, Hamza",BuzzFeed,Tech Policy Reporter,M,3541,1712,6193,Sat Oct 15 19:02:05 +0000 2011,True,False,151.0,22.0,52.0,182.0,407.0,13,9
 94442794,DougNBC,"Adams, Douglas A.",NBC News,Senior Political Desk Editor,M,1712,102,6862,Thu Dec 03 23:42:36 +0000 2009,False,False,89.0,11.0,0.0,53.0,153.0,13,8
-319689712,FPizarro_DC,"Pizarro, Fernando",Univision,Washington Affiliate Correspondent with Local Stations,M,7215,1588,19745,Sat Jun 18 15:20:28 +0000 2011,True,False,85.0,8.0,19.0,368.0,480.0,13,7
 33908800,kevincorke,"Corke, Kevin",Fox News,White House Correspondent,M,211511,17153,726,Tue Apr 21 13:51:33 +0000 2009,True,False,34.0,20.0,292.0,500.0,846.0,13,7
+319689712,FPizarro_DC,"Pizarro, Fernando",Univision,Washington Affiliate Correspondent with Local Stations,M,7215,1588,19745,Sat Jun 18 15:20:28 +0000 2011,True,False,85.0,8.0,19.0,368.0,480.0,13,7
 63189965,ABC7John,"Gonzalez, John",WJLA–TV / Newschannel 8,Reporter on Good Morning Washington,M,2780,534,4173,Wed Aug 05 17:07:47 +0000 2009,True,False,139.0,0.0,27.0,24.0,190.0,13,7
 16314506,ericengleman,"Engleman, Eric",Politico,Technology Editor,M,3905,2875,3708,Tue Sep 16 18:21:39 +0000 2008,True,False,14.0,1.0,4.0,14.0,33.0,13,6
 57074215,ABC7Stephen,"Tschida, Stephen",WJLA–TV / Newschannel 8,Anchor/Reporter,M,1118,98,2411,Wed Jul 15 17:14:09 +0000 2009,False,False,116.0,0.0,2.0,0.0,118.0,13,6
 2614546850,jmoorheadcnn,"Moorhead, Jeremy",CNN,Digital Politics Producer,M,2198,872,7013,Thu Jul 10 01:20:16 +0000 2014,True,False,17.0,26.0,36.0,307.0,386.0,12,12
 14848157,gcaw,"Wood, Graeme C.A.",The Atlantic,National Correspondent,M,24390,2739,10269,Tue May 20 18:18:11 +0000 2008,True,False,82.0,54.0,254.0,184.0,574.0,12,10
 15617668,nathanhurst,"Hurst, Nate",C–SPAN,Producer,M,1441,1667,2762,Sun Jul 27 04:49:07 +0000 2008,False,False,24.0,6.0,9.0,23.0,62.0,12,10
-17113349,nhageradio,"Hager, Nathaniel",WNEW / CBS DC,Former: Morning Anchor,M,4766,4502,36813,Sun Nov 02 12:08:48 +0000 2008,False,False,95.0,45.0,14.0,52.0,206.0,12,9
 56749157,pdoocy,"Doocy, Peter",Fox News,Correspondent,M,105644,1218,4495,Tue Jul 14 17:00:39 +0000 2009,True,False,16.0,2.0,0.0,7.0,25.0,12,9
 588554500,TomBurtonWSJ,"Burton, Thomas",Wall Street Journal / Dow Jones,"Staff Reporter, Medicine",M,4828,1170,3579,Wed May 23 20:17:44 +0000 2012,True,False,223.0,7.0,1.0,37.0,268.0,12,9
-297053549,JDSalant,"Salant, Jonathan",NJ Advance Media,D.C. Correspondent,M,2337,894,10411,Wed May 11 21:10:06 +0000 2011,True,False,152.0,2.0,0.0,1.0,155.0,12,8
-47404357,tatecurtis,"Tate, Curtis",McClatchy Newspapers,Washington Correspondent,M,2600,2728,22388,Mon Jun 15 18:28:04 +0000 2009,True,False,137.0,22.0,44.0,804.0,1007.0,12,8
+17113349,nhageradio,"Hager, Nathaniel",WNEW / CBS DC,Former: Morning Anchor,M,4766,4502,36813,Sun Nov 02 12:08:48 +0000 2008,False,False,95.0,45.0,14.0,52.0,206.0,12,9
 62820593,LarryMillerTV,"Miller, Larry",WUSA–TV,Reporter,M,4016,3514,6876,Tue Aug 04 13:42:25 +0000 2009,True,False,60.0,65.0,7.0,55.0,187.0,12,8
+47404357,tatecurtis,"Tate, Curtis",McClatchy Newspapers,Washington Correspondent,M,2600,2728,22388,Mon Jun 15 18:28:04 +0000 2009,True,False,137.0,22.0,44.0,804.0,1007.0,12,8
+297053549,JDSalant,"Salant, Jonathan",NJ Advance Media,D.C. Correspondent,M,2337,894,10411,Wed May 11 21:10:06 +0000 2011,True,False,152.0,2.0,0.0,1.0,155.0,12,8
 23034870,thomaswatkins,"Watkins, Thomas",Agence France-Presse,Pentagon Correspondent,M,2310,1463,1990,Fri Mar 06 05:26:50 +0000 2009,True,False,34.0,4.0,9.0,22.0,69.0,12,7
-119513399,holland015,"Holland, William",S&P Global Market Intelligence,Senior Reporter for Gas News,M,330,101,345,Wed Mar 03 21:53:48 +0000 2010,False,False,14.0,12.0,23.0,6.0,55.0,12,6
 175610542,makejdm,"Make, Jonathan",Communications Daily,Executive Editor,M,840,215,5161,Sat Aug 07 02:43:54 +0000 2010,True,False,92.0,13.0,0.0,16.0,121.0,12,6
 27510332,JonTReid,"Reid, Jonathan T.",Morning Consult,Healthcare Reporter,M,830,2282,3009,Sun Mar 29 21:35:20 +0000 2009,False,False,53.0,13.0,0.0,81.0,147.0,12,6
+119513399,holland015,"Holland, William",S&P Global Market Intelligence,Senior Reporter for Gas News,M,330,101,345,Wed Mar 03 21:53:48 +0000 2010,False,False,14.0,12.0,23.0,6.0,55.0,12,6
 132537084,rhysblakely,"Blakely, Rhys",Times of London,Washington Bureau Chief,M,2327,2042,5911,Tue Apr 13 14:21:43 +0000 2010,True,False,171.0,47.0,9.0,221.0,448.0,12,4
 414818069,JFrayWTOP,"Fraley, Jason",WTOP Radio,Entertainment Editor,M,2348,3138,9340,Thu Nov 17 14:39:51 +0000 2011,True,False,92.0,24.0,26.0,44.0,186.0,12,3
 19902826,CarterD,"Dougherty, Carter",Bloomberg News,,M,1502,1362,10301,Mon Feb 02 11:43:09 +0000 2009,False,False,31.0,68.0,139.0,892.0,1130.0,12,1
 266830495,BobCusack,"Cusack, Robert",The Hill,Editor in Chief,M,8851,1923,6773,Tue Mar 15 22:10:46 +0000 2011,True,False,24.0,5.0,0.0,21.0,50.0,11,11
 265969984,DerrickWard4,"Ward, Derrick",WRC–TV / NBC–4,Reporter,M,3195,1829,644,Mon Mar 14 12:36:27 +0000 2011,True,False,18.0,0.0,5.0,1.0,24.0,11,10
 15531387,baysontheroad,"Bays, James",Aljazeera English,Washington Editor,M,16273,5676,8013,Tue Jul 22 14:37:07 +0000 2008,True,False,36.0,53.0,0.0,142.0,231.0,11,9
-342918164,GeoffEarle,"Earle, Geoff",Daily Mail,"Political Editor, Mail Online",M,883,549,3749,Tue Jul 26 19:48:38 +0000 2011,False,False,201.0,20.0,7.0,17.0,245.0,11,8
 73145792,drajem,"Drajem, Mark",Bloomberg News,Energy Editor,M,1449,653,3559,Thu Sep 10 15:49:06 +0000 2009,False,False,30.0,33.0,19.0,42.0,124.0,11,8
-211875645,DickUliano,"Uliano, Dick",WTOP Radio,Broadcast & Digital Journalist,M,1218,463,3299,Thu Nov 04 14:32:52 +0000 2010,False,False,31.0,3.0,3.0,10.0,47.0,11,7
+342918164,GeoffEarle,"Earle, Geoff",Daily Mail,"Political Editor, Mail Online",M,883,549,3749,Tue Jul 26 19:48:38 +0000 2011,False,False,201.0,20.0,7.0,17.0,245.0,11,8
 235216696,nbcaaron,"Gilchrist, Aaron",WRC–TV / NBC–4,Anchor,M,15041,606,14852,Fri Jan 07 17:00:38 +0000 2011,True,False,108.0,6.0,15.0,187.0,316.0,11,7
-25630016,jackfitzdc,"Fitzpatrick, Jack",Morning Consult,Energy Reporter,M,2282,2974,8960,Sat Mar 21 03:09:57 +0000 2009,False,False,25.0,30.0,39.0,53.0,147.0,11,7
 33647344,elizondogabriel,"Elizondo, Gabriel",Aljazeera English,Correspondent,M,12604,4283,17727,Mon Apr 20 20:19:14 +0000 2009,True,False,97.0,44.0,90.0,135.0,366.0,11,7
-20852178,ABehsudi,"Behsudi, Adam S.",Politico,Trade Reporter,M,2075,913,312,Sat Feb 14 15:24:08 +0000 2009,True,False,34.0,9.0,7.0,25.0,75.0,11,6
+25630016,jackfitzdc,"Fitzpatrick, Jack",Morning Consult,Energy Reporter,M,2282,2974,8960,Sat Mar 21 03:09:57 +0000 2009,False,False,25.0,30.0,39.0,53.0,147.0,11,7
+211875645,DickUliano,"Uliano, Dick",WTOP Radio,Broadcast & Digital Journalist,M,1218,463,3299,Thu Nov 04 14:32:52 +0000 2010,False,False,31.0,3.0,3.0,10.0,47.0,11,7
 382232114,EricMorath,"Morath, Eric",Wall Street Journal / Dow Jones,Economy Reporter,M,4748,1110,3738,Thu Sep 29 18:20:25 +0000 2011,True,False,28.0,0.0,3.0,17.0,48.0,11,6
+20852178,ABehsudi,"Behsudi, Adam S.",Politico,Trade Reporter,M,2075,913,312,Sat Feb 14 15:24:08 +0000 2009,True,False,34.0,9.0,7.0,25.0,75.0,11,6
 447625080,abc7Richard,"Reeve, Richard",WJLA–TV / Newschannel 8,Reporter,M,795,433,2515,Tue Dec 27 03:15:53 +0000 2011,True,False,183.0,6.0,4.0,16.0,209.0,11,6
-575719539,gwitkin,"Witkin, Gordon",Center for Public Integrity,Executive Editor,M,566,247,534,Wed May 09 20:04:19 +0000 2012,True,False,37.0,0.0,0.0,1.0,38.0,11,5
-634647798,Frank_Konkel,"Konkel, Frank",Government Executive,"Senior Editor, Tech & Events",M,7019,4475,9619,Fri Jul 13 13:19:45 +0000 2012,True,False,50.0,11.0,7.0,22.0,90.0,11,5
 77630385,TheRealJFOD,"O’Donnell, John",RTTV America,Political Correspondent,M,7700,1991,4009,Sun Sep 27 01:49:43 +0000 2009,True,False,116.0,9.0,114.0,163.0,402.0,11,5
+634647798,Frank_Konkel,"Konkel, Frank",Government Executive,"Senior Editor, Tech & Events",M,7019,4475,9619,Fri Jul 13 13:19:45 +0000 2012,True,False,50.0,11.0,7.0,22.0,90.0,11,5
+575719539,gwitkin,"Witkin, Gordon",Center for Public Integrity,Executive Editor,M,566,247,534,Wed May 09 20:04:19 +0000 2012,True,False,37.0,0.0,0.0,1.0,38.0,11,5
 807212926104911872,MarkIronsMedia,"Irons, Mark",EWTN,Video Journalist,M,217,545,284,Fri Dec 09 13:18:53 +0000 2016,False,False,58.0,17.0,9.0,61.0,145.0,11,5
 145456012,PaulNBlake,"Blake, Paul",ABC News,Business Reporter,M,2723,883,6134,Wed May 19 01:12:52 +0000 2010,True,False,72.0,17.0,66.0,193.0,348.0,11,3
 378752087,MichaelDoyle10,"Doyle, Michael",McClatchy Newspapers,Reporter,M,2300,626,7221,Fri Sep 23 19:06:50 +0000 2011,True,False,38.0,27.0,0.0,87.0,152.0,10,9
-192209368,sheerinjude,"Sheerin, Jude",Sky News,News Editior,M,2072,1470,5689,Sat Sep 18 13:59:03 +0000 2010,False,False,64.0,19.0,3.0,16.0,102.0,10,8
-19409079,AlanFisher,"Fisher, Alan",Aljazeera English,Senior Correspondent,M,25624,1155,51484,Fri Jan 23 19:33:31 +0000 2009,True,False,151.0,47.0,21.0,344.0,563.0,10,8
 30043495,JohnKingCNN,"King, John",CNN,Chief National Correspondent,M,272429,1694,6739,Thu Apr 09 19:03:26 +0000 2009,True,False,15.0,0.0,0.0,4.0,19.0,10,8
+19409079,AlanFisher,"Fisher, Alan",Aljazeera English,Senior Correspondent,M,25624,1155,51484,Fri Jan 23 19:33:31 +0000 2009,True,False,151.0,47.0,21.0,344.0,563.0,10,8
+59045843,sabrush,"Brush, Silla",Bloomberg News,Financial Regulation Reporter,M,5806,3297,12825,Wed Jul 22 05:23:19 +0000 2009,False,False,213.0,0.0,8.0,210.0,431.0,10,8
+192209368,sheerinjude,"Sheerin, Jude",Sky News,News Editior,M,2072,1470,5689,Sat Sep 18 13:59:03 +0000 2010,False,False,64.0,19.0,3.0,16.0,102.0,10,8
 47960407,Jduckham,"Duckham, Justin",Talk Radio News Service,Senior Washington Correspondent,M,1799,1435,3055,Wed Jun 17 13:32:18 +0000 2009,True,False,91.0,15.0,26.0,50.0,182.0,10,8
 57754211,Joenewsguy,"Sobczyk, Joseph",Bloomberg News,Senior Editor,M,724,1410,2764,Fri Jul 17 20:53:13 +0000 2009,True,False,33.0,32.0,10.0,61.0,136.0,10,8
-59045843,sabrush,"Brush, Silla",Bloomberg News,Financial Regulation Reporter,M,5806,3297,12825,Wed Jul 22 05:23:19 +0000 2009,False,False,213.0,0.0,8.0,210.0,431.0,10,8
-108080788,stevechenevey,"Chenevey, Steve",WTTG–Fox Television,Anchor,M,14745,2584,23653,Sun Jan 24 19:45:23 +0000 2010,True,False,119.0,64.0,62.0,8.0,253.0,10,7
 11731322,MysteryPollster,"Blumenthal, Mark",SurveyMonkey,Head of Election Polling,M,18667,694,10324,Tue Jan 01 22:28:12 +0000 2008,True,False,27.0,10.0,39.0,61.0,137.0,10,7
+108080788,stevechenevey,"Chenevey, Steve",WTTG–Fox Television,Anchor,M,14745,2584,23653,Sun Jan 24 19:45:23 +0000 2010,True,False,119.0,64.0,62.0,8.0,253.0,10,7
 20267484,LMartinezABC,"Martinez, Luis",ABC News,Pentagon Digital Reporter,M,7574,943,7177,Fri Feb 06 20:16:18 +0000 2009,True,False,21.0,0.0,0.0,1.0,22.0,10,7
 108189101,stevenpsloan,"Sloan, Steven",CNN,"Director, STATE Magazine",M,3837,1502,1861,Mon Jan 25 04:06:35 +0000 2010,True,False,9.0,3.0,0.0,8.0,20.0,10,6
 36544739,davidcfrancis,"Francis, Jr., David",Foreign Policy,"Senior Writer, Global Finance",M,2319,1093,1285,Thu Apr 30 01:03:11 +0000 2009,True,False,50.0,0.0,3.0,14.0,67.0,10,6
 55650547,brian_mcgill,"McGill, Brian",Wall Street Journal / Dow Jones,Multimedia Editor,M,1170,416,5429,Fri Jul 10 20:04:31 +0000 2009,True,False,24.0,1.0,17.0,32.0,74.0,10,6
-17791114,samrpearson,"Pearson, Sam R.",Bloomberg BNA,Reporter,M,414,275,1590,Mon Dec 01 22:16:51 +0000 2008,True,False,22.0,7.0,6.0,27.0,62.0,10,5
 61200555,BlakeBurman,"Burman, Blake",Fox Business Network,Washington Correspondent,M,2988,247,4891,Wed Jul 29 13:59:53 +0000 2009,True,False,35.0,23.0,3.0,12.0,73.0,10,5
+17791114,samrpearson,"Pearson, Sam R.",Bloomberg BNA,Reporter,M,414,275,1590,Mon Dec 01 22:16:51 +0000 2008,True,False,22.0,7.0,6.0,27.0,62.0,10,5
 182005056,EdWeekSCavanagh,"Cavanagh, Sean",Education Week,Business & Tech Reporter,M,8346,1068,3185,Mon Aug 23 16:04:11 +0000 2010,False,False,49.0,0.0,0.0,8.0,57.0,10,4
-3308309151,DJFoleyWTOP,"Foley, Dennis",WTOP Radio,Reporter & Editor,M,341,312,1935,Thu Jun 04 16:21:49 +0000 2015,False,False,41.0,1.0,1.0,34.0,77.0,10,4
 82415390,RexNutting,"Nutting, Rex",MarketWatch,Money & Power Columnist,M,3257,224,8684,Wed Oct 14 17:50:02 +0000 2009,True,False,61.0,350.0,2.0,386.0,799.0,10,4
+3308309151,DJFoleyWTOP,"Foley, Dennis",WTOP Radio,Reporter & Editor,M,341,312,1935,Thu Jun 04 16:21:49 +0000 2015,False,False,41.0,1.0,1.0,34.0,77.0,10,4
 15052671,apblake,"Blake, Andrew",RTTV America,Reporter,M,6685,2953,43789,Mon Jun 09 02:10:58 +0000 2008,True,False,168.0,37.0,114.0,462.0,781.0,10,2
 140863851,tomcostellonbc,"Costello, Thomas",NBC News,Correspondent,M,15277,195,2061,Thu May 06 15:14:28 +0000 2010,True,False,53.0,8.0,20.0,11.0,92.0,9,9
-17322401,NC8Dave,"Lucas, David",WJLA–TV / Newschannel 8,Anchor,M,622,633,1682,Tue Nov 11 21:17:50 +0000 2008,True,False,393.0,32.0,6.0,26.0,457.0,9,9
 427059614,nprDanCharles,"Charles, Dan",National Public Radio,Correspondent,M,5426,658,3503,Sat Dec 03 02:00:21 +0000 2011,True,False,36.0,43.0,24.0,171.0,274.0,9,9
+17322401,NC8Dave,"Lucas, David",WJLA–TV / Newschannel 8,Anchor,M,622,633,1682,Tue Nov 11 21:17:50 +0000 2008,True,False,393.0,32.0,6.0,26.0,457.0,9,9
 620618811,robyoon,"Yoon, Robert",Inside Elections,Contributing Reporter & Analyst,M,11623,892,3528,Thu Jun 28 02:03:06 +0000 2012,True,False,26.0,7.0,9.0,8.0,50.0,9,8
+570295074,JustinFishelABC,"Fishel, Justin",ABC News,Washington Digital Reporter,M,5821,620,933,Thu May 03 19:12:23 +0000 2012,True,False,14.0,4.0,0.0,27.0,45.0,9,7
+44478236,meekwire,"Meek, James",ABC News,Investigative Reporter,M,4612,1258,19742,Wed Jun 03 22:39:38 +0000 2009,True,False,29.0,22.0,5.0,87.0,143.0,9,7
 15741451,chriswilsondc,"Wilson, Christopher E.",Time Magazine,Director of Data Journalism,M,3135,743,6272,Tue Aug 05 20:42:07 +0000 2008,False,False,47.0,5.0,55.0,7.0,114.0,9,7
 2461913161,ArthurAllen202,"Allen, Arthur",Politico,"Editor, eHealth",M,2136,893,4242,Thu Apr 24 16:33:35 +0000 2014,False,False,32.0,6.0,79.0,171.0,288.0,9,7
 429938737,nbcphotog35,"Alvey, Jay",WRC–TV / NBC–4,Videographer,M,252,68,842,Tue Dec 06 15:37:16 +0000 2011,False,False,27.0,1.0,1.0,42.0,71.0,9,7
-44478236,meekwire,"Meek, James",ABC News,Investigative Reporter,M,4612,1258,19742,Wed Jun 03 22:39:38 +0000 2009,True,False,29.0,22.0,5.0,87.0,143.0,9,7
-570295074,JustinFishelABC,"Fishel, Justin",ABC News,Washington Digital Reporter,M,5821,620,933,Thu May 03 19:12:23 +0000 2012,True,False,14.0,4.0,0.0,27.0,45.0,9,7
-128663336,dmatmorrison,"Morrison, Matthew",BBC,Producer,M,271,186,299,Thu Apr 01 20:30:38 +0000 2010,False,False,9.0,1.0,0.0,6.0,16.0,9,6
-3015900740,MCrizvi,"Rizvi, Ali",McClatchy,Video Journalist,M,287,310,6165,Mon Feb 09 22:06:38 +0000 2015,False,False,71.0,76.0,154.0,494.0,795.0,9,6
 44000905,Enrique_Acevedo,"Acevedo, Juan",WFDC–TV Univision,News Anchor,M,162702,1793,30545,Mon Jun 01 23:21:01 +0000 2009,True,False,120.0,225.0,52.0,417.0,814.0,9,6
-485842327,ChrisSheridan34,"Sheridan, Chris",Aljazeera English,Senior White House Producer,M,395,912,793,Tue Feb 07 16:52:21 +0000 2012,False,False,109.0,40.0,4.0,48.0,201.0,9,6
 579560688,VerbDC,"Williams, Joseph P.",U.S. News & World Report,News Editor,M,814,915,15382,Mon May 14 02:38:28 +0000 2012,False,False,125.0,180.0,200.0,1.0,506.0,9,6
+485842327,ChrisSheridan34,"Sheridan, Chris",Aljazeera English,Senior White House Producer,M,395,912,793,Tue Feb 07 16:52:21 +0000 2012,False,False,109.0,40.0,4.0,48.0,201.0,9,6
+3015900740,MCrizvi,"Rizvi, Ali",McClatchy,Video Journalist,M,287,310,6165,Mon Feb 09 22:06:38 +0000 2015,False,False,71.0,76.0,154.0,494.0,795.0,9,6
+128663336,dmatmorrison,"Morrison, Matthew",BBC,Producer,M,271,186,299,Thu Apr 01 20:30:38 +0000 2010,False,False,9.0,1.0,0.0,6.0,16.0,9,6
+85282028,clawrencenbc,"Lawrence, Chris",WRC–TV / NBC–4,Anchor / Reporter,M,7390,321,1331,Mon Oct 26 10:09:37 +0000 2009,True,False,14.0,14.0,5.0,0.0,33.0,9,5
+35616518,PatrickTerpstra,"Terpstra, Patrick",Cox Broadcasting,Senior Washington News Producer,M,1846,1334,7732,Mon Apr 27 00:42:17 +0000 2009,True,False,65.0,16.0,48.0,2.0,131.0,9,5
+161768953,ganjansen,"Jansen, Bart",USA Today,Transportation Reporter,M,1493,489,2066,Thu Jul 01 18:37:00 +0000 2010,True,False,74.0,0.0,8.0,1.0,83.0,9,5
 1107303859,RodKuckro,"Kuckro, Rod",E&E News,Electric Utility Reporter,M,1247,481,1089,Sun Jan 20 21:02:40 +0000 2013,False,False,14.0,24.0,1.0,45.0,84.0,9,5
 1256732358,CarlPLeubsdorf,"Leubsdorf, Carl",Dallas Morning News,Washington Columnist,M,530,93,1337,Sun Mar 10 11:07:37 +0000 2013,False,False,34.0,0.0,136.0,7.0,177.0,9,5
-161768953,ganjansen,"Jansen, Bart",USA Today,Transportation Reporter,M,1493,489,2066,Thu Jul 01 18:37:00 +0000 2010,True,False,74.0,0.0,8.0,1.0,83.0,9,5
 3316761453,willcockey,"Cockey, William",WTTG–Fox Television,Photojournalist,M,450,567,765,Wed Jun 10 05:46:44 +0000 2015,True,False,27.0,3.0,11.0,103.0,144.0,9,5
-35616518,PatrickTerpstra,"Terpstra, Patrick",Cox Broadcasting,Senior Washington News Producer,M,1846,1334,7732,Mon Apr 27 00:42:17 +0000 2009,True,False,65.0,16.0,48.0,2.0,131.0,9,5
-85282028,clawrencenbc,"Lawrence, Chris",WRC–TV / NBC–4,Anchor / Reporter,M,7390,321,1331,Mon Oct 26 10:09:37 +0000 2009,True,False,14.0,14.0,5.0,0.0,33.0,9,5
-1364920530,perpleckst,"Kovski, Alan D.",Bloomberg BNA,"Environment, Energy, & Water Reporter",M,273,129,1049,Fri Apr 19 17:16:15 +0000 2013,False,False,15.0,18.0,0.0,18.0,51.0,9,4
-15235581,jribas,"Ribas, Jorge",Washingtonpost.com,Video Journalist,M,1088,1090,5886,Wed Jun 25 19:39:55 +0000 2008,True,False,55.0,60.0,99.0,266.0,480.0,9,4
 16115811,jgrovum,"Grovum, Jake",Financial Times,Social Media Editor,M,3768,3619,53493,Wed Sep 03 16:58:50 +0000 2008,True,False,157.0,196.0,213.0,736.0,1302.0,9,4
 80890381,DiazChron,"Diaz, Kevin",Houston Chronicle,Washington Correspondent,M,2308,313,3303,Thu Oct 08 16:53:51 +0000 2009,True,False,142.0,27.0,0.0,19.0,188.0,9,4
+15235581,jribas,"Ribas, Jorge",Washingtonpost.com,Video Journalist,M,1088,1090,5886,Wed Jun 25 19:39:55 +0000 2008,True,False,55.0,60.0,99.0,266.0,480.0,9,4
+1364920530,perpleckst,"Kovski, Alan D.",Bloomberg BNA,"Environment, Energy, & Water Reporter",M,273,129,1049,Fri Apr 19 17:16:15 +0000 2013,False,False,15.0,18.0,0.0,18.0,51.0,9,4
 131552659,alneuhauser,"Neuhauser, Alan",U.S. News & World Report,Criminal Justice Law Reporter,M,3166,2642,12408,Sat Apr 10 16:26:39 +0000 2010,True,False,69.0,35.0,10.0,310.0,424.0,9,3
 498968683,AlpertDC,"Alpert, Bruce",Voice of America,Reporter/Writer,M,1586,2324,5622,Tue Feb 21 16:35:28 +0000 2012,False,False,69.0,0.0,4.0,31.0,104.0,9,2
-17241440,amorris991,"Morris, Amy",WNEW / CBS DC,Former: News Anchor and Host,M,3049,983,22910,Fri Nov 07 23:39:19 +0000 2008,False,False,106.0,8.0,12.0,6.0,132.0,8,7
-193353562,BenBrodyDC,"Brody, Benjamin",Bloomberg News,Lobbying and Government Ethics Reporter,M,1766,1156,19394,Tue Sep 21 16:27:39 +0000 2010,True,False,24.0,56.0,22.0,278.0,380.0,8,7
-214216108,mcollinsNEWS,"Collins, Michael",Journal Media Group,Washington Correspondent (Tenn.),M,1904,2126,3260,Wed Nov 10 21:27:49 +0000 2010,False,False,142.0,12.0,1.0,32.0,187.0,8,7
-21921150,chanceseales,"Seales, Chance",Nexstar Media Group,National Correspondent,M,1281,548,7802,Wed Feb 25 21:24:29 +0000 2009,False,False,118.0,133.0,13.0,381.0,645.0,8,7
-21922229,ScottThuman,"Thuman, Scott",WJLA–TV / Newschannel 8,Chief Politcal Correspondent,M,3972,634,5374,Wed Feb 25 21:32:27 +0000 2009,True,False,29.0,4.0,1.0,0.0,34.0,8,7
-244148756,kguggenheim,"Guggenheim, Ken",Associated Press,"News Editor, Washington",M,932,377,422,Fri Jan 28 16:37:42 +0000 2011,True,False,25.0,1.0,1.0,3.0,30.0,8,7
 29077161,grayjustin,"Gray, Justin",Cox Broadcasting,Washington Correspondent,M,4712,636,12960,Sun Apr 05 22:01:24 +0000 2009,True,False,115.0,72.0,22.0,219.0,428.0,8,7
+21922229,ScottThuman,"Thuman, Scott",WJLA–TV / Newschannel 8,Chief Politcal Correspondent,M,3972,634,5374,Wed Feb 25 21:32:27 +0000 2009,True,False,29.0,4.0,1.0,0.0,34.0,8,7
 37687262,mbieseck,"Biesecker, Michael",Associated Press,"Environment, Energy, & Investigative Reporter",M,3186,1686,2897,Mon May 04 15:49:07 +0000 2009,True,False,35.0,2.0,1.0,129.0,167.0,8,7
+17241440,amorris991,"Morris, Amy",WNEW / CBS DC,Former: News Anchor and Host,M,3049,983,22910,Fri Nov 07 23:39:19 +0000 2008,False,False,106.0,8.0,12.0,6.0,132.0,8,7
+214216108,mcollinsNEWS,"Collins, Michael",Journal Media Group,Washington Correspondent (Tenn.),M,1904,2126,3260,Wed Nov 10 21:27:49 +0000 2010,False,False,142.0,12.0,1.0,32.0,187.0,8,7
+193353562,BenBrodyDC,"Brody, Benjamin",Bloomberg News,Lobbying and Government Ethics Reporter,M,1766,1156,19394,Tue Sep 21 16:27:39 +0000 2010,True,False,24.0,56.0,22.0,278.0,380.0,8,7
+21921150,chanceseales,"Seales, Chance",Nexstar Media Group,National Correspondent,M,1281,548,7802,Wed Feb 25 21:24:29 +0000 2009,False,False,118.0,133.0,13.0,381.0,645.0,8,7
+244148756,kguggenheim,"Guggenheim, Ken",Associated Press,"News Editor, Washington",M,932,377,422,Fri Jan 28 16:37:42 +0000 2011,True,False,25.0,1.0,1.0,3.0,30.0,8,7
 148936255,Joelmentum,"Gehrke, Jr., Joel S.",Washington Examiner,Foreign Affairs Reporter,M,3694,625,21225,Fri May 28 00:31:18 +0000 2010,True,False,68.0,59.0,15.0,61.0,203.0,8,6
-169679157,BESorenson,"Sorenson, Ben",C–SPAN,Video Journalist,M,544,891,10349,Thu Jul 22 22:38:51 +0000 2010,False,False,47.0,86.0,254.0,109.0,496.0,8,6
 22077599,EliasGroll,"Groll, Elias",Foreign Policy,"Staff Writer, Cyberspace",M,2900,2442,4614,Thu Feb 26 23:15:18 +0000 2009,True,False,32.0,18.0,17.0,38.0,105.0,8,6
 325814138,JTanfani,"Tanfani, Joseph",Los Angeles Times,D.C. Investigative Reporter,M,766,386,1448,Tue Jun 28 22:31:49 +0000 2011,False,False,38.0,3.0,0.0,39.0,80.0,8,6
+169679157,BESorenson,"Sorenson, Ben",C–SPAN,Video Journalist,M,544,891,10349,Thu Jul 22 22:38:51 +0000 2010,False,False,47.0,86.0,254.0,109.0,496.0,8,6
 3988150241,lanceingthing,"Ing, Lance",NBC,Photojournalist / Editor / Producer,M,301,541,3526,Sun Oct 18 16:18:38 +0000 2015,False,False,74.0,8.0,5.0,341.0,428.0,8,6
 338472722,DC_mcaleese,"McAleese, Kevin",Feature Story News,Reporter,M,479,1100,1851,Tue Jul 19 16:48:29 +0000 2011,False,False,8.0,7.0,3.0,68.0,86.0,8,5
+41764193,evanhalper,"Halper, Evan",Los Angeles Times,Politics & Climate Reporter,M,5405,1274,3439,Fri May 22 06:02:20 +0000 2009,True,False,15.0,3.0,0.0,22.0,40.0,8,4
+47893782,stevennelson10,"Nelson, Steven",U.S. News & World Report,Reporter,M,5040,2925,3179,Wed Jun 17 07:58:05 +0000 2009,False,False,33.0,5.0,9.0,38.0,85.0,8,4
+399868775,natsecwatson,"Watson, Benjamin",Defense One,News Editor,M,3796,2670,9853,Fri Oct 28 04:59:55 +0000 2011,True,False,15.0,22.0,3.0,310.0,350.0,8,4
+63190717,ABC7Horace,"Holmes, Horace",WJLA–TV / Newschannel 8,Reporter,M,1692,2017,3373,Wed Aug 05 17:10:23 +0000 2009,True,False,144.0,2.0,5.0,37.0,188.0,8,4
+431717755,wellisz,"Wellisz, Chris",Bloomberg News,Financial Reporter,M,1330,1691,4571,Thu Dec 08 16:19:38 +0000 2011,True,False,77.0,0.0,0.0,26.0,103.0,8,4
 108474241,DavidGSavage,"Savage, David",Los Angeles Times,Supreme Court Reporter,M,1237,48,252,Tue Jan 26 01:59:33 +0000 2010,False,False,6.0,0.0,0.0,0.0,6.0,8,4
 256563903,CaseyNBC,"Casey, Sean",WRC–TV / NBC–4,Photojounalist,M,1033,620,4985,Wed Feb 23 16:10:29 +0000 2011,False,False,47.0,1.0,1.0,27.0,76.0,8,4
-399868775,natsecwatson,"Watson, Benjamin",Defense One,News Editor,M,3796,2670,9853,Fri Oct 28 04:59:55 +0000 2011,True,False,15.0,22.0,3.0,310.0,350.0,8,4
-41764193,evanhalper,"Halper, Evan",Los Angeles Times,Politics & Climate Reporter,M,5405,1274,3439,Fri May 22 06:02:20 +0000 2009,True,False,15.0,3.0,0.0,22.0,40.0,8,4
-431717755,wellisz,"Wellisz, Chris",Bloomberg News,Financial Reporter,M,1330,1691,4571,Thu Dec 08 16:19:38 +0000 2011,True,False,77.0,0.0,0.0,26.0,103.0,8,4
-47893782,stevennelson10,"Nelson, Steven",U.S. News & World Report,Reporter,M,5040,2925,3179,Wed Jun 17 07:58:05 +0000 2009,False,False,33.0,5.0,9.0,38.0,85.0,8,4
-63190717,ABC7Horace,"Holmes, Horace",WJLA–TV / Newschannel 8,Reporter,M,1692,2017,3373,Wed Aug 05 17:10:23 +0000 2009,True,False,144.0,2.0,5.0,37.0,188.0,8,4
-130267706,GarciaJon,"Garcia, Jon",ABC News,White House Producer,M,1563,1136,1977,Tue Apr 06 20:38:15 +0000 2010,False,False,9.0,0.0,0.0,4.0,13.0,8,3
-16545084,mklavers81,"Lavers, Michael K.",Washington Blade,International News Editor,M,4579,2380,21832,Wed Oct 01 15:21:33 +0000 2008,True,False,276.0,62.0,17.0,70.0,425.0,8,3
 304988603,NeilWMcCabe,"McCabe, Neil",Breitbart News,Political Correspondent,M,18903,7712,64673,Wed May 25 13:09:32 +0000 2011,False,False,680.0,625.0,537.0,7528.0,9370.0,8,3
+16545084,mklavers81,"Lavers, Michael K.",Washington Blade,International News Editor,M,4579,2380,21832,Wed Oct 01 15:21:33 +0000 2008,True,False,276.0,62.0,17.0,70.0,425.0,8,3
+130267706,GarciaJon,"Garcia, Jon",ABC News,White House Producer,M,1563,1136,1977,Tue Apr 06 20:38:15 +0000 2010,False,False,9.0,0.0,0.0,4.0,13.0,8,3
 487720782,LuisVOA,"Ramirez, Luis",Voice of America,Europe Correspondent,M,1225,164,1693,Thu Feb 09 17:29:23 +0000 2012,True,False,85.0,1.0,0.0,7.0,93.0,8,3
 52490295,StvBurns,"Burns, Steven",WMAL Radio,Anchor and Reporter,M,792,1763,11092,Tue Jun 30 19:21:49 +0000 2009,False,False,169.0,83.0,28.0,57.0,337.0,8,2
 28262779,EitanArom,"Arom, Eitan",Jewish Journal,Staff Writer,M,605,947,1989,Thu Apr 02 02:36:15 +0000 2009,False,False,42.0,94.0,15.0,133.0,284.0,8,1
-164702019,burlij,"Burlij, Terence",CNN,"Senior Producer, Political Unit",M,1770,1304,1074,Fri Jul 09 14:48:22 +0000 2010,True,False,11.0,14.0,3.0,1.0,29.0,7,7
 28397634,EricMarrapodi,"Marrapodi, Eric",NBC News,"Producer, NBC Nightly News",M,9451,2455,8943,Thu Apr 02 19:07:53 +0000 2009,True,False,41.0,7.0,9.0,74.0,131.0,7,7
 370982639,AlxThomp,"Thompson, Alexander",Vice News,Policy & Politics Editor,M,3448,2242,7137,Sat Sep 10 00:19:31 +0000 2011,True,False,40.0,140.0,35.0,461.0,676.0,7,7
-140289561,loujacobson,"Jacobson, Louis",Tampa Bay Times,"Senior Correspondent, PolitiFact",M,2663,705,7907,Wed May 05 03:34:51 +0000 2010,True,False,68.0,8.0,9.0,17.0,102.0,7,6
+164702019,burlij,"Burlij, Terence",CNN,"Senior Producer, Political Unit",M,1770,1304,1074,Fri Jul 09 14:48:22 +0000 2010,True,False,11.0,14.0,3.0,1.0,29.0,7,7
 30249306,MarthaRaddatz,"Raddatz, Martha",ABC News,Chief Global Affairs Correspondent,M,97978,947,1807,Fri Apr 10 16:20:20 +0000 2009,True,False,9.0,0.0,4.0,14.0,27.0,7,6
+140289561,loujacobson,"Jacobson, Louis",Tampa Bay Times,"Senior Correspondent, PolitiFact",M,2663,705,7907,Wed May 05 03:34:51 +0000 2010,True,False,68.0,8.0,9.0,17.0,102.0,7,6
 423667118,mikewfritz,"Fritz, Mike",PBS NewsHour,Producer / Videographer,M,633,468,1313,Mon Nov 28 19:54:47 +0000 2011,False,False,25.0,0.0,0.0,26.0,51.0,7,6
-16099612,aaronwiener,"Wiener, Aaron M.",Mother Jones,Senior Editor,M,6396,162,11530,Tue Sep 02 17:11:57 +0000 2008,True,False,82.0,90.0,32.0,15.0,219.0,7,5
-179615725,mullenphoto,"Mullen, Christopher",WUSA–TV,Photojournalist,M,429,300,1760,Tue Aug 17 18:37:20 +0000 2010,False,False,21.0,6.0,32.0,3.0,62.0,7,5
-20593217,thisismaz,"Mazmanian, Adam",Federal Computer Week,Executive Editor,M,1419,1019,5842,Wed Feb 11 14:33:25 +0000 2009,True,False,87.0,75.0,69.0,48.0,279.0,7,5
-282609416,KennethMoton,"Moton, Kenneth",ABC News,Correspondent & Multi-Platform Reporter,M,8748,929,15379,Fri Apr 15 14:58:00 +0000 2011,True,False,81.0,60.0,23.0,164.0,328.0,7,5
-329809276,AxiosNick,"Johnston, Nicholas",Axios,Editor,M,3534,834,4047,Tue Jul 05 17:11:54 +0000 2011,False,False,21.0,13.0,28.0,57.0,119.0,7,5
 61285110,DonGonyea,"Gonyea, Don",National Public Radio,Journalist / National Political Correspondent,M,46129,2240,11884,Wed Jul 29 20:17:15 +0000 2009,True,False,14.0,28.0,1.0,19.0,62.0,7,5
+282609416,KennethMoton,"Moton, Kenneth",ABC News,Correspondent & Multi-Platform Reporter,M,8748,929,15379,Fri Apr 15 14:58:00 +0000 2011,True,False,81.0,60.0,23.0,164.0,328.0,7,5
+16099612,aaronwiener,"Wiener, Aaron M.",Mother Jones,Senior Editor,M,6396,162,11530,Tue Sep 02 17:11:57 +0000 2008,True,False,82.0,90.0,32.0,15.0,219.0,7,5
+329809276,AxiosNick,"Johnston, Nicholas",Axios,Editor,M,3534,834,4047,Tue Jul 05 17:11:54 +0000 2011,False,False,21.0,13.0,28.0,57.0,119.0,7,5
+20593217,thisismaz,"Mazmanian, Adam",Federal Computer Week,Executive Editor,M,1419,1019,5842,Wed Feb 11 14:33:25 +0000 2009,True,False,87.0,75.0,69.0,48.0,279.0,7,5
+179615725,mullenphoto,"Mullen, Christopher",WUSA–TV,Photojournalist,M,429,300,1760,Tue Aug 17 18:37:20 +0000 2010,False,False,21.0,6.0,32.0,3.0,62.0,7,5
 864802640,glguray,"Guray, Geoffrey",PBS NewsHour,Producer / Reporter,M,403,1336,953,Sat Oct 06 14:48:24 +0000 2012,False,False,26.0,7.0,44.0,7.0,84.0,7,5
-190405082,TonyPughDC,"Pugh, Anthony",McClatchy Newspapers,Health Care Reporter,M,3667,3542,2661,Mon Sep 13 21:39:47 +0000 2010,True,False,52.0,2.0,0.0,109.0,163.0,7,4
 24594836,BenjaminBell,"Bell, Ben",ABC News,Digital Producer,M,4418,3767,29589,Sun Mar 15 22:03:23 +0000 2009,True,False,28.0,35.0,4.0,48.0,115.0,7,4
+190405082,TonyPughDC,"Pugh, Anthony",McClatchy Newspapers,Health Care Reporter,M,3667,3542,2661,Mon Sep 13 21:39:47 +0000 2010,True,False,52.0,2.0,0.0,109.0,163.0,7,4
 305668829,JamesLSwann,"Swann, James L.",Bloomberg BNA,Healthcare Fraud Reporter,M,1017,1203,4403,Thu May 26 16:09:45 +0000 2011,True,False,149.0,0.0,3.0,8.0,160.0,7,4
 946349748,andclev,"Clevenger, Andrew",Bloomberg BNA,Defense Procurement Policy Reporter,M,749,1431,1195,Tue Nov 13 19:19:00 +0000 2012,True,False,43.0,14.0,14.0,13.0,84.0,7,4
 94116066,stoddrad,"Stoddard, Rick",C–SPAN,Producer,M,867,3512,4402,Wed Dec 02 15:55:43 +0000 2009,False,False,9.0,9.0,7.0,99.0,124.0,7,3
-2533025100,MBowmanVOA,"Bowman, Michael",Voice of America,Senate Correspondent,M,1033,291,1169,Thu May 29 17:10:41 +0000 2014,True,False,22.0,0.0,3.0,2.0,27.0,7,2
 820267986,byPeterEisler,"Eisler, Peter",Thomson Reuters,National Affairs Correspondent,M,1440,718,2543,Wed Sep 12 20:08:06 +0000 2012,False,False,42.0,14.0,4.0,75.0,135.0,7,2
+2533025100,MBowmanVOA,"Bowman, Michael",Voice of America,Senate Correspondent,M,1033,291,1169,Thu May 29 17:10:41 +0000 2014,True,False,22.0,0.0,3.0,2.0,27.0,7,2
 323672582,JBWogan,"Wogan, J.B.",Governing,Reporter,M,1273,1238,4616,Sat Jun 25 06:42:35 +0000 2011,True,False,34.0,12.0,17.0,71.0,134.0,7,1
+58489734,dvergano,"Vergano, Dan",BuzzFeed,Science Reporter,M,16347,1567,21427,Mon Jul 20 14:42:23 +0000 2009,True,False,145.0,47.0,50.0,374.0,616.0,6,6
 120202126,scottwfoster,"Foster, Scott",NBC News,Senior Producer,M,3232,1967,3439,Fri Mar 05 19:39:15 +0000 2010,True,False,45.0,0.0,1.0,7.0,53.0,6,6
 1426382581,JoelKirkland2,"Kirkland, Joel G.",E&E News,"Deputy Editor, Energywire",M,1628,2315,2318,Mon May 13 20:45:40 +0000 2013,False,False,21.0,12.0,7.0,90.0,130.0,6,6
-58489734,dvergano,"Vergano, Dan",BuzzFeed,Science Reporter,M,16347,1567,21427,Mon Jul 20 14:42:23 +0000 2009,True,False,145.0,47.0,50.0,374.0,616.0,6,6
-154233179,bklapperAP,"Klapper, Bradley",Associated Press,Acting National Security Editor,M,3381,394,1567,Thu Jun 10 18:32:21 +0000 2010,True,False,11.0,0.0,0.0,19.0,30.0,6,5
-15510768,beverstine,"Everstine, Brian W",Air Force Magazine,Pentagon Correspondent,M,1420,937,5091,Mon Jul 21 05:07:45 +0000 2008,True,False,26.0,7.0,19.0,47.0,99.0,6,5
-16798126,danielryntjes,"Ryntjes, Daniel",Feature Story News,Business News Editor & Correspondent,M,824,739,3146,Thu Oct 16 00:47:32 +0000 2008,False,False,44.0,19.0,18.0,65.0,146.0,6,5
 196336073,RussPtacek,"Ptacek, Russell",WUSA–TV,Investigative Reporter,M,13386,5203,26273,Tue Sep 28 22:05:04 +0000 2010,True,False,33.0,71.0,73.0,95.0,272.0,6,5
-211330724,LanaZak,"Zak, Lana",ABC News,Reporter,M,4106,1007,1986,Tue Nov 02 23:33:09 +0000 2010,True,False,25.0,15.0,3.0,34.0,77.0,6,5
-505079765,sambrodey,"Brodey, Sam",MinnPost,Washington Correspondent,M,1629,868,4578,Sun Feb 26 22:27:40 +0000 2012,False,False,28.0,14.0,11.0,13.0,66.0,6,5
 57656702,Bruce_DePuyt,"DePuyt, Bruce",WJLA–TV / Newschannel 8,Journalist and Former Talk Show Host,M,5198,1955,8757,Fri Jul 17 14:29:40 +0000 2009,False,False,48.0,62.0,1.0,193.0,304.0,6,5
+211330724,LanaZak,"Zak, Lana",ABC News,Reporter,M,4106,1007,1986,Tue Nov 02 23:33:09 +0000 2010,True,False,25.0,15.0,3.0,34.0,77.0,6,5
+154233179,bklapperAP,"Klapper, Bradley",Associated Press,Acting National Security Editor,M,3381,394,1567,Thu Jun 10 18:32:21 +0000 2010,True,False,11.0,0.0,0.0,19.0,30.0,6,5
+505079765,sambrodey,"Brodey, Sam",MinnPost,Washington Correspondent,M,1629,868,4578,Sun Feb 26 22:27:40 +0000 2012,False,False,28.0,14.0,11.0,13.0,66.0,6,5
+15510768,beverstine,"Everstine, Brian W",Air Force Magazine,Pentagon Correspondent,M,1420,937,5091,Mon Jul 21 05:07:45 +0000 2008,True,False,26.0,7.0,19.0,47.0,99.0,6,5
 77832056,cmartinez400,"Martinez, Carlos",WRC–TV / NBC–4,Assignment Editor,M,1044,671,2524,Sun Sep 27 21:08:30 +0000 2009,False,False,15.0,7.0,12.0,21.0,55.0,6,5
-105593442,gssullivan,"Sullivan, Gregory",Bloomberg News,"Writer, Bloomberg First Word",M,235,1395,1477,Sat Jan 16 21:14:34 +0000 2010,False,False,54.0,9.0,0.0,87.0,150.0,6,4
+16798126,danielryntjes,"Ryntjes, Daniel",Feature Story News,Business News Editor & Correspondent,M,824,739,3146,Thu Oct 16 00:47:32 +0000 2008,False,False,44.0,19.0,18.0,65.0,146.0,6,5
 146449017,IanPannell,"Pannell, Ian",BBC,International Correspondent,M,26262,632,1205,Fri May 21 13:22:26 +0000 2010,True,False,20.0,45.0,36.0,33.0,134.0,6,4
-146882416,ericmorrow11,"Morrow, Eric",Buzzfeed,Social Media Editor / Journalist,M,755,1570,6645,Sat May 22 15:54:51 +0000 2010,False,False,601.0,199.0,77.0,163.0,1040.0,6,4
 17348735,CalNBC,"Perry, Cal",MSNBC,Senior Editor / Journalist,M,17621,428,19610,Wed Nov 12 21:04:15 +0000 2008,True,False,50.0,122.0,12.0,168.0,352.0,6,4
-2157198914,PatrickMRucker,"Rucker, Patrick",Thomson Reuters,Financial Regulation Reporter,M,1328,170,1030,Sat Oct 26 16:52:02 +0000 2013,False,False,14.0,2.0,8.0,23.0,47.0,6,4
-22856985,steve_dorsey,"Dorsey, Steve",CBS News,"Correspondent, CBS Radio",M,1530,1594,9727,Thu Mar 05 01:01:20 +0000 2009,True,False,27.0,20.0,7.0,105.0,159.0,6,4
-63191700,ABC7Jay,"Korff, Jay",WJLA–TV / Newschannel 8,Reporter,M,1988,909,2805,Wed Aug 05 17:13:56 +0000 2009,True,False,36.0,3.0,10.0,9.0,58.0,6,4
 69022849,TheDCVince,"Coglianese, Vincent",Daily Caller,Editor in Chief,M,7922,1473,11635,Wed Aug 26 16:17:14 +0000 2009,True,False,26.0,27.0,24.0,60.0,137.0,6,4
+63191700,ABC7Jay,"Korff, Jay",WJLA–TV / Newschannel 8,Reporter,M,1988,909,2805,Wed Aug 05 17:13:56 +0000 2009,True,False,36.0,3.0,10.0,9.0,58.0,6,4
+22856985,steve_dorsey,"Dorsey, Steve",CBS News,"Correspondent, CBS Radio",M,1530,1594,9727,Thu Mar 05 01:01:20 +0000 2009,True,False,27.0,20.0,7.0,105.0,159.0,6,4
+2157198914,PatrickMRucker,"Rucker, Patrick",Thomson Reuters,Financial Regulation Reporter,M,1328,170,1030,Sat Oct 26 16:52:02 +0000 2013,False,False,14.0,2.0,8.0,23.0,47.0,6,4
+146882416,ericmorrow11,"Morrow, Eric",Buzzfeed,Social Media Editor / Journalist,M,755,1570,6645,Sat May 22 15:54:51 +0000 2010,False,False,601.0,199.0,77.0,163.0,1040.0,6,4
+105593442,gssullivan,"Sullivan, Gregory",Bloomberg News,"Writer, Bloomberg First Word",M,235,1395,1477,Sat Jan 16 21:14:34 +0000 2010,False,False,54.0,9.0,0.0,87.0,150.0,6,4
 708377337449029632,llabrecqueindc,"LaBrecque, Louis C.",Bloomberg BNA,Senior Reporter,M,218,247,882,Fri Mar 11 19:41:33 +0000 2016,False,False,4.0,10.0,1.0,48.0,63.0,6,4
-15687922,gwmott,"Mott, Gregory",Bloomberg News,Financial Regulation Editor,M,559,485,2352,Fri Aug 01 11:19:33 +0000 2008,True,False,50.0,0.0,4.0,5.0,59.0,6,3
 16400258,edwardnh,"Harrison, Edward",RTTV America,Writer,M,22510,899,63908,Mon Sep 22 05:32:19 +0000 2008,True,False,256.0,163.0,337.0,330.0,1086.0,6,3
 19079225,FRoseDC,"Rose, Francis",WJLA–TV / Newschannel 8,"Host, Government Matters",M,2726,1045,10133,Fri Jan 16 18:38:54 +0000 2009,False,False,14.0,44.0,62.0,93.0,213.0,6,3
 205360834,HankSilverberg,"Silverberg, Howard",Freelance,Freelance Journalist,M,1845,650,14747,Wed Oct 20 18:10:04 +0000 2010,False,False,54.0,186.0,14.0,489.0,743.0,6,3
+15687922,gwmott,"Mott, Gregory",Bloomberg News,Financial Regulation Editor,M,559,485,2352,Fri Aug 01 11:19:33 +0000 2008,True,False,50.0,0.0,4.0,5.0,59.0,6,3
 150224923,SiCarswell,"Carswell, Simon",Irish Times,Washington Correspondent,M,19942,1865,15779,Mon May 31 11:55:52 +0000 2010,True,False,147.0,16.0,36.0,181.0,380.0,6,2
 184823423,jbartash,"Bartash, Jeffry",MarketWatch,Economics Reporter,M,1533,261,2471,Mon Aug 30 15:34:28 +0000 2010,False,False,94.0,0.0,9.0,0.0,103.0,6,2
 39470718,bradwolverton,"Wolverton, Bradley",NerdWallet,Investigative Reporter,M,6223,857,5884,Tue May 12 10:07:47 +0000 2009,True,False,19.0,12.0,2.0,1.0,34.0,6,1
-1251763045,jostonjustice,"Jost, Kenneth W",CQ Researcher,Reporter,M,2363,951,10060,Fri Mar 08 13:37:23 +0000 2013,False,False,284.0,69.0,94.0,104.0,551.0,5,5
-17518097,tcapra,"Capra, Anthony",NBC News,Senior Assistant Manager,M,782,384,794,Thu Nov 20 18:40:17 +0000 2008,True,False,25.0,4.0,0.0,11.0,40.0,5,5
-17553400,NirajC,"Chokshi, Niraj",Washington Post,Reporter,M,7229,2396,3357,Sat Nov 22 05:31:39 +0000 2008,True,False,80.0,47.0,35.0,275.0,437.0,5,5
-19311787,Energyreporter,"Felker, Edward",CQ Roll Call,"Director, CQ Now",M,1081,1074,572,Wed Jan 21 22:22:57 +0000 2009,False,False,6.0,1.0,2.0,13.0,22.0,5,5
-211258358,AndrewUjifusa,"Ujifusa, Andrew",Education Week,Federal Politics & Policy Reporter,M,1923,1315,5997,Tue Nov 02 19:21:42 +0000 2010,False,False,66.0,5.0,34.0,60.0,165.0,5,5
-21314067,DavidFerris,"Ferris, David",E&E News,Staff Writer,M,2631,1197,3353,Thu Feb 19 16:38:29 +0000 2009,False,False,48.0,27.0,2.0,9.0,86.0,5,5
-2240941795,MPhillipsWSJ,"Phillips, Michael",Wall Street Journal / Dow Jones,Veterans Reporter,M,3173,368,1291,Wed Dec 11 15:20:57 +0000 2013,True,False,19.0,2.0,2.0,88.0,111.0,5,5
-28913831,wjlester,"Lester, William",Associated Press,Washington Editor,M,2310,2532,21146,Sun Apr 05 01:34:25 +0000 2009,True,False,112.0,49.0,7.0,559.0,727.0,5,5
-363997734,DannyVinik,"Vinik, Daniel R.",Politico,"Assistant Editor, Politico Agenda",M,3310,2043,20342,Mon Aug 29 01:28:03 +0000 2011,True,False,21.0,1.0,11.0,7.0,40.0,5,5
-39012674,MusCBS,"Bidar, Musadiq",CBS News,Broadcast Associate,M,367,345,6570,Sun May 10 07:08:40 +0000 2009,False,False,30.0,21.0,18.0,32.0,101.0,5,5
-39800314,borenbears,"Borenstein, Seth",Associated Press,Science Writer,M,11203,1627,5769,Wed May 13 17:39:21 +0000 2009,True,False,45.0,14.0,38.0,85.0,182.0,5,5
-47694175,SamFeistCNN,"Feist, Sam",CNN,Washington Bureau Chief,M,49715,238,1814,Tue Jun 16 18:05:40 +0000 2009,True,False,5.0,0.0,0.0,2.0,7.0,5,5
 59031230,Eugene_Robinson,"Robinson, Eugene",Washington Post,Columnist,M,274899,1040,1528,Wed Jul 22 04:11:45 +0000 2009,True,False,69.0,2.0,2.0,5.0,78.0,5,5
+47694175,SamFeistCNN,"Feist, Sam",CNN,Washington Bureau Chief,M,49715,238,1814,Tue Jun 16 18:05:40 +0000 2009,True,False,5.0,0.0,0.0,2.0,7.0,5,5
+39800314,borenbears,"Borenstein, Seth",Associated Press,Science Writer,M,11203,1627,5769,Wed May 13 17:39:21 +0000 2009,True,False,45.0,14.0,38.0,85.0,182.0,5,5
+17553400,NirajC,"Chokshi, Niraj",Washington Post,Reporter,M,7229,2396,3357,Sat Nov 22 05:31:39 +0000 2008,True,False,80.0,47.0,35.0,275.0,437.0,5,5
+363997734,DannyVinik,"Vinik, Daniel R.",Politico,"Assistant Editor, Politico Agenda",M,3310,2043,20342,Mon Aug 29 01:28:03 +0000 2011,True,False,21.0,1.0,11.0,7.0,40.0,5,5
+2240941795,MPhillipsWSJ,"Phillips, Michael",Wall Street Journal / Dow Jones,Veterans Reporter,M,3173,368,1291,Wed Dec 11 15:20:57 +0000 2013,True,False,19.0,2.0,2.0,88.0,111.0,5,5
+21314067,DavidFerris,"Ferris, David",E&E News,Staff Writer,M,2631,1197,3353,Thu Feb 19 16:38:29 +0000 2009,False,False,48.0,27.0,2.0,9.0,86.0,5,5
+1251763045,jostonjustice,"Jost, Kenneth W",CQ Researcher,Reporter,M,2363,951,10060,Fri Mar 08 13:37:23 +0000 2013,False,False,284.0,69.0,94.0,104.0,551.0,5,5
+28913831,wjlester,"Lester, William",Associated Press,Washington Editor,M,2310,2532,21146,Sun Apr 05 01:34:25 +0000 2009,True,False,112.0,49.0,7.0,559.0,727.0,5,5
 612071247,Moss_Eco,"Moss, Daniel",Bloomberg News,"Executive editor, Global Economics",M,2200,1961,801,Mon Jun 18 20:55:44 +0000 2012,False,False,22.0,9.0,0.0,14.0,45.0,5,5
-743964506,CNNWade,"Payson-Denney, Wade",CNN,"Producer, CNN Politics",M,1370,835,2004,Tue Aug 07 23:23:26 +0000 2012,False,False,3.0,7.0,10.0,4.0,24.0,5,5
+211258358,AndrewUjifusa,"Ujifusa, Andrew",Education Week,Federal Politics & Policy Reporter,M,1923,1315,5997,Tue Nov 02 19:21:42 +0000 2010,False,False,66.0,5.0,34.0,60.0,165.0,5,5
 80877566,scottlanman,"Lanman, Scott",Bloomberg News,U.S. Economic Indicators Team Leader,M,1774,970,1757,Thu Oct 08 15:52:15 +0000 2009,True,False,45.0,12.0,6.0,14.0,77.0,5,5
+743964506,CNNWade,"Payson-Denney, Wade",CNN,"Producer, CNN Politics",M,1370,835,2004,Tue Aug 07 23:23:26 +0000 2012,False,False,3.0,7.0,10.0,4.0,24.0,5,5
+19311787,Energyreporter,"Felker, Edward",CQ Roll Call,"Director, CQ Now",M,1081,1074,572,Wed Jan 21 22:22:57 +0000 2009,False,False,6.0,1.0,2.0,13.0,22.0,5,5
+17518097,tcapra,"Capra, Anthony",NBC News,Senior Assistant Manager,M,782,384,794,Thu Nov 20 18:40:17 +0000 2008,True,False,25.0,4.0,0.0,11.0,40.0,5,5
+39012674,MusCBS,"Bidar, Musadiq",CBS News,Broadcast Associate,M,367,345,6570,Sun May 10 07:08:40 +0000 2009,False,False,30.0,21.0,18.0,32.0,101.0,5,5
 125943165,Sam1Fleming,"Fleming, Sam",Financial Times,US Economics Editor,M,6799,399,4018,Wed Mar 24 10:27:00 +0000 2010,False,False,52.0,4.0,1.0,119.0,176.0,5,4
-15938122,blambrecht,"Lambrecht, William",Hearst Newspapers,"Washington Correspondent, San Antonio Express-News",M,3391,1897,4320,Thu Aug 21 22:56:10 +0000 2008,True,False,61.0,1.0,1.0,29.0,92.0,5,4
-16246426,mcgintyman,"McGinty, Derek",WUSA–TV,Co-Host,M,3912,582,8645,Thu Sep 11 19:43:39 +0000 2008,True,False,71.0,23.0,38.0,25.0,157.0,5,4
-310128043,gregorywallace,"Wallace, Gregory",CNN,Producer,M,2692,1762,2604,Fri Jun 03 07:19:44 +0000 2011,True,False,9.0,3.0,0.0,3.0,15.0,5,4
-34329929,JakeBGibson,"Gibson, Jake",Fox News,Producer,M,1049,1050,565,Wed Apr 22 17:09:33 +0000 2009,False,False,14.0,0.0,1.0,11.0,26.0,5,4
 55954443,NicoleCNN,"Gaouette, Nicole",CNN,National Security Reporter,M,4054,2094,7434,Sat Jul 11 22:59:55 +0000 2009,True,False,16.0,4.0,12.0,59.0,91.0,5,4
+16246426,mcgintyman,"McGinty, Derek",WUSA–TV,Co-Host,M,3912,582,8645,Thu Sep 11 19:43:39 +0000 2008,True,False,71.0,23.0,38.0,25.0,157.0,5,4
+15938122,blambrecht,"Lambrecht, William",Hearst Newspapers,"Washington Correspondent, San Antonio Express-News",M,3391,1897,4320,Thu Aug 21 22:56:10 +0000 2008,True,False,61.0,1.0,1.0,29.0,92.0,5,4
+310128043,gregorywallace,"Wallace, Gregory",CNN,Producer,M,2692,1762,2604,Fri Jun 03 07:19:44 +0000 2011,True,False,9.0,3.0,0.0,3.0,15.0,5,4
 825763346,MolaReports,"Lenghi, Abdulmola",WUSA–TV,Reporter,M,1777,1701,3807,Sat Sep 15 18:42:44 +0000 2012,True,False,80.0,36.0,18.0,110.0,244.0,5,4
-111664124,jonathan_miller,"Miller, Jonathan",CQ Roll Call,"Deputy Editor, CQ Magazine",M,266,266,2399,Fri Feb 05 18:46:01 +0000 2010,False,False,56.0,58.0,5.0,36.0,155.0,5,3
-16979745,87films,"Azzizada, Arash",Voice of America,Producer,M,2151,4369,41047,Sun Oct 26 12:41:57 +0000 2008,False,False,139.0,65.0,159.0,54.0,417.0,5,3
-195840785,chuckabbott1,"Abbott, Charles",FERN's Ag Insider,"Reporter, Farm, Food, Rural, Ag Policy",M,2236,310,4545,Mon Sep 27 18:10:58 +0000 2010,False,False,289.0,0.0,0.0,1.0,290.0,5,3
-197679007,jerharlanCNN,"Harlan, Jeremy",CNN,Photojournalist,M,1452,160,4210,Sat Oct 02 04:25:13 +0000 2010,False,False,28.0,7.0,11.0,19.0,65.0,5,3
-237454771,kevinkirbs,"Kirby, Kevin",Fox News,Assignment Editor,M,269,1120,2159,Wed Jan 12 21:55:17 +0000 2011,False,False,4.0,90.0,9.0,158.0,261.0,5,3
-288873580,C_C_Mitchell,"Mitchell, Corey",Education Week,Reporter,M,1777,1259,1690,Wed Apr 27 16:13:12 +0000 2011,False,False,13.0,2.0,1.0,3.0,19.0,5,3
+34329929,JakeBGibson,"Gibson, Jake",Fox News,Producer,M,1049,1050,565,Wed Apr 22 17:09:33 +0000 2009,False,False,14.0,0.0,1.0,11.0,26.0,5,4
 336076781,JJGreenWTOP,"Green, Jessie J.",WTOP Radio,National Security Correspondent,M,2442,276,4779,Fri Jul 15 18:13:15 +0000 2011,True,False,25.0,11.0,0.0,37.0,73.0,5,3
+195840785,chuckabbott1,"Abbott, Charles",FERN's Ag Insider,"Reporter, Farm, Food, Rural, Ag Policy",M,2236,310,4545,Mon Sep 27 18:10:58 +0000 2010,False,False,289.0,0.0,0.0,1.0,290.0,5,3
+16979745,87films,"Azzizada, Arash",Voice of America,Producer,M,2151,4369,41047,Sun Oct 26 12:41:57 +0000 2008,False,False,139.0,65.0,159.0,54.0,417.0,5,3
+288873580,C_C_Mitchell,"Mitchell, Corey",Education Week,Reporter,M,1777,1259,1690,Wed Apr 27 16:13:12 +0000 2011,False,False,13.0,2.0,1.0,3.0,19.0,5,3
+197679007,jerharlanCNN,"Harlan, Jeremy",CNN,Photojournalist,M,1452,160,4210,Sat Oct 02 04:25:13 +0000 2010,False,False,28.0,7.0,11.0,19.0,65.0,5,3
 714591936925999104,SmSellers,"Sellers, Steven M.",Bloomberg BNA,Legal Reporter,M,295,452,1532,Mon Mar 28 23:16:09 +0000 2016,False,False,87.0,7.0,6.0,206.0,306.0,5,3
+237454771,kevinkirbs,"Kirby, Kevin",Fox News,Assignment Editor,M,269,1120,2159,Wed Jan 12 21:55:17 +0000 2011,False,False,4.0,90.0,9.0,158.0,261.0,5,3
+111664124,jonathan_miller,"Miller, Jonathan",CQ Roll Call,"Deputy Editor, CQ Magazine",M,266,266,2399,Fri Feb 05 18:46:01 +0000 2010,False,False,56.0,58.0,5.0,36.0,155.0,5,3
 17845212,tteminWFED,"Temin, Thomas",Federal News Radio 1500 AM,Anchor & Columnist,M,1722,94,3942,Wed Dec 03 19:13:47 +0000 2008,False,False,13.0,1.0,0.0,1.0,15.0,5,2
+289037143,AtallahAmjad,"Atallah, Amjad",Aljazeera English,Regional Director for the Americas,M,1147,652,5736,Wed Apr 27 22:23:10 +0000 2011,False,False,83.0,27.0,6.0,366.0,482.0,5,2
 1869598704,PeterZampa,"Zampa, Peter",Gray Television,Washington Correspondent,M,807,539,2126,Mon Sep 16 00:06:01 +0000 2013,True,False,92.0,27.0,3.0,28.0,150.0,5,2
 287710661,BillMcConnellIV,"McConnell, William",Daily Deal,"Washington Bureau Chief, Antitrust Reporter",M,480,300,643,Mon Apr 25 14:47:29 +0000 2011,False,False,36.0,0.0,0.0,5.0,41.0,5,2
-289037143,AtallahAmjad,"Atallah, Amjad",Aljazeera English,Regional Director for the Americas,M,1147,652,5736,Wed Apr 27 22:23:10 +0000 2011,False,False,83.0,27.0,6.0,366.0,482.0,5,2
 472270797,WJCadigan,"Cadigan, Will",CNN,"Video Producer, State of the Union",M,477,894,1033,Mon Jan 23 19:39:36 +0000 2012,True,False,41.0,33.0,34.0,190.0,298.0,5,2
-130274805,Keith_Laing,"Laing, Keith",Detroit News,D.C. Correspondent,M,2927,2117,13312,Tue Apr 06 21:06:04 +0000 2010,True,False,37.0,0.0,0.0,12.0,49.0,5,1
 174491217,newyscruggs,"Scruggs, Wesley",NBC News,Radio Host,M,21024,827,84142,Wed Aug 04 01:52:21 +0000 2010,True,False,446.0,664.0,467.0,505.0,2082.0,5,1
-1407796441,RichMiller28,"Miller, Richard",Bloomberg News,Reporter,M,506,360,214,Mon May 06 13:44:41 +0000 2013,False,False,7.0,0.0,0.0,0.0,7.0,4,4
-14477880,stevechaggaris,"Chaggaris, Steven",CBS News,Political Director,M,4911,3096,1246,Tue Apr 22 18:01:23 +0000 2008,True,False,2.0,0.0,10.0,6.0,18.0,4,4
+130274805,Keith_Laing,"Laing, Keith",Detroit News,D.C. Correspondent,M,2927,2117,13312,Tue Apr 06 21:06:04 +0000 2010,True,False,37.0,0.0,0.0,12.0,49.0,5,1
 1552776714,jeffpeguescbs,"Pegues, Jeffrey",CBS News,Justice & Homeland Security Correspondent,M,31545,930,2689,Fri Jun 28 10:49:16 +0000 2013,True,False,26.0,1.0,3.0,0.0,30.0,4,4
-15781389,jarowley,"Rowley, James",Bloomberg News,Congressional Reporter,M,497,759,768,Fri Aug 08 18:47:51 +0000 2008,False,False,8.0,1.0,2.0,7.0,18.0,4,4
 16261445,MorningBriefing,"Farley, Tim",Sirius XM Satellite Radio,Radio Host,M,16159,897,23914,Fri Sep 12 18:57:01 +0000 2008,False,False,139.0,7.0,93.0,16.0,255.0,4,4
-17000028,jamesgibney,"Gibney, James",Bloomberg News,Editorial Writer,M,2120,938,15410,Mon Oct 27 15:11:53 +0000 2008,True,False,312.0,155.0,162.0,534.0,1163.0,4,4
-17765641,Temple_West,"Temple-West, Patrick C.",Politico,Financial Reporter,M,647,82,564,Sun Nov 30 23:30:51 +0000 2008,False,False,23.0,0.0,0.0,0.0,23.0,4,4
-18778634,mattyhoyeCNN,"Hoye, Matthew",CNN,Reporter & Producer,M,4247,1995,3567,Thu Jan 08 20:49:03 +0000 2009,True,False,19.0,6.0,3.0,18.0,46.0,4,4
-2434734717,CameraCrazyFox5,"Spevak, Joe",WTTG–Fox Television,Photojournalist,M,266,251,691,Tue Mar 25 03:34:38 +0000 2014,False,False,12.0,4.0,8.0,18.0,42.0,4,4
 24926288,SteveScully,"Scully, Steven",C–SPAN,"Political Editor & Host, Washington Journal",M,11327,4198,5348,Tue Mar 17 18:24:41 +0000 2009,True,False,15.0,1.0,0.0,51.0,67.0,4,4
-26005969,greenblattmark,"Greenblatt, Mark",Scripps News,Investigative Correspondent,M,1836,1023,1600,Mon Mar 23 14:06:05 +0000 2009,False,False,20.0,8.0,0.0,3.0,31.0,4,4
-27584242,JDDsays,"Domen, John",WNEW / CBS DC,Anchor and Producer,M,1101,413,15078,Mon Mar 30 04:30:41 +0000 2009,False,False,44.0,20.0,84.0,17.0,165.0,4,4
 309883487,AlHuntDC,"Hunt, Albert",Bloomberg News,"Columnist, Bloomberg View",M,11209,188,521,Thu Jun 02 20:48:34 +0000 2011,True,False,15.0,0.0,0.0,0.0,15.0,4,4
 330400536,JobyWarrick,"Warrick, Joby",Washington Post,National Security Reporter,M,6812,454,122,Wed Jul 06 15:24:51 +0000 2011,True,False,10.0,5.0,3.0,1.0,19.0,4,4
+14477880,stevechaggaris,"Chaggaris, Steven",CBS News,Political Director,M,4911,3096,1246,Tue Apr 22 18:01:23 +0000 2008,True,False,2.0,0.0,10.0,6.0,18.0,4,4
+18778634,mattyhoyeCNN,"Hoye, Matthew",CNN,Reporter & Producer,M,4247,1995,3567,Thu Jan 08 20:49:03 +0000 2009,True,False,19.0,6.0,3.0,18.0,46.0,4,4
 497455568,WatermanReports,"Waterman, Shaun N.",Scoop News,Cybersecurity Reporter,M,2312,2100,2889,Mon Feb 20 00:57:21 +0000 2012,False,False,152.0,6.0,12.0,68.0,238.0,4,4
-587725632,HotakainenRob,"Hotakainen, Rob",McClatchy Newspapers,Washington Correspondent,M,885,647,3503,Tue May 22 18:29:31 +0000 2012,False,False,17.0,0.0,1.0,81.0,99.0,4,4
+17000028,jamesgibney,"Gibney, James",Bloomberg News,Editorial Writer,M,2120,938,15410,Mon Oct 27 15:11:53 +0000 2008,True,False,312.0,155.0,162.0,534.0,1163.0,4,4
+26005969,greenblattmark,"Greenblatt, Mark",Scripps News,Investigative Correspondent,M,1836,1023,1600,Mon Mar 23 14:06:05 +0000 2009,False,False,20.0,8.0,0.0,3.0,31.0,4,4
 65091778,DanielPMalloy,"Malloy, Daniel",Ozy,Politics & Business Reporter,M,1300,528,5999,Wed Aug 12 17:05:09 +0000 2009,True,False,38.0,10.0,18.0,36.0,102.0,4,4
-119179453,haik_gugarats,"Gugarats, Haik",Argus Media,Global Energy Politics Reporter,M,325,1266,940,Tue Mar 02 22:23:38 +0000 2010,False,False,7.0,18.0,2.0,12.0,39.0,4,3
-183212100,JohnJessupCBN,"Jessup, John",CBN News,News Anchor,M,2041,704,2235,Thu Aug 26 12:35:59 +0000 2010,False,False,9.0,1.0,3.0,46.0,59.0,4,3
-24239923,rorol,"Orol, Ron",Daily Deal,Reporter,M,2495,1832,4100,Fri Mar 13 19:59:13 +0000 2009,False,False,144.0,0.0,3.0,84.0,231.0,4,3
-248088312,dalykyle,"Daly, Kyle",Bloomberg BNA,"Senior Reporter, Tech & Telecom Policy",M,1214,1087,4508,Sun Feb 06 06:33:04 +0000 2011,True,False,62.0,8.0,367.0,40.0,477.0,4,3
-3161681103,hsu_spencer,"Hsu, Spencer",Washington Post,Legal Reporter,M,1436,145,293,Mon Apr 13 01:00:11 +0000 2015,False,False,13.0,2.0,0.0,14.0,29.0,4,3
-35754345,danielnasaw,"Nasaw, Daniel",Wall Street Journal / Dow Jones,"Editor, Washington Bureua",M,2707,1203,8209,Mon Apr 27 14:29:18 +0000 2009,True,False,58.0,36.0,11.0,62.0,167.0,4,3
-36246939,malbertnews,"Albert, Mark",The Voyage Report,Editor-in-Chief,M,3575,83,28230,Wed Apr 29 01:41:26 +0000 2009,True,False,1078.0,21.0,21.0,31.0,1151.0,4,3
-39254779,chrispknight,"Knight, Chris",Argus Media,Energy Policy Reporter,M,676,469,1137,Mon May 11 13:53:57 +0000 2009,False,False,15.0,4.0,5.0,3.0,27.0,4,3
+27584242,JDDsays,"Domen, John",WNEW / CBS DC,Anchor and Producer,M,1101,413,15078,Mon Mar 30 04:30:41 +0000 2009,False,False,44.0,20.0,84.0,17.0,165.0,4,4
+587725632,HotakainenRob,"Hotakainen, Rob",McClatchy Newspapers,Washington Correspondent,M,885,647,3503,Tue May 22 18:29:31 +0000 2012,False,False,17.0,0.0,1.0,81.0,99.0,4,4
+17765641,Temple_West,"Temple-West, Patrick C.",Politico,Financial Reporter,M,647,82,564,Sun Nov 30 23:30:51 +0000 2008,False,False,23.0,0.0,0.0,0.0,23.0,4,4
+1407796441,RichMiller28,"Miller, Richard",Bloomberg News,Reporter,M,506,360,214,Mon May 06 13:44:41 +0000 2013,False,False,7.0,0.0,0.0,0.0,7.0,4,4
+15781389,jarowley,"Rowley, James",Bloomberg News,Congressional Reporter,M,497,759,768,Fri Aug 08 18:47:51 +0000 2008,False,False,8.0,1.0,2.0,7.0,18.0,4,4
+2434734717,CameraCrazyFox5,"Spevak, Joe",WTTG–Fox Television,Photojournalist,M,266,251,691,Tue Mar 25 03:34:38 +0000 2014,False,False,12.0,4.0,8.0,18.0,42.0,4,4
 48802204,HardballChris,"Matthews, Chris",NBC News,"Host, Hardball",M,718330,350,1037,Fri Jun 19 19:29:58 +0000 2009,True,False,7.0,0.0,0.0,2.0,9.0,4,3
-513664497,datlowen,"Datlowe, Nicholas A.",Bloomberg BNA,Supreme Court Reporter,M,80,164,82,Sat Mar 03 22:17:28 +0000 2012,False,False,3.0,2.0,1.0,0.0,6.0,4,3
 8834412,MtthwRose,"Rose, Matthew",Wall Street Journal / Dow Jones,Enterprise Editor,M,3711,964,5844,Wed Sep 12 14:48:33 +0000 2007,True,False,25.0,3.0,3.0,4.0,35.0,4,3
+36246939,malbertnews,"Albert, Mark",The Voyage Report,Editor-in-Chief,M,3575,83,28230,Wed Apr 29 01:41:26 +0000 2009,True,False,1078.0,21.0,21.0,31.0,1151.0,4,3
+35754345,danielnasaw,"Nasaw, Daniel",Wall Street Journal / Dow Jones,"Editor, Washington Bureua",M,2707,1203,8209,Mon Apr 27 14:29:18 +0000 2009,True,False,58.0,36.0,11.0,62.0,167.0,4,3
+24239923,rorol,"Orol, Ron",Daily Deal,Reporter,M,2495,1832,4100,Fri Mar 13 19:59:13 +0000 2009,False,False,144.0,0.0,3.0,84.0,231.0,4,3
+183212100,JohnJessupCBN,"Jessup, John",CBN News,News Anchor,M,2041,704,2235,Thu Aug 26 12:35:59 +0000 2010,False,False,9.0,1.0,3.0,46.0,59.0,4,3
+3161681103,hsu_spencer,"Hsu, Spencer",Washington Post,Legal Reporter,M,1436,145,293,Mon Apr 13 01:00:11 +0000 2015,False,False,13.0,2.0,0.0,14.0,29.0,4,3
+248088312,dalykyle,"Daly, Kyle",Bloomberg BNA,"Senior Reporter, Tech & Telecom Policy",M,1214,1087,4508,Sun Feb 06 06:33:04 +0000 2011,True,False,62.0,8.0,367.0,40.0,477.0,4,3
+39254779,chrispknight,"Knight, Chris",Argus Media,Energy Policy Reporter,M,676,469,1137,Mon May 11 13:53:57 +0000 2009,False,False,15.0,4.0,5.0,3.0,27.0,4,3
+119179453,haik_gugarats,"Gugarats, Haik",Argus Media,Global Energy Politics Reporter,M,325,1266,940,Tue Mar 02 22:23:38 +0000 2010,False,False,7.0,18.0,2.0,12.0,39.0,4,3
+513664497,datlowen,"Datlowe, Nicholas A.",Bloomberg BNA,Supreme Court Reporter,M,80,164,82,Sat Mar 03 22:17:28 +0000 2012,False,False,3.0,2.0,1.0,0.0,6.0,4,3
 179478740,JohnAaronWTOP,"Aaron, John",WTOP Radio,News Anchor & Reporter,M,1032,261,922,Tue Aug 17 11:42:01 +0000 2010,False,False,19.0,0.0,1.0,1.0,21.0,4,2
 237853203,jserbuWFED,"Serbu, Jared",Federal News Radio 1500 AM,Deputy Editor & DoD Reporter,M,930,378,482,Thu Jan 13 19:56:35 +0000 2011,False,False,10.0,0.0,4.0,14.0,28.0,4,2
+52393892,PBVogel,"Vogel, Phil",Fox News,"Line Producer, Special Report",M,512,591,8215,Tue Jun 30 13:29:12 +0000 2009,False,False,88.0,15.0,30.0,40.0,173.0,4,2
 240282772,PUrbanDC,"Urban, Peter",Stephens Media Group,Reporter,M,510,281,4218,Wed Jan 19 15:32:40 +0000 2011,False,False,7.0,15.0,18.0,79.0,119.0,4,2
 4322869372,davelawder,"Lawder, David",Thomson Reuters,Global Trade Reporter,M,235,131,420,Sun Nov 29 23:13:27 +0000 2015,False,False,35.0,1.0,0.0,15.0,51.0,4,2
-52393892,PBVogel,"Vogel, Phil",Fox News,"Line Producer, Special Report",M,512,591,8215,Tue Jun 30 13:29:12 +0000 2009,False,False,88.0,15.0,30.0,40.0,173.0,4,2
 52724312,ErickStakelbeck,"Stakelbeck, Erick",Trinity Broadcast Network,"Host, The Watchman Show",M,10487,341,6427,Wed Jul 01 13:26:43 +0000 2009,False,False,130.0,0.0,0.0,105.0,235.0,4,1
 59804000,MichaelRileyDC,"Riley, Michael",Bloomberg News,Reporter,M,1381,305,211,Fri Jul 24 15:05:33 +0000 2009,False,False,15.0,0.0,3.0,0.0,18.0,4,1
-112814095,AndyTriay,"Triay, Andres",CBS News,"Justice & Homeland Security Producer, CBS Evening News",M,758,443,283,Tue Feb 09 20:03:43 +0000 2010,False,False,3.0,0.0,1.0,8.0,12.0,3,3
+2984161,josh_levin,"Levin, Joshua",Slate,Executive Editor,M,13921,1130,5708,Fri Mar 30 15:45:13 +0000 2007,True,False,38.0,5.0,22.0,29.0,94.0,3,3
+223870860,PierreTABC,"Thomas, Pierre",ABC News,Justice Correspondent,M,13866,19,471,Tue Dec 07 15:17:56 +0000 2010,True,False,19.0,0.0,0.0,5.0,24.0,3,3
+94093747,patcollins4,"Collins, Pat",WRC–TV / NBC–4,Reporter,M,10717,171,706,Wed Dec 02 13:53:04 +0000 2009,True,False,36.0,0.0,1.0,0.0,37.0,3,3
+397542335,PostKranish,"Kranish, Michael",Boston Globe,Investigative Reporter,M,5168,1281,3213,Mon Oct 24 20:43:57 +0000 2011,True,False,15.0,5.0,0.0,62.0,82.0,3,3
+15730608,edroso,"Edroso, Roy",UCG,"Editor, DecisionHealth",M,4696,1653,38064,Tue Aug 05 01:29:22 +0000 2008,False,False,344.0,379.0,446.0,1714.0,2883.0,3,3
+36696370,David_Kerley,"Kerley, David",ABC News,Correspondent,M,4024,178,2792,Thu Apr 30 15:57:00 +0000 2009,True,False,32.0,24.0,0.0,51.0,107.0,3,3
+246989901,mktwrobs,"Schroeder, Robert",MarketWatch,Washington Reporter & Capitol Report Curator,M,3207,3520,7540,Thu Feb 03 21:37:42 +0000 2011,True,False,45.0,3.0,2.0,25.0,75.0,3,3
+20384533,michaelcoleman,"Coleman, Michael",Albuquerque Journal,Washington Correspondent,M,2895,1840,12595,Sun Feb 08 18:58:54 +0000 2009,False,False,72.0,46.0,5.0,296.0,419.0,3,3
+1620806917,marisaataylor,"Taylor, Marisa",Kaiser Health News,Investigative Reporter,M,2066,3420,6585,Thu Jul 25 16:36:25 +0000 2013,True,False,44.0,0.0,1.0,138.0,183.0,3,3
+23645920,jimmichaels,"Michaels, Jim",USA Today,Reporter,M,2058,1263,1902,Tue Mar 10 20:13:39 +0000 2009,False,False,58.0,5.0,1.0,30.0,94.0,3,3
+68482261,JerryZremski,"Zremski, Jerry",Buffalo News,Washington Bureau Chief,M,1861,830,2855,Mon Aug 24 18:57:45 +0000 2009,False,False,87.0,6.0,6.0,9.0,108.0,3,3
+395295796,jforsythe23,"Forsythe, Jonathan",McClatchy,Director,M,1495,2221,4488,Fri Oct 21 13:04:06 +0000 2011,True,False,32.0,4.0,1.0,20.0,57.0,3,3
 114015870,CostantiniWW1,"Costantini, Bob",Westwood One,Washington Correspondent,M,1453,73,19061,Sat Feb 13 20:24:07 +0000 2010,False,False,652.0,5.0,0.0,7.0,664.0,3,3
+2976622546,wusa9blord,"Lord, William",WUSA–TV,News Director,M,1343,1100,982,Tue Jan 13 15:18:53 +0000 2015,True,False,11.0,3.0,1.0,1.0,16.0,3,3
+2585044381,LovelaceRyanD,"Lovelace, Ryan",Washington Examiner,Politics Reporter,M,1289,649,4054,Tue Jun 24 03:35:17 +0000 2014,False,False,34.0,3.0,14.0,123.0,174.0,3,3
+2961054832,joshkurtznews,"Kurtz, Josh",E&E News,Editor,M,1258,819,698,Sun Jan 04 22:04:27 +0000 2015,False,False,5.0,2.0,1.0,0.0,8.0,3,3
 126709077,MarkTCSM,"Trumbull, Mark",Christian Science Monitor,Environment & Energy Editor,M,1252,1175,3577,Fri Mar 26 18:58:27 +0000 2010,True,False,29.0,2.0,1.0,21.0,53.0,3,3
 14245722,georgecondon,"Condon, Jr., George",National Journal,White House Correspondent,M,1242,568,111,Fri Mar 28 18:15:06 +0000 2008,False,False,2.0,0.0,1.0,0.0,3.0,3,3
-15597976,JamesScott2,"Scott, James",WJLA–TV / Newschannel 8,Senior Editor,M,937,920,4920,Fri Jul 25 13:52:28 +0000 2008,False,False,22.0,10.0,43.0,52.0,127.0,3,3
-15730608,edroso,"Edroso, Roy",UCG,"Editor, DecisionHealth",M,4696,1653,38064,Tue Aug 05 01:29:22 +0000 2008,False,False,344.0,379.0,446.0,1714.0,2883.0,3,3
-1620806917,marisaataylor,"Taylor, Marisa",Kaiser Health News,Investigative Reporter,M,2066,3420,6585,Thu Jul 25 16:36:25 +0000 2013,True,False,44.0,0.0,1.0,138.0,183.0,3,3
-184918279,kellanhowell,"Howell, Kellan",Circa,Congressional Correspondent,M,767,1003,4794,Mon Aug 30 20:19:30 +0000 2010,False,False,143.0,26.0,5.0,107.0,281.0,3,3
 1963162166,mkmatthews,"Matthews, Mark",Denver Post,Washington Correspondent,M,1140,300,1902,Tue Oct 15 18:26:20 +0000 2013,True,False,27.0,0.0,10.0,184.0,221.0,3,3
-20384533,michaelcoleman,"Coleman, Michael",Albuquerque Journal,Washington Correspondent,M,2895,1840,12595,Sun Feb 08 18:58:54 +0000 2009,False,False,72.0,46.0,5.0,296.0,419.0,3,3
-223870860,PierreTABC,"Thomas, Pierre",ABC News,Justice Correspondent,M,13866,19,471,Tue Dec 07 15:17:56 +0000 2010,True,False,19.0,0.0,0.0,5.0,24.0,3,3
-23645920,jimmichaels,"Michaels, Jim",USA Today,Reporter,M,2058,1263,1902,Tue Mar 10 20:13:39 +0000 2009,False,False,58.0,5.0,1.0,30.0,94.0,3,3
-2431125427,Brian_Faler,"Faler, Brian D.",Politico,Senior Tax Reporter,M,972,421,712,Sun Apr 06 23:16:12 +0000 2014,True,False,26.0,1.0,0.0,0.0,27.0,3,3
-245988118,ahmannt,"Ahmann, Timothy",Thomson Reuters,Editor,M,628,732,4624,Tue Feb 01 22:04:10 +0000 2011,False,False,40.0,33.0,3.0,76.0,152.0,3,3
-246989901,mktwrobs,"Schroeder, Robert",MarketWatch,Washington Reporter & Capitol Report Curator,M,3207,3520,7540,Thu Feb 03 21:37:42 +0000 2011,True,False,45.0,3.0,2.0,25.0,75.0,3,3
-2585044381,LovelaceRyanD,"Lovelace, Ryan",Washington Examiner,Politics Reporter,M,1289,649,4054,Tue Jun 24 03:35:17 +0000 2014,False,False,34.0,3.0,14.0,123.0,174.0,3,3
-26648594,kelvin_robinson,"Robinson, Kelvin",WRC–TV / NBC–4,Content Producer,M,618,1101,767,Thu Mar 26 01:03:48 +0000 2009,False,False,8.0,5.0,0.0,7.0,20.0,3,3
-2961054832,joshkurtznews,"Kurtz, Josh",E&E News,Editor,M,1258,819,698,Sun Jan 04 22:04:27 +0000 2015,False,False,5.0,2.0,1.0,0.0,8.0,3,3
-2976622546,wusa9blord,"Lord, William",WUSA–TV,News Director,M,1343,1100,982,Tue Jan 13 15:18:53 +0000 2015,True,False,11.0,3.0,1.0,1.0,16.0,3,3
-2984161,josh_levin,"Levin, Joshua",Slate,Executive Editor,M,13921,1130,5708,Fri Mar 30 15:45:13 +0000 2007,True,False,38.0,5.0,22.0,29.0,94.0,3,3
-307706217,Spencer_Chase,"Chase, Spencer",Agri-Pulse,Associate Editor,M,617,584,4228,Mon May 30 04:22:56 +0000 2011,False,False,29.0,20.0,54.0,1.0,104.0,3,3
-345786040,TweetingGeet,"Jeswani, Geet",Real Clear Politics,Producer,M,911,506,3654,Sun Jul 31 05:06:18 +0000 2011,True,False,153.0,8.0,86.0,403.0,650.0,3,3
-36696370,David_Kerley,"Kerley, David",ABC News,Correspondent,M,4024,178,2792,Thu Apr 30 15:57:00 +0000 2009,True,False,32.0,24.0,0.0,51.0,107.0,3,3
-395295796,jforsythe23,"Forsythe, Jonathan",McClatchy,Director,M,1495,2221,4488,Fri Oct 21 13:04:06 +0000 2011,True,False,32.0,4.0,1.0,20.0,57.0,3,3
-397542335,PostKranish,"Kranish, Michael",Boston Globe,Investigative Reporter,M,5168,1281,3213,Mon Oct 24 20:43:57 +0000 2011,True,False,15.0,5.0,0.0,62.0,82.0,3,3
-41129876,leepowellTV,"Powell, Lee:",Washingtonpost.com,Video Reporter,M,389,214,945,Tue May 19 14:50:56 +0000 2009,True,False,25.0,0.0,0.0,5.0,30.0,3,3
-45787554,obedienttither,"Bost, Mark",WUSA–TV,Photographer,M,259,282,2707,Tue Jun 09 07:19:55 +0000 2009,False,False,11.0,0.0,5.0,81.0,97.0,3,3
-4895359072,siforbes67,"Forbes, Sean I.",Bloomberg BNA,Retirement & Benefits Reporter,M,344,534,804,Wed Feb 10 16:06:48 +0000 2016,True,False,26.0,48.0,1.0,58.0,133.0,3,3
-68482261,JerryZremski,"Zremski, Jerry",Buffalo News,Washington Bureau Chief,M,1861,830,2855,Mon Aug 24 18:57:45 +0000 2009,False,False,87.0,6.0,6.0,9.0,108.0,3,3
 87473031,RandyLeonard,"Leonard, Randall",CQ Roll Call,"Deputy Editor, CQ Magazine",M,1059,2062,3778,Wed Nov 04 16:19:41 +0000 2009,False,False,2.0,4.0,7.0,45.0,58.0,3,3
-94093747,patcollins4,"Collins, Pat",WRC–TV / NBC–4,Reporter,M,10717,171,706,Wed Dec 02 13:53:04 +0000 2009,True,False,36.0,0.0,1.0,0.0,37.0,3,3
-116877154,PhilipBrasher,"Brasher, Philip D.",Agri-Pulse,Senior Editor,M,6126,1781,4747,Tue Feb 23 21:22:07 +0000 2010,False,False,29.0,11.0,0.0,19.0,59.0,3,2
-1246438250,jimhoward529,"Howard, Jim",St. Louis Public Radio,Washington Correspondent,M,84,98,3701,Wed Mar 06 16:11:56 +0000 2013,False,False,21.0,9.0,44.0,71.0,145.0,3,2
-12491732,franzstrasser,"Strasser, Franz",BBC,Digital Producer,M,4148,651,10203,Mon Jan 21 12:43:23 +0000 2008,True,False,13.0,10.0,12.0,10.0,45.0,3,2
+2431125427,Brian_Faler,"Faler, Brian D.",Politico,Senior Tax Reporter,M,972,421,712,Sun Apr 06 23:16:12 +0000 2014,True,False,26.0,1.0,0.0,0.0,27.0,3,3
+15597976,JamesScott2,"Scott, James",WJLA–TV / Newschannel 8,Senior Editor,M,937,920,4920,Fri Jul 25 13:52:28 +0000 2008,False,False,22.0,10.0,43.0,52.0,127.0,3,3
+345786040,TweetingGeet,"Jeswani, Geet",Real Clear Politics,Producer,M,911,506,3654,Sun Jul 31 05:06:18 +0000 2011,True,False,153.0,8.0,86.0,403.0,650.0,3,3
+184918279,kellanhowell,"Howell, Kellan",Circa,Congressional Correspondent,M,767,1003,4794,Mon Aug 30 20:19:30 +0000 2010,False,False,143.0,26.0,5.0,107.0,281.0,3,3
+112814095,AndyTriay,"Triay, Andres",CBS News,"Justice & Homeland Security Producer, CBS Evening News",M,758,443,283,Tue Feb 09 20:03:43 +0000 2010,False,False,3.0,0.0,1.0,8.0,12.0,3,3
+245988118,ahmannt,"Ahmann, Timothy",Thomson Reuters,Editor,M,628,732,4624,Tue Feb 01 22:04:10 +0000 2011,False,False,40.0,33.0,3.0,76.0,152.0,3,3
+26648594,kelvin_robinson,"Robinson, Kelvin",WRC–TV / NBC–4,Content Producer,M,618,1101,767,Thu Mar 26 01:03:48 +0000 2009,False,False,8.0,5.0,0.0,7.0,20.0,3,3
+307706217,Spencer_Chase,"Chase, Spencer",Agri-Pulse,Associate Editor,M,617,584,4228,Mon May 30 04:22:56 +0000 2011,False,False,29.0,20.0,54.0,1.0,104.0,3,3
+41129876,leepowellTV,"Powell, Lee:",Washingtonpost.com,Video Reporter,M,389,214,945,Tue May 19 14:50:56 +0000 2009,True,False,25.0,0.0,0.0,5.0,30.0,3,3
+4895359072,siforbes67,"Forbes, Sean I.",Bloomberg BNA,Retirement & Benefits Reporter,M,344,534,804,Wed Feb 10 16:06:48 +0000 2016,True,False,26.0,48.0,1.0,58.0,133.0,3,3
+45787554,obedienttither,"Bost, Mark",WUSA–TV,Photographer,M,259,282,2707,Tue Jun 09 07:19:55 +0000 2009,False,False,11.0,0.0,5.0,81.0,97.0,3,3
 161752401,michaelshure,"Shure, Michael",Aljazeera America,Former Chief Political Correspondent,M,32049,893,31647,Thu Jul 01 17:42:43 +0000 2010,True,False,64.0,69.0,208.0,565.0,906.0,3,2
-16636243,skrybe,"Christensen, Mike",CQ Roll Call,Senior Editor,M,491,583,2197,Tue Oct 07 20:18:45 +0000 2008,False,False,35.0,0.0,0.0,105.0,140.0,3,2
-17092381,grobb2000,"Robb, Gregory",MarketWatch,Federal Reserve & Treasury Reporter,M,2244,1336,4660,Fri Oct 31 20:45:39 +0000 2008,True,False,12.0,0.0,27.0,184.0,223.0,3,2
-18319544,Michael_Ollove,"Ollove, Michael",Stateline.org,Senior Health Policy Reporter,M,427,190,857,Mon Dec 22 22:41:00 +0000 2008,False,False,31.0,0.0,0.0,1.0,32.0,3,2
-1965515724,KenDoyle16,"Doyle, Kenneth P.",Bloomberg BNA,"Senior Editor, Money & Politics Report",M,505,424,364,Wed Oct 16 21:26:54 +0000 2013,False,False,19.0,0.0,1.0,2.0,22.0,3,2
 21010253,LelandVittert,"Vittert, Leland",Fox News,Anchor & Correspondent,M,11468,824,1370,Mon Feb 16 18:23:10 +0000 2009,True,False,8.0,20.0,0.0,24.0,52.0,3,2
 24876649,gbrumfiel,"Brumfiel, Geoff",National Public Radio,Editor / Science Correspondent,M,6295,1012,10246,Tue Mar 17 12:54:31 +0000 2009,True,False,13.0,9.0,15.0,55.0,92.0,3,2
-270944758,skomarow,"Komarow, Steven",CQ Roll Call,Senior Vice President and Executive Editor,M,594,204,2205,Wed Mar 23 15:08:21 +0000 2011,False,False,5.0,0.0,0.0,1.0,6.0,3,2
-394689241,AlanLevin1,"Levin, Alan",Bloomberg News,Aviation Safety Reporter,M,762,172,637,Thu Oct 20 13:38:26 +0000 2011,False,False,28.0,5.0,0.0,11.0,44.0,3,2
-44520064,MichaelCopley,"Copley, Michael",S&P Global Market Intelligence,Energy and Finance Reporter,M,1041,1137,1321,Thu Jun 04 02:08:53 +0000 2009,False,False,18.0,3.0,0.0,99.0,120.0,3,2
+116877154,PhilipBrasher,"Brasher, Philip D.",Agri-Pulse,Senior Editor,M,6126,1781,4747,Tue Feb 23 21:22:07 +0000 2010,False,False,29.0,11.0,0.0,19.0,59.0,3,2
+70442821,DoyleMcManus,"McManus, Doyle",Los Angeles Times,Washington Columnist,M,4729,726,1518,Mon Aug 31 17:06:03 +0000 2009,True,False,14.0,0.0,1.0,5.0,20.0,3,2
+12491732,franzstrasser,"Strasser, Franz",BBC,Digital Producer,M,4148,651,10203,Mon Jan 21 12:43:23 +0000 2008,True,False,13.0,10.0,12.0,10.0,45.0,3,2
+17092381,grobb2000,"Robb, Gregory",MarketWatch,Federal Reserve & Treasury Reporter,M,2244,1336,4660,Fri Oct 31 20:45:39 +0000 2008,True,False,12.0,0.0,27.0,184.0,223.0,3,2
 48075214,johnhendren,"Hendren, John",Aljazeera English,Correspondent,M,2006,1803,4383,Wed Jun 17 19:09:31 +0000 2009,True,False,31.0,22.0,16.0,13.0,82.0,3,2
 567865993,MarkWeinerDC,"Weiner, Mark",Syracuse Post-Standard,Washington Correspondent,M,1664,1113,2629,Tue May 01 04:51:03 +0000 2012,False,False,57.0,0.0,2.0,0.0,59.0,3,2
 58287227,jpballoujourn1,"Ballou, Jeff",Aljazeera English,Reporter,M,1374,2409,7316,Sun Jul 19 20:34:34 +0000 2009,False,False,88.0,3.0,1.0,8.0,100.0,3,2
-70442821,DoyleMcManus,"McManus, Doyle",Los Angeles Times,Washington Columnist,M,4729,726,1518,Mon Aug 31 17:06:03 +0000 2009,True,False,14.0,0.0,1.0,5.0,20.0,3,2
-776569014,vmontoroCSPAN,"Montoro, Victor",C–SPAN,Producer,M,401,495,1267,Thu Aug 23 19:10:22 +0000 2012,False,False,2.0,0.0,0.0,13.0,15.0,3,2
+44520064,MichaelCopley,"Copley, Michael",S&P Global Market Intelligence,Energy and Finance Reporter,M,1041,1137,1321,Thu Jun 04 02:08:53 +0000 2009,False,False,18.0,3.0,0.0,99.0,120.0,3,2
+394689241,AlanLevin1,"Levin, Alan",Bloomberg News,Aviation Safety Reporter,M,762,172,637,Thu Oct 20 13:38:26 +0000 2011,False,False,28.0,5.0,0.0,11.0,44.0,3,2
 780221130,loren_duggan,"Duggan, Loren",Bloomberg Government,Head of Govt Affairs Content,M,597,899,939,Sat Aug 25 12:32:20 +0000 2012,False,False,4.0,0.0,6.0,17.0,27.0,3,2
-12917252,mikegruss,"Gruss, Michael",Manifest,Senior Editor,M,1825,743,5799,Thu Jan 31 20:41:14 +0000 2008,False,False,21.0,5.0,33.0,7.0,66.0,3,1
-133074740,luism8989,"Mazariegos, Luis",To The Contrary (Persephone Productions),Producer,M,3835,2590,16302,Wed Apr 14 23:41:09 +0000 2010,False,False,177.0,52.0,647.0,1.0,877.0,3,1
-15909423,MathewFriedman,"Friedman, Mathew",AP–Broadcast,Supervisor & Video Producer,M,703,1527,9102,Tue Aug 19 20:53:10 +0000 2008,False,False,68.0,48.0,9.0,252.0,377.0,3,1
+270944758,skomarow,"Komarow, Steven",CQ Roll Call,Senior Vice President and Executive Editor,M,594,204,2205,Wed Mar 23 15:08:21 +0000 2011,False,False,5.0,0.0,0.0,1.0,6.0,3,2
+1965515724,KenDoyle16,"Doyle, Kenneth P.",Bloomberg BNA,"Senior Editor, Money & Politics Report",M,505,424,364,Wed Oct 16 21:26:54 +0000 2013,False,False,19.0,0.0,1.0,2.0,22.0,3,2
+16636243,skrybe,"Christensen, Mike",CQ Roll Call,Senior Editor,M,491,583,2197,Tue Oct 07 20:18:45 +0000 2008,False,False,35.0,0.0,0.0,105.0,140.0,3,2
+18319544,Michael_Ollove,"Ollove, Michael",Stateline.org,Senior Health Policy Reporter,M,427,190,857,Mon Dec 22 22:41:00 +0000 2008,False,False,31.0,0.0,0.0,1.0,32.0,3,2
+776569014,vmontoroCSPAN,"Montoro, Victor",C–SPAN,Producer,M,401,495,1267,Thu Aug 23 19:10:22 +0000 2012,False,False,2.0,0.0,0.0,13.0,15.0,3,2
+1246438250,jimhoward529,"Howard, Jim",St. Louis Public Radio,Washington Correspondent,M,84,98,3701,Wed Mar 06 16:11:56 +0000 2013,False,False,21.0,9.0,44.0,71.0,145.0,3,2
 176450747,JohnPrideaux,"Prideaux, John",Economist,U.S. Editor,M,4913,307,1211,Mon Aug 09 15:36:15 +0000 2010,True,False,22.0,3.0,14.0,35.0,74.0,3,1
+133074740,luism8989,"Mazariegos, Luis",To The Contrary (Persephone Productions),Producer,M,3835,2590,16302,Wed Apr 14 23:41:09 +0000 2010,False,False,177.0,52.0,647.0,1.0,877.0,3,1
+12917252,mikegruss,"Gruss, Michael",Manifest,Senior Editor,M,1825,743,5799,Thu Jan 31 20:41:14 +0000 2008,False,False,21.0,5.0,33.0,7.0,66.0,3,1
+15909423,MathewFriedman,"Friedman, Mathew",AP–Broadcast,Supervisor & Video Producer,M,703,1527,9102,Tue Aug 19 20:53:10 +0000 2008,False,False,68.0,48.0,9.0,252.0,377.0,3,1
 409474366,websterjc,"Webster, James C.",,Freelance Reporter,M,148,87,4930,Thu Nov 10 19:52:26 +0000 2011,False,False,15.0,72.0,8.0,83.0,178.0,3,1
-102718971,brinaylor,"Naylor, Brian",National Public Radio,Correspondent,M,2096,521,1003,Thu Jan 07 16:13:44 +0000 2010,True,False,14.0,9.0,2.0,72.0,97.0,2,2
-1074766820,JohnMogor,"Mogor, John",WUSA–TV,Multimedia Photojournalist,M,184,364,65,Wed Jan 09 20:10:28 +0000 2013,False,False,1.0,0.0,0.0,0.0,1.0,2,2
-1099479379,PaulWisemanAP,"Wiseman, Paul",Associated Press,Economy Reporter,M,1352,591,898,Thu Jan 17 22:52:13 +0000 2013,False,False,1.0,1.0,1.0,55.0,58.0,2,2
-1113035743,RandallPinkston,"Pinkston, Randall",,Freelance Reporter,M,891,1075,2002,Wed Jan 23 00:42:07 +0000 2013,True,False,32.0,0.0,1.0,6.0,39.0,2,2
-1198644368,sgreenberger,"Greenberger, Scott",Stateline.org,Editor,M,1131,2103,4100,Tue Feb 19 21:00:55 +0000 2013,False,False,49.0,1.0,4.0,47.0,101.0,2,2
-123585060,adammaytv,"May, Adam",WBAL-TV,Anchor & Reporter,M,4754,1561,10118,Tue Mar 16 15:13:33 +0000 2010,True,False,110.0,52.0,31.0,141.0,334.0,2,2
-132215786,PhilipTerzian,"Terzian, Philip",Weekly Standard,Literary Editor,M,5744,2533,14698,Mon Apr 12 16:19:30 +0000 2010,False,False,193.0,87.0,62.0,137.0,479.0,2,2
-1328120858,DoubleTGolle,"Golle, Vince",Bloomberg News,U.S. Economics Editor,M,479,436,664,Fri Apr 05 01:03:26 +0000 2013,False,False,13.0,1.0,0.0,5.0,19.0,2,2
-140716132,Geordiedav,"Taylor, David",Guardian US,"Deputy Editor, News",M,4361,1627,3142,Thu May 06 06:31:40 +0000 2010,False,False,30.0,4.0,5.0,5.0,44.0,2,2
-14427403,quinnbowman,"Bowman, Quinn",Senate Democrats,Videographer,M,1461,1941,1848,Thu Apr 17 23:51:13 +0000 2008,False,False,1.0,2.0,0.0,12.0,15.0,2,2
-146166918,danielhalper,"Halper, Daniel M.",New York Post,Washington Bureau Chief,M,5045,298,266,Thu May 20 19:19:31 +0000 2010,False,False,4.0,0.0,0.0,1.0,5.0,2,2
-15320854,jeddrosche,"Rosche, Jedd",CNN,"Congress Editor, CNN Politics",M,3253,1688,11140,Fri Jul 04 20:47:57 +0000 2008,True,False,3.0,0.0,2.0,4.0,9.0,2,2
-15497533,MikeSoraghan,"Soraghan, Mike",E&E News,"Reporter, Energywire",M,2695,642,17675,Sun Jul 20 01:58:19 +0000 2008,False,False,11.0,3.0,1.0,477.0,492.0,2,2
-16698389,frates,"Frates, Chris",Sirius XM,"Co-Host, ""Politics Inside Out""",M,9750,2397,11911,Sat Oct 11 18:05:18 +0000 2008,True,False,28.0,25.0,9.0,67.0,129.0,2,2
-18126916,adamnpeck,"Peck, Adam N.",ThinkProgress,Opinion Editor,M,1390,686,9538,Mon Dec 15 01:09:24 +0000 2008,True,False,40.0,53.0,62.0,6.0,161.0,2,2
-187963645,eriklee136,"Lee, Erik",WUSA–TV,Chief Photojournalist,M,521,1298,1677,Tue Sep 07 16:02:35 +0000 2010,False,False,6.0,20.0,4.0,80.0,110.0,2,2
-19710414,john_bevir,"Bevir, John",Feature Story News,Head of FSN Live,M,628,655,3145,Thu Jan 29 13:28:19 +0000 2009,False,False,9.0,1.0,39.0,1.0,50.0,2,2
-19932600,wheelb,"Wheeler, Brian",Vice News,Producer,M,766,1580,4923,Mon Feb 02 21:09:58 +0000 2009,False,False,30.0,3.0,7.0,52.0,92.0,2,2
-20196398,AdamATCBS,"Aigner-Treworgy, Adam",CBS News,"Producer, CBS This Morning",M,2257,818,3676,Thu Feb 05 22:28:30 +0000 2009,True,False,5.0,4.0,9.0,13.0,31.0,2,2
-219386702,NBCJason,"Gittlen, Jason",WRC–TV / NBC–4,Producer,M,670,387,408,Wed Nov 24 18:34:45 +0000 2010,False,False,4.0,0.0,0.0,3.0,7.0,2,2
-22422168,ABC7Mike,"Conneen, Michael",WJLA–TV / Newschannel 8,TV Reporter and Anchor,M,2891,2243,20900,Sun Mar 01 23:30:41 +0000 2009,True,False,15.0,5.0,16.0,45.0,81.0,2,2
-22586564,michaelschaffer,"Schaffer, Michael",Washingtonian,Editor,M,3231,1477,5262,Tue Mar 03 04:41:38 +0000 2009,False,False,19.0,5.0,6.0,29.0,59.0,2,2
-23605114,dcdesker,"Forman, David",NBC News,Assistant Manager,M,949,1043,1376,Tue Mar 10 15:30:45 +0000 2009,False,False,10.0,0.0,0.0,0.0,10.0,2,2
-251105718,dougmckelway,"McKelway, Doug",Fox News,reporter for fox news based in DC,M,2599,941,2039,Sat Feb 12 13:06:17 +0000 2011,False,False,24.0,1.0,7.0,88.0,120.0,2,2
 2657143946,CharlieCookDC,"Cook, Jr., Charles E.",Cook Political Report,Editor & Publisher,M,13251,711,186,Fri Jul 18 16:44:33 +0000 2014,True,False,8.0,1.0,2.0,1.0,12.0,2,2
-2675596508,KgriggsPhoto,"Griggs, Kendall",WJLA–TV / Newschannel 8,Photojournalist and Photographer,M,240,361,424,Thu Jul 24 02:37:52 +0000 2014,False,False,20.0,6.0,2.0,24.0,52.0,2,2
-27438376,djusatoday,"Jackson, David",USA Today,White House Correspondent,M,2383,1093,2682,Sun Mar 29 15:04:02 +0000 2009,True,False,1.0,0.0,48.0,0.0,49.0,2,2
-280630251,JoeDavidsonWP,"Davidson, Joe",Washington Post,"Columnist, Federal Insider",M,3045,279,1274,Mon Apr 11 18:33:06 +0000 2011,True,False,25.0,0.0,0.0,0.0,25.0,2,2
-28360658,davidthornhill,"Scott, David",Associated Press,U.S. Political Editor,M,1113,305,2590,Thu Apr 02 15:46:13 +0000 2009,True,False,12.0,5.0,2.0,2.0,21.0,2,2
-290676747,Casey_J_Wooten,"Wooten, Casey",Bloomberg BNA,Food & Agriculture Reporter,M,698,1317,3871,Sat Apr 30 18:08:43 +0000 2011,True,False,77.0,102.0,15.0,345.0,539.0,2,2
-29580450,jfischman,"Fischman, Josh E.",Scientific American,Senior Editor,M,1333,166,2704,Tue Apr 07 23:43:33 +0000 2009,True,False,52.0,26.0,0.0,29.0,107.0,2,2
-33298494,billhatfield,"Hatfield, William",NBC News,Producer,M,526,662,2380,Sun Apr 19 20:08:28 +0000 2009,False,False,47.0,12.0,2.0,141.0,202.0,2,2
-351133674,TomHowellJr,"Howell, Thomas",Washington Times,Capitol Hill & Health Care Reporter,M,1379,1948,2855,Mon Aug 08 20:53:32 +0000 2011,False,False,10.0,0.0,1.0,2.0,13.0,2,2
+16698389,frates,"Frates, Chris",Sirius XM,"Co-Host, ""Politics Inside Out""",M,9750,2397,11911,Sat Oct 11 18:05:18 +0000 2008,True,False,28.0,25.0,9.0,67.0,129.0,2,2
 35629711,cnnross,"Levitt, Ross",CNN,Supervising Producer,M,6740,2149,9632,Mon Apr 27 01:38:03 +0000 2009,True,False,39.0,19.0,11.0,47.0,116.0,2,2
-36725454,brajup,"Upadhyay, Brajesh",BBC,Correspondent,M,1972,1113,2209,Thu Apr 30 17:54:00 +0000 2009,False,False,20.0,10.0,5.0,70.0,105.0,2,2
-399225358,b_muzz,"Murray, Brendan",Bloomberg News,"Managing Editor, U.S. Economy",M,624,382,360,Thu Oct 27 05:34:05 +0000 2011,True,False,3.0,0.0,0.0,5.0,8.0,2,2
-399730564,colmonews,"O’Molloy, Colm",BBC,Producer & Editor,M,417,855,344,Thu Oct 27 23:21:14 +0000 2011,False,False,8.0,1.0,2.0,12.0,23.0,2,2
-41909059,eggerton,"Eggerton, John S.",Broadcasting & Cable,Reporter,M,5463,1941,22700,Fri May 22 21:49:24 +0000 2009,False,False,186.0,0.0,1.0,1.0,188.0,2,2
-425991990,nleimbach,"Leimbach, Nicholas",WUSA–TV,Photojournalist,M,260,409,1823,Thu Dec 01 18:08:42 +0000 2011,False,False,7.0,2.0,10.0,6.0,25.0,2,2
-467022771,jordanr1000,"Robertson, Jordan",Bloomberg News,Cybersecurity Reporter,M,3794,866,1527,Wed Jan 18 01:38:57 +0000 2012,False,False,7.0,3.0,30.0,86.0,126.0,2,2
-46927338,timstarks,"Starks II, Timothy A.",Politico,Cybersecurity Reporter,M,3170,2031,3401,Sat Jun 13 17:38:20 +0000 2009,False,False,12.0,4.0,26.0,43.0,85.0,2,2
-47467960,matmountain,"Skene, Mathieu",Aljazeera English,"Editor, Fault Lines",M,1759,275,220,Mon Jun 15 22:42:54 +0000 2009,True,False,1.0,0.0,0.0,0.0,1.0,2,2
-519607649,JohnDSiciliano,"Siciliano, John",Washington Examiner,Energy & Environment Correspondent,M,656,1724,3968,Fri Mar 09 16:14:18 +0000 2012,False,False,50.0,17.0,7.0,29.0,103.0,2,2
-54261520,ABC7Sam,"Ford, Sam",WJLA–TV / Newschannel 8,Correspondent,M,1733,120,668,Mon Jul 06 16:55:24 +0000 2009,False,False,24.0,0.0,1.0,3.0,28.0,2,2
 61222745,sunjeffbarker,"Barker, Jeffrey",Baltimore Sun,Sports Business Reporter,M,5812,2639,12373,Wed Jul 29 15:38:42 +0000 2009,True,False,34.0,0.0,1.0,9.0,44.0,2,2
-630808206,PaulStrandCBN,"Strand, Paul",CBN News,Senior Washington Correspondent,M,1560,562,709,Mon Jul 09 02:58:24 +0000 2012,False,False,14.0,2.0,3.0,0.0,19.0,2,2
+132215786,PhilipTerzian,"Terzian, Philip",Weekly Standard,Literary Editor,M,5744,2533,14698,Mon Apr 12 16:19:30 +0000 2010,False,False,193.0,87.0,62.0,137.0,479.0,2,2
+41909059,eggerton,"Eggerton, John S.",Broadcasting & Cable,Reporter,M,5463,1941,22700,Fri May 22 21:49:24 +0000 2009,False,False,186.0,0.0,1.0,1.0,188.0,2,2
+146166918,danielhalper,"Halper, Daniel M.",New York Post,Washington Bureau Chief,M,5045,298,266,Thu May 20 19:19:31 +0000 2010,False,False,4.0,0.0,0.0,1.0,5.0,2,2
+123585060,adammaytv,"May, Adam",WBAL-TV,Anchor & Reporter,M,4754,1561,10118,Tue Mar 16 15:13:33 +0000 2010,True,False,110.0,52.0,31.0,141.0,334.0,2,2
 6828802,pergam,"Pergam, Andrew",McClatchy,"Vice President, Video and New Ventures",M,4383,2068,5581,Fri Jun 15 08:25:09 +0000 2007,False,False,2.0,1.0,0.0,3.0,6.0,2,2
+140716132,Geordiedav,"Taylor, David",Guardian US,"Deputy Editor, News",M,4361,1627,3142,Thu May 06 06:31:40 +0000 2010,False,False,30.0,4.0,5.0,5.0,44.0,2,2
+467022771,jordanr1000,"Robertson, Jordan",Bloomberg News,Cybersecurity Reporter,M,3794,866,1527,Wed Jan 18 01:38:57 +0000 2012,False,False,7.0,3.0,30.0,86.0,126.0,2,2
+15320854,jeddrosche,"Rosche, Jedd",CNN,"Congress Editor, CNN Politics",M,3253,1688,11140,Fri Jul 04 20:47:57 +0000 2008,True,False,3.0,0.0,2.0,4.0,9.0,2,2
+22586564,michaelschaffer,"Schaffer, Michael",Washingtonian,Editor,M,3231,1477,5262,Tue Mar 03 04:41:38 +0000 2009,False,False,19.0,5.0,6.0,29.0,59.0,2,2
+46927338,timstarks,"Starks II, Timothy A.",Politico,Cybersecurity Reporter,M,3170,2031,3401,Sat Jun 13 17:38:20 +0000 2009,False,False,12.0,4.0,26.0,43.0,85.0,2,2
+280630251,JoeDavidsonWP,"Davidson, Joe",Washington Post,"Columnist, Federal Insider",M,3045,279,1274,Mon Apr 11 18:33:06 +0000 2011,True,False,25.0,0.0,0.0,0.0,25.0,2,2
+22422168,ABC7Mike,"Conneen, Michael",WJLA–TV / Newschannel 8,TV Reporter and Anchor,M,2891,2243,20900,Sun Mar 01 23:30:41 +0000 2009,True,False,15.0,5.0,16.0,45.0,81.0,2,2
+15497533,MikeSoraghan,"Soraghan, Mike",E&E News,"Reporter, Energywire",M,2695,642,17675,Sun Jul 20 01:58:19 +0000 2008,False,False,11.0,3.0,1.0,477.0,492.0,2,2
+251105718,dougmckelway,"McKelway, Doug",Fox News,reporter for fox news based in DC,M,2599,941,2039,Sat Feb 12 13:06:17 +0000 2011,False,False,24.0,1.0,7.0,88.0,120.0,2,2
+27438376,djusatoday,"Jackson, David",USA Today,White House Correspondent,M,2383,1093,2682,Sun Mar 29 15:04:02 +0000 2009,True,False,1.0,0.0,48.0,0.0,49.0,2,2
+20196398,AdamATCBS,"Aigner-Treworgy, Adam",CBS News,"Producer, CBS This Morning",M,2257,818,3676,Thu Feb 05 22:28:30 +0000 2009,True,False,5.0,4.0,9.0,13.0,31.0,2,2
+102718971,brinaylor,"Naylor, Brian",National Public Radio,Correspondent,M,2096,521,1003,Thu Jan 07 16:13:44 +0000 2010,True,False,14.0,9.0,2.0,72.0,97.0,2,2
+36725454,brajup,"Upadhyay, Brajesh",BBC,Correspondent,M,1972,1113,2209,Thu Apr 30 17:54:00 +0000 2009,False,False,20.0,10.0,5.0,70.0,105.0,2,2
+47467960,matmountain,"Skene, Mathieu",Aljazeera English,"Editor, Fault Lines",M,1759,275,220,Mon Jun 15 22:42:54 +0000 2009,True,False,1.0,0.0,0.0,0.0,1.0,2,2
+54261520,ABC7Sam,"Ford, Sam",WJLA–TV / Newschannel 8,Correspondent,M,1733,120,668,Mon Jul 06 16:55:24 +0000 2009,False,False,24.0,0.0,1.0,3.0,28.0,2,2
+630808206,PaulStrandCBN,"Strand, Paul",CBN News,Senior Washington Correspondent,M,1560,562,709,Mon Jul 09 02:58:24 +0000 2012,False,False,14.0,2.0,3.0,0.0,19.0,2,2
+14427403,quinnbowman,"Bowman, Quinn",Senate Democrats,Videographer,M,1461,1941,1848,Thu Apr 17 23:51:13 +0000 2008,False,False,1.0,2.0,0.0,12.0,15.0,2,2
+18126916,adamnpeck,"Peck, Adam N.",ThinkProgress,Opinion Editor,M,1390,686,9538,Mon Dec 15 01:09:24 +0000 2008,True,False,40.0,53.0,62.0,6.0,161.0,2,2
+351133674,TomHowellJr,"Howell, Thomas",Washington Times,Capitol Hill & Health Care Reporter,M,1379,1948,2855,Mon Aug 08 20:53:32 +0000 2011,False,False,10.0,0.0,1.0,2.0,13.0,2,2
+1099479379,PaulWisemanAP,"Wiseman, Paul",Associated Press,Economy Reporter,M,1352,591,898,Thu Jan 17 22:52:13 +0000 2013,False,False,1.0,1.0,1.0,55.0,58.0,2,2
+29580450,jfischman,"Fischman, Josh E.",Scientific American,Senior Editor,M,1333,166,2704,Tue Apr 07 23:43:33 +0000 2009,True,False,52.0,26.0,0.0,29.0,107.0,2,2
+1198644368,sgreenberger,"Greenberger, Scott",Stateline.org,Editor,M,1131,2103,4100,Tue Feb 19 21:00:55 +0000 2013,False,False,49.0,1.0,4.0,47.0,101.0,2,2
+28360658,davidthornhill,"Scott, David",Associated Press,U.S. Political Editor,M,1113,305,2590,Thu Apr 02 15:46:13 +0000 2009,True,False,12.0,5.0,2.0,2.0,21.0,2,2
+23605114,dcdesker,"Forman, David",NBC News,Assistant Manager,M,949,1043,1376,Tue Mar 10 15:30:45 +0000 2009,False,False,10.0,0.0,0.0,0.0,10.0,2,2
+1113035743,RandallPinkston,"Pinkston, Randall",,Freelance Reporter,M,891,1075,2002,Wed Jan 23 00:42:07 +0000 2013,True,False,32.0,0.0,1.0,6.0,39.0,2,2
+19932600,wheelb,"Wheeler, Brian",Vice News,Producer,M,766,1580,4923,Mon Feb 02 21:09:58 +0000 2009,False,False,30.0,3.0,7.0,52.0,92.0,2,2
+290676747,Casey_J_Wooten,"Wooten, Casey",Bloomberg BNA,Food & Agriculture Reporter,M,698,1317,3871,Sat Apr 30 18:08:43 +0000 2011,True,False,77.0,102.0,15.0,345.0,539.0,2,2
+219386702,NBCJason,"Gittlen, Jason",WRC–TV / NBC–4,Producer,M,670,387,408,Wed Nov 24 18:34:45 +0000 2010,False,False,4.0,0.0,0.0,3.0,7.0,2,2
+519607649,JohnDSiciliano,"Siciliano, John",Washington Examiner,Energy & Environment Correspondent,M,656,1724,3968,Fri Mar 09 16:14:18 +0000 2012,False,False,50.0,17.0,7.0,29.0,103.0,2,2
+19710414,john_bevir,"Bevir, John",Feature Story News,Head of FSN Live,M,628,655,3145,Thu Jan 29 13:28:19 +0000 2009,False,False,9.0,1.0,39.0,1.0,50.0,2,2
+399225358,b_muzz,"Murray, Brendan",Bloomberg News,"Managing Editor, U.S. Economy",M,624,382,360,Thu Oct 27 05:34:05 +0000 2011,True,False,3.0,0.0,0.0,5.0,8.0,2,2
+33298494,billhatfield,"Hatfield, William",NBC News,Producer,M,526,662,2380,Sun Apr 19 20:08:28 +0000 2009,False,False,47.0,12.0,2.0,141.0,202.0,2,2
+187963645,eriklee136,"Lee, Erik",WUSA–TV,Chief Photojournalist,M,521,1298,1677,Tue Sep 07 16:02:35 +0000 2010,False,False,6.0,20.0,4.0,80.0,110.0,2,2
+1328120858,DoubleTGolle,"Golle, Vince",Bloomberg News,U.S. Economics Editor,M,479,436,664,Fri Apr 05 01:03:26 +0000 2013,False,False,13.0,1.0,0.0,5.0,19.0,2,2
+399730564,colmonews,"O’Molloy, Colm",BBC,Producer & Editor,M,417,855,344,Thu Oct 27 23:21:14 +0000 2011,False,False,8.0,1.0,2.0,12.0,23.0,2,2
+425991990,nleimbach,"Leimbach, Nicholas",WUSA–TV,Photojournalist,M,260,409,1823,Thu Dec 01 18:08:42 +0000 2011,False,False,7.0,2.0,10.0,6.0,25.0,2,2
+2675596508,KgriggsPhoto,"Griggs, Kendall",WJLA–TV / Newschannel 8,Photojournalist and Photographer,M,240,361,424,Thu Jul 24 02:37:52 +0000 2014,False,False,20.0,6.0,2.0,24.0,52.0,2,2
+1074766820,JohnMogor,"Mogor, John",WUSA–TV,Multimedia Photojournalist,M,184,364,65,Wed Jan 09 20:10:28 +0000 2013,False,False,1.0,0.0,0.0,0.0,1.0,2,2
 797773572806688768,michaeltindc,"Teitelbaum, Michael",CQ Roll Call,Deputy Data Editor,M,55,100,376,Sun Nov 13 12:10:16 +0000 2016,False,False,35.0,15.0,0.0,12.0,62.0,2,2
 826808800921403393,ToporHCF,"Topor, Eric D.",Bloomberg BNA,"Senior Legal Editor, Health Law News",M,23,22,21,Wed Feb 01 15:05:54 +0000 2017,False,False,7.0,0.0,0.0,0.0,7.0,2,2
-108726910,bkovoDC,"Kovach, Bob",PBS NewsHour,Broadcast Journalist,M,2232,1011,16850,Tue Jan 26 21:46:22 +0000 2010,False,False,212.0,0.0,28.0,734.0,974.0,2,1
-146960180,monack,"Monack, David",C–SPAN,Producer,M,185,481,1563,Sat May 22 20:35:30 +0000 2010,False,False,15.0,7.0,9.0,16.0,47.0,2,1
-17874756,AnthonyJRivera,"Rivera, Anthony",Washington Post,Producer,M,524,798,4734,Thu Dec 04 18:58:41 +0000 2008,False,False,33.0,16.0,11.0,25.0,85.0,2,1
-17902722,BrianOliger,"Oliger, Brian",WTOP Radio,Technology Manager,M,701,855,20473,Fri Dec 05 17:39:41 +0000 2008,False,False,14.0,4.0,21.0,19.0,58.0,2,1
-22022769,DaveBoyer,"Boyer, David",Washington Times,White House Reporter,M,1313,858,1208,Thu Feb 26 15:45:23 +0000 2009,False,False,14.0,0.0,0.0,1.0,15.0,2,1
 23262217,xpangler,"Spangler, Todd",Variety,New York Digital Editor,M,10303,1722,29293,Sun Mar 08 01:47:06 +0000 2009,True,False,257.0,13.0,7.0,284.0,561.0,2,1
-3362553969,timpperry91,"Perry, Timothy",CBS News,"Associate Producer, Face the Nation",M,313,459,2069,Mon Jul 06 15:40:23 +0000 2015,True,False,25.0,56.0,19.0,200.0,300.0,2,1
-4076390957,pms_peyton,"Sturges, Peyton Mackay",Bloomberg BNA,Health Law Reporter,M,106,46,149,Fri Oct 30 16:32:17 +0000 2015,False,False,3.0,1.0,0.0,0.0,4.0,2,1
-414936779,abdulshaz,"Abdul, Shahzad",Agence France-Presse,Washington Reporter,M,1637,697,5060,Thu Nov 17 17:48:34 +0000 2011,True,False,21.0,15.0,7.0,54.0,97.0,2,1
-444774270,JMaloneVOA,"Malone, James",Voice of America,National Correspondent,M,819,33,446,Fri Dec 23 16:38:11 +0000 2011,True,False,6.0,0.0,0.0,0.0,6.0,2,1
 46501372,JeremyStahl,"Stahl, Jeremy",Slate,Senior Editor,M,6163,2615,12695,Thu Jun 11 21:51:29 +0000 2009,True,False,41.0,4.0,43.0,47.0,135.0,2,1
 49128639,sdehghanpour,"Dehghanpour, Siamak",Voice of America,Journalist,M,3949,1774,4710,Sat Jun 20 21:38:58 +0000 2009,False,False,14.0,10.0,17.0,0.0,41.0,2,1
+108726910,bkovoDC,"Kovach, Bob",PBS NewsHour,Broadcast Journalist,M,2232,1011,16850,Tue Jan 26 21:46:22 +0000 2010,False,False,212.0,0.0,28.0,734.0,974.0,2,1
 633068722,VOAVinceMakori,"Makori, Vincent",Voice of America,"Veteran Journalist / Anchor, Africa 54",M,1660,819,7405,Wed Jul 11 17:20:38 +0000 2012,False,False,421.0,2.0,1.0,4.0,428.0,2,1
+414936779,abdulshaz,"Abdul, Shahzad",Agence France-Presse,Washington Reporter,M,1637,697,5060,Thu Nov 17 17:48:34 +0000 2011,True,False,21.0,15.0,7.0,54.0,97.0,2,1
 66460911,dmontyjr,"Montgomery, David",Washington Post,Reporter,M,1585,572,2356,Mon Aug 17 19:38:30 +0000 2009,False,False,36.0,4.0,1.0,56.0,97.0,2,1
+22022769,DaveBoyer,"Boyer, David",Washington Times,White House Reporter,M,1313,858,1208,Thu Feb 26 15:45:23 +0000 2009,False,False,14.0,0.0,0.0,1.0,15.0,2,1
 788503268,imsooverzat,"Overzat, Greg",CNN,Booking Producer,M,1203,2851,1409,Wed Aug 29 04:14:52 +0000 2012,False,False,6.0,0.0,0.0,8.0,14.0,2,1
-1001991865,FredSchulte,"Schulte, Fred",Kaiser Health News,Senior Correspondent,M,687,8,1004,Mon Dec 10 16:16:10 +0000 2012,True,False,13.0,3.0,1.0,31.0,48.0,1,1
-102994740,rleverafp,"Lever, Robert",Agence France-Presse,Technology & Media Correspondent,M,1071,1316,1253,Fri Jan 08 14:21:49 +0000 2010,True,False,14.0,0.0,0.0,6.0,20.0,1,1
-105187267,henrycjjackson,"Jackson, Henry",Politico,Reporter,M,4771,2088,32337,Fri Jan 15 16:31:04 +0000 2010,True,False,15.0,54.0,108.0,164.0,341.0,1,1
+444774270,JMaloneVOA,"Malone, James",Voice of America,National Correspondent,M,819,33,446,Fri Dec 23 16:38:11 +0000 2011,True,False,6.0,0.0,0.0,0.0,6.0,2,1
+17902722,BrianOliger,"Oliger, Brian",WTOP Radio,Technology Manager,M,701,855,20473,Fri Dec 05 17:39:41 +0000 2008,False,False,14.0,4.0,21.0,19.0,58.0,2,1
+17874756,AnthonyJRivera,"Rivera, Anthony",Washington Post,Producer,M,524,798,4734,Thu Dec 04 18:58:41 +0000 2008,False,False,33.0,16.0,11.0,25.0,85.0,2,1
+3362553969,timpperry91,"Perry, Timothy",CBS News,"Associate Producer, Face the Nation",M,313,459,2069,Mon Jul 06 15:40:23 +0000 2015,True,False,25.0,56.0,19.0,200.0,300.0,2,1
+146960180,monack,"Monack, David",C–SPAN,Producer,M,185,481,1563,Sat May 22 20:35:30 +0000 2010,False,False,15.0,7.0,9.0,16.0,47.0,2,1
+4076390957,pms_peyton,"Sturges, Peyton Mackay",Bloomberg BNA,Health Law Reporter,M,106,46,149,Fri Oct 30 16:32:17 +0000 2015,False,False,3.0,1.0,0.0,0.0,4.0,2,1
 113120733,jclopezcnn,"Lopez, Juan Carlos",CNN,"Chief Washington Correspondent, CNN en Español",M,114428,793,8650,Wed Feb 10 19:36:46 +0000 2010,True,False,114.0,30.0,7.0,24.0,175.0,1,1
-115554920,jasonaldag,"Aldag, Jason",Washingtonpost.com,Video Editor,M,1092,1035,2874,Fri Feb 19 02:21:56 +0000 2010,True,False,20.0,0.0,4.0,206.0,230.0,1,1
-11579212,StevenSternberg,"Sternberg, Steve",U.S. News & World Report,Senior Writer,M,16316,8774,7558,Thu Dec 27 20:50:28 +0000 2007,True,False,53.0,8.0,2.0,95.0,158.0,1,1
-117434676,GoldsteinDavidJ,"Goldstein, David",McClatchy Newspapers,National Correspondent,M,703,171,334,Thu Feb 25 15:13:07 +0000 2010,False,False,13.0,0.0,1.0,1.0,15.0,1,1
-119245817,joejohnscnn,"Johns, Joseph",CNN,Correspondent,M,14015,3613,3095,Wed Mar 03 02:37:22 +0000 2010,True,False,49.0,33.0,4.0,26.0,112.0,1,1
-130545305,DanielBush,"Bush, Daniel",PBS,"Digital Politics Editor, NewsHour",M,1422,814,501,Wed Apr 07 16:13:39 +0000 2010,True,False,9.0,0.0,0.0,20.0,29.0,1,1
-14247783,GeorgeDSanchez,"Sanchez, George D.",ABC News,‎Senior Assignment Manager,M,917,1986,3716,Fri Mar 28 23:10:15 +0000 2008,False,False,11.0,1.0,0.0,8.0,20.0,1,1
-15753057,peteroverby,"Overby, Peter",National Public Radio,Correspondent,M,10143,1304,1915,Wed Aug 06 18:15:28 +0000 2008,False,False,16.0,21.0,1.0,24.0,62.0,1,1
-15814757,frankncarlson,"Carlson, Frank",PBS NewsHour,Producer,M,854,1282,2868,Mon Aug 11 22:20:23 +0000 2008,True,False,24.0,20.0,22.0,22.0,88.0,1,1
-15891770,andysullivan,"Sullivan, Andy",Thomson Reuters,Domestic Policy Corresondent,M,1088,859,971,Mon Aug 18 14:09:15 +0000 2008,False,False,11.0,2.0,2.0,16.0,31.0,1,1
-16051714,thecourier,"Vargas, Luke",Talk Radio News Service,Chief Foreign Correspondent,M,1106,1053,3999,Sat Aug 30 04:51:18 +0000 2008,False,False,15.0,3.0,17.0,31.0,66.0,1,1
-1631159347,JsonHuffman,"Huffman, Jason A.",Politico,"Agriculture, Food & Trade Reporter",M,2152,1100,795,Mon Jul 29 20:00:00 +0000 2013,True,False,25.0,28.0,3.0,4.0,60.0,1,1
-1660785085,DwigginsDion,"Wiggins, Dion",WUSA–TV,Photojournalist / Satellite Truck Operator,M,269,237,480,Sat Aug 10 19:03:48 +0000 2013,False,False,4.0,0.0,0.0,1.0,5.0,1,1
-16640598,robhendin,"Hendin, Robert",The Atlantic,"Executive Producer, AtlanticLIVE",M,2395,1020,2816,Wed Oct 08 00:46:59 +0000 2008,False,False,4.0,8.0,1.0,88.0,101.0,1,1
-16800722,atsneed,"Sneed, Adam T.",CityLab,Senior Associate Editor,M,2049,1481,20538,Thu Oct 16 02:45:55 +0000 2008,True,False,46.0,18.0,61.0,116.0,241.0,1,1
-1690569474,PinaultNicolas,"Pinault, Nicolas",Voice of America,Digital Managing Editor / Journalist,M,1354,256,2105,Thu Aug 22 09:57:22 +0000 2013,False,False,117.0,3.0,12.0,7.0,139.0,1,1
-177321850,FQuadrani,"Quadrani, Federico",CNN,"Executive Producer, The Lead",M,1130,980,246,Wed Aug 11 20:57:42 +0000 2010,False,False,5.0,3.0,3.0,12.0,23.0,1,1
-18068780,Randolph_Smith_,"Smith, Randolph",Washingtonpost.com,Studio Technician,M,740,2219,9484,Fri Dec 12 03:26:55 +0000 2008,False,False,14.0,0.0,0.0,0.0,14.0,1,1
-18623139,JSkl,"Scuiletti, Justin",PBS NewsHour,Digital Video Producer,M,885,1808,5687,Mon Jan 05 04:13:07 +0000 2009,True,False,61.0,8.0,8.0,64.0,141.0,1,1
-190510601,SeanDNaylor,"Naylor, Sean D.",Army Times,"Senior Writer, Global Finance",M,2785,1715,3232,Tue Sep 14 03:31:24 +0000 2010,True,False,2.0,0.0,6.0,413.0,421.0,1,1
-19222383,gregmartin18,"Martin, Greg",NBC News,Political Booking Producer,M,1091,2352,3827,Tue Jan 20 06:02:57 +0000 2009,False,False,7.0,6.0,3.0,82.0,98.0,1,1
-194375797,WisdomFOX5,"Martin, Wisdom",WTTG–Fox Television,Anchor,M,17416,3038,17950,Thu Sep 23 23:59:16 +0000 2010,True,False,24.0,1.0,3.0,57.0,85.0,1,1
-1954509632,nelsonjwttg5,"Jones, Nelson",WTTG–Fox Television,Photojournalist / Editor / Producer,M,508,652,428,Fri Oct 11 16:04:17 +0000 2013,True,False,7.0,0.0,7.0,15.0,29.0,1,1
-1973358372,JuddBerger,"Berger, Judson",Fox News,"Senior Politics Editor, FoxNews.com",M,860,210,601,Sun Oct 20 01:12:46 +0000 2013,True,False,17.0,12.0,4.0,15.0,48.0,1,1
-20264590,jimosman,"Osman, Jim",Media General,Political and Investigative Reporter,M,1636,2690,4506,Fri Feb 06 19:43:30 +0000 2009,False,False,3.0,13.0,6.0,9.0,31.0,1,1
-20465881,TomBruneDC,"Brune, Tom",Newsday,Washington Bureau Chief,M,1269,977,9863,Mon Feb 09 20:50:25 +0000 2009,True,False,27.0,11.0,1.0,226.0,265.0,1,1
-205065944,pcooney55,"Cooney, Peter",Thomson Reuters,Editor,M,473,1807,6072,Wed Oct 20 02:30:22 +0000 2010,False,False,440.0,0.0,0.0,0.0,440.0,1,1
-21331143,robertoharrow,"O’Harrow, Robert",Washington Post,Reporter,M,1008,51,179,Thu Feb 19 19:38:37 +0000 2009,False,False,6.0,2.0,1.0,8.0,17.0,1,1
-2165351672,JulianSadur,"Sadur, Julian Mitsuo",WMDT,News Reporter,M,652,1405,3490,Wed Oct 30 19:35:17 +0000 2013,False,False,99.0,110.0,31.0,91.0,331.0,1,1
-224398965,cclarkjedd,"Clark, Charles S.",Government Executive,Senior Correspondent,M,342,23,1937,Wed Dec 08 22:24:23 +0000 2010,False,False,71.0,0.0,0.0,0.0,71.0,1,1
-225024032,JamesHallman,"Hallman, James",WUSA–TV,Morning Executive Producer,M,1788,1647,1681,Fri Dec 10 13:31:43 +0000 2010,True,False,17.0,12.0,10.0,8.0,47.0,1,1
-226286968,timothyrhoman,"Homan, Timothy Richard",Morning Consult,Editor,M,776,548,419,Mon Dec 13 20:07:16 +0000 2010,False,False,4.0,1.0,0.0,15.0,20.0,1,1
-2351783544,BonewaldatFox,"Bonewald, Jason",Fox News Radio,Reporter,M,252,271,1052,Wed Feb 19 14:37:07 +0000 2014,True,False,4.0,13.0,3.0,17.0,37.0,1,1
-23642217,bwingfield,"Wingfield, Brian",Bloomberg News,Oil Markets Reporter,M,2318,1932,1594,Tue Mar 10 19:53:07 +0000 2009,False,False,5.0,0.0,0.0,7.0,12.0,1,1
-238204655,YoungRJeremy,"Young, Jeremy",Aljazeera English,Senior Investigative Producer,M,3060,1429,6034,Fri Jan 14 16:21:30 +0000 2011,True,False,118.0,20.0,25.0,349.0,512.0,1,1
-241165319,cdoering,"Doering, Christopher",Gannett Washington Bureau,Agricultural Reporter,M,1144,332,763,Fri Jan 21 16:28:45 +0000 2011,True,False,3.0,0.0,0.0,10.0,13.0,1,1
-247832362,Karl_de_Vries,"de Vries, Karl",CNN,Breaking News Editor,M,2542,2547,3829,Sat Feb 05 17:25:14 +0000 2011,True,False,10.0,0.0,2.0,3.0,15.0,1,1
-248820522,RSiegel47,"Siegel, Robert C.",National Public Radio,Senior Host,M,12481,23,67,Mon Feb 07 20:02:54 +0000 2011,False,False,1.0,0.0,0.0,0.0,1.0,1,1
-257514358,DanSagalyn,"Sagalyn, Daniel",PBS NewsHour,Deputy Senior Producer,M,828,74,286,Fri Feb 25 15:53:39 +0000 2011,False,False,5.0,0.0,0.0,0.0,5.0,1,1
 27676108,PaulLewis,"Lewis, Paul",Guardian US,US West Coast Bureau Chief,M,66533,1316,14467,Mon Mar 30 16:39:17 +0000 2009,True,False,19.0,6.0,6.0,18.0,49.0,1,1
-277516059,lmullinsdc,"Mullins, Luke",Washingtonian,Senior Writer,M,831,379,484,Tue Apr 05 14:40:35 +0000 2011,False,False,1.0,0.0,1.0,1.0,3.0,1,1
-2789298739,LlewellynKing2,"King, Llewellyn",White House Chronicle,Host of White House Chronicle,M,984,942,701,Thu Sep 04 06:39:43 +0000 2014,False,False,27.0,1.0,5.0,9.0,42.0,1,1
-27962143,TShields3,"Shields, Todd",Bloomberg News,Washington Reporter,M,801,319,177,Tue Mar 31 21:00:51 +0000 2009,False,False,5.0,0.0,0.0,0.0,5.0,1,1
-2798099563,rwalerius1,"Walerius, Randolph",CQ Roll Call,Managing Editor for Legislative Analysis,M,85,206,204,Mon Sep 08 14:59:34 +0000 2014,False,False,7.0,0.0,0.0,0.0,7.0,1,1
-28214518,matzamax,"Matza, Max",BBC,Producer,M,417,2372,314,Wed Apr 01 22:32:45 +0000 2009,False,False,4.0,0.0,1.0,9.0,14.0,1,1
-292663862,ChasePipkin,"Pipkin, Chase",Hearst Television Inc.,Producer,M,427,1243,844,Wed May 04 01:07:20 +0000 2011,False,False,14.0,6.0,0.0,7.0,27.0,1,1
-296416564,FaisalAlkadiri,"Alkadiri, Faisal",ABC News,Producer,M,193,370,737,Tue May 10 18:33:44 +0000 2011,False,False,3.0,0.0,2.0,14.0,19.0,1,1
-297046834,MattBarakat,"Barakat, Matthew",Associated Press,Northern Virginia Correspondent,M,759,352,631,Wed May 11 20:55:24 +0000 2011,True,False,12.0,0.0,0.0,5.0,17.0,1,1
-308148436,JasoKane,"Kane, Jason",PBS NewsHour,Producer,M,664,165,378,Mon May 30 22:28:54 +0000 2011,True,False,3.0,0.0,0.0,1.0,4.0,1,1
+194375797,WisdomFOX5,"Martin, Wisdom",WTTG–Fox Television,Anchor,M,17416,3038,17950,Thu Sep 23 23:59:16 +0000 2010,True,False,24.0,1.0,3.0,57.0,85.0,1,1
+11579212,StevenSternberg,"Sternberg, Steve",U.S. News & World Report,Senior Writer,M,16316,8774,7558,Thu Dec 27 20:50:28 +0000 2007,True,False,53.0,8.0,2.0,95.0,158.0,1,1
+37564255,wpnick,"Anderson, Nick",Washington Post,Higher Education Writer,M,15049,153,2852,Mon May 04 01:54:18 +0000 2009,True,False,35.0,0.0,1.0,1.0,37.0,1,1
+48787554,FCNP_Nicholas,"Benton, Nicholas F.",Falls Church News Press,Owner,M,14177,681,2970,Fri Jun 19 18:36:43 +0000 2009,False,False,23.0,0.0,0.0,90.0,113.0,1,1
+119245817,joejohnscnn,"Johns, Joseph",CNN,Correspondent,M,14015,3613,3095,Wed Mar 03 02:37:22 +0000 2010,True,False,49.0,33.0,4.0,26.0,112.0,1,1
+248820522,RSiegel47,"Siegel, Robert C.",National Public Radio,Senior Host,M,12481,23,67,Mon Feb 07 20:02:54 +0000 2011,False,False,1.0,0.0,0.0,0.0,1.0,1,1
+59482886,Arightside,"Williams, Armstrong",Sinclair Broadcast Group,Producer and Columnist,M,11356,502,8045,Thu Jul 23 14:44:08 +0000 2009,True,False,171.0,4.0,1.0,23.0,199.0,1,1
+15753057,peteroverby,"Overby, Peter",National Public Radio,Correspondent,M,10143,1304,1915,Wed Aug 06 18:15:28 +0000 2008,False,False,16.0,21.0,1.0,24.0,62.0,1,1
+53709616,EdwinPitti,"Pitti, Edwin",WFDC–TV Univision,White House Correspondent for Univision Local Affiliates,M,5229,1656,15023,Sat Jul 04 16:54:54 +0000 2009,True,False,76.0,8.0,15.0,47.0,146.0,1,1
+105187267,henrycjjackson,"Jackson, Henry",Politico,Reporter,M,4771,2088,32337,Fri Jan 15 16:31:04 +0000 2010,True,False,15.0,54.0,108.0,164.0,341.0,1,1
+575705670,brakktonbooker,"Booker, Brakkton",National Public Radio,Reporter,M,4675,1952,6542,Wed May 09 19:43:38 +0000 2012,True,False,13.0,13.0,2.0,60.0,88.0,1,1
 31397174,mjahanna,"Hanna, Michael",,Freelance Reporter,M,3632,214,2012,Wed Apr 15 12:40:22 +0000 2009,False,False,80.0,16.0,1.0,13.0,110.0,1,1
 326301436,TimoGard,"Gardner, Tim",Thomson Reuters,"Energy, Environment, & White House Reporter",M,3603,1656,1475,Wed Jun 29 18:04:28 +0000 2011,False,False,20.0,2.0,0.0,14.0,36.0,1,1
-330565637,chrisjcondon,"Condon, Christopher",Bloomberg News,Federal Reserve & Economy Reporter,M,1685,713,3470,Wed Jul 06 20:23:19 +0000 2011,False,False,98.0,0.0,3.0,8.0,109.0,1,1
-336004914,BrettHNews,"Hall, Brett",WNEW / CBS DC,Former: Ascociate Journalist,M,1443,1624,11846,Fri Jul 15 16:03:38 +0000 2011,False,False,141.0,34.0,16.0,75.0,266.0,1,1
-36129751,ttgaughan,"Gaughan, Timothy",CBS News,Vice President of News Gathering,M,2605,2602,2694,Tue Apr 28 17:48:08 +0000 2009,True,False,6.0,1.0,0.0,52.0,59.0,1,1
-361533837,tjryan93,"Ryan, Timothy Joseph",Court House News,Reporter,M,158,232,3124,Wed Aug 24 23:01:09 +0000 2011,False,False,12.0,1.0,2.0,3.0,18.0,1,1
-36798116,NJFrandino,"Frandino, Nathan",Reuters Radio & TV,Journalist,M,820,1045,12150,Thu Apr 30 22:44:04 +0000 2009,False,False,42.0,4.0,0.0,26.0,72.0,1,1
-37564255,wpnick,"Anderson, Nick",Washington Post,Higher Education Writer,M,15049,153,2852,Mon May 04 01:54:18 +0000 2009,True,False,35.0,0.0,1.0,1.0,37.0,1,1
-3876330618,walterpincus,"Pincus, Walter",The Cipher Brief,Columnist & Senior National Security Correspondent,M,1898,43,172,Tue Oct 13 03:29:36 +0000 2015,True,False,21.0,0.0,0.0,0.0,21.0,1,1
 39417511,jeffkearns,"Kearns, Jeff",Bloomberg News,China Economics Editor,M,3406,3353,2872,Tue May 12 02:58:28 +0000 2009,False,False,32.0,0.0,0.0,39.0,71.0,1,1
-39421317,D_Steinberger,"Steinberger, Daniel",ABC News,Reporter,M,330,953,1429,Tue May 12 03:16:49 +0000 2009,False,False,7.0,2.0,1.0,6.0,16.0,1,1
-394234511,joelwaldmanFOX,"Waldman, Joel",Fox News,Correspondent,M,2160,1055,7831,Wed Oct 19 19:36:03 +0000 2011,True,False,87.0,261.0,12.0,75.0,435.0,1,1
-412538089,HowardN1DC,"Schoenholtz, Howard",ABC News,Washington Bureau Chief,M,238,202,696,Mon Nov 14 20:30:43 +0000 2011,False,False,15.0,4.0,4.0,8.0,31.0,1,1
-426690566,GreyMessenger,"Sullivan, Sean",S&P Global Market Intelligence,"Senior Reporter, FERC",M,2236,2265,6177,Fri Dec 02 15:24:50 +0000 2011,False,False,16.0,5.0,12.0,252.0,285.0,1,1
-44434008,hpschneider,"Schneider, Howard",Thomson Reuters,Federal Reserve Correspondent,M,529,115,297,Wed Jun 03 19:27:37 +0000 2009,False,False,7.0,0.0,0.0,2.0,9.0,1,1
-450687329,to_fo,"Foster, Tom",CNN International,"Senior Producer, Quest Means Business",M,600,1135,2860,Fri Dec 30 14:53:46 +0000 2011,False,False,21.0,11.0,17.0,7.0,56.0,1,1
-4511285295,jaquino63742206,"Aquino, John T.",Bloomberg BNA,Senior Legal Editor,M,69,76,52,Thu Dec 17 07:10:59 +0000 2015,False,False,2.0,0.0,1.0,0.0,3.0,1,1
-476041491,mmillerwtop,"Miller, Mitchell",WTOP Radio,News Director,M,1059,869,2959,Fri Jan 27 18:15:53 +0000 2012,False,False,22.0,0.0,0.0,118.0,140.0,1,1
-477434418,bill_lucia,"Lucia, William",Government Executive,"Reporter, Route Fifty",M,883,1756,2277,Sun Jan 29 05:46:26 +0000 2012,False,False,23.0,5.0,5.0,72.0,105.0,1,1
-47852292,WyattGoolsby,"Goolsby, Wyatt",EWTN,"Correspondent & Anchor, EWTN News Nightly",M,717,158,395,Wed Jun 17 04:14:58 +0000 2009,False,False,5.0,2.0,0.0,9.0,16.0,1,1
-486900479,NickKalmanFN,"Kalman, Nick",Fox News,Politics Producer,M,2710,872,4361,Wed Feb 08 19:56:45 +0000 2012,True,False,6.0,0.0,1.0,1.0,8.0,1,1
-48787554,FCNP_Nicholas,"Benton, Nicholas F.",Falls Church News Press,Owner,M,14177,681,2970,Fri Jun 19 18:36:43 +0000 2009,False,False,23.0,0.0,0.0,90.0,113.0,1,1
-525687528,BillFreebairn,"Freebairn, William",S&P Global Platts,Senior Managing Editor,M,41,121,101,Thu Mar 15 19:43:37 +0000 2012,False,False,7.0,5.0,1.0,1.0,14.0,1,1
-53709616,EdwinPitti,"Pitti, Edwin",WFDC–TV Univision,White House Correspondent for Univision Local Affiliates,M,5229,1656,15023,Sat Jul 04 16:54:54 +0000 2009,True,False,76.0,8.0,15.0,47.0,146.0,1,1
-54760633,brianmka,"Allen, Brian",Voice of America,Multimedia Producer,M,329,210,1701,Wed Jul 08 01:56:25 +0000 2009,False,False,3.0,5.0,6.0,24.0,38.0,1,1
-575705670,brakktonbooker,"Booker, Brakkton",National Public Radio,Reporter,M,4675,1952,6542,Wed May 09 19:43:38 +0000 2012,True,False,13.0,13.0,2.0,60.0,88.0,1,1
-59482886,Arightside,"Williams, Armstrong",Sinclair Broadcast Group,Producer and Columnist,M,11356,502,8045,Thu Jul 23 14:44:08 +0000 2009,True,False,171.0,4.0,1.0,23.0,199.0,1,1
-59822164,CBSguy,"Finn, Martin",CBS News,"Producer, CBS This Morning",M,1050,1016,721,Fri Jul 24 16:20:57 +0000 2009,False,False,16.0,1.0,0.0,6.0,23.0,1,1
-70814224,jkeene1957,"Keene, Jeffrey",ABC 7,Investigative Producer,M,1127,1266,2149,Tue Sep 01 23:05:53 +0000 2009,False,False,5.0,6.0,208.0,181.0,400.0,1,1
-72965732,Ciscovaras,"Abbey, Francis",WUSA–TV,Digital Video Producer,M,710,732,4894,Wed Sep 09 22:13:19 +0000 2009,False,False,14.0,0.0,3.0,9.0,26.0,1,1
-808489458681135104,GregClugstonDC,"Clugston, Gregory",SRN News (Salem),White House Correspondent,M,173,33,62,Tue Dec 13 01:51:22 +0000 2016,False,False,13.0,0.0,0.0,0.0,13.0,1,1
 83616201,tradereporter,"Palmer, Doug",Politico,Senior Trade Reporter,M,3296,490,1779,Mon Oct 19 14:52:05 +0000 2009,False,False,16.0,0.0,6.0,10.0,32.0,1,1
+238204655,YoungRJeremy,"Young, Jeremy",Aljazeera English,Senior Investigative Producer,M,3060,1429,6034,Fri Jan 14 16:21:30 +0000 2011,True,False,118.0,20.0,25.0,349.0,512.0,1,1
+190510601,SeanDNaylor,"Naylor, Sean D.",Army Times,"Senior Writer, Global Finance",M,2785,1715,3232,Tue Sep 14 03:31:24 +0000 2010,True,False,2.0,0.0,6.0,413.0,421.0,1,1
+486900479,NickKalmanFN,"Kalman, Nick",Fox News,Politics Producer,M,2710,872,4361,Wed Feb 08 19:56:45 +0000 2012,True,False,6.0,0.0,1.0,1.0,8.0,1,1
+36129751,ttgaughan,"Gaughan, Timothy",CBS News,Vice President of News Gathering,M,2605,2602,2694,Tue Apr 28 17:48:08 +0000 2009,True,False,6.0,1.0,0.0,52.0,59.0,1,1
+247832362,Karl_de_Vries,"de Vries, Karl",CNN,Breaking News Editor,M,2542,2547,3829,Sat Feb 05 17:25:14 +0000 2011,True,False,10.0,0.0,2.0,3.0,15.0,1,1
+16640598,robhendin,"Hendin, Robert",The Atlantic,"Executive Producer, AtlanticLIVE",M,2395,1020,2816,Wed Oct 08 00:46:59 +0000 2008,False,False,4.0,8.0,1.0,88.0,101.0,1,1
+23642217,bwingfield,"Wingfield, Brian",Bloomberg News,Oil Markets Reporter,M,2318,1932,1594,Tue Mar 10 19:53:07 +0000 2009,False,False,5.0,0.0,0.0,7.0,12.0,1,1
+426690566,GreyMessenger,"Sullivan, Sean",S&P Global Market Intelligence,"Senior Reporter, FERC",M,2236,2265,6177,Fri Dec 02 15:24:50 +0000 2011,False,False,16.0,5.0,12.0,252.0,285.0,1,1
+394234511,joelwaldmanFOX,"Waldman, Joel",Fox News,Correspondent,M,2160,1055,7831,Wed Oct 19 19:36:03 +0000 2011,True,False,87.0,261.0,12.0,75.0,435.0,1,1
+1631159347,JsonHuffman,"Huffman, Jason A.",Politico,"Agriculture, Food & Trade Reporter",M,2152,1100,795,Mon Jul 29 20:00:00 +0000 2013,True,False,25.0,28.0,3.0,4.0,60.0,1,1
+16800722,atsneed,"Sneed, Adam T.",CityLab,Senior Associate Editor,M,2049,1481,20538,Thu Oct 16 02:45:55 +0000 2008,True,False,46.0,18.0,61.0,116.0,241.0,1,1
+3876330618,walterpincus,"Pincus, Walter",The Cipher Brief,Columnist & Senior National Security Correspondent,M,1898,43,172,Tue Oct 13 03:29:36 +0000 2015,True,False,21.0,0.0,0.0,0.0,21.0,1,1
+225024032,JamesHallman,"Hallman, James",WUSA–TV,Morning Executive Producer,M,1788,1647,1681,Fri Dec 10 13:31:43 +0000 2010,True,False,17.0,12.0,10.0,8.0,47.0,1,1
+330565637,chrisjcondon,"Condon, Christopher",Bloomberg News,Federal Reserve & Economy Reporter,M,1685,713,3470,Wed Jul 06 20:23:19 +0000 2011,False,False,98.0,0.0,3.0,8.0,109.0,1,1
+20264590,jimosman,"Osman, Jim",Media General,Political and Investigative Reporter,M,1636,2690,4506,Fri Feb 06 19:43:30 +0000 2009,False,False,3.0,13.0,6.0,9.0,31.0,1,1
+336004914,BrettHNews,"Hall, Brett",WNEW / CBS DC,Former: Ascociate Journalist,M,1443,1624,11846,Fri Jul 15 16:03:38 +0000 2011,False,False,141.0,34.0,16.0,75.0,266.0,1,1
+130545305,DanielBush,"Bush, Daniel",PBS,"Digital Politics Editor, NewsHour",M,1422,814,501,Wed Apr 07 16:13:39 +0000 2010,True,False,9.0,0.0,0.0,20.0,29.0,1,1
+1690569474,PinaultNicolas,"Pinault, Nicolas",Voice of America,Digital Managing Editor / Journalist,M,1354,256,2105,Thu Aug 22 09:57:22 +0000 2013,False,False,117.0,3.0,12.0,7.0,139.0,1,1
+20465881,TomBruneDC,"Brune, Tom",Newsday,Washington Bureau Chief,M,1269,977,9863,Mon Feb 09 20:50:25 +0000 2009,True,False,27.0,11.0,1.0,226.0,265.0,1,1
+241165319,cdoering,"Doering, Christopher",Gannett Washington Bureau,Agricultural Reporter,M,1144,332,763,Fri Jan 21 16:28:45 +0000 2011,True,False,3.0,0.0,0.0,10.0,13.0,1,1
+177321850,FQuadrani,"Quadrani, Federico",CNN,"Executive Producer, The Lead",M,1130,980,246,Wed Aug 11 20:57:42 +0000 2010,False,False,5.0,3.0,3.0,12.0,23.0,1,1
+70814224,jkeene1957,"Keene, Jeffrey",ABC 7,Investigative Producer,M,1127,1266,2149,Tue Sep 01 23:05:53 +0000 2009,False,False,5.0,6.0,208.0,181.0,400.0,1,1
+16051714,thecourier,"Vargas, Luke",Talk Radio News Service,Chief Foreign Correspondent,M,1106,1053,3999,Sat Aug 30 04:51:18 +0000 2008,False,False,15.0,3.0,17.0,31.0,66.0,1,1
+115554920,jasonaldag,"Aldag, Jason",Washingtonpost.com,Video Editor,M,1092,1035,2874,Fri Feb 19 02:21:56 +0000 2010,True,False,20.0,0.0,4.0,206.0,230.0,1,1
+19222383,gregmartin18,"Martin, Greg",NBC News,Political Booking Producer,M,1091,2352,3827,Tue Jan 20 06:02:57 +0000 2009,False,False,7.0,6.0,3.0,82.0,98.0,1,1
+15891770,andysullivan,"Sullivan, Andy",Thomson Reuters,Domestic Policy Corresondent,M,1088,859,971,Mon Aug 18 14:09:15 +0000 2008,False,False,11.0,2.0,2.0,16.0,31.0,1,1
+102994740,rleverafp,"Lever, Robert",Agence France-Presse,Technology & Media Correspondent,M,1071,1316,1253,Fri Jan 08 14:21:49 +0000 2010,True,False,14.0,0.0,0.0,6.0,20.0,1,1
+476041491,mmillerwtop,"Miller, Mitchell",WTOP Radio,News Director,M,1059,869,2959,Fri Jan 27 18:15:53 +0000 2012,False,False,22.0,0.0,0.0,118.0,140.0,1,1
+59822164,CBSguy,"Finn, Martin",CBS News,"Producer, CBS This Morning",M,1050,1016,721,Fri Jul 24 16:20:57 +0000 2009,False,False,16.0,1.0,0.0,6.0,23.0,1,1
+21331143,robertoharrow,"O’Harrow, Robert",Washington Post,Reporter,M,1008,51,179,Thu Feb 19 19:38:37 +0000 2009,False,False,6.0,2.0,1.0,8.0,17.0,1,1
+2789298739,LlewellynKing2,"King, Llewellyn",White House Chronicle,Host of White House Chronicle,M,984,942,701,Thu Sep 04 06:39:43 +0000 2014,False,False,27.0,1.0,5.0,9.0,42.0,1,1
+14247783,GeorgeDSanchez,"Sanchez, George D.",ABC News,‎Senior Assignment Manager,M,917,1986,3716,Fri Mar 28 23:10:15 +0000 2008,False,False,11.0,1.0,0.0,8.0,20.0,1,1
+18623139,JSkl,"Scuiletti, Justin",PBS NewsHour,Digital Video Producer,M,885,1808,5687,Mon Jan 05 04:13:07 +0000 2009,True,False,61.0,8.0,8.0,64.0,141.0,1,1
+477434418,bill_lucia,"Lucia, William",Government Executive,"Reporter, Route Fifty",M,883,1756,2277,Sun Jan 29 05:46:26 +0000 2012,False,False,23.0,5.0,5.0,72.0,105.0,1,1
+1973358372,JuddBerger,"Berger, Judson",Fox News,"Senior Politics Editor, FoxNews.com",M,860,210,601,Sun Oct 20 01:12:46 +0000 2013,True,False,17.0,12.0,4.0,15.0,48.0,1,1
+15814757,frankncarlson,"Carlson, Frank",PBS NewsHour,Producer,M,854,1282,2868,Mon Aug 11 22:20:23 +0000 2008,True,False,24.0,20.0,22.0,22.0,88.0,1,1
+277516059,lmullinsdc,"Mullins, Luke",Washingtonian,Senior Writer,M,831,379,484,Tue Apr 05 14:40:35 +0000 2011,False,False,1.0,0.0,1.0,1.0,3.0,1,1
+257514358,DanSagalyn,"Sagalyn, Daniel",PBS NewsHour,Deputy Senior Producer,M,828,74,286,Fri Feb 25 15:53:39 +0000 2011,False,False,5.0,0.0,0.0,0.0,5.0,1,1
+36798116,NJFrandino,"Frandino, Nathan",Reuters Radio & TV,Journalist,M,820,1045,12150,Thu Apr 30 22:44:04 +0000 2009,False,False,42.0,4.0,0.0,26.0,72.0,1,1
+27962143,TShields3,"Shields, Todd",Bloomberg News,Washington Reporter,M,801,319,177,Tue Mar 31 21:00:51 +0000 2009,False,False,5.0,0.0,0.0,0.0,5.0,1,1
 87961779,LCBridgeford,"Bridgeford, Lydell C.",Bloomberg BNA,Equal Opportunity Employment Reporter & Editor,M,796,1194,1816,Fri Nov 06 15:22:14 +0000 2009,True,False,8.0,1.0,1.0,87.0,97.0,1,1
+226286968,timothyrhoman,"Homan, Timothy Richard",Morning Consult,Editor,M,776,548,419,Mon Dec 13 20:07:16 +0000 2010,False,False,4.0,1.0,0.0,15.0,20.0,1,1
+297046834,MattBarakat,"Barakat, Matthew",Associated Press,Northern Virginia Correspondent,M,759,352,631,Wed May 11 20:55:24 +0000 2011,True,False,12.0,0.0,0.0,5.0,17.0,1,1
+18068780,Randolph_Smith_,"Smith, Randolph",Washingtonpost.com,Studio Technician,M,740,2219,9484,Fri Dec 12 03:26:55 +0000 2008,False,False,14.0,0.0,0.0,0.0,14.0,1,1
+47852292,WyattGoolsby,"Goolsby, Wyatt",EWTN,"Correspondent & Anchor, EWTN News Nightly",M,717,158,395,Wed Jun 17 04:14:58 +0000 2009,False,False,5.0,2.0,0.0,9.0,16.0,1,1
+72965732,Ciscovaras,"Abbey, Francis",WUSA–TV,Digital Video Producer,M,710,732,4894,Wed Sep 09 22:13:19 +0000 2009,False,False,14.0,0.0,3.0,9.0,26.0,1,1
+117434676,GoldsteinDavidJ,"Goldstein, David",McClatchy Newspapers,National Correspondent,M,703,171,334,Thu Feb 25 15:13:07 +0000 2010,False,False,13.0,0.0,1.0,1.0,15.0,1,1
+1001991865,FredSchulte,"Schulte, Fred",Kaiser Health News,Senior Correspondent,M,687,8,1004,Mon Dec 10 16:16:10 +0000 2012,True,False,13.0,3.0,1.0,31.0,48.0,1,1
+308148436,JasoKane,"Kane, Jason",PBS NewsHour,Producer,M,664,165,378,Mon May 30 22:28:54 +0000 2011,True,False,3.0,0.0,0.0,1.0,4.0,1,1
+2165351672,JulianSadur,"Sadur, Julian Mitsuo",WMDT,News Reporter,M,652,1405,3490,Wed Oct 30 19:35:17 +0000 2013,False,False,99.0,110.0,31.0,91.0,331.0,1,1
+450687329,to_fo,"Foster, Tom",CNN International,"Senior Producer, Quest Means Business",M,600,1135,2860,Fri Dec 30 14:53:46 +0000 2011,False,False,21.0,11.0,17.0,7.0,56.0,1,1
+44434008,hpschneider,"Schneider, Howard",Thomson Reuters,Federal Reserve Correspondent,M,529,115,297,Wed Jun 03 19:27:37 +0000 2009,False,False,7.0,0.0,0.0,2.0,9.0,1,1
+1954509632,nelsonjwttg5,"Jones, Nelson",WTTG–Fox Television,Photojournalist / Editor / Producer,M,508,652,428,Fri Oct 11 16:04:17 +0000 2013,True,False,7.0,0.0,7.0,15.0,29.0,1,1
+205065944,pcooney55,"Cooney, Peter",Thomson Reuters,Editor,M,473,1807,6072,Wed Oct 20 02:30:22 +0000 2010,False,False,440.0,0.0,0.0,0.0,440.0,1,1
+292663862,ChasePipkin,"Pipkin, Chase",Hearst Television Inc.,Producer,M,427,1243,844,Wed May 04 01:07:20 +0000 2011,False,False,14.0,6.0,0.0,7.0,27.0,1,1
+28214518,matzamax,"Matza, Max",BBC,Producer,M,417,2372,314,Wed Apr 01 22:32:45 +0000 2009,False,False,4.0,0.0,1.0,9.0,14.0,1,1
+224398965,cclarkjedd,"Clark, Charles S.",Government Executive,Senior Correspondent,M,342,23,1937,Wed Dec 08 22:24:23 +0000 2010,False,False,71.0,0.0,0.0,0.0,71.0,1,1
+39421317,D_Steinberger,"Steinberger, Daniel",ABC News,Reporter,M,330,953,1429,Tue May 12 03:16:49 +0000 2009,False,False,7.0,2.0,1.0,6.0,16.0,1,1
+54760633,brianmka,"Allen, Brian",Voice of America,Multimedia Producer,M,329,210,1701,Wed Jul 08 01:56:25 +0000 2009,False,False,3.0,5.0,6.0,24.0,38.0,1,1
+1660785085,DwigginsDion,"Wiggins, Dion",WUSA–TV,Photojournalist / Satellite Truck Operator,M,269,237,480,Sat Aug 10 19:03:48 +0000 2013,False,False,4.0,0.0,0.0,1.0,5.0,1,1
+2351783544,BonewaldatFox,"Bonewald, Jason",Fox News Radio,Reporter,M,252,271,1052,Wed Feb 19 14:37:07 +0000 2014,True,False,4.0,13.0,3.0,17.0,37.0,1,1
+412538089,HowardN1DC,"Schoenholtz, Howard",ABC News,Washington Bureau Chief,M,238,202,696,Mon Nov 14 20:30:43 +0000 2011,False,False,15.0,4.0,4.0,8.0,31.0,1,1
+296416564,FaisalAlkadiri,"Alkadiri, Faisal",ABC News,Producer,M,193,370,737,Tue May 10 18:33:44 +0000 2011,False,False,3.0,0.0,2.0,14.0,19.0,1,1
+808489458681135104,GregClugstonDC,"Clugston, Gregory",SRN News (Salem),White House Correspondent,M,173,33,62,Tue Dec 13 01:51:22 +0000 2016,False,False,13.0,0.0,0.0,0.0,13.0,1,1
+361533837,tjryan93,"Ryan, Timothy Joseph",Court House News,Reporter,M,158,232,3124,Wed Aug 24 23:01:09 +0000 2011,False,False,12.0,1.0,2.0,3.0,18.0,1,1
+2798099563,rwalerius1,"Walerius, Randolph",CQ Roll Call,Managing Editor for Legislative Analysis,M,85,206,204,Mon Sep 08 14:59:34 +0000 2014,False,False,7.0,0.0,0.0,0.0,7.0,1,1
+4511285295,jaquino63742206,"Aquino, John T.",Bloomberg BNA,Senior Legal Editor,M,69,76,52,Thu Dec 17 07:10:59 +0000 2015,False,False,2.0,0.0,1.0,0.0,3.0,1,1
+525687528,BillFreebairn,"Freebairn, William",S&P Global Platts,Senior Managing Editor,M,41,121,101,Thu Mar 15 19:43:37 +0000 2012,False,False,7.0,5.0,1.0,1.0,14.0,1,1
