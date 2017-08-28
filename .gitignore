@@ -96,3 +96,6 @@ ENV/
 
 # ORA files
 ora/**/*.xml
+
+# Tweets
+jupyter/tweets/*.json.gz
