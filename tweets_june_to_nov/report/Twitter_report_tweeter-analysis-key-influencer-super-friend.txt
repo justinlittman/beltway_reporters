@@ -1,0 +1,579 @@
+Analysis of Tweeters - Super Friends 
+
+   This section finds locations of influence using various metrics. Tweeters with a 
+   plus(+) appended to their name are verified. Tweeters with an asterisk(*) 
+   appended to their name are known news agencies. 
+   Return to previous page 
+
+
+   Super Friends 
+
+      Below is a list of the Super Friends identified in the report, and the 
+      percentage of the measures for which it is in the top three (3). 
+      Click the name of an agent to view a detailed analysis of its activity. 
+
+      Rank  Tweeter Name                   %Mea 
+      1     jmartNYT[+] 
+      75%   
+      2     BresPolitico 
+      50%   
+      3     daveweigel[+] 
+      50%   
+      4     AaronMehta[+] 
+      25%   
+      5     ericgeller[+] 
+      25%   
+      6     BenjySarlin[+] 
+      25%   
+      7     jaketapper[+][*] 
+      25%   
+      8     CahnEmily[+] 
+      25%   
+   Measure List 
+
+      Mentions/Retweets Often (total degree centrality)-Agent x Agent - Reciprocal 
+
+      Often Mentions/Retweets with Many Others (total degree centrality, unweighted)-Agent x Agent - Reciprocal 
+
+      Mentions/Retweets in Cliques (member of many cliques)-Agent x Agent - Reciprocal 
+
+      Mentions/Retweets in Groups (member of large k-core)-Agent x Agent - Reciprocal 
+
+
+   Mentions/Retweets Often (total degree centrality) 
+      Individuals or organizations who are in the know are those who are linked to 
+      many others and so, by virtue of their position have access to the ideas, 
+      thoughts, beliefs of many others. Individuals who are in the know are identified 
+      by degree centrality in the relevant social network. Those who are ranked high 
+      on this metrics have more connections to others in the same network. The 
+      scientific name of this measure is total degree centrality and it is calculated 
+      on the agent by agent matrices. 
+      If the node of interest has a higher than normal value (greater than 1 standard 
+      deviation(s) above the mean) the row is colored <span 
+      style='color:red'>red</span>. The row is <span style='color:green'>green</span> 
+      if the node is within 1 standard deviation of the mean. Finally, the row is 
+      colored <span style='color:blue'>blue</span> if the node has a lower than normal 
+      value (less than one standard deviation(s) below the mean). 
+
+      Input network(s): Agent x Agent - Reciprocal 
+
+      Rank Agent                                       Value Unscaled Tweet count     Average mention Most common hashtags      Most common locations                    
+         1 ericgeller[+]                            7.956e-0     1795 20978           0.122605        GameOfThrones (15)<br>FF  <table style='border:0px;padding:0px'>
+< 
+         2 jmartNYT[+]                              7.495e-0     1691 7374            0.259967        ALSen (74)<br>VAGov (34)<                                          
+         3 AaronMehta[+]                            7.034e-0     1587 7618            0.229325        ASC17 (44)<br>DNconf (39)                                          
+         4 BresPolitico                             6.763e-0     1526 4938            0.524099        Obamacare (20)<br>BREAKIN                                          
+         5 JaredRizzi[+]                            6.537e-0     1475 11235           0.297285        Charlottesville (22)<br>A                                          
+         6 daveweigel[+]                            6.329e-0     1428 11007           0.151994        ALSen (57)<br>NN17 (34)<b                                          
+         7 seungminkim[+]                           6.227e-0     1405 3806            0.370993        ALSen (49)<br>DACA (10)<b                                          
+         8 dylanlscott[+]                           6.152e-0     1388 8067            0.214454        Harvey (12)<br>FF (8)<br>                                          
+         9 hbwx[+]                                  5.177e-0     1168 3861            0.419062        Irma (60)<br>DCA (39)<br>                                          
+        10 burgessev[+]                             5.062e-0     1142 2870            0.384321        Obamacare (2)<br>TribFest                                          
+        11 TenaciousTopper[+]                       4.946e-0     1116 1940            0.831443        OnThisDay (118)<br>funwea                                          
+        12 Phil_Mattingly[+]                        4.942e-0     1115 3420            0.420468        BREAKING (12)<br>GoBucks                                           
+        13 HotlineJosh[+]                           4.920e-0     1110 18697           0.209445        Nats (139)<br>GA06 (86)<b                                          
+        14 JohnJHarwood[+]                          4.889e-0     1103 13942           0.279013        Natitude (18)<br>GA06 (17                                          
+        15 ValerieInsinna[+]                        4.809e-0     1085 3572            0.345745        DNconf (43)<br>ASC17 (39)                                          
+        16 JakeSherman[+]                           4.685e-0     1057 4362            0.281293        PlaybookLoyal (10)<br>BRE <table style='border:0px;padding:0px'>
+< 
+        17 StevenTDennis[+]                         4.636e-0     1046 6111            0.220749        Irma (23)<br>Charlottesvi                                          
+        18 jaketapper[+][*]                         4.596e-0     1037 11953           0.177529        TheLead (781)<br>CNNSOTU                                           
+        19 MEPFuller[+]                             4.552e-0     1027 4406            0.207217        FakeHill50Ledes (5)<br>So                                          
+        20 chrisgeidner[+]                          4.268e-0      963 11057           0.108709        SCOTUS (276)<br>TravelBan                                          
+        21 pkcapitol[+]                             4.100e-0      925 2047            0.559844        FlyEaglesFly (10)<br>FlyE                                          
+        22 DavidMDrucker[+]                         4.060e-0      916 10710           0.171522        ALSen (120)<br>GA06 (84)<                                          
+        23 connorobrienNH[+]                        3.878e-0      875 3294            0.273224        FY18NDAA (495)<br>DNconf  <table style='border:0px;padding:0px'>
+< 
+        24 jbendery[+]                              3.852e-0      869 6570            0.179909        Charlottesville (12)<br>P                                          
+        25 mkraju[+]                                3.816e-0      861 2380            0.332773        ALSen (12)<br>TheLead (11 <table style='border:0px;padding:0px'>
+< 
+        26 BenjySarlin[+]                           3.794e-0      856 4805            0.185848        DACA (4)<br>Harvey (3)<br                                          
+        27 sahilkapur[+]                            3.710e-0      837 5098            0.16889         WDYM (9)<br>Irma (8)<br>G                                          
+        28 RichardRubinDC[+]                        3.696e-0      834 3382            0.275281        TRIH (64)<br>DBCFT (33)<b                                          
+        29 Fahrenthold[+]                           3.577e-0      807 6000            0.304833        Harvey (51)<br>Irma (17)<                                          
+        30 reporterjoe[+]                           3.493e-0      788 2217            0.474515        FY18NDAA (106)<br>DNconf                                           
+        31 nielslesniewski[+]                       3.470e-0      783 3579            0.273261        Harvey (18)<br>ALSen (11)                                          
+        32 igorbobic[+]                             3.360e-0      758 3938            0.253936        ALSen (7)<br>BREAKING (6) <table style='border:0px;padding:0px'>
+< 
+        33 CahnEmily[+]                             3.298e-0      744 15550           0.235627        TheBachelorette (89)<br>G                                          
+        34 ZekeJMiller[+][*]                        3.222e-0      727 3922            0.17899         Charlottesville (4)<br>DP                                          
+        35 JeffYoung[+]                             3.005e-0      678 3554            0.336241        ACA (6)<br>BCRA (6)<br>Ob                                          
+        36 Oriana0214[+]                            2.996e-0      676 4557            0.195962        ASC17 (74)<br>GameOfThron                                          
+        37 POLITICO_Steve[+]                        2.961e-0      668 6684            0.198235        Irma (178)<br>Harvey (91) <table style='border:0px;padding:0px'>
+< 
+        38 OKnox[+]                                 2.934e-0      662 4841            0.191283        BREAKING (30)<br>Harvey (                                          
+        39 edatpost[+]                              2.934e-0      662 2947            0.360706        ComeyHearing (45)<br>Puer                                          
+        40 joshgerstein[+]                          2.872e-0      648 3342            0.253142        SCOTUS (79)<br>TravelBan                                           
+        41 heatherscope[+]                          2.837e-0      640 1574            0.647395        ALSen (4)<br>Congressiona                                          
+        42 scottwongDC[+]                           2.806e-0      633 4562            0.313897        Charlottesville (42)<br>B                                          
+        43 jonathanvswan[+]                         2.744e-0      619 4077            0.284523        axiosam (46)<br>axiossnea                                          
+        44 jenhab[+]                                2.695e-0      608 1090            0.677982        Obamacare (12)<br>BREAKIN                                          
+        45 PoliticoKevin[+]                         2.659e-0      600 2633            0.339916        VAGov (120)<br>ALSen (61) <table style='border:0px;padding:0px'>
+< 
+        46 KateNocera[+]                            2.650e-0      598 2692            0.417905        GA06 (11)<br>am2dm (10)<b                                          
+        47 jrovner[+]                               2.650e-0      598 3801            0.274665        GrahamCassidy (31)<br>GoB                                          
+        48 jeremyherb[+]                            2.433e-0      549 1344            0.427083        FY18NDAA (65)<br>FF (6)<b                                          
+        49 LeoShane[+]                              2.384e-0      538 1778            0.311586        FY18NDAA (76)<br>ForeverG                                          
+        50 rachaelmbade[+]                          2.362e-0      533 1565            0.368051        s (3)<br>insidepolitics (                                          
+        51 brianbeutler[+]                          2.327e-0      525 10161           0.147623        cnftweet (8)<br>actually                                           
+        52 kelsey_snell[+]                          2.322e-0      524 1144            0.684441        FF (5)<br>npcbee (5)<br>T                                          
+        53 SarahMMimms[+]                           2.225e-0      502 3653            0.235697        am2dm (86)<br>TheBachelor                                          
+        54 rickklein[+][*]                          2.225e-0      502 2626            0.375857        PowerhousePolitics (47)<b                                          
+        55 aseitzwald[+]                            2.158e-0      487 2050            0.274146        ALSen (18)<br>GA06 (16)<b                                          
+        56 ryanbeckwith[+]                          2.154e-0      486 10360           0.175579        Charlottesville (17)<br>G                                          
+        57 mmurraypolitics[+]                       2.150e-0      485 4347            0.417529        MTPDaily (18)<br>GA06 (17                                          
+        58 DaniellaMicaela[+]                       2.127e-0      480 3815            0.214417        Politicon2017 (80)<br>CNN                                          
+        59 ddale8[+]                                2.096e-0      473 6351            0.118407        cdnpoli (9)<br>NAFTA (8)<                                          
+        60 mikememoli[+]                            2.052e-0      463 1643            0.377358        fitn (8)<br>Charlottesvil                                          
+        61 kasie[+]                                 2.017e-0      455 1436            0.369081        KasieDC (11)<br>KCDC (10)                                          
+        62 WaPoSean[+]                              2.012e-0      454 999             0.521522        healthcare (9)<br>Obamaca                                          
+        63 frankthorp[+]                            1.981e-0      447 2143            0.211853        Harvey (18)<br>DACA (17)<                                          
+        64 Jordanfabian[+]                          1.977e-0      446 1623            0.349969        BREAKING (5)<br>SolarEcli                                          
+        65 HopeSeck[+]                              1.959e-0      442 1656            0.355072        F35 (10)<br>PAS17 (9)<br>                                          
+        66 jameshohmann[+]                          1.932e-0      436 2454            0.471068        Trump (30)<br>Russia (16) <table style='border:0px;padding:0px'>
+< 
+        67 mikedebonis[+]                           1.924e-0      434 1541            0.309539        GrahamCassidy (9)<br>Char                                          
+        68 eschor[+]                                1.915e-0      432 1410            0.478014        FF (4)<br>ComeyHearing (2                                          
+        69 margbrennan[+]                           1.915e-0      432 5839            0.285494        IranDeal (47)<br>Charlott <table style='border:0px;padding:0px'>
+< 
+        70 caitlinnowens[+]                         1.893e-0      427 1209            0.520265        GrahamCassidy (5)<br>BCRA                                          
+        71 jackshafer[+]                            1.862e-0      420 4301            0.205534        AspenIdeas (5)<br>axiosme                                          
+        72 IsaacDovere[+]                           1.848e-0      417 3213            0.196701        OffMessage (21)<br>Detroi                                          
+        73 RebeccaShabad[+][*]                      1.844e-0      416 5274            0.266591        Harvey (57)<br>Houston (3                                          
+        74 RosieGray[+]                             1.844e-0      416 1720            0.263953        infrastructureweek (8)<br                                          
+        75 alexis_levinson[+]                       1.817e-0      410 1300            0.325385        GA06 (80)<br>ALSen (76)<b                                          
+        76 ZoeTillman[+]                            1.808e-0      408 2027            0.148495        SCOTUS (67)<br>FOIA (22)<                                          
+        77 JNicholsonInDC                           1.804e-0      407 2587            0.311171        ThisTown (6)<br>twinpeaks                                          
+        78 AlexNBCNews[+][*]                        1.799e-0      406 1676            0.250597        Irma (24)<br>Harvey (7)<b                                          
+        79 MichaelRWarren[+]                        1.799e-0      406 2393            0.206018        GA06 (9)<br>Charlottesvil                                          
+        80 ShaneGoldmacher[+]                       1.773e-0      400 2393            0.216047        VAGov (5)<br>BREAKING (4)                                          
+        81 HMNorthey                                1.760e-0      397 1512            0.471561        EPA (11)<br>ParisAgreemen                                          
+        82 Hadas_Gold[+]                            1.755e-0      396 2745            0.239344        BREAKING (8)<br>Btw17 (3)                                          
+        83 SarahKarlin[+]                           1.698e-0      383 2074            0.299904        pharma (124)<br>FDA (115)                                          
+        84 colinwilhelm[+]                          1.675e-0      378 3586            0.29894         fintech (17)<br>PuertoRic                                          
+        85 KevinBogardus                            1.662e-0      375 1641            0.738574        EPA (64)<br>FOIA4eva (39)                                          
+        86 EricMGarcia                              1.640e-0      370 8256            0.12936         FakeNews (18)<br>CripTheV                                          
+        87 AndrewBeatty[+]                          1.635e-0      369 2223            0.183086        BREAKING (86)<br>AFP (21)                                          
+        88 peteschroeder[+]                         1.627e-0      367 2614            0.147284        iifdc (5)<br>GrahamCassid                                          
+        89 HowardMortman                            1.604e-0      362 2916            0.212963        tbt (98)<br>FlashbackFrid                                          
+        90 peterbakernyt[+][*]                      1.600e-0      361 1683            0.330362        frontlinePBS (25)<br>Time                                          
+        91 bykowicz[+]                              1.596e-0      360 1635            0.324771        Harvey (6)<br>Trump (5)<b                                          
+        92 GrahamDavidA[+]                          1.582e-0      357 3898            0.13648         onbrand (4)<br>ncpol (4)<                                          
+        93 LisaMascaro[+]                           1.569e-0      354 2057            0.275644        DACA (70)<br>taxreform (5                                          
+        94 katieglueck[+]                           1.542e-0      348 1465            0.387031        ALSen (7)<br>GA06 (6)<br>                                          
+        95 aterkel[+]                               1.534e-0      346 1268            0.379338        ALSen (24)<br>FortuneMPW                                           
+        96 benjaminpenn[+]                          1.529e-0      345 519             0.470135        SCOTUS (11)<br>NLRB (7)<b                                          
+        97 sam_baker[+]                             1.529e-0      345 1794            0.237458        SCOTUS (4)<br>TravelBan (                                          
+        98 tparti[+]                                1.529e-0      345 1043            0.338447        am2dm (9)<br>ALSen (3)<br                                          
+        99 samstein[+]                              1.520e-0      343 2504            0.146965        CandidateConfessional (9)                                          
+       100 EricLiptonNYT[+][*]                      1.516e-0      342 3738            0.277421        Irma (21)<br>Harvey (19)<                                          
+
+                                Scaled value statistics                           
+      Min:                0 Mean:       2.959e-05 Lower quartile:       4.432e-07 
+      Max:        7.956e-04 Std.dev:    7.094e-05 Median:               4.432e-06 
+                                                  Upper quartile:       2.438e-05 
+   Back to measure list 
+
+   Often Mentions/Retweets with Many Others (total degree centrality, unweighted) 
+      This is Total Degree Centrality not using link weights computed on the 
+      reciprocal mentioned-by and retweeted-by network. 
+      If the node of interest has a higher than normal value (greater than 1 standard 
+      deviation(s) above the mean) the row is colored <span 
+      style='color:red'>red</span>. The row is <span style='color:green'>green</span> 
+      if the node is within 1 standard deviation of the mean. Finally, the row is 
+      colored <span style='color:blue'>blue</span> if the node has a lower than normal 
+      value (less than one standard deviation(s) below the mean). 
+
+      Input network(s): Agent x Agent - Reciprocal 
+
+      Rank Agent                                       Value Unscaled Tweet count     Average mention Most common hashtags      Most common locations                    
+         1 daveweigel[+]                               0.094      223 11007           0.151994        ALSen (57)<br>NN17 (34)<b                                          
+         2 jmartNYT[+]                                 0.087      207 7374            0.259967        ALSen (74)<br>VAGov (34)<                                          
+         3 jaketapper[+][*]                            0.080      190 11953           0.177529        TheLead (781)<br>CNNSOTU                                           
+         4 BresPolitico                                0.074      175 4938            0.524099        Obamacare (20)<br>BREAKIN                                          
+         5 HotlineJosh[+]                              0.072      171 18697           0.209445        Nats (139)<br>GA06 (86)<b                                          
+         6 Phil_Mattingly[+]                           0.071      170 3420            0.420468        BREAKING (12)<br>GoBucks                                           
+         7 Fahrenthold[+]                              0.068      162 6000            0.304833        Harvey (51)<br>Irma (17)<                                          
+         8 JohnJHarwood[+]                             0.068      162 13942           0.279013        Natitude (18)<br>GA06 (17                                          
+         9 StevenTDennis[+]                            0.067      160 6111            0.220749        Irma (23)<br>Charlottesvi                                          
+        10 seungminkim[+]                              0.066      156 3806            0.370993        ALSen (49)<br>DACA (10)<b                                          
+        11 JakeSherman[+]                              0.062      147 4362            0.281293        PlaybookLoyal (10)<br>BRE <table style='border:0px;padding:0px'>
+< 
+        12 ryanbeckwith[+]                             0.061      144 10360           0.175579        Charlottesville (17)<br>G                                          
+        13 DavidMDrucker[+]                            0.060      142 10710           0.171522        ALSen (120)<br>GA06 (84)<                                          
+        14 sahilkapur[+]                               0.059      140 5098            0.16889         WDYM (9)<br>Irma (8)<br>G                                          
+        15 ericgeller[+]                               0.058      137 20978           0.122605        GameOfThrones (15)<br>FF  <table style='border:0px;padding:0px'>
+< 
+        16 ZekeJMiller[+][*]                           0.057      135 3922            0.17899         Charlottesville (4)<br>DP                                          
+        17 Hadas_Gold[+]                               0.053      127 2745            0.239344        BREAKING (8)<br>Btw17 (3)                                          
+        18 CahnEmily[+]                                0.053      126 15550           0.235627        TheBachelorette (89)<br>G                                          
+        19 JaredRizzi[+]                               0.053      126 11235           0.297285        Charlottesville (22)<br>A                                          
+        20 POLITICO_Steve[+]                           0.052      123 6684            0.198235        Irma (178)<br>Harvey (91) <table style='border:0px;padding:0px'>
+< 
+        21 burgessev[+]                                0.051      122 2870            0.384321        Obamacare (2)<br>TribFest                                          
+        22 joshgerstein[+]                             0.051      122 3342            0.253142        SCOTUS (79)<br>TravelBan                                           
+        23 OKnox[+]                                    0.051      121 4841            0.191283        BREAKING (30)<br>Harvey (                                          
+        24 MEPFuller[+]                                0.050      119 4406            0.207217        FakeHill50Ledes (5)<br>So                                          
+        25 pkcapitol[+]                                0.050      119 2047            0.559844        FlyEaglesFly (10)<br>FlyE                                          
+        26 scottwongDC[+]                              0.049      116 4562            0.313897        Charlottesville (42)<br>B                                          
+        27 BenjySarlin[+]                              0.048      114 4805            0.185848        DACA (4)<br>Harvey (3)<br                                          
+        28 nielslesniewski[+]                          0.047      112 3579            0.273261        Harvey (18)<br>ALSen (11)                                          
+        29 dylanlscott[+]                              0.047      111 8067            0.214454        Harvey (12)<br>FF (8)<br>                                          
+        30 jonathanvswan[+]                            0.047      111 4077            0.284523        axiosam (46)<br>axiossnea                                          
+        31 mkraju[+]                                   0.047      111 2380            0.332773        ALSen (12)<br>TheLead (11 <table style='border:0px;padding:0px'>
+< 
+        32 edatpost[+]                                 0.046      109 2947            0.360706        ComeyHearing (45)<br>Puer                                          
+        33 jbendery[+]                                 0.046      109 6570            0.179909        Charlottesville (12)<br>P                                          
+        34 ddale8[+]                                   0.042       99 6351            0.118407        cdnpoli (9)<br>NAFTA (8)<                                          
+        35 ShaneGoldmacher[+]                          0.040       96 2393            0.216047        VAGov (5)<br>BREAKING (4)                                          
+        36 peterbakernyt[+][*]                         0.039       94 1683            0.330362        frontlinePBS (25)<br>Time                                          
+        37 chrisgeidner[+]                             0.038       90 11057           0.108709        SCOTUS (276)<br>TravelBan                                          
+        38 RebeccaShabad[+][*]                         0.037       88 5274            0.266591        Harvey (57)<br>Houston (3                                          
+        39 igorbobic[+]                                0.037       88 3938            0.253936        ALSen (7)<br>BREAKING (6) <table style='border:0px;padding:0px'>
+< 
+        40 mikememoli[+]                               0.036       86 1643            0.377358        fitn (8)<br>Charlottesvil                                          
+        41 RichardRubinDC[+]                           0.035       84 3382            0.275281        TRIH (64)<br>DBCFT (33)<b                                          
+        42 juliemason[+]                               0.035       84 2897            0.221954        PressPool (5)<br>millenni                                          
+        43 PoliticoKevin[+]                            0.035       83 2633            0.339916        VAGov (120)<br>ALSen (61) <table style='border:0px;padding:0px'>
+< 
+        44 jameshohmann[+]                             0.035       83 2454            0.471068        Trump (30)<br>Russia (16) <table style='border:0px;padding:0px'>
+< 
+        45 HowardMortman                               0.034       82 2916            0.212963        tbt (98)<br>FlashbackFrid                                          
+        46 Jordanfabian[+]                             0.034       80 1623            0.349969        BREAKING (5)<br>SolarEcli                                          
+        47 vplus[+]                                    0.034       80 4469            0.248154        Irma (29)<br>twinpeaks (1                                          
+        48 kenvogel[+]                                 0.033       79 1678            0.164482        Charlottesville (11)<br>C                                          
+        49 EricMGarcia                                 0.033       78 8256            0.12936         FakeNews (18)<br>CripTheV                                          
+        50 frankthorp[+]                               0.033       78 2143            0.211853        Harvey (18)<br>DACA (17)<                                          
+        51 jeremyherb[+]                               0.033       78 1344            0.427083        FY18NDAA (65)<br>FF (6)<b                                          
+        52 kelsey_snell[+]                             0.033       78 1144            0.684441        FF (5)<br>npcbee (5)<br>T                                          
+        53 rachaelmbade[+]                             0.033       78 1565            0.368051        s (3)<br>insidepolitics (                                          
+        54 colinwilhelm[+]                             0.032       77 3586            0.29894         fintech (17)<br>PuertoRic                                          
+        55 joshledermanAP[+]                           0.032       77 1699            0.206004        Cuba (63)<br>Qatar (35)<b <table style='border:0px;padding:0px'>
+< 
+        56 jrovner[+]                                  0.032       77 3801            0.274665        GrahamCassidy (31)<br>GoB                                          
+        57 IsaacDovere[+]                              0.032       76 3213            0.196701        OffMessage (21)<br>Detroi                                          
+        58 aseitzwald[+]                               0.032       76 2050            0.274146        ALSen (18)<br>GA06 (16)<b                                          
+        59 kasie[+]                                    0.032       76 1436            0.369081        KasieDC (11)<br>KCDC (10)                                          
+        60 DaviSusan[+]                                0.032       75 1050            0.317143        ALSen (6)<br>wemakeNPR (5                                          
+        61 elianayjohnson[+]                           0.032       75 1370            0.425547        MTPDaily (6)<br>MTP (5)<b                                          
+        62 mikedebonis[+]                              0.032       75 1541            0.309539        GrahamCassidy (9)<br>Char                                          
+        63 ByronTau[+]                                 0.031       74 1289            0.216447        BREAKING (2)<br>GA06 (1)< <table style='border:0px;padding:0px'>
+< 
+        64 davidshepardson[+]                          0.031       74 5709            0.231915        Harvey (24)<br>DACA (10)<                                          
+        65 joshrogin[+]                                0.031       74 1999            0.23962         AspenSecurity (52)<br>smh                                          
+        66 KateNocera[+]                               0.031       73 2692            0.417905        GA06 (11)<br>am2dm (10)<b                                          
+        67 brianbeutler[+]                             0.031       73 10161           0.147623        cnftweet (8)<br>actually                                           
+        68 heatherscope[+]                             0.031       73 1574            0.647395        ALSen (4)<br>Congressiona                                          
+        69 VaughnHillyard[+]                           0.030       72 1615            0.304025        Harvey (8)<br>azsen (7)<b                                          
+        70 jackshafer[+]                               0.030       72 4301            0.205534        AspenIdeas (5)<br>axiosme                                          
+        71 jenhab[+]                                   0.030       72 1090            0.677982        Obamacare (12)<br>BREAKIN                                          
+        72 EricLiptonNYT[+][*]                         0.030       71 3738            0.277421        Irma (21)<br>Harvey (19)<                                          
+        73 eschor[+]                                   0.030       71 1410            0.478014        FF (4)<br>ComeyHearing (2                                          
+        74 Emma_Dumain                                 0.029       70 2299            0.264463        thestate (22)<br>scpol (2                                          
+        75 rebeccagberg[+]                             0.029       70 1154            0.37175         Charlottesville (4)<br>CN                                          
+        76 GarrettHaake[+]                             0.029       69 2187            0.188386        ALSen (11)<br>VVS17 (9)<b <table style='border:0px;padding:0px'>
+< 
+        77 bykowicz[+]                                 0.029       69 1635            0.324771        Harvey (6)<br>Trump (5)<b                                          
+        78 mollyesque[+]                               0.029       69 800             0.37            DACA (5)<br>ALSen (3)<br>                                          
+        79 svdate[+]                                   0.029       69 3198            0.357724        Charlottesville (5)<br>Tr                                          
+        80 mj_lee[+]                                   0.029       68 1180            0.318644        Irma (3)<br>Comey (2)<br>                                          
+        81 DaniellaMicaela[+]                          0.028       67 3815            0.214417        Politicon2017 (80)<br>CNN                                          
+        82 RosieGray[+]                                0.028       67 1720            0.263953        infrastructureweek (8)<br                                          
+        83 elwasson[+]                                 0.028       67 2347            0.381338        Cambodia (26)<br>BREAKING                                          
+        84 kelmej[+]                                   0.028       67 5093            0.168467        FY18 (54)<br>POTUS (41)<b <table style='border:0px;padding:0px'>
+< 
+        85 JeffYoung[+]                                0.028       66 3554            0.336241        ACA (6)<br>BCRA (6)<br>Ob                                          
+        86 TalKopan[+]                                 0.028       66 1955            0.330435        DACA (19)<br>CambridgeCyb                                          
+        87 ericawerner[+]                              0.028       66 1012            0.272727        WashWeek (2)<br>Russia (1                                          
+        88 nancook[+]                                  0.028       66 748             0.675134        Nerdcast (7)<br>FF (4)<br                                          
+        89 tamarakeithNPR[+]                           0.028       66 2200            0.463636        wemakeNPR (17)<br>Womenof                                          
+        90 AaronMehta[+]                               0.027       65 7618            0.229325        ASC17 (44)<br>DNconf (39)                                          
+        91 Acosta[+]                                   0.027       65 1284            0.232866        wherearethetapes (6)<br>C <table style='border:0px;padding:0px'>
+< 
+        92 GrahamDavidA[+]                             0.027       65 3898            0.13648         onbrand (4)<br>ncpol (4)<                                          
+        93 mmurraypolitics[+]                          0.027       65 4347            0.417529        MTPDaily (18)<br>GA06 (17                                          
+        94 woodruffbets[+]                             0.027       65 1757            0.227661        FF (13)<br>inners (5)<br>                                          
+        95 JNicholsonInDC                              0.027       64 2587            0.311171        ThisTown (6)<br>twinpeaks                                          
+        96 SaraMurray[+]                               0.027       64 927             0.492988        CNN (4)<br>TheLead (3)<br                                          
+        97 WardDPatrick[+]                             0.027       64 4028            0.164598        Charlottesville (31)<br>D                                          
+        98 margbrennan[+]                              0.027       64 5839            0.285494        IranDeal (47)<br>Charlott <table style='border:0px;padding:0px'>
+< 
+        99 MattLaslo[+]                                0.026       63 3426            0.157618        GrahamCassidy (10)<br>Gra <table style='border:0px;padding:0px'>
+< 
+       100 gregorykorte[+]                             0.026       62 1300            0.206154        FOIA (17)<br>DACA (6)<br>                                          
+
+                                Scaled value statistics                           
+      Min:                0 Mean:           0.005 Lower quartile:       4.202e-04 
+      Max:            0.094 Std.dev:        0.010 Median:                   0.002 
+                                                  Upper quartile:           0.006 
+   Back to measure list 
+
+   Mentions/Retweets in Cliques (member of many cliques) 
+      This is number of distinct cliques of size at least four that each node belongs 
+      to in the reciprocal mentioned-by and retweeted-by network. 
+      If the node of interest has a higher than normal value (greater than 1 standard 
+      deviation(s) above the mean) the row is colored <span 
+      style='color:red'>red</span>. The row is <span style='color:green'>green</span> 
+      if the node is within 1 standard deviation of the mean. Finally, the row is 
+      colored <span style='color:blue'>blue</span> if the node has a lower than normal 
+      value (less than one standard deviation(s) below the mean). 
+
+      Input network(s): Agent x Agent - Reciprocal 
+
+      Rank Agent                                       Value Unscaled Tweet count     Average mention Most common hashtags      Most common locations                    
+         1 jmartNYT[+]                                     1     6727 7374            0.259967        ALSen (74)<br>VAGov (34)<                                          
+         2 daveweigel[+]                               0.825     5552 11007           0.151994        ALSen (57)<br>NN17 (34)<b                                          
+         3 BresPolitico                                0.724     4870 4938            0.524099        Obamacare (20)<br>BREAKIN                                          
+         4 JakeSherman[+]                              0.507     3409 4362            0.281293        PlaybookLoyal (10)<br>BRE <table style='border:0px;padding:0px'>
+< 
+         5 Phil_Mattingly[+]                           0.458     3079 3420            0.420468        BREAKING (12)<br>GoBucks                                           
+         6 seungminkim[+]                              0.445     2996 3806            0.370993        ALSen (49)<br>DACA (10)<b                                          
+         7 jaketapper[+][*]                            0.405     2727 11953           0.177529        TheLead (781)<br>CNNSOTU                                           
+         8 JohnJHarwood[+]                             0.378     2543 13942           0.279013        Natitude (18)<br>GA06 (17                                          
+         9 sahilkapur[+]                               0.372     2505 5098            0.16889         WDYM (9)<br>Irma (8)<br>G                                          
+        10 DavidMDrucker[+]                            0.371     2496 10710           0.171522        ALSen (120)<br>GA06 (84)<                                          
+        11 HotlineJosh[+]                              0.326     2195 18697           0.209445        Nats (139)<br>GA06 (86)<b                                          
+        12 Fahrenthold[+]                              0.296     1994 6000            0.304833        Harvey (51)<br>Irma (17)<                                          
+        13 StevenTDennis[+]                            0.286     1927 6111            0.220749        Irma (23)<br>Charlottesvi                                          
+        14 burgessev[+]                                0.275     1852 2870            0.384321        Obamacare (2)<br>TribFest                                          
+        15 jbendery[+]                                 0.267     1797 6570            0.179909        Charlottesville (12)<br>P                                          
+        16 Hadas_Gold[+]                               0.259     1744 2745            0.239344        BREAKING (8)<br>Btw17 (3)                                          
+        17 ZekeJMiller[+][*]                           0.252     1692 3922            0.17899         Charlottesville (4)<br>DP                                          
+        18 ddale8[+]                                   0.240     1613 6351            0.118407        cdnpoli (9)<br>NAFTA (8)<                                          
+        19 BenjySarlin[+]                              0.239     1610 4805            0.185848        DACA (4)<br>Harvey (3)<br                                          
+        20 ryanbeckwith[+]                             0.206     1386 10360           0.175579        Charlottesville (17)<br>G                                          
+        21 mkraju[+]                                   0.184     1238 2380            0.332773        ALSen (12)<br>TheLead (11 <table style='border:0px;padding:0px'>
+< 
+        22 OKnox[+]                                    0.180     1208 4841            0.191283        BREAKING (30)<br>Harvey (                                          
+        23 POLITICO_Steve[+]                           0.180     1208 6684            0.198235        Irma (178)<br>Harvey (91) <table style='border:0px;padding:0px'>
+< 
+        24 ericgeller[+]                               0.176     1183 20978           0.122605        GameOfThrones (15)<br>FF  <table style='border:0px;padding:0px'>
+< 
+        25 CahnEmily[+]                                0.176     1182 15550           0.235627        TheBachelorette (89)<br>G                                          
+        26 jonathanvswan[+]                            0.173     1165 4077            0.284523        axiosam (46)<br>axiossnea                                          
+        27 MEPFuller[+]                                0.169     1138 4406            0.207217        FakeHill50Ledes (5)<br>So                                          
+        28 igorbobic[+]                                0.162     1093 3938            0.253936        ALSen (7)<br>BREAKING (6) <table style='border:0px;padding:0px'>
+< 
+        29 ShaneGoldmacher[+]                          0.155     1041 2393            0.216047        VAGov (5)<br>BREAKING (4)                                          
+        30 JaredRizzi[+]                               0.153     1030 11235           0.297285        Charlottesville (22)<br>A                                          
+        31 scottwongDC[+]                              0.148      996 4562            0.313897        Charlottesville (42)<br>B                                          
+        32 joshgerstein[+]                             0.143      965 3342            0.253142        SCOTUS (79)<br>TravelBan                                           
+        33 pkcapitol[+]                                0.137      923 2047            0.559844        FlyEaglesFly (10)<br>FlyE                                          
+        34 mikememoli[+]                               0.137      920 1643            0.377358        fitn (8)<br>Charlottesvil                                          
+        35 nielslesniewski[+]                          0.121      811 3579            0.273261        Harvey (18)<br>ALSen (11)                                          
+        36 IsaacDovere[+]                              0.119      802 3213            0.196701        OffMessage (21)<br>Detroi                                          
+        37 elianayjohnson[+]                           0.115      771 1370            0.425547        MTPDaily (6)<br>MTP (5)<b                                          
+        38 chrisgeidner[+]                             0.114      764 11057           0.108709        SCOTUS (276)<br>TravelBan                                          
+        39 dylanlscott[+]                              0.113      757 8067            0.214454        Harvey (12)<br>FF (8)<br>                                          
+        40 edatpost[+]                                 0.111      745 2947            0.360706        ComeyHearing (45)<br>Puer                                          
+        41 frankthorp[+]                               0.100      671 2143            0.211853        Harvey (18)<br>DACA (17)<                                          
+        42 brianbeutler[+]                             0.095      641 10161           0.147623        cnftweet (8)<br>actually                                           
+        43 rachaelmbade[+]                             0.095      637 1565            0.368051        s (3)<br>insidepolitics (                                          
+        44 aseitzwald[+]                               0.092      618 2050            0.274146        ALSen (18)<br>GA06 (16)<b                                          
+        45 KateNocera[+]                               0.091      613 2692            0.417905        GA06 (11)<br>am2dm (10)<b                                          
+        46 PoliticoKevin[+]                            0.091      610 2633            0.339916        VAGov (120)<br>ALSen (61) <table style='border:0px;padding:0px'>
+< 
+        47 mikedebonis[+]                              0.083      555 1541            0.309539        GrahamCassidy (9)<br>Char                                          
+        48 vplus[+]                                    0.077      516 4469            0.248154        Irma (29)<br>twinpeaks (1                                          
+        49 jameshohmann[+]                             0.076      510 2454            0.471068        Trump (30)<br>Russia (16) <table style='border:0px;padding:0px'>
+< 
+        50 kasie[+]                                    0.072      485 1436            0.369081        KasieDC (11)<br>KCDC (10)                                          
+        51 kenvogel[+]                                 0.069      465 1678            0.164482        Charlottesville (11)<br>C                                          
+        52 kelsey_snell[+]                             0.065      438 1144            0.684441        FF (5)<br>npcbee (5)<br>T                                          
+        53 heatherscope[+]                             0.064      433 1574            0.647395        ALSen (4)<br>Congressiona                                          
+        54 jenhab[+]                                   0.064      433 1090            0.677982        Obamacare (12)<br>BREAKIN                                          
+        55 RosieGray[+]                                0.064      432 1720            0.263953        infrastructureweek (8)<br                                          
+        56 RichardRubinDC[+]                           0.063      425 3382            0.275281        TRIH (64)<br>DBCFT (33)<b                                          
+        57 DaviSusan[+]                                0.062      414 1050            0.317143        ALSen (6)<br>wemakeNPR (5                                          
+        58 eschor[+]                                   0.061      413 1410            0.478014        FF (4)<br>ComeyHearing (2                                          
+        59 peterbakernyt[+][*]                         0.061      413 1683            0.330362        frontlinePBS (25)<br>Time                                          
+        60 rebeccagberg[+]                             0.060      404 1154            0.37175         Charlottesville (4)<br>CN                                          
+        61 GrahamDavidA[+]                             0.059      400 3898            0.13648         onbrand (4)<br>ncpol (4)<                                          
+        62 RebeccaShabad[+][*]                         0.058      387 5274            0.266591        Harvey (57)<br>Houston (3                                          
+        63 ericbradner[+]                              0.055      373 2223            0.375169        ALSen (68)<br>azsen (27)<                                          
+        64 mj_lee[+]                                   0.055      372 1180            0.318644        Irma (3)<br>Comey (2)<br>                                          
+        65 jackshafer[+]                               0.053      358 4301            0.205534        AspenIdeas (5)<br>axiosme                                          
+        66 AndrewRestuccia[+]                          0.052      353 437             0.727689        ParisAgreement (1)<br>Par                                          
+        67 mollyesque[+]                               0.052      347 800             0.37            DACA (5)<br>ALSen (3)<br>                                          
+        68 nancook[+]                                  0.051      346 748             0.675134        Nerdcast (7)<br>FF (4)<br                                          
+        69 danmericaCNN[+]                             0.049      329 1231            0.277011        Charlottesville (4)<br>Na                                          
+        70 joshrogin[+]                                0.048      326 1999            0.23962         AspenSecurity (52)<br>smh                                          
+        71 apalmerdc[+]                                0.047      316 444             0.727477        PlaybookLoyal (15)<br>wom                                          
+        72 juliemason[+]                               0.046      309 2897            0.221954        PressPool (5)<br>millenni                                          
+        73 SarahMMimms[+]                              0.045      300 3653            0.235697        am2dm (86)<br>TheBachelor                                          
+        74 alexis_levinson[+]                          0.044      297 1300            0.325385        GA06 (80)<br>ALSen (76)<b                                          
+        75 MattLaslo[+]                                0.044      295 3426            0.157618        GrahamCassidy (10)<br>Gra <table style='border:0px;padding:0px'>
+< 
+        76 EricLiptonNYT[+][*]                         0.044      293 3738            0.277421        Irma (21)<br>Harvey (19)<                                          
+        77 ericawerner[+]                              0.042      283 1012            0.272727        WashWeek (2)<br>Russia (1                                          
+        78 Acosta[+]                                   0.041      276 1284            0.232866        wherearethetapes (6)<br>C <table style='border:0px;padding:0px'>
+< 
+        79 mmurraypolitics[+]                          0.041      274 4347            0.417529        MTPDaily (18)<br>GA06 (17                                          
+        80 Jordanfabian[+]                             0.040      269 1623            0.349969        BREAKING (5)<br>SolarEcli                                          
+        81 jrovner[+]                                  0.039      259 3801            0.274665        GrahamCassidy (31)<br>GoB                                          
+        82 DaniellaMicaela[+]                          0.037      251 3815            0.214417        Politicon2017 (80)<br>CNN                                          
+        83 SaraMurray[+]                               0.037      249 927             0.492988        CNN (4)<br>TheLead (3)<br                                          
+        84 woodruffbets[+]                             0.037      249 1757            0.227661        FF (13)<br>inners (5)<br>                                          
+        85 GarrettHaake[+]                             0.036      243 2187            0.188386        ALSen (11)<br>VVS17 (9)<b <table style='border:0px;padding:0px'>
+< 
+        86 colinwilhelm[+]                             0.035      238 3586            0.29894         fintech (17)<br>PuertoRic                                          
+        87 ByronTau[+]                                 0.035      233 1289            0.216447        BREAKING (2)<br>GA06 (1)< <table style='border:0px;padding:0px'>
+< 
+        88 JeffYoung[+]                                0.034      232 3554            0.336241        ACA (6)<br>BCRA (6)<br>Ob                                          
+        89 EricMGarcia                                 0.034      230 8256            0.12936         FakeNews (18)<br>CripTheV                                          
+        90 Emma_Dumain                                 0.033      225 2299            0.264463        thestate (22)<br>scpol (2                                          
+        91 AshleyRParker[+]                            0.033      224 727             0.264099        ParkerFamilyVacation (2)<                                          
+        92 bykowicz[+]                                 0.033      223 1635            0.324771        Harvey (6)<br>Trump (5)<b                                          
+        93 justinsink[+]                               0.033      223 1016            0.332677        FF (5)<br>CynicalTolu (3)                                          
+        94 jeremyherb[+]                               0.033      222 1344            0.427083        FY18NDAA (65)<br>FF (6)<b                                          
+        95 VaughnHillyard[+]                           0.033      220 1615            0.304025        Harvey (8)<br>azsen (7)<b                                          
+        96 ElizLanders[+]                              0.032      218 1525            0.207213        CNN (8)<br>DACA (8)<br>Ir <table style='border:0px;padding:0px'>
+< 
+        97 cam_joseph[+]                               0.032      216 1525            0.323934        ALSen (31)<br>DACA (13)<b                                          
+        98 katieglueck[+]                              0.032      213 1465            0.387031        ALSen (7)<br>GA06 (6)<br>                                          
+        99 TalKopan[+]                                 0.031      206 1955            0.330435        DACA (19)<br>CambridgeCyb                                          
+       100 mitchellreports[+]                          0.031      206 3490            0.255014        AMR (535)<br>MTP (38)<br>                                          
+
+                                Scaled value statistics                           
+      Min:                0 Mean:           0.008 Lower quartile:               0 
+      Max:                1 Std.dev:        0.045 Median:                       0 
+                                                  Upper quartile:           0.001 
+   Back to measure list 
+
+   Mentions/Retweets in Groups (member of large k-core) 
+      Computes for each node the largest k such it belongs to a k-core of the 
+      (unimodal) input network. A k-core is a sub-network of the input data in which 
+      each node has total-degree at least k. 
+      If the node of interest has a higher than normal value (greater than 1 standard 
+      deviation(s) above the mean) the row is colored <span 
+      style='color:red'>red</span>. The row is <span style='color:green'>green</span> 
+      if the node is within 1 standard deviation of the mean. Finally, the row is 
+      colored <span style='color:blue'>blue</span> if the node has a lower than normal 
+      value (less than one standard deviation(s) below the mean). 
+
+      Input network(s): Agent x Agent - Reciprocal 
+
+      Rank Agent                                       Value Unscaled Tweet count     Average mention Most common hashtags      Most common locations                    
+         1 BenjySarlin[+]                              0.011       27 4805            0.185848        DACA (4)<br>Harvey (3)<br                                          
+         2 BresPolitico                                0.011       27 4938            0.524099        Obamacare (20)<br>BREAKIN                                          
+         3 CahnEmily[+]                                0.011       27 15550           0.235627        TheBachelorette (89)<br>G                                          
+         4 DaviSusan[+]                                0.011       27 1050            0.317143        ALSen (6)<br>wemakeNPR (5                                          
+         5 DavidMDrucker[+]                            0.011       27 10710           0.171522        ALSen (120)<br>GA06 (84)<                                          
+         6 Fahrenthold[+]                              0.011       27 6000            0.304833        Harvey (51)<br>Irma (17)<                                          
+         7 Hadas_Gold[+]                               0.011       27 2745            0.239344        BREAKING (8)<br>Btw17 (3)                                          
+         8 HotlineJosh[+]                              0.011       27 18697           0.209445        Nats (139)<br>GA06 (86)<b                                          
+         9 IsaacDovere[+]                              0.011       27 3213            0.196701        OffMessage (21)<br>Detroi                                          
+        10 JakeSherman[+]                              0.011       27 4362            0.281293        PlaybookLoyal (10)<br>BRE <table style='border:0px;padding:0px'>
+< 
+        11 JohnJHarwood[+]                             0.011       27 13942           0.279013        Natitude (18)<br>GA06 (17                                          
+        12 KateNocera[+]                               0.011       27 2692            0.417905        GA06 (11)<br>am2dm (10)<b                                          
+        13 MEPFuller[+]                                0.011       27 4406            0.207217        FakeHill50Ledes (5)<br>So                                          
+        14 OKnox[+]                                    0.011       27 4841            0.191283        BREAKING (30)<br>Harvey (                                          
+        15 POLITICO_Steve[+]                           0.011       27 6684            0.198235        Irma (178)<br>Harvey (91) <table style='border:0px;padding:0px'>
+< 
+        16 Phil_Mattingly[+]                           0.011       27 3420            0.420468        BREAKING (12)<br>GoBucks                                           
+        17 PoliticoKevin[+]                            0.011       27 2633            0.339916        VAGov (120)<br>ALSen (61) <table style='border:0px;padding:0px'>
+< 
+        18 RichardRubinDC[+]                           0.011       27 3382            0.275281        TRIH (64)<br>DBCFT (33)<b                                          
+        19 ShaneGoldmacher[+]                          0.011       27 2393            0.216047        VAGov (5)<br>BREAKING (4)                                          
+        20 StevenTDennis[+]                            0.011       27 6111            0.220749        Irma (23)<br>Charlottesvi                                          
+        21 ZekeJMiller[+][*]                           0.011       27 3922            0.17899         Charlottesville (4)<br>DP                                          
+        22 apalmerdc[+]                                0.011       27 444             0.727477        PlaybookLoyal (15)<br>wom                                          
+        23 aseitzwald[+]                               0.011       27 2050            0.274146        ALSen (18)<br>GA06 (16)<b                                          
+        24 brianbeutler[+]                             0.011       27 10161           0.147623        cnftweet (8)<br>actually                                           
+        25 burgessev[+]                                0.011       27 2870            0.384321        Obamacare (2)<br>TribFest                                          
+        26 chrisgeidner[+]                             0.011       27 11057           0.108709        SCOTUS (276)<br>TravelBan                                          
+        27 daveweigel[+]                               0.011       27 11007           0.151994        ALSen (57)<br>NN17 (34)<b                                          
+        28 ddale8[+]                                   0.011       27 6351            0.118407        cdnpoli (9)<br>NAFTA (8)<                                          
+        29 dylanlscott[+]                              0.011       27 8067            0.214454        Harvey (12)<br>FF (8)<br>                                          
+        30 edatpost[+]                                 0.011       27 2947            0.360706        ComeyHearing (45)<br>Puer                                          
+        31 elianayjohnson[+]                           0.011       27 1370            0.425547        MTPDaily (6)<br>MTP (5)<b                                          
+        32 ericawerner[+]                              0.011       27 1012            0.272727        WashWeek (2)<br>Russia (1                                          
+        33 ericgeller[+]                               0.011       27 20978           0.122605        GameOfThrones (15)<br>FF  <table style='border:0px;padding:0px'>
+< 
+        34 frankthorp[+]                               0.011       27 2143            0.211853        Harvey (18)<br>DACA (17)<                                          
+        35 heatherscope[+]                             0.011       27 1574            0.647395        ALSen (4)<br>Congressiona                                          
+        36 igorbobic[+]                                0.011       27 3938            0.253936        ALSen (7)<br>BREAKING (6) <table style='border:0px;padding:0px'>
+< 
+        37 jaketapper[+][*]                            0.011       27 11953           0.177529        TheLead (781)<br>CNNSOTU                                           
+        38 jameshohmann[+]                             0.011       27 2454            0.471068        Trump (30)<br>Russia (16) <table style='border:0px;padding:0px'>
+< 
+        39 jbendery[+]                                 0.011       27 6570            0.179909        Charlottesville (12)<br>P                                          
+        40 jenhab[+]                                   0.011       27 1090            0.677982        Obamacare (12)<br>BREAKIN                                          
+        41 jmartNYT[+]                                 0.011       27 7374            0.259967        ALSen (74)<br>VAGov (34)<                                          
+        42 jonathanvswan[+]                            0.011       27 4077            0.284523        axiosam (46)<br>axiossnea                                          
+        43 joshgerstein[+]                             0.011       27 3342            0.253142        SCOTUS (79)<br>TravelBan                                           
+        44 kasie[+]                                    0.011       27 1436            0.369081        KasieDC (11)<br>KCDC (10)                                          
+        45 kelsey_snell[+]                             0.011       27 1144            0.684441        FF (5)<br>npcbee (5)<br>T                                          
+        46 mikedebonis[+]                              0.011       27 1541            0.309539        GrahamCassidy (9)<br>Char                                          
+        47 mikememoli[+]                               0.011       27 1643            0.377358        fitn (8)<br>Charlottesvil                                          
+        48 mkraju[+]                                   0.011       27 2380            0.332773        ALSen (12)<br>TheLead (11 <table style='border:0px;padding:0px'>
+< 
+        49 mmurraypolitics[+]                          0.011       27 4347            0.417529        MTPDaily (18)<br>GA06 (17                                          
+        50 mollyesque[+]                               0.011       27 800             0.37            DACA (5)<br>ALSen (3)<br>                                          
+        51 nielslesniewski[+]                          0.011       27 3579            0.273261        Harvey (18)<br>ALSen (11)                                          
+        52 pkcapitol[+]                                0.011       27 2047            0.559844        FlyEaglesFly (10)<br>FlyE                                          
+        53 rachaelmbade[+]                             0.011       27 1565            0.368051        s (3)<br>insidepolitics (                                          
+        54 rebeccagberg[+]                             0.011       27 1154            0.37175         Charlottesville (4)<br>CN                                          
+        55 ryanbeckwith[+]                             0.011       27 10360           0.175579        Charlottesville (17)<br>G                                          
+        56 sahilkapur[+]                               0.011       27 5098            0.16889         WDYM (9)<br>Irma (8)<br>G                                          
+        57 scottwongDC[+]                              0.011       27 4562            0.313897        Charlottesville (42)<br>B                                          
+        58 seungminkim[+]                              0.011       27 3806            0.370993        ALSen (49)<br>DACA (10)<b                                          
+        59 ASimendinger                                0.011       26 2555            0.23953         DACA (28)<br>Irma (23)<br                                          
+        60 Acosta[+]                                   0.011       26 1284            0.232866        wherearethetapes (6)<br>C <table style='border:0px;padding:0px'>
+< 
+        61 AlexNBCNews[+][*]                           0.011       26 1676            0.250597        Irma (24)<br>Harvey (7)<b                                          
+        62 AndrewBeatty[+]                             0.011       26 2223            0.183086        BREAKING (86)<br>AFP (21)                                          
+        63 AndrewRestuccia[+]                          0.011       26 437             0.727689        ParisAgreement (1)<br>Par                                          
+        64 AnnieLinskey[+]                             0.011       26 1258            0.387917        Hardball (5)<br>HooverOTB                                          
+        65 AshleyRParker[+]                            0.011       26 727             0.264099        ParkerFamilyVacation (2)<                                          
+        66 BCAppelbaum[+]                              0.011       26 2192            0.117245        Irma (5)<br>Maria (2)<br>                                          
+        67 ByronTau[+]                                 0.011       26 1289            0.216447        BREAKING (2)<br>GA06 (1)< <table style='border:0px;padding:0px'>
+< 
+        68 DavidNakamura[+]                            0.011       26 1327            0.148455        DACA (36)<br>UNGA (19)<br                                          
+        69 Emma_Dumain                                 0.011       26 2299            0.264463        thestate (22)<br>scpol (2                                          
+        70 EricLiptonNYT[+][*]                         0.011       26 3738            0.277421        Irma (21)<br>Harvey (19)<                                          
+        71 EricMGarcia                                 0.011       26 8256            0.12936         FakeNews (18)<br>CripTheV                                          
+        72 FoxReports                                  0.011       26 1080            0.242593        RyanTownHall (4)<br>Comey                                          
+        73 GarrettHaake[+]                             0.011       26 2187            0.188386        ALSen (11)<br>VVS17 (9)<b <table style='border:0px;padding:0px'>
+< 
+        74 GlennThrush[+]                              0.011       26 1692            0.166667        NewProfilePic (2)<br>G20                                           
+        75 GrahamDavidA[+]                             0.011       26 3898            0.13648         onbrand (4)<br>ncpol (4)<                                          
+        76 HowardMortman                               0.011       26 2916            0.212963        tbt (98)<br>FlashbackFrid                                          
+        77 JDiamond1[+]                                0.011       26 1327            0.25471         DACA (8)<br>Charlottesvil                                          
+        78 JNicholsonInDC                              0.011       26 2587            0.311171        ThisTown (6)<br>twinpeaks                                          
+        79 JSwiftTWS[+]                                0.011       26 6829            0.124616        RallyTogether (36)<br>Ind                                          
+        80 JamesArkin[+]                               0.011       26 727             0.253095        RallyTogether (5)<br>Roll <table style='border:0px;padding:0px'>
+< 
+        81 JaredRizzi[+]                               0.011       26 11235           0.297285        Charlottesville (22)<br>A                                          
+        82 JeffYoung[+]                                0.011       26 3554            0.336241        ACA (6)<br>BCRA (6)<br>Ob                                          
+        83 JessicaTaylor[+]                            0.011       26 2175            0.197241        wemakeNPR (83)<br>ALSen (                                          
+        84 John_Hudson[+]                              0.011       26 1558            0.163671        UNGA (6)<br>Syria (5)<br> <table style='border:0px;padding:0px'>
+< 
+        85 Jordanfabian[+]                             0.011       26 1623            0.349969        BREAKING (5)<br>SolarEcli                                          
+        86 KThomasDC[+]                                0.011       26 1291            0.26646         Harvey (6)<br>G20 (6)<br>                                          
+        87 MattLaslo[+]                                0.011       26 3426            0.157618        GrahamCassidy (10)<br>Gra <table style='border:0px;padding:0px'>
+< 
+        88 McCormackJohn                               0.011       26 3531            0.232795        GA06 (9)<br>BREAKING (8)<                                          
+        89 MichaelRWarren[+]                           0.011       26 2393            0.206018        GA06 (9)<br>Charlottesvil                                          
+        90 MikeMadden[+][*]                            0.011       26 6713            0.126173        usmnt (21)<br>PuertoRico  <table style='border:0px;padding:0px'>
+< 
+        91 NYTnickc[+]                                 0.011       26 2394            0.185881        FF (9)<br>VAGov (7)<br>NJ                                          
+        92 Olivianuzzi                                 0.011       26 2523            0.173206        TheBeat (3)<br>FF (2)<br>                                          
+        93 Philip_Elliott[+]                           0.011       26 2789            0.212621        Charlottesville (21)<br>J                                          
+        94 RebeccaShabad[+][*]                         0.011       26 5274            0.266591        Harvey (57)<br>Houston (3                                          
+        95 RonBrownstein                               0.011       26 2374            0.271272        Medicaid (42)<br>BCRA (35                                          
+        96 RosieGray[+]                                0.011       26 1720            0.263953        infrastructureweek (8)<br                                          
+        97 SaraMurray[+]                               0.011       26 927             0.492988        CNN (4)<br>TheLead (3)<br                                          
+        98 SarahMMimms[+]                              0.011       26 3653            0.235697        am2dm (86)<br>TheBachelor                                          
+        99 StuPolitics                                 0.011       26 2989            0.133155        ALSen (7)<br>GA06 (5)<br>                                          
+       100 TalKopan[+]                                 0.011       26 1955            0.330435        DACA (19)<br>CambridgeCyb                                          
+
+                                Scaled value statistics                           
+      Min:                0 Mean:           0.003 Lower quartile:       4.202e-04 
+      Max:            0.011 Std.dev:        0.003 Median:                   0.002 
+                                                  Upper quartile:           0.004 
+   Back to measure list 
+
+Return to previous page 
+

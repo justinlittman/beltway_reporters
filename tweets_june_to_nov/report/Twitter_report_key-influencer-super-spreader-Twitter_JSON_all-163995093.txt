@@ -1,0 +1,3481 @@
+Twitter JSON all Super Spreader - AlexNBCNews 
+
+   This tweeter has been identified as a super spreader. Its target audience and 
+   hashtag and word usage are analyzed below. 
+
+   Basic Statistics 
+
+      Number of direct followers     22733  The peak number of followers that the tweeter had  
+      Number of retweeters           166    Number of agents that retweeted the key influencer 
+      Number of secondary followers  516476 The sum of the followers of those who retweeted th 
+   Where was the influencer? 
+
+      The agent  
+      The agent  
+   What hashtags did the influencer use? 
+
+      This displays the top ranked hashtags that the influencer and its retweeters 
+      used. 
+
+      Rank  hashtag              Count                
+      1     pharma               1972                 
+      2     Obamacare            1725                 
+      3     FDA                  1212                 
+      4     ACA                  1168                 
+      5     ALSen                1161                 
+      6     Harvey               1037                 
+      7     Trumpcare            1005                 
+      8     Irma                 955                  
+      9     biotech              939                  
+      10    Charlottesville      909                  
+      11    GA06                 901                  
+      12    BREAKING             835                  
+      13    BCRA                 712                  
+      14    GrahamCassidy        638                  
+      15    AMR                  570                  
+      16    VAGov                556                  
+      17    PuertoRico           553                  
+      18    DACA                 544                  
+      19    Russia               532                  
+      20    MTP                  530                  
+      21    opioidcrisis         504                  
+      22    drugprices           501                  
+      23    HurricaneHarvey      417                  
+      24    healthcare           388                  
+      25    opioids              388                  
+      26    Trump                355                  
+      27    Maria                346                  
+      28    SCOTUS               346                  
+      29    taxreform            336                  
+      30    NorthKorea           318                  
+      31    AHCA                 317                  
+      32    NIH                  296                  
+      33    MOSEN                270                  
+      34    Comey                269                  
+      35    azsen                259                  
+      36    Medicaid             257                  
+      37    opioid               256                  
+      38    HurricaneIrma        251                  
+      39    SkinnyRepeal         251                  
+      40    Iran                 241                  
+      41    Nats                 235                  
+      42    drugpricing          234                  
+      43    ThisWeek             215                  
+      44    FF                   209                  
+      45    LasVegas             209                  
+      46    ComeyHearing         203                  
+      47    GCHJ                 198                  
+      48    Houston              196                  
+      49    MTPDaily             185                  
+      50    FTN                  173                  
+      51    UNGA                 164                  
+      52    CNNSOTU              159                  
+      53    CDC                  154                  
+      54    CongressionalBasebal 148                  
+      55    nvsen                148                  
+      56    tbt                  147                  
+      57    Tillerson            144                  
+      58    SpecialReport        142                  
+      59    BIO2017              140                  
+      60    HurricaneMaria       139                  
+      61    opioidepidemic       139                  
+      62    wemakeNPR            136                  
+      63    SC05                 134                  
+      64    LasVegasShooting     130                  
+      65    Syria                128                  
+      66    TheBachelorette      126                  
+      67    US                   126                  
+      68    AlexanderMurray      124                  
+      69    Cuba                 123                  
+      70    RexTillerson         121                  
+      71    am2dm                115                  
+      72    ORRA                 114                  
+      73    tnsen                113                  
+      74    ParisAgreement       110                  
+      75    maga                 110                  
+      76    eclipse2017          108                  
+      77    Afghanistan          106                  
+      78    CitizenSleuth        106                  
+      79    HHS                  102                  
+      80    Senate               102                  
+      81    FDARA                101                  
+      82    HealthcareBill       100                  
+      83    IranDeal             98                   
+      84    Eclipse              97                   
+      85    FY18NDAA             96                   
+      86    Qatar                96                   
+      87    mapoli               96                   
+      88    SolarEclipse2017     93                   
+      89    ODAC                 91                   
+      90    biosimilars          88                   
+      91    climatechange        88                   
+      92    skinnybill           88                   
+      93    Jose                 87                   
+      94    MedicareForAll       86                   
+      95    60Minutes            84                   
+      96    NeverForget          84                   
+      97    TravelBan            83                   
+      98    GE2017               82                   
+      99    s                    82                   
+      100   INSEN                81                   
+   Tweet List 
+
+      This displays all of the tweets of the influencer ordered from earliest to 
+      latest. Click on a tweet to see its status in Twitter. 
+
+
+      Number Tweet ID          Date              Message                                            
+      1      870643023251689474 
+      2017-0 Pelosi at presser 
+      2      872457944817963008 
+      2017-0 Trump did NOT con 
+      3      872533746750300163 
+      2017-0 The top Dem on Ho 
+      4      870648236389924864 
+      2017-0 Pelosi says she s 
+      5      872156069828734976 
+      2017-0 Sen Hatch on heal 
+      6      870646463239475201 
+      2017-0 Nancy Pelosi on S 
+      7      872443006082846720 
+      2017-0 Rep Conaway - who 
+      8      870353422054293504 
+      2017-0 The congressional 
+      9      889805518935654400 
+      2017-0 Also similar to w 
+      10     888538845607849986 
+      2017-0 NEW: House Intel  
+      11     890229017634328578 
+      2017-0 GOP Rep. Brian Ma 
+      12     889539100109410304 
+      2017-0 Spox for injured  
+      13     889957348571320320 
+      2017-0 NEW: House overwh 
+      14     888430346408218629 
+      2017-0 --&gt; https://t. 
+      15     888149797311578112 
+      2017-0 Jared Kushner’s 
+      16     888049695196663809 
+      2017-0 Pelosi also says  
+      17     889898702806167554 
+      2017-0 Jared Kushner has 
+      18     888129181216854016 
+      2017-0 Speaker Ryan in M 
+      19     888129377023565825 
+      2017-0 Speaker Ryan: "I  
+      20     889592695731232768 
+      2017-0 --&gt; https://t. 
+      21     885583780177686532 
+      2017-0 McConnell leaving 
+      22     885577610796904448 
+      2017-0 Sen Capito left t 
+      23     887743133802541057 
+      2017-0 Leader McConnell  
+      24     887308730978775040 
+      2017-0 Spkr Ryan tells m 
+      25     885857611345743872 
+      2017-0 Pelosi calls on S 
+      26     885197075939545089 
+      2017-0 Dem Rep Sherman o 
+      27     885129044911681537 
+      2017-0 McCarthy told mem 
+      28     883081320049647619 
+      2017-0 GOP Whip Scalise  
+      29     884839271097663488 
+      2017-0 CC @frankthorp ht 
+      30     880531255682519042 
+      2017-0 NBC confirms Susa 
+      31     880506650490269697 
+      2017-0 NEW: Joint Conawa 
+      32     880480070430863363 
+      2017-0 GOP Congressman f 
+      33     880536917510455297 
+      2017-0 House voting now  
+      34     880442833446068224 
+      2017-0 Senate Majority L 
+      35     880469244210814980 
+      2017-0 Pelosi calls Trum 
+      36     880469093958258692 
+      2017-0 Nancy Pelosi on T 
+      37     880458700577800192 
+      2017-0 "The president's  
+      38     877981543821594624 
+      2017-0 A dozen House Dem 
+      39     879800657837948928 
+      2017-0 Podesta says he t 
+      40     878005480840286208 
+      2017-0 Rep Richmond aske 
+      41     877908085003747330 
+      2017-0 Pelosi says despi 
+      42     877871510417022976 
+      2017-0 DNI Director Dan  
+      43     879462761788526592 
+      2017-0 risky. https://t. 
+      44     875470225294200833 
+      2017-0 A source familiar 
+      45     875093483375271936 
+      2017-0 Rep Williams says 
+      46     875798060105965570 
+      2017-0 Wow - Dr. Sava sa 
+      47     877590815010377729 
+      2017-0 Bono just left me 
+      48     877332939457146889 
+      2017-0 At U2 concert, Bo 
+      49     875746412566327297 
+      2017-0 Speaker Ryan visi 
+      50     875372836659109888 
+      2017-0 Pelosi adds that  
+      51     875410080077946881 
+      2017-0 House unanimously 
+      52     875338003727699968 
+      2017-0 Sign for injured  
+      53     875488245542531072 
+      2017-0 Spotted at the co 
+      54     875464188306620416 
+      2017-0 Rep Richmond says 
+      55     875372539844980737 
+      2017-0 Pelosi on politic 
+      56     875014099503112192 
+      2017-0 Rep Jeff Duncan s 
+      57     875006642710040576 
+      2017-0 At approx 12:00 p 
+      58     875011397754728448 
+      2017-0 Rep Joe Barton ad 
+      59     875009874144485376 
+      2017-0 Speaker Paul Ryan 
+      60     874703767870087168 
+      2017-0 VP Pence ignores  
+      61     872896001564176384 
+      2017-0 GOWDY next House  
+      62     875017429218451456 
+      2017-0 Rep McSally says  
+      63     874724587656892416 
+      2017-0 Former DHS Secy J 
+      64     925455516184272896 
+      2017-1 Ways and Means Ch 
+      65     925504248825237504 
+      2017-1 House GOP DELAYS  
+      66     922571754647769089 
+      2017-1 PA special electi 
+      67     922166256819679232 
+      2017-1 President Trump p 
+      68     921377677063442432 
+      2017-1 Former AG Loretta 
+      69     922554797970124800 
+      2017-1 Chairman Brady sa 
+      70     918161190513147904 
+      2017-1 UPDATE: the plan  
+      71     918190605108498432 
+      2017-1 Facebook's Sheryl 
+      72     916067244471406592 
+      2017-1 Rep Tim Murphy's  
+      73     915988251332300801 
+      2017-1 "Pelosi is focuse 
+      74     916335994772877312 
+      2017-1 GOP Whip Steve Sc 
+      75     916044165825273856 
+      2017-1 TUNE IN: Making h 
+      76     916031390533251072 
+      2017-1 BREAKING: Rep Tim 
+      77     917486728721653760 
+      2017-1 Well, ok then. ht 
+      78     915941687096152064 
+      2017-1 NEW: @SpeakerRyan 
+      79     915938832209629185 
+      2017-1 GOP Rep Yoder sup 
+      80     913367422039658497 
+      2017-0 Scalise calls him 
+      81     913367295954685953 
+      2017-0 GOP Whip Scalise  
+      82     912693231380570112 
+      2017-0 --&gt; https://t. 
+      83     914992227126046721 
+      2017-1 House Maj Ldr McC 
+      84     915226619911995392 
+      2017-1 He was also asked 
+      85     912744924138885121 
+      2017-0 CASSIDY: We have  
+      86     913725818064527366 
+      2017-0 A very emotional  
+      87     913406917573271555 
+      2017-0 Scalise --&gt; ht 
+      88     913369139347099649 
+      2017-0 This is first tim 
+      89     913045687058800640 
+      2017-0 House Ways and Me 
+      90     910965075904745473 
+      2017-0 USDA stmt on acci 
+      91     910870885636214784 
+      2017-0 Speaker Ryan in H 
+      92     912373179259203584 
+      2017-0 Hmmm... https://t 
+      93     910924965439995904 
+      2017-0 Cornyn reiterates 
+      94     910924728872898561 
+      2017-0 Sen Cornyn on Gra 
+      95     910910211526971393 
+      2017-0 Speaker Ryan &amp 
+      96     912355692333461504 
+      2017-0 Pelosi on Graham- 
+      97     908366138219823104 
+      2017-0 Speaker Paul Ryan 
+      98     908021134540582915 
+      2017-0 Speaker Paul Ryan 
+      99     907980285823856640 
+      2017-0 Speaker Ryan on u 
+      100    905884929246056450 
+      2017-0 !! Fmr Freedom Ca 
+      101    906209130309980160 
+      2017-0 House Financial S 
+      102    906169431092547588 
+      2017-0 4 Texas House Rep 
+      103    905882693296062464 
+      2017-0 NEW: Treasury Sec 
+      104    905961617103478784 
+      2017-0 House will vote o 
+      105    906988728488472576 
+      2017-0 Photos of the dam 
+      106    905617811179020289 
+      2017-0 One day after Tru 
+      107    905435451317788677 
+      2017-0 Only member of GO 
+      108    905434629439713280 
+      2017-0 GOP Rep Coffman t 
+      109    906164525732438016 
+      2017-0 All democrats vot 
+      110    905474507061813248 
+      2017-0 BIG: President Tr 
+      111    905793173313781760 
+      2017-0 Sen Dem aide conf 
+      112    907327218375958533 
+      2017-0 Stmts from House  
+      113    905777469562773504 
+      2017-0 Spkr Ryan on Trum 
+      114    905207389972041728 
+      2017-0 House Foreign Aff 
+      115    906171291354357760 
+      2017-0 Also not voting o 
+      116    903645428914294784 
+      2017-0 Speaker Ryan on D 
+      117    902233010753372160 
+      2017-0 Cruz when asked a 
+      118    900074194309984256 
+      2017-0 House Freedom Cau 
+      119    900420137425158144 
+      2017-0 Speaker Paul Ryan 
+      120    899809245809582080 
+      2017-0 Speaker Ryan on T 
+      121    899675769063997441 
+      2017-0 Scalise today on  
+      122    898184793472606208 
+      2017-0 In a GOP controll 
+      123    898243344165462016 
+      2017-0 TRUMP on Barcelon 
+      124    893554656693157889 
+      2017-0 And in this very  
+      125    893575580456759296 
+      2017-0 Spkr Paul Ryan: " 
+      126    890718906255634433 
+      2017-0 If Senate can pas 
+      127    890978651747102720 
+      2017-0 And with this vot 
+      128    892359854811222016 
+      2017-0 But the Speaker's 
+      129    890755663764353026 
+      2017-0 Sums it up. https 
+      130    891000789577150464 
+      2017-0 Sen. McCain start 
+      131    891047581530370049 
+      2017-0 This was yesterda 
+      132    890658453353517056 
+      2017-0 Just, wow. https: 
+      133    892117484198907904 
+      2017-0 Sanders says "all 
+      134    890981988294950912 
+      2017-0 The scene outside 
+      135    890597403434381313 
+      2017-0 Speaker Ryan said 
+      136    890576325664280577 
+      2017-0 VP Mike Pence tel 
+      137    874976562822696964 
+      2017-0 Capitol Police st 
+      138    874754097991344130 
+      2017-0 Rep. Louie Gohmer 
+      139    874281360961286145 
+      2017-0 Attorney General  
+      140    872843048899796993 
+      2017-0 Speaker Ryan says 
+      141    875028512679374848 
+      2017-0 The House has adj 
+      142    874621817868226562 
+      2017-0 House GOP confere 
+      143    874654688616099840 
+      2017-0 --&gt; ! https:// 
+      144    874633336634970112 
+      2017-0 Speaker Ryan: I t 
+      145    875160665023025153 
+      2017-0 Whip Scalise UPDA 
+      146    875170284659257344 
+      2017-0 prayers for #team 
+      147    875165994708324352 
+      2017-0 Absolutely. https 
+      148    875165557548609536 
+      2017-0 RT @AshLeeStrong: 
+      149    875159391271604225 
+      2017-0 RT @BenSasse: Ame 
+      150    875153718127333376 
+      2017-0 RT @KellyO: The m 
+      151    875151584308723712 
+      2017-0 President Trump h 
+      152    875150334297083904 
+      2017-0 Two sources tell  
+      153    875118664076464128 
+      2017-0 RT @kelsey_snell: 
+      154    875117398755553281 
+      2017-0 And he really lov 
+      155    875116875847434240 
+      2017-0 And in other news 
+      156    875113690776973313 
+      2017-0 RT @kaylatausche: 
+      157    875110106941333504 
+      2017-0 RT @HillaryClinto 
+      158    875107381415489537 
+      2017-0 --&gt; https://t. 
+      159    875100366043525121 
+      2017-0 NEW: Former DHS S 
+      160    875096903389765632 
+      2017-0 RT @JebBush: My p 
+      161    875096368360148992 
+      2017-0 Rep Williams depa 
+      162    875094757944553472 
+      2017-0 RT @MariannaNBCNe 
+      163    875093727995408384 
+      2017-0 "We need to play  
+      164    875092120293572608 
+      2017-0 Rep Williams gets 
+      165    875091910066671617 
+      2017-0 Rep Roger William 
+      166    875065249187213312 
+      2017-0 RT @JakeSherman:  
+      167    875058578301870080 
+      2017-0 UPDATE on WHIP @S 
+      168    875045416609480704 
+      2017-0 RT @heatherscope: 
+      169    875034085550428164 
+      2017-0 RT @LACaldwellDC: 
+      170    875033949894004736 
+      2017-0 +1 https://t.co/U 
+      171    875014876279828480 
+      2017-0 RT @frankthorp: J 
+      172    875014693752098817 
+      2017-0 Rep Jeff Duncan s 
+      173    875013915486429184 
+      2017-0 Rep Jeff Duncan s 
+      174    875007717496303617 
+      2017-0 Leader Pelosi wil 
+      175    875006540415217665 
+      2017-0 Live on @NBCNews  
+      176    874991796153188352 
+      2017-0 There will be an  
+      177    874991035264495616 
+      2017-0 Members return to 
+      178    874979928994983937 
+      2017-0 Speaker Ryan on t 
+      179    874976641981743107 
+      2017-0 Congressman Steve 
+      180    874976243900395520 
+      2017-0 #4 GOPer in House 
+      181    874971284626706432 
+      2017-0 Rep Mark Walker ( 
+      182    874955877677232128 
+      2017-0 RT @nbcwashington 
+      183    874747279093243905 
+      2017-0 House sends VA ac 
+      184    874729505948139520 
+      2017-0 RT @NBCNews: JUST 
+      185    874728239511613440 
+      2017-0 In other news on  
+      186    874726746691653633 
+      2017-0 Trump lawyer Mich 
+      187    874725114272763905 
+      2017-0 Johnson says he h 
+      188    874711607905005569 
+      2017-0 RT @CraigCaplan:  
+      189    874707689691123712 
+      2017-0 RT @cimarcos: It' 
+      190    874677082483179520 
+      2017-0 --&gt; https://t. 
+      191    874677042314399744 
+      2017-0 RT @chucktodd: Mi 
+      192    874676767193223168 
+      2017-0 RT @senorrinhatch 
+      193    874674293979971586 
+      2017-0 RT @rtcacaphill:  
+      194    874671893529468928 
+      2017-0 so...they are goi 
+      195    874671231395672064 
+      2017-0 RT @BenSasse: Thi 
+      196    874669174446067713 
+      2017-0 RT @ChrisVanHolle 
+      197    874668332506644480 
+      2017-0 ---&gt;&gt;&gt;&g 
+      198    874667067135414272 
+      2017-0 RT @chucktodd: Th 
+      199    874655327559577600 
+      2017-0 RT @MariannaNBCNe 
+      200    874654573528580096 
+      2017-0 Also this despite 
+      201    874654376765399040 
+      2017-0 Making it harder  
+      202    874649682366148608 
+      2017-0 CC @ChadPergram h 
+      203    874644194480009221 
+      2017-0 The glamorous lif 
+      204    874644035180384256 
+      2017-0 RT @LACaldwellDC: 
+      205    874632838800441344 
+      2017-0 Speaker Ryan and  
+      206    874632617752178689 
+      2017-0 Speaker Ryan: I d 
+      207    874409136280276994 
+      2017-0 RT @RepAdamSchiff 
+      208    874402627630616578 
+      2017-0 --&gt; https://t. 
+      209    874401841114644485 
+      2017-0 NSA Director Mike 
+      210    874381326799040512 
+      2017-0 Ad spending in GA 
+      211    874367679779438592 
+      2017-0 --&gt; https://t. 
+      212    874312352828731392 
+      2017-0 RT @BraddJaffy: 9 
+      213    874304826565414912 
+      2017-0 --&gt; https://t. 
+      214    874303096964468736 
+      2017-0 RT @wabermes: BRE 
+      215    874301516517179393 
+      2017-0 RT @mitchellrepor 
+      216    874291014747422720 
+      2017-0 Rep. Quigley (D-I 
+      217    874284104921079808 
+      2017-0 Sessions to testi 
+      218    874276996343377921 
+      2017-0 RT @JesseRodrigue 
+      219    872897370165583872 
+      2017-0 IN OTHER NEWS --& 
+      220    872897305741070336 
+      2017-0 @SpeakerRyan: "Go 
+      221    872849164652118016 
+      2017-0 Ryan added later  
+      222    872849029356552199 
+      2017-0 RYAN: know why [T 
+      223    872848733385437184 
+      2017-0 RYAN: "POTUS is n 
+      224    872842235070513154 
+      2017-0 Speaker Ryan on C 
+      225    872839003896246272 
+      2017-0 Happening NOW on  
+      226    872838270341795840 
+      2017-0 Wow. https://t.co 
+      227    872827494977732608 
+      2017-0 All eyes on Comey 
+      228    872824875077042176 
+      2017-0 Wow. Comey says h 
+      229    872823830363996161 
+      2017-0 RT @nielslesniews 
+      230    872823717713391616 
+      2017-0 The emails!       
+      231    872823178158108672 
+      2017-0 Fmr FBI Director  
+      232    872822142546698240 
+      2017-0 That answers that 
+      233    872820860398292992 
+      2017-0 Fmr FBI Director  
+      234    872810975573016576 
+      2017-0 Fmr FBI Dir Comey 
+      235    872801590410956800 
+      2017-0 He's on the way - 
+      236    872801101241880576 
+      2017-0 In other news...  
+      237    872795166746259456 
+      2017-0 The seat fmr FBI  
+      238    872534485367222272 
+      2017-0 --&gt; https://t. 
+      239    872454287808450560 
+      2017-0 Trump tweeted the 
+      240    872629223218962433 
+      2017-0 Rep-Elect Gianfor 
+      241    872576523089432580 
+      2017-0 Asked by Greta if 
+      242    872576099154317313 
+      2017-0 Speaker Ryan on @ 
+      243    872575720085737472 
+      2017-0 Speaker Ryan on @ 
+      244    872549753527177218 
+      2017-0 RT @scottwongDC:  
+      245    872542886298083330 
+      2017-0 RT @pkcapitol: @m 
+      246    872537896582086657 
+      2017-0 RT @MSNBC: Coming 
+      247    872514618555609089 
+      2017-0 RT @JakeSherman:  
+      248    872514269622960135 
+      2017-0 Senate Intel Chai 
+      249    872489237551230977 
+      2017-0 Inside the Senate 
+      250    872467012173393920 
+      2017-0 RT @kasie: NSA DI 
+      251    872459402548326400 
+      2017-0 Senate Judiciary  
+      252    872457676927754241 
+      2017-0 Asked if the pres 
+      253    872455858898309125 
+      2017-0 Speaker Ryan w/ t 
+      254    872450178019708928 
+      2017-0 Rep Zeldin said P 
+      255    872449905595486210 
+      2017-0 Rep Zeldin says t 
+      256    872283415307067392 
+      2017-0 This position is  
+      257    872245193927536640 
+      2017-0 Good point! And n 
+      258    872243836822724608 
+      2017-0 House cancels vot 
+      259    872239845359452160 
+      2017-0 RT @BraddJaffy: N 
+      260    872239773892698113 
+      2017-0 RT @ericawerner:  
+      261    872229512746065921 
+      2017-0 Tonight the House 
+      262    872210997515341829 
+      2017-0 THIS. https://t.c 
+      263    872171099727036418 
+      2017-0 President Trump's 
+      264    872165918851444737 
+      2017-0 Tonight a 3rd mtg 
+      265    872160163624570880 
+      2017-0 Asked VP Pence if 
+      266    872124136826580995 
+      2017-0 RT @KThomasDC: NE 
+      267    871920544819675136 
+      2017-0 RT @LACaldwellDC: 
+      268    871094467855605760 
+      2017-0 RT @VaughnHillyar 
+      269    870649355367309313 
+      2017-0 Pelosi: The presi 
+      270    870644475579826176 
+      2017-0 Nancy Pelosi on D 
+      271    870622457446756353 
+      2017-0 RT @kaylatausche: 
+      272    870490255110975488 
+      2017-0 RT @NBCNightlyNew 
+      273    870392744006615040 
+      2017-0 RT @JakeSherman:  
+      274    870354587202584576 
+      2017-0 Speaker Ryan + Pr 
+      275    870353077861310464 
+      2017-0 RT @DevinNunes: S 
+      276    870314095416922112 
+      2017-0 Next Thursday wil 
+      277    875501198727667712 
+      2017-0 Injured Capitol P 
+      278    875797523046301700 
+      2017-0 We have been able 
+      279    875463902468997123 
+      2017-0 Rep Richmond on S 
+      280    875384318348189696 
+      2017-0 GOP Whip Steve Sc 
+      281    875356748210634757 
+      2017-0 House Republicans 
+      282    875345957256392705 
+      2017-0 --&gt; https://t. 
+      283    875308178736635904 
+      2017-0 Live next on @TOD 
+      284    875806136670310402 
+      2017-0 RT @JakeSherman:  
+      285    875797261384638465 
+      2017-0 RT @jeneps: Docto 
+      286    875796381583237129 
+      2017-0 predicting life o 
+      287    875796233813721088 
+      2017-0 Whip Scalise rema 
+      288    875795789351718914 
+      2017-0 Director of traum 
+      289    875795378049822721 
+      2017-0 Scalise's COS rea 
+      290    875794819712524289 
+      2017-0 RT @nbcwashington 
+      291    875781926602371073 
+      2017-0 At 3pm there will 
+      292    875751625985597441 
+      2017-0 After shooting, p 
+      293    875533235022950400 
+      2017-0 Very nice moment. 
+      294    875489531432235009 
+      2017-0 KellyAnne Conway  
+      295    875484700848128000 
+      2017-0 Ivanka Trump spot 
+      296    875464578150400000 
+      2017-0 Rep Richmond on t 
+      297    875464360885460994 
+      2017-0 Rep Richmond on S 
+      298    875455712784265216 
+      2017-0 --&gt; https://t. 
+      299    875452348394602496 
+      2017-0 RT @thehillbaseba 
+      300    875452300566953984 
+      2017-0 RT @thehillbaseba 
+      301    875419950206263296 
+      2017-0 RT @BrendanBuck:  
+      302    875415733202759680 
+      2017-0 RT @MariannaNBCNe 
+      303    875398965017145345 
+      2017-0 RT @CraigCaplan:  
+      304    875389470488580096 
+      2017-0 RT @RepRichmond:  
+      305    875384579879784448 
+      2017-0 In addition to PO 
+      306    875370460271259648 
+      2017-0 Pelosi: we are go 
+      307    875367664360837121 
+      2017-0 Nancy Pelosi asks 
+      308    875347909428092928 
+      2017-0 Prayers for #team 
+      309    875347694323216384 
+      2017-0 RT @NBCNews: "I w 
+      310    875342903186518016 
+      2017-0 RT @VaughnHillyar 
+      311    875338454258896896 
+      2017-0 RT @markknoller:  
+      312    875315158637314049 
+      2017-0 .@kasie next on @ 
+      313    875312564091011072 
+      2017-0 When America gets 
+      314    875310375234883584 
+      2017-0 RT @TODAYshow: WA 
+      315    875309980332818433 
+      2017-0 "We had generatio 
+      316    875309436675424258 
+      2017-0 "I'm very blessed 
+      317    880605447358754816 
+      2017-0 --&gt; https://t. 
+      318    880457774433480705 
+      2017-0 Packing up the co 
+      319    880459886605238272 
+      2017-0 .@kasie on @mitch 
+      320    880449118484738049 
+      2017-0 Speaker Ryan hold 
+      321    880192497384902656 
+      2017-0 Protesters outsid 
+      322    880053837373091840 
+      2017-0 Andddddd the Hous 
+      323    880181611957977088 
+      2017-0 Pretty sure House 
+      324    879458638921965568 
+      2017-0 I wont vote to pr 
+      325    879459853776936960 
+      2017-0 and another ---&g 
+      326    880536485979713536 
+      2017-0 Sanctuary cities  
+      327    879784620601913344 
+      2017-0 Seen getting on b 
+      328    879718179580280832 
+      2017-0 Meadows on senate 
+      329    879772134788259840 
+      2017-0 Former Hillary Cl 
+      330    881500475086053377 
+      2017-0 RT @chucktodd: Am 
+      331    880869670919733248 
+      2017-0 RT @NBCNews: BREA 
+      332    880540089943707648 
+      2017-0 House passes Kate 
+      333    880539410596380672 
+      2017-0 Yayyyyy! https:// 
+      334    880516574599401472 
+      2017-0 !!!! https://t.co 
+      335    880511932255453184 
+      2017-0 .@kasie and I wer 
+      336    880510179112095744 
+      2017-0 "I don't like los 
+      337    880507641260363780 
+      2017-0 AND this --&gt; h 
+      338    880507385407844352 
+      2017-0 House Intel Cmte  
+      339    880506987800350721 
+      2017-0 House Intel ltr m 
+      340    880506076940165121 
+      2017-0 What..Who...? htt 
+      341    880478954804715520 
+      2017-0 RT @JebBush: Inap 
+      342    880469588718346243 
+      2017-0 "It's not like we 
+      343    880469403443363840 
+      2017-0 Pelosi says she w 
+      344    880467543512764416 
+      2017-0 RT @VaughnHillyar 
+      345    880465744043147264 
+      2017-0 RT @ZekeJMiller:  
+      346    880453166550089729 
+      2017-0 RT @carloslcurbel 
+      347    880453035436253190 
+      2017-0 RT @BraddJaffy: P 
+      348    880452399441248256 
+      2017-0 Speaker Ryan weig 
+      349    880449598040530944 
+      2017-0 See, anything is  
+      350    880438505897373698 
+      2017-0 RT @ericawerner:  
+      351    880436249491800064 
+      2017-0 RT @JeffFlake: Wh 
+      352    880435078198951936 
+      2017-0 House GOP Rep Lyn 
+      353    880434312532955136 
+      2017-0 RT @kasie: what i 
+      354    880432759075987456 
+      2017-0 RT @chucktodd: An 
+      355    880430752101543936 
+      2017-0 RT @MariannaNBCNe 
+      356    880430376187039744 
+      2017-0 And another GOP s 
+      357    880429689327697920 
+      2017-0 --&gt; https://t. 
+      358    880423806355070976 
+      2017-0 RT @LACaldwellDC: 
+      359    880227156172959745 
+      2017-0 Yes... https://t. 
+      360    880226635764703233 
+      2017-0 RT @NBCNightlyNew 
+      361    880183044186849280 
+      2017-0 RT @AshleyRParker 
+      362    880130952739123202 
+      2017-0 RT @NBCNightlyNew 
+      363    880118407408103424 
+      2017-0 --&gt; https://t. 
+      364    880116644479213570 
+      2017-0 RT @frankthorp: Q 
+      365    880099973970493441 
+      2017-0 RT @kasie: The li 
+      366    880096199176572928 
+      2017-0 As has been specu 
+      367    880093241785405440 
+      2017-0 RT @cimarcos: .@H 
+      368    880073753723453441 
+      2017-0 President Trump h 
+      369    880073553189752832 
+      2017-0 RT @kasie: IN THE 
+      370    879828977388572674 
+      2017-0 RT @realDonaldTru 
+      371    879828053999976451 
+      2017-0 RT @realDonaldTru 
+      372    879815689711874048 
+      2017-0 RT @MariannaNBCNe 
+      373    879815674557865984 
+      2017-0 I would have hope 
+      374    879815463894753280 
+      2017-0 "I think the meet 
+      375    879815365014016002 
+      2017-0 HAPPENING NOW at  
+      376    879809233310687236 
+      2017-0 Oh Tuesdays! http 
+      377    879800140172840960 
+      2017-0 Clinton campaign  
+      378    879775536129515520 
+      2017-0 Things you never  
+      379    879763609034915840 
+      2017-0 WH Chief of Staff 
+      380    879761940872146946 
+      2017-0 House also had to 
+      381    879761242222624768 
+      2017-0 RT @LACaldwellDC: 
+      382    879756029243863040 
+      2017-0 On a bus????? htt 
+      383    879748685105696770 
+      2017-0 RT @JakeSherman:  
+      384    879744039364505602 
+      2017-0 RT @CraigCaplan:  
+      385    879742225634209793 
+      2017-0 RT @LACaldwellDC: 
+      386    879738667136364544 
+      2017-0 RT @politico: McC 
+      387    879719512228196353 
+      2017-0 --&gt; https://t. 
+      388    879719260553084928 
+      2017-0 Dem Whip Hoyer on 
+      389    879718712940650501 
+      2017-0 Dem Whip Hoyer on 
+      390    879718521856548864 
+      2017-0 Meadows: if the a 
+      391    879717855381639170 
+      2017-0 GOP Rep Dent who  
+      392    879717667892072450 
+      2017-0 GOP Rep Dent: Sen 
+      393    879706128468389888 
+      2017-0 Meadows says he i 
+      394    879484405101846528 
+      2017-0 RT @BraddJaffy: A 
+      395    879483327174127618 
+      2017-0 RT @NBCNightlyNew 
+      396    879477913762103297 
+      2017-0 But then after Fr 
+      397    879469833544511490 
+      2017-0 RT @ChadPergram:  
+      398    879467196610740226 
+      2017-0 .@Kasie leading @ 
+      399    879462277262520320 
+      2017-0 RT @susanferrechi 
+      400    879458794199293952 
+      2017-0 --&gt; https://t. 
+      401    879439540724879360 
+      2017-0 --&gt; https://t. 
+      402    879436812053356545 
+      2017-0 CBO: By 2026, an  
+      403    879436658948661251 
+      2017-0 CBO: Senate bill  
+      404    879364792791822337 
+      2017-0 RT @seungminkim:  
+      405    879345074450165760 
+      2017-0 ---&gt; https://t 
+      406    877904922053931009 
+      2017-0 "No," Pelosi tell 
+      407    877995715657580544 
+      2017-0 The trophy has ma 
+      408    877912563232591874 
+      2017-0 Speaker Ryan says 
+      409    878303580062658560 
+      2017-0 NBC News confirms 
+      410    878017338641010690 
+      2017-0 .@kasie starts of 
+      411    878006531081609217 
+      2017-0 "I think it poten 
+      412    878326394568048642 
+      2017-0 Heller says he's  
+      413    877985434365829122 
+      2017-0 Most interesting  
+      414    879326600692629507 
+      2017-0 RT @NBCNightlyNew 
+      415    879326308018401281 
+      2017-0 RT @CraigCaplan:  
+      416    878330992724856833 
+      2017-0 MedStar confirms  
+      417    878330218263347200 
+      2017-0 RT @DaviSusan: Al 
+      418    878325315084271616 
+      2017-0 RT @kasie: Dean H 
+      419    878325265440489473 
+      2017-0 Sen Heller (R-NV) 
+      420    878307389757431808 
+      2017-0 --&gt; via @mitch 
+      421    878299332373499904 
+      2017-0 RT @LACaldwellDC: 
+      422    878297318168027136 
+      2017-0 RT @Phil_Mattingl 
+      423    878296085390802944 
+      2017-0 RT @RalstonReport 
+      424    878294640029511682 
+      2017-0 --&gt; https://t. 
+      425    878278675451588609 
+      2017-0 As Senate deals w 
+      426    878061088641863680 
+      2017-0 Pelosi on Critici 
+      427    878013584722153472 
+      2017-0 in other news tod 
+      428    878005757664514050 
+      2017-0 Rep Richmond: “ 
+      429    878005203248619520 
+      2017-0 Asked Rep Richmon 
+      430    878005049531781120 
+      2017-0 Rep Richmond post 
+      431    877933491538845696 
+      2017-0 --&gt; https://t. 
+      432    877917212639510528 
+      2017-0 RT @RepAdamSchiff 
+      433    877917165533507584 
+      2017-0 RT @MariannaNBCNe 
+      434    877914590172004352 
+      2017-0 Scalise just want 
+      435    877914472018583552 
+      2017-0 What's important  
+      436    877914020417810432 
+      2017-0 --&gt; https://t. 
+      437    877913909499383808 
+      2017-0 Speaker Ryan tell 
+      438    877913016272003077 
+      2017-0 Speaker Ryan says 
+      439    877906825525514241 
+      2017-0 RT @scottwongDC:  
+      440    877905403677376514 
+      2017-0 Pelosi says it's  
+      441    877905213968982017 
+      2017-0 Pelosi says she i 
+      442    877899093837619200 
+      2017-0 Ok NOW, here is t 
+      443    877898312220901376 
+      2017-0 its only one page 
+      444    877895548405248000 
+      2017-0 --&gt; https://t. 
+      445    877894699683414016 
+      2017-0 RT @MariannaNBCNe 
+      446    877668956911398912 
+      2017-0 RT @riccimike: He 
+      447    877668871066484736 
+      2017-0 RT @kasie: TONIGH 
+      448    877666382283931649 
+      2017-0 RT @AlexGangitano 
+      449    877665795299520512 
+      2017-0 RT @mitchellrepor 
+      450    877629621222682624 
+      2017-0 RT @CraigCaplan:  
+      451    877604050501554176 
+      2017-0 --&gt; https://t. 
+      452    877603935799963650 
+      2017-0 RT @NBCNews: Top  
+      453    877596620136693760 
+      2017-0 And a few handful 
+      454    877593741938360320 
+      2017-0 RT @deirdrewalshc 
+      455    877564760023113728 
+      2017-0 Former DHS Secy J 
+      456    877536745356767232 
+      2017-0 McCarthy says it  
+      457    877531365109100544 
+      2017-0 RT @AP: BREAKING: 
+      458    877333439753715712 
+      2017-0 U2. #teamscalise  
+      459    877264209880502273 
+      2017-0 RT @TJTatum: The  
+      460    877132410202329088 
+      2017-0 RT @LACaldwellDC: 
+      461    876827540500992000 
+      2017-0 RT @cjbond: 3 yea 
+      462    876827484725104645 
+      2017-0 RT @frankthorp: S 
+      463    876799181008056320 
+      2017-0 RT @NBCNightlyNew 
+      464    890215816364523522 
+      2017-0 Trump’s announc 
+      465    890604539606441985 
+      2017-0 Speaker Ryan walk 
+      466    890968684323368960 
+      2017-0 "John McCain is a 
+      467    890707759024529408 
+      2017-0 NEW: House GOP co 
+      468    890702202234429441 
+      2017-0 Russia/Iran/North 
+      469    890694259262853120 
+      2017-0 Senate now voting 
+      470    890326992419205125 
+      2017-0 House Fgn Relatio 
+      471    891038290157195264 
+      2017-0 New COS announced 
+      472    889879885010919426 
+      2017-0 Chairman Nunes wh 
+      473    890829015925260288 
+      2017-0 --&gt; https://t. 
+      474    890237735599996930 
+      2017-0 GOP Whip Steve Sc 
+      475    890930388872421376 
+      2017-0 GOP House ldrs te 
+      476    890673454730678272 
+      2017-0 --&gt; https://t. 
+      477    891056783921479680 
+      2017-0 --&gt; https://t. 
+      478    891054135314874368 
+      2017-0 RT @BrendanBuck:  
+      479    891053604764778496 
+      2017-0 @BenjySarlin Some 
+      480    891053361121947648 
+      2017-0 Speaker Ryan weig 
+      481    891052272691630081 
+      2017-0 RT @KellyO: There 
+      482    891051385357250560 
+      2017-0 RT @SenatorLankfo 
+      483    891046571495895042 
+      2017-0 Sen Graham: “th 
+      484    891042675411046402 
+      2017-0 --&gt; https://t. 
+      485    891039214481145857 
+      2017-0 Trump names a new 
+      486    891022844389457920 
+      2017-0 RT @NBCNightlyNew 
+      487    891022298077155328 
+      2017-0 RT @ChuckGrassley 
+      488    891019425947824133 
+      2017-0 ... https://t.co/ 
+      489    891017906758311936 
+      2017-0 RT @burgessev: Fo 
+      490    891015561882337284 
+      2017-0 RT @LACaldwellDC: 
+      491    891003653066301441 
+      2017-0 RT @kristindonnel 
+      492    891003565162074112 
+      2017-0 --&gt; https://t. 
+      493    890995332301148160 
+      2017-0 House GOP Chairma 
+      494    890981703677870085 
+      2017-0 RT @JakeSherman:  
+      495    890971505504464896 
+      2017-0 GUYS - these are  
+      496    890958701795913728 
+      2017-0 Schumer: I think  
+      497    890947017916260354 
+      2017-0 Speaker Ryan stmt 
+      498    890945348243525632 
+      2017-0 RT @MariannaNBCNe 
+      499    890934888035209216 
+      2017-0 Spkr Ryan read ly 
+      500    890932585010012163 
+      2017-0 @BresPolitico Tru 
+      501    890892388432052229 
+      2017-0 RT @NBCNews: "All 
+      502    890831281235394560 
+      2017-0 RT @realDonaldTru 
+      503    890827064093233154 
+      2017-0 RT @LACaldwellDC: 
+      504    890758456109649921 
+      2017-0 RT @RepSwalwell:  
+      505    890756669763964928 
+      2017-0 RT @MariannaNBCNe 
+      506    890756436569063425 
+      2017-0 ...And then the o 
+      507    890756304268120064 
+      2017-0 Per Speaker Ryan  
+      508    890754023464325123 
+      2017-0 RT @LACaldwellDC: 
+      509    890753909396000768 
+      2017-0 RT @frankthorp: M 
+      510    890753872632967168 
+      2017-0 RT @LACaldwellDC: 
+      511    890720479673188353 
+      2017-0 Rep MacArthur: en 
+      512    890718284798144513 
+      2017-0 --&gt; https://t. 
+      513    890716121237790720 
+      2017-0 Full Speaker Ryan 
+      514    890715672162054144 
+      2017-0 Speaker Ryan on h 
+      515    890710957881774080 
+      2017-0 @deirdrewalshcnn  
+      516    890709811578494976 
+      2017-0 !!!! --&gt; https 
+      517    890706628919656448 
+      2017-0 RT @VaughnHillyar 
+      518    890702438587609092 
+      2017-0 @Shawna @mikeviqu 
+      519    890701778811047936 
+      2017-0 RT @frankthorp: S 
+      520    890696734007021568 
+      2017-0 RT @elwasson: Exa 
+      521    890684713672814594 
+      2017-0 RT @rachaelmbade: 
+      522    890683931028271105 
+      2017-0 RT @JakeSherman:  
+      523    890676548038148096 
+      2017-0 RT @RodneyDavis:  
+      524    890668603267321857 
+      2017-0 Why Trump’s Whi 
+      525    890667944945909760 
+      2017-0 RT @PoliticoKevin 
+      526    890661782179651584 
+      2017-0 Spkr Ryan this am 
+      527    890661583130689536 
+      2017-0 House leaders hav 
+      528    890661293958377472 
+      2017-0 Would allow House 
+      529    890661032674197509 
+      2017-0 House is preparin 
+      530    890660530624630784 
+      2017-0 @JakeSherman righ 
+      531    890660483048513536 
+      2017-0 GOP Whip Scalise  
+      532    890659480488333312 
+      2017-0 RT @NBCNews: WATC 
+      533    890658561776173056 
+      2017-0 What is Trump wan 
+      534    890654593549426688 
+      2017-0 UPDATE: House mem 
+      535    890653277154443266 
+      2017-0 Steve Scalise's w 
+      536    890648983567163393 
+      2017-0 I don't think the 
+      537    890648579185926144 
+      2017-0 RT @KellyO: .@SHS 
+      538    890647778724122625 
+      2017-0 House is now goin 
+      539    890647492533952518 
+      2017-0 Interesting re-br 
+      540    890619948472475648 
+      2017-0 And passed House  
+      541    890619399274586112 
+      2017-0 In other news...! 
+      542    890609306428559361 
+      2017-0 RT @MichaelCBende 
+      543    890598053119488000 
+      2017-0 Speaker Ryan wont 
+      544    890597758217990146 
+      2017-0 Speaker Ryan says 
+      545    890540438981152770 
+      2017-0 RT @albamonica: F 
+      546    890383056900677632 
+      2017-0 RT @NBCNightlyNew 
+      547    890339043359195136 
+      2017-0 .@kasie with the  
+      548    890325411925819394 
+      2017-0 RT @NBCPolitics:  
+      549    890324375924297728 
+      2017-0 Senate rejects a  
+      550    890315284023824389 
+      2017-0 RT @cimarcos: $1. 
+      551    890302146629029888 
+      2017-0 As expected. http 
+      552    890301876201291776 
+      2017-0 --&gt; https://t. 
+      553    890300694296743944 
+      2017-0 RT @frankthorp: P 
+      554    890299623532896256 
+      2017-0 RT @LACaldwellDC: 
+      555    890274430970200064 
+      2017-0 Pelosi on transge 
+      556    890249687231594497 
+      2017-0 RT @mikedebonis:  
+      557    890248208009613312 
+      2017-0 RT @SpeakerRyan:  
+      558    890243585702055936 
+      2017-0 RT @jasonnobleDMR 
+      559    890231421738127360 
+      2017-0 Correction to thi 
+      560    890224129445638145 
+      2017-0 Former Trump camp 
+      561    890219844418842624 
+      2017-0 --&gt; https://t. 
+      562    890216548933173248 
+      2017-0 GOP Rep Hartzler  
+      563    890215613414727680 
+      2017-0 Source says House 
+      564    890215310145585152 
+      2017-0 Rep Hartzler's am 
+      565    890214985711964160 
+      2017-0 House GOP has bee 
+      566    890029115230826496 
+      2017-0 RT @LACaldwellDC: 
+      567    889960474686697472 
+      2017-0 RT @WhipHoyer: I  
+      568    889955644849127426 
+      2017-0 The House is voti 
+      569    889952572433461251 
+      2017-0 RT @SenJohnMcCain 
+      570    889952019800354816 
+      2017-0 RT @DrPhilRoe: St 
+      571    889950544516833281 
+      2017-0 RT @VaughnHillyar 
+      572    889950357782134784 
+      2017-0 RT @frankthorp: S 
+      573    889940438559404035 
+      2017-0 House Democratic  
+      574    889936456189399040 
+      2017-0 THIS--&gt; https: 
+      575    889928681791123456 
+      2017-0 RT @sppeoples: Jo 
+      576    889928432188108801 
+      2017-0 RT @BillNeelyNBC: 
+      577    889927970692923393 
+      2017-0 RT @GarrettHaake: 
+      578    889924814177173504 
+      2017-0 --&gt; https://t. 
+      579    889924640793034752 
+      2017-0 RT @frankthorp: @ 
+      580    889924215515869188 
+      2017-0 Sen McCain arrive 
+      581    889922084977217536 
+      2017-0 RT @CraigCaplan:  
+      582    889904911969857537 
+      2017-0 Schiff on Kushner 
+      583    889904695443116032 
+      2017-0 Rep Conaway on Ku 
+      584    889899465997516800 
+      2017-0 Kushner walks by  
+      585    889897617945243648 
+      2017-0 RT @LACaldwellDC: 
+      586    889893370079973377 
+      2017-0 We have now hit t 
+      587    889889647115067392 
+      2017-0 RT @BenjySarlin:  
+      588    889887645907681280 
+      2017-0 House Intel inter 
+      589    889886624330518531 
+      2017-0 RT @CNBC: Hilton  
+      590    889880293598834689 
+      2017-0 RT @Phil_Mattingl 
+      591    889847820592832513 
+      2017-0 Jared Kushner has 
+      592    889814490174431232 
+      2017-0 And it's only Tue 
+      593    889657028133752833 
+      2017-0 RT @frankthorp: B 
+      594    889607533891133440 
+      2017-0 RT @MarshaBlackbu 
+      595    889607459467403265 
+      2017-0 Source at wkly GO 
+      596    889605569459490816 
+      2017-0 !! --&gt; https:/ 
+      597    889569944630956032 
+      2017-0 RT @GarrettHaake: 
+      598    889559407708839936 
+      2017-0 !!!! --&gt; https 
+      599    889538804163465216 
+      2017-0 GOP Rep Mo Brooks 
+      600    889534467009900546 
+      2017-0 Schumer: Semocrat 
+      601    889534367411953668 
+      2017-0 Schumer says when 
+      602    889533587489525761 
+      2017-0 Schumer in Berryv 
+      603    889527585436315652 
+      2017-0 RT @kasie: On thi 
+      604    889523430533541888 
+      2017-0 RT @kasie: STAND  
+      605    888057615045066753 
+      2017-0 !!! --&gt; https: 
+      606    889486868944957440 
+      2017-0 Schiff responds t 
+      607    887382693079638016 
+      2017-0 Interesting fact  
+      608    887321703520645120 
+      2017-0 Pence: President  
+      609    888445742821650434 
+      2017-0 Chairman McCaul o 
+      610    887342120016773121 
+      2017-0 .@Kasie on @MSNBC 
+      611    888487254771085313 
+      2017-0 VIDEO: Texas Rep. 
+      612    888477059185610753 
+      2017-0 RT @HouseJudiciar 
+      613    888472953175908352 
+      2017-0 THIS is crazy! -- 
+      614    888447513094742018 
+      2017-0 RT @HouseInSessio 
+      615    888442178632114176 
+      2017-0 RT @mitchellrepor 
+      616    888434326022610944 
+      2017-0 RT @maggieNYT: Re 
+      617    888433854364758016 
+      2017-0 RT @HallieJackson 
+      618    888429818831884289 
+      2017-0 RT @KatyTurNBC: S 
+      619    888415571628482562 
+      2017-0 RT @SaraMurray:   
+      620    888154652218449920 
+      2017-0 Oh hey, thanks... 
+      621    888123787593601024 
+      2017-0 Speaker Ryan in M 
+      622    888113470066970625 
+      2017-0 RT @GarrettHaake: 
+      623    888110534213615616 
+      2017-0 OJ goes free in O 
+      624    888089638094635008 
+      2017-0 RT @JakeSherman:  
+      625    888086840892411904 
+      2017-0 Tillerson, Mattis 
+      626    888082512827822080 
+      2017-0 RT @GingerGibson: 
+      627    888080407878619136 
+      2017-0 RT @stevenportnoy 
+      628    888079880537198592 
+      2017-0 RT @jwpetersNYT:  
+      629    888073835316162561 
+      2017-0 RT @burgessev: It 
+      630    888073342447747072 
+      2017-0 Hoyer says he is  
+      631    888070789622374404 
+      2017-0 as expected --&gt 
+      632    888070314873303041 
+      2017-0 McCarthy says lat 
+      633    888057975063052288 
+      2017-0 RT @jparkABC: Pel 
+      634    888056350936354816 
+      2017-0 RT @CNBC: JUST IN 
+      635    888049482239270912 
+      2017-0 Pelosi sends pray 
+      636    888037127115726849 
+      2017-0 --&gt; https://t. 
+      637    888034587540062208 
+      2017-0 RT @MariannaNBCNe 
+      638    888034573313093632 
+      2017-0 RT @MariannaNBCNe 
+      639    887841134130733056 
+      2017-0 Speaker Ryan on M 
+      640    887840255591763969 
+      2017-0 --&gt; https://t. 
+      641    887840163354865664 
+      2017-0 Give it hell. htt 
+      642    887840019548971008 
+      2017-0 RT @SteveScalise: 
+      643    887835555018551296 
+      2017-0 RT @Emma_Dumain:  
+      644    887835379633721344 
+      2017-0 Very sad news ton 
+      645    887835014397911040 
+      2017-0 RT @NancyPelosi:  
+      646    887834894428188673 
+      2017-0 RT @marcorubio: . 
+      647    887798470509293569 
+      2017-0 RT @PeterAlexande 
+      648    887798461961293825 
+      2017-0 RT @frankthorp: N 
+      649    887797147349000192 
+      2017-0 Jared Kushner to  
+      650    887794394287546368 
+      2017-0 House Freedom Cau 
+      651    887793307983728640 
+      2017-0 Must watch TV nex 
+      652    887750317865132032 
+      2017-0 RT @LisaDNews: EA 
+      653    887748758804496384 
+      2017-0 RT @seungminkim:  
+      654    887746939206475776 
+      2017-0 RT @edatpost: WOA 
+      655    887746828204208128 
+      2017-0 Sen Ted Cruz on P 
+      656    887745498366529536 
+      2017-0 RT @mmurraypoliti 
+      657    887745431849119745 
+      2017-0 --&gt; https://t. 
+      658    887743501395537935 
+      2017-0 RT @frankthorp: M 
+      659    887737423953842177 
+      2017-0 RT @JesseRodrigue 
+      660    887725881044742148 
+      2017-0 RT @MariannaNBCNe 
+      661    887724825036378113 
+      2017-0 RT @seungminkim:  
+      662    887717853956378625 
+      2017-0 RT @kasie: ... I  
+      663    887705389944508416 
+      2017-0 That's a pretty g 
+      664    887698491853733896 
+      2017-0 RT @MariannaNBCNe 
+      665    887684025061703680 
+      2017-0 --&gt; https://t. 
+      666    887660001770303488 
+      2017-0 ...! https://t.co 
+      667    887659798036172800 
+      2017-0 @rachaelmbade Hap 
+      668    887378202884288512 
+      2017-0 RT @kasie: "Hello 
+      669    887376357407285252 
+      2017-0 RT @frankthorp: R 
+      670    887365340094750720 
+      2017-0 RT @andyharnik: . 
+      671    887349953554780162 
+      2017-0 !!!! ---&gt; http 
+      672    887345593634500608 
+      2017-0 RT @NicolleDWalla 
+      673    887344741205061633 
+      2017-0 --&gt; https://t. 
+      674    887344328300953600 
+      2017-0 RT @frankthorp: B 
+      675    887343041769615360 
+      2017-0 Pelosi: I want to 
+      676    887333298736967680 
+      2017-0 RT @BenjySarlin:  
+      677    887331868844204033 
+      2017-0 RT @kasie: Becaus 
+      678    887328620930355201 
+      2017-0 RT @WaPoSean: COR 
+      679    887328299147550721 
+      2017-0 Dem Whip Hoyer sa 
+      680    887328027767697408 
+      2017-0 Dem Whip Hoyer sa 
+      681    887327914806607872 
+      2017-0 Dem Whip Hoyer sa 
+      682    887324982753275904 
+      2017-0 SCHUMER on Senate 
+      683    887323357523456001 
+      2017-0 MITT... https://t 
+      684    887321907506360322 
+      2017-0 PENCE on healthca 
+      685    887307103127437312 
+      2017-0 GOP Rep Costello  
+      686    887109362816299008 
+      2017-0 RT @GarrettHaake: 
+      687    887108892781662208 
+      2017-0 Well, I guess tha 
+      688    887108629995933696 
+      2017-0 --&gt; !!!!!! htt 
+      689    887014119051866118 
+      2017-0 RT @MariannaNBCNe 
+      690    887001090151112704 
+      2017-0 Big news today -- 
+      691    884501236585779200 
+      2017-0 A similar scene h 
+      692    884828924873760768 
+      2017-0 WOW --&gt; McConn 
+      693    885524425180839936 
+      2017-0 Wow... Speaker Ry 
+      694    884826068716269570 
+      2017-0 And now this from 
+      695    884802863733645313 
+      2017-0 A source familiar 
+      696    886781499785326594 
+      2017-0 @BWWings I alread 
+      697    886779535588544516 
+      2017-0 @BWWings your Cry 
+      698    886327317286588416 
+      2017-0 Congrats to my co 
+      699    886234436714606593 
+      2017-0 RT @KenDilanianNB 
+      700    885918927410401280 
+      2017-0 RT @senrobportman 
+      701    885907228179537920 
+      2017-0 Happening on the  
+      702    885861132078108672 
+      2017-0 Pelosi says Trump 
+      703    885622943430135808 
+      2017-0 RT @LACaldwellDC: 
+      704    885622333284732929 
+      2017-0 GET READY --&gt;  
+      705    885599284967739393 
+      2017-0 Congrats to three 
+      706    885598387743141889 
+      2017-0 RT @frankthorp: S 
+      707    885596379745308673 
+      2017-0 --&gt; Scalise in 
+      708    885589845816598532 
+      2017-0 RT @MariannaNBCNe 
+      709    885573858023157764 
+      2017-0 RT @frankthorp: A 
+      710    885572948140195841 
+      2017-0 RT @MichelleRinde 
+      711    885567943622483970 
+      2017-0 RT @BresPolitico: 
+      712    885528031082754050 
+      2017-0 --&gt; https://t. 
+      713    885526330489659392 
+      2017-0 Speaker Ryan anno 
+      714    885525686626263041 
+      2017-0 Speaker Ryan says 
+      715    885525521483870209 
+      2017-0 Speaker Ryan says 
+      716    885516774330040324 
+      2017-0 RT @GarrettHaake: 
+      717    885512660162424832 
+      2017-0 Currently Speaker 
+      718    885265486484787202 
+      2017-0 RT @NBCNightlyNew 
+      719    885244110126419968 
+      2017-0 White House troub 
+      720    885205892177829888 
+      2017-0 RT @frankthorp: O 
+      721    885153925250338816 
+      2017-0 And he definitely 
+      722    885153035961470977 
+      2017-0 RT @MariannaNBCNe 
+      723    885138792176332800 
+      2017-0 RT @chucktodd: Th 
+      724    885129670236282880 
+      2017-0 A source confirms 
+      725    885128754300715008 
+      2017-0 House Mj Ldr McCa 
+      726    884919734243926016 
+      2017-0 GOP Rep Tom Cole  
+      727    884919622121684992 
+      2017-0 GOP Rep Tom Cole  
+      728    884904170607845376 
+      2017-0 RT @kasie: In min 
+      729    884899659680022530 
+      2017-0 RT @EricTrump: Th 
+      730    884866046729089025 
+      2017-0 Conaway would not 
+      731    884865377485938688 
+      2017-0 Top R leading Hou 
+      732    884858224138178560 
+      2017-0 RT @KenDilanianNB 
+      733    884855016128950272 
+      2017-0 RT @frankthorp: F 
+      734    884848566992343041 
+      2017-0 RT @NickMerrill:  
+      735    884843837843230721 
+      2017-0 RT @kasie: SCHUME 
+      736    884842545091670017 
+      2017-0 RT @ChadPergram:  
+      737    884842258771718146 
+      2017-0 POTUS stmt on Don 
+      738    884841907813265408 
+      2017-0 McConnell won't e 
+      739    884838682229866497 
+      2017-0 Freedom Caucus ap 
+      740    884834876259749889 
+      2017-0 RT @CarrieNBCNews 
+      741    884831825541181440 
+      2017-0 RT @pkcapitol: On 
+      742    884830536476364805 
+      2017-0 RT @DaviSusan: Ne 
+      743    884830477869355009 
+      2017-0 So with this rece 
+      744    884826164799442946 
+      2017-0 RT @GarrettHaake: 
+      745    884825684551622659 
+      2017-0 GOP Rep Lee Zeldi 
+      746    884822351464083457 
+      2017-0 RT @CarrieNBCNews 
+      747    884788688634433537 
+      2017-0 RT @MariannaNBCNe 
+      748    884769419414687744 
+      2017-0 RT @riccimike: Th 
+      749    884769362107871236 
+      2017-0 Oh that @kasie ht 
+      750    884607965201911808 
+      2017-0 RT @rachaelmbade: 
+      751    884510971309502464 
+      2017-0 !!! --&gt; https: 
+      752    884498730870812672 
+      2017-0 Protesters arrive 
+      753    884496875642130433 
+      2017-0 RT @MariannaNBCNe 
+      754    884489077936017408 
+      2017-0 RT @CraigCaplan:  
+      755    884455434693865478 
+      2017-0 RT @frankthorp: S 
+      756    884430839928561664 
+      2017-0 RT @JasonCalabret 
+      757    884426024951435264 
+      2017-0 RT @nytpolitics:  
+      758    884216369558028288 
+      2017-0 RT @BenSasse: Thi 
+      759    883514562221309952 
+      2017-0 What a win!! http 
+      760    883419788411797505 
+      2017-0 RT @JustinPeligri 
+      761    883417678056230912 
+      2017-0 --&gt; https://t. 
+      762    883025267245158408 
+      2017-0 Aw yay!! https:// 
+      763    883024553345253378 
+      2017-0 RT @kasie: MCCONN 
+      764    883024523691511809 
+      2017-0 RT @kasie: MCCONN 
+      765    883022735236096000 
+      2017-0 also happening ri 
+      766    883022393748463622 
+      2017-0 RT @NBCNews: Poli 
+      767    883021757929713665 
+      2017-0 Wow listening to  
+      768    882938118000832516 
+      2017-0 RT @NBCNews: .@Ha 
+      769    892366163992248322 
+      2017-0 Bc Russia/Iran/No 
+      770    892365931648872448 
+      2017-0 And this. https:/ 
+      771    892139960010248194 
+      2017-0 RT @JakeSherman:  
+      772    892102559070138368 
+      2017-0 ... https://t.co/ 
+      773    892099856529059842 
+      2017-0 Another GOP congr 
+      774    892099764216639488 
+      2017-0 RT @okayhenderson 
+      775    892097819036856321 
+      2017-0 GOP congressman - 
+      776    892097316995379202 
+      2017-0 Jared Kushner arr 
+      777    892095697373233152 
+      2017-0 And it's only MON 
+      778    892095623419371520 
+      2017-0 RT @Tom_Winter: N 
+      779    923565241526611968 
+      2017-1 House narrowly pa 
+      780    925394971179528200 
+      2017-1 VP Pence arrives  
+      781    923272013887700995 
+      2017-1 The House Armed S 
+      782    925428021804269568 
+      2017-1 House GOP Chairma 
+      783    923565330680737792 
+      2017-1 Speaker Ryan and  
+      784    925541114291027968 
+      2017-1 NEW: House Republ 
+      785    925539730565058560 
+      2017-1 RT @realDonaldTru 
+      786    925536244741832704 
+      2017-1 --&gt; !!! https: 
+      787    925535948502437893 
+      2017-1 Officially offici 
+      788    925493710808330242 
+      2017-1 House Ways &amp;  
+      789    925479957014499328 
+      2017-1 RT @SenGillibrand 
+      790    925477064060350464 
+      2017-1 RT @realDonaldTru 
+      791    925476688431108098 
+      2017-1 RT @SpeakerRyan:  
+      792    925456090019565569 
+      2017-1 "We will continue 
+      793    925453933216256000 
+      2017-1 GOP Chairman Wald 
+      794    925446787854405633 
+      2017-1 RT @NBCNews: BREA 
+      795    925428876578304001 
+      2017-1 THIS --&gt; https 
+      796    925424457015021570 
+      2017-1 RT @frankthorp: C 
+      797    925406479426912256 
+      2017-1 RT @frankthorp: @ 
+      798    925406375680860160 
+      2017-1 RT @ChadPergram:  
+      799    925385577935134721 
+      2017-1 Dem Whip Hoyer sa 
+      800    925384478293417984 
+      2017-1 RT @jameshohmann: 
+      801    925382159141097478 
+      2017-1 RT @seungminkim:  
+      802    925381359803170817 
+      2017-1 Hoyer adds a CR w 
+      803    925381144530612229 
+      2017-1 Dem Whip Hoyer sa 
+      804    925380131300003845 
+      2017-1 Dem Whip Hoyer ca 
+      805    925379921169600512 
+      2017-1 Dem Whip Hoyer on 
+      806    925367930153525249 
+      2017-1 RT @LACaldwellDC: 
+      807    925336107914588161 
+      2017-1  congrats @KatyTu 
+      808    925120090466668544 
+      2017-1 You can see Sen G 
+      809    925098810585513984 
+      2017-1 Sen Grassley left 
+      810    925096985799127040 
+      2017-1 RT @kasie: Majori 
+      811    925093165937381376 
+      2017-1 RT @NBCNews: WATC 
+      812    925091839778217986 
+      2017-1 RT @MariannaNBCNe 
+      813    925059869815734272 
+      2017-1 --&gt; https://t. 
+      814    925036045774868482 
+      2017-1 On @mitchellrepor 
+      815    925018026029838337 
+      2017-1 Speaker Ryan aske 
+      816    925007711741337602 
+      2017-1 RT @realDonaldTru 
+      817    925007664932904960 
+      2017-1 RT @realDonaldTru 
+      818    924995152711684098 
+      2017-1 RT @JakeSherman:  
+      819    924995093840482306 
+      2017-1 PELOSI on the fir 
+      820    924979052921917441 
+      2017-1 Same week House G 
+      821    924970387120754689 
+      2017-1 --&gt; https://t. 
+      822    924966587358175233 
+      2017-1 RT @MariannaNBCNe 
+      823    924363209792020482 
+      2017-1 NEW: House Intel  
+      824    924362977700122624 
+      2017-1 RT @KasieDC: In l 
+      825    923954462112276480 
+      2017-1 RT @KasieDC: Join 
+      826    923644251287752706 
+      2017-1 Tune in Sunday 7- 
+      827    923589909721600000 
+      2017-1 RT @kasie: .@Spea 
+      828    923575795997708289 
+      2017-1 "He is going to b 
+      829    923570270371303434 
+      2017-1 Chairman Brady an 
+      830    923562567917817856 
+      2017-1 RT @JakeSherman:  
+      831    923561840185151489 
+      2017-1 RT @JakeSherman:  
+      832    923559281525485571 
+      2017-1 This could be a C 
+      833    923559214273974273 
+      2017-1 House is voting N 
+      834    923558798555537409 
+      2017-1 TAX REFORM !!! ht 
+      835    921015152924872705 
+      2017-1 GOP Rep Pat Tiber 
+      836    922850794076024834 
+      2017-1 NEW: House GOP Ch 
+      837    922890717550260225 
+      2017-1 Sen Johnson says  
+      838    922584990831075330 
+      2017-1 wow. https://t.co 
+      839    920713887649095680 
+      2017-1 Ryan spox on CSR  
+      840    923226903342931968 
+      2017-1 @LACaldwellDC Gla 
+      841    923225592346050561 
+      2017-1 FOLLOW @LACaldwel 
+      842    923212274965282816 
+      2017-1 RT @JakeSherman:  
+      843    923206862526386176 
+      2017-1 Incredibly moving 
+      844    923008822569926656 
+      2017-1 Fmr Obama White H 
+      845    922958814227456006 
+      2017-1 How is it only Tu 
+      846    922948302626349056 
+      2017-1 --&gt; https://t. 
+      847    922947363534237696 
+      2017-1 Former Trump camp 
+      848    922940187419791360 
+      2017-1 RT @RepTomMacArth 
+      849    922939768324935681 
+      2017-1 RT @pennstatetom: 
+      850    922934698338406401 
+      2017-1 Sen Flake on if T 
+      851    922932805205676032 
+      2017-1 AMAZING. https:// 
+      852    922932759265447937 
+      2017-1 Sen. Flake on @MS 
+      853    922932535180562432 
+      2017-1 Why today, Chuck  
+      854    922922744668307456 
+      2017-1 Speaker Ryan stat 
+      855    922920576439566337 
+      2017-1 THIS was another  
+      856    922920328686223360 
+      2017-1 RT @GarrettHaake: 
+      857    922918889989709829 
+      2017-1 RT @LACaldwellDC: 
+      858    922912617089421313 
+      2017-1 Michael Cohen dep 
+      859    922907407558348801 
+      2017-1 This --&gt; https 
+      860    922907378743496706 
+      2017-1 RT @MariannaNBCNe 
+      861    922899946495455233 
+      2017-1 RT @MariannaNBCNe 
+      862    922899675665063936 
+      2017-1 Also I think we a 
+      863    922892981593616385 
+      2017-1 Sen Cruz leaving  
+      864    922888727583690752 
+      2017-1 As we await Trump 
+      865    922873927961075713 
+      2017-1 RT @frankthorp: V 
+      866    922873227843657729 
+      2017-1 RT @SenThomTillis 
+      867    922871928116965376 
+      2017-1 RT @NBCNightlyNew 
+      868    922870452938313728 
+      2017-1 RT @MSNBC: WATCH: 
+      869    922866852111552512 
+      2017-1 RT @BrendanBuck:  
+      870    922855416849162241 
+      2017-1 Chairman Nunes pr 
+      871    922855220505403393 
+      2017-1 RT @mikememoli: . 
+      872    922831442308157441 
+      2017-1 Speaker Ryan want 
+      873    922825390300827648 
+      2017-1 Michael Cohen, Tr 
+      874    922645208164192256 
+      2017-1 Cheers to @mitche 
+      875    922580361946828800 
+      2017-1 THURSDAY --&gt; h 
+      876    922580314630828032 
+      2017-1 RT @frankthorp: Q 
+      877    922503793065021440 
+      2017-1 RT @tcapra: Secre 
+      878    922467206125977600 
+      2017-1 RT @JesseRodrigue 
+      879    922166616275775488 
+      2017-1 Also this week, P 
+      880    921454792291094530 
+      2017-1 RT @adambeam: Sen 
+      881    921453988452716546 
+      2017-1 RT @MariannaNBCNe 
+      882    921440459666395137 
+      2017-1 Next week the Hou 
+      883    921421003288399873 
+      2017-1 Do it! https://t. 
+      884    921418423858597888 
+      2017-1 --&gt; https://t. 
+      885    921375059104751616 
+      2017-1 Former Attorney G 
+      886    921186401407983618 
+      2017-1 Ryan: most import 
+      887    921186283589906433 
+      2017-1 Ryan: Steve Banno 
+      888    921186027615768577 
+      2017-1 Ryan: Every morni 
+      889    921185884153765888 
+      2017-1 Ryan: Last year N 
+      890    921185696525799425 
+      2017-1 Ryan: I’m from  
+      891    921185518989213698 
+      2017-1 Ryan: last yr Tru 
+      892    921185045737598976 
+      2017-1 Speaker Paul Ryan 
+      893    921184051712745474 
+      2017-1 RT @StewSays: Vot 
+      894    921067320746881024 
+      2017-1    TUESDAY    htt 
+      895    921065536041209856 
+      2017-1 RT @MariannaNBCNe 
+      896    921015634997207040 
+      2017-1 RT @JakeSherman:  
+      897    921015621252415488 
+      2017-1 @JakeSherman Jake 
+      898    921015513442111489 
+      2017-1 Tiberi says after 
+      899    920983481877979137 
+      2017-1 RT @JakeSherman:  
+      900    920983422893510656 
+      2017-1 This after Fusion 
+      901    920798368347054080 
+      2017-1 RT @ericawerner:  
+      902    920747140309274629 
+      2017-1 RT @NBCNightlyNew 
+      903    920736868525846528 
+      2017-1 RT @HouseInSessio 
+      904    920729690696019968 
+      2017-1 Well, ok then. ht 
+      905    920723118372552706 
+      2017-1 RT @DougNBC: Mike 
+      906    919685046436540416 
+      2017-1 .@KasieDC premier 
+      907    919705695339106305 
+      2017-1 Ryan tells @kasie 
+      908    919706713422467073 
+      2017-1 Ryan on Bannon: I 
+      909    920685643658858497 
+      2017-1 ---&gt; https://t 
+      910    920656694702673921 
+      2017-1 Peter Fritsch &am 
+      911    920637529057058818 
+      2017-1 Someone left hand 
+      912    920365396133339137 
+      2017-1 RT @BresPolitico: 
+      913    920363677106176010 
+      2017-1 This would be the 
+      914    920361634853421057 
+      2017-1 RT @RepublicanStu 
+      915    920338347406647296 
+      2017-1 RT @kasie: NEW fr 
+      916    920269264577318913 
+      2017-1 RT @MariannaNBCNe 
+      917    920026595120812032 
+      2017-1 RT @MariannaNBCNe 
+      918    920024638608035843 
+      2017-1 Bill co-sponsor R 
+      919    919982139583729665 
+      2017-1 Update: Hearing w 
+      920    919980415217217536 
+      2017-1 House Energy &amp 
+      921    919948555221110789 
+      2017-1 --&gt; https://t. 
+      922    919712557497245696 
+      2017-1 Live on set now w 
+      923    919709906651009024 
+      2017-1 Ryan tells @Kasie 
+      924    919706837955567616 
+      2017-1 Now on the premie 
+      925    919706310228267010 
+      2017-1 Speaker Ryan to @ 
+      926    919705962562408448 
+      2017-1 Spkr Ryan tells @ 
+      927    919699815918964736 
+      2017-1 Here it is!!! The 
+      928    919204405467140096 
+      2017-1 Tune in Sunday ni 
+      929    918940596177375237 
+      2017-1 RT @MariannaNBCNe 
+      930    918919375180181504 
+      2017-1 RT @SpeakerRyan:  
+      931    918881538309271557 
+      2017-1 RT @Jenniffer2012 
+      932    918847266391232512 
+      2017-1 RT @JakeSherman:  
+      933    918564299005681664 
+      2017-1 RT @aseitzwald: T 
+      934    918559710453825536 
+      2017-1 TUNE IN SUNDAY fo 
+      935    918559562088767488 
+      2017-1 .@SpeakerRyan jus 
+      936    918558854165794816 
+      2017-1 House easily pass 
+      937    918556159933583362 
+      2017-1 Very excited for  
+      938    918480390691737600 
+      2017-1 TUNE IN!!!! https 
+      939    918255315111510016 
+      2017-1 NATS!!!!!!!!!!! h 
+      940    918238921590439936 
+      2017-1 Chairman McCaul w 
+      941    918238636746952705 
+      2017-1 H.R. McMaster lef 
+      942    918228038772502528 
+      2017-1 Unclear if the br 
+      943    918227579169067008 
+      2017-1 National Security 
+      944    918188490847932417 
+      2017-1 More from Schiff  
+      945    918187811152519169 
+      2017-1 Schiff and Conawa 
+      946    918165549867204610 
+      2017-1 And Sandberg is m 
+      947    917807302270509056 
+      2017-1 !!!!!!!!!!!!! htt 
+      948    916046856437813248 
+      2017-1 GOP Whip Scalise  
+      949    915976984177635328 
+      2017-1 --&gt; https://t. 
+      950    918157659228033024 
+      2017-1 The House will vo 
+      951    918157480718413825 
+      2017-1 Reps Adam Schiff  
+      952    918147725832671234 
+      2017-1 RT @mitchellrepor 
+      953    918119375911247872 
+      2017-1 RT @scottwongDC:  
+      954    918110548411191296 
+      2017-1 Inside the closed 
+      955    918110070017228800 
+      2017-1 This would set up 
+      956    918109969534406656 
+      2017-1 Rep Costello tell 
+      957    918103862405419008 
+      2017-1 Spotted back on C 
+      958    917912187469029376 
+      2017-1 IA &gt; CA !  @Va 
+      959    917882166218035201 
+      2017-1 House Intel Chair 
+      960    917880778545074177 
+      2017-1 RT @JenniferJJaco 
+      961    917867184885587969 
+      2017-1 Cmte Dem source s 
+      962    917866111026323456 
+      2017-1 Per @KenDilanianN 
+      963    917862862277578752 
+      2017-1 Love this!! https 
+      964    917798797744492544 
+      2017-1 RT @JakeSherman:  
+      965    917796254532370432 
+      2017-1 Dem Whip Hoyer sa 
+      966    917794262615560193 
+      2017-1 Dem Whip Hoyer re 
+      967    917792661498720257 
+      2017-1 Dem Whip Hoyer sa 
+      968    917776964680867840 
+      2017-1 RT @NBCNightlyNew 
+      969    917774284055089152 
+      2017-1 NEW: @SpeakerRyan 
+      970    917709017983737856 
+      2017-1 RT @kasie: Again  
+      971    917497935327309825 
+      2017-1 !!!! https://t.co 
+      972    916456981682106368 
+      2017-1 What a great mome 
+      973    916383962318213120 
+      2017-1 To read about tod 
+      974    916369745238208517 
+      2017-1 hmmm.... https:// 
+      975    916346258553556992 
+      2017-1 Speaker Ryan stat 
+      976    916338487292514304 
+      2017-1 RT @jdistaso: BRE 
+      977    916332703485779968 
+      2017-1 RT @jparkABC: Att 
+      978    916322352711028741 
+      2017-1 RT @NBCNightlyNew 
+      979    916051263556608001 
+      2017-1 RT @MeetThePress: 
+      980    916046635565768706 
+      2017-1 GOP Whip Scalise  
+      981    916029699620528128 
+      2017-1 Speaker Ryan on R 
+      982    916028453018914816 
+      2017-1 Speaker Ryan on b 
+      983    916026591251173383 
+      2017-1 This is the same  
+      984    916026516139597824 
+      2017-1 Source confirms H 
+      985    916012228599599105 
+      2017-1 RT @MariannaNBCNe 
+      986    915989686287519744 
+      2017-1 RT @MariannaNBCNe 
+      987    915989281914671104 
+      2017-1 THE VIDEO --&gt;  
+      988    915988705462104065 
+      2017-1 Hoyer: “Rep. Sa 
+      989    915945589132660736 
+      2017-1 GOP Rep. Meadows  
+      990    915941996669390848 
+      2017-1 Speaker Ryan, an  
+      991    915938679511805953 
+      2017-1 GOP Rep comes out 
+      992    915936367158468608 
+      2017-1 RT @SenSchumer: I 
+      993    915694700492881921 
+      2017-1 McConnell stateme 
+      994    915692198083088385 
+      2017-1 Speaker Ryan stmt 
+      995    915690011940544517 
+      2017-1 NEW: Trump Admin  
+      996    915666148364046336 
+      2017-1 GOP Rep Peter Kin 
+      997    915635206224273415 
+      2017-1 RT @scottwongDC:  
+      998    915626064961003520 
+      2017-1 FACEBOOK TO THE H 
+      999    913418024694222848 
+      2017-0 Message Scalise s 
+      1000   913158541669732357 
+      2017-0 NEW: House Intel  
+      1001   915566810006740993 
+      2017-1 Gabby Giffords an 
+      1002   915320734293090305 
+      2017-1 Rep. Murphy’s o 
+      1003   914891147511779328 
+      2017-1 Wow, just so, so  
+      1004   913084259019186176 
+      2017-0 This is a BIG DEA 
+      1005   915326023004295168 
+      2017-1 This meeting was  
+      1006   915619297950609408 
+      2017-1 Sen Burr: The iss 
+      1007   915614881889611776 
+      2017-1 bane of our exist 
+      1008   915613812056891393 
+      2017-1 The stats --&gt;  
+      1009   915605615904530432 
+      2017-1 Wow. https://t.co 
+      1010   915593653011263488 
+      2017-1 Tillerson will no 
+      1011   915593307945947137 
+      2017-1 RT @GarrettHaake: 
+      1012   915592041098354690 
+      2017-1 Here we go. https 
+      1013   915578800443920386 
+      2017-1 RT @NBCNews: NBC  
+      1014   915565883849887745 
+      2017-1 Gabby Giffords w  
+      1015   915564848574066688 
+      2017-1 Rep John Lewis on 
+      1016   915344808356581377 
+      2017-1 Rep. Tim Murphy ( 
+      1017   915325917035159554 
+      2017-1 Rep. Schiff hoste 
+      1018   915216697866571777 
+      2017-1 House Majority Le 
+      1019   915216270643142656 
+      2017-1 GOP Whip Scalise  
+      1020   915204235142340609 
+      2017-1 Inside House GOP  
+      1021   915188683913007105 
+      2017-1 Warren Buffet on  
+      1022   914987050851545088 
+      2017-1 The House just ob 
+      1023   914980786746593283 
+      2017-1 This. https://t.c 
+      1024   914974478102355968 
+      2017-1 RT @Tom_Winter: N 
+      1025   914974279233568769 
+      2017-1 Updated #s: 59 de 
+      1026   914973706627239937 
+      2017-1 RT @JamesArkin: G 
+      1027   914971745265836037 
+      2017-1 Attending dinner  
+      1028   914930341701353472 
+      2017-1 Top Dem on House  
+      1029   914929072014286850 
+      2017-1 RT @GarrettHaake: 
+      1030   914908838222077952 
+      2017-1 House Dem Leader  
+      1031   914907707370622976 
+      2017-1 Mark Kelly outsid 
+      1032   914900164464332800 
+      2017-1 Facebook staffers 
+      1033   914889632323653632 
+      2017-1 RT @NBCNightlyNew 
+      1034   914875239393382400 
+      2017-1 There will be an  
+      1035   914868860213501958 
+      2017-1 RT @JenniferJJaco 
+      1036   914866986945011712 
+      2017-1 --&gt; https://t. 
+      1037   914860603377881090 
+      2017-1 Speaker Ryan stmt 
+      1038   914851284276191233 
+      2017-1 RT @RepJackyRosen 
+      1039   914843850132348928 
+      2017-1 RT @KellyO: .@Sen 
+      1040   914828718132035585 
+      2017-1 Pelosi statement  
+      1041   914827349090238464 
+      2017-1 RT @ericawerner:  
+      1042   914826144645607424 
+      2017-1 RT @GOPLeader: Su 
+      1043   914824087473704961 
+      2017-1 So incredibly sad 
+      1044   914823479970672640 
+      2017-1 --&gt; https://t. 
+      1045   913873674775785473 
+      2017-0 Speaker Ryan comm 
+      1046   913605948652052480 
+      2017-0 Love her. Cheers  
+      1047   913513214624899073 
+      2017-0 --&gt; https://t. 
+      1048   913495869839814656 
+      2017-0 RT @frankthorp: J 
+      1049   913495425402986496 
+      2017-0 RT @SteveScalise: 
+      1050   913486758729453568 
+      2017-0 We should expect  
+      1051   913486554215182340 
+      2017-0 GOP Whip Scalise  
+      1052   913469205072269312 
+      2017-0 --&gt; https://t. 
+      1053   913446582472839170 
+      2017-0 An amazing moment 
+      1054   913441163859959808 
+      2017-0 Kristen Welker in 
+      1055   913439291912617989 
+      2017-0 GOP Whip Scalise  
+      1056   913431867910688768 
+      2017-0 RT @scottwongDC:  
+      1057   913423287694348288 
+      2017-0 RT @SenateMajLdr: 
+      1058   913417118485553152 
+      2017-0 Huge applause as  
+      1059   913398650390401024 
+      2017-0 RT @frankthorp: I 
+      1060   913385372889075712 
+      2017-0 --&gt; Speaker Pa 
+      1061   913377646620311552 
+      2017-0 --&gt; https://t. 
+      1062   913369375054483456 
+      2017-0 Here is the first 
+      1063   913368023926546432 
+      2017-0 White House Limit 
+      1064   913219816122667008 
+      2017-0 The Speaker loves 
+      1065   913215699694313473 
+      2017-0 Spkr Ryan on FOX  
+      1066   913209439976640512 
+      2017-0 RT @costareports: 
+      1067   913168511710744577 
+      2017-0 RT @DonnaCassataA 
+      1068   913110413100949515 
+      2017-0 Speaker Ryan and  
+      1069   913109818768072704 
+      2017-0 GOP Rep Curbelo o 
+      1070   913109366999588870 
+      2017-0 RT @deirdrewalshc 
+      1071   913108808947437568 
+      2017-0 #keepyo$ https:// 
+      1072   913107960125116416 
+      2017-0 RT @kasie: UPDATE 
+      1073   913106282814488576 
+      2017-0 Leader McConnell  
+      1074   913105981479014402 
+      2017-0 Speaker Paul Ryan 
+      1075   913103307165638658 
+      2017-0 Now being told GO 
+      1076   913092359050731523 
+      2017-0 The House GOP tax 
+      1077   913089434966532096 
+      2017-0 !!! --&gt; https: 
+      1078   912744498400198656 
+      2017-0 **** Graham on he 
+      1079   911287892517015552 
+      2017-0 Wow. McCain a NO  
+      1080   913031668302274560 
+      2017-0 House GOP Conf Ch 
+      1081   912409575764185093 
+      2017-0 TUNE IN --&gt; ht 
+      1082   913067020702425088 
+      2017-0 GOP Rep Claudia T 
+      1083   910973815638953984 
+      2017-0 House Agriculture 
+      1084   910886477004976128 
+      2017-0 .@SpeakerRyan @Jo 
+      1085   911393851453181952 
+      2017-0 Trump hits Senate 
+      1086   910598132253241344 
+      2017-0 .@speakerryan on  
+      1087   913082901620838400 
+      2017-0 VP Pence --&gt; h 
+      1088   913082608359280640 
+      2017-0 RT @freedomcaucus 
+      1089   913075393736925186 
+      2017-0 RT @frankthorp: C 
+      1090   913073225600520192 
+      2017-0 RT @michael_steel 
+      1091   913072309988204545 
+      2017-0 RT @kasie:  https 
+      1092   913067261463875591 
+      2017-0 House Democratic  
+      1093   913057184560369669 
+      2017-0 Speaker Ryan stat 
+      1094   913055615467102208 
+      2017-0 NEW: House GOP of 
+      1095   913052472150822913 
+      2017-0 INBOX: House Repu 
+      1096   913048325959618561 
+      2017-0 A look INSIDE the 
+      1097   913047852460494848 
+      2017-0 RT @AshLeeStrong: 
+      1098   913047707698286593 
+      2017-0 VP Mike Pence wil 
+      1099   913046991554347008 
+      2017-0 TAKE A LOOK --&gt 
+      1100   913045034953580544 
+      2017-0 THIS --&gt; https 
+      1101   913042552911167488 
+      2017-0 Per source at Hou 
+      1102   913040394207850497 
+      2017-0 Just in --&gt; ht 
+      1103   913039318263922694 
+      2017-0 The "UNIFIED FRAM 
+      1104   913038887156682752 
+      2017-0 The corporate tax 
+      1105   913037866661552128 
+      2017-0 GOP tax plan bein 
+      1106   913035056301641729 
+      2017-0 RT @CraigCaplan:  
+      1107   913033096701898752 
+      2017-0 This is going to  
+      1108   913028638429335553 
+      2017-0 NEW: RYAN / MCCON 
+      1109   913007304076914688 
+      2017-0 GOP Whip Steve Sc 
+      1110   912853884493758464 
+      2017-0 RT @VaughnHillyar 
+      1111   912794897668886528 
+      2017-0 Fmr Equifax CEO S 
+      1112   912787463445336065 
+      2017-0 RT @kasie: You sh 
+      1113   912785610619998208 
+      2017-0 RT @SenateMajLdr: 
+      1114   912782962365739008 
+      2017-0 RT @LACaldwellDC: 
+      1115   912782874881007617 
+      2017-0 Interesting... ht 
+      1116   912767461480632320 
+      2017-0 RT @Tom_Winter: N 
+      1117   912767073130045441 
+      2017-0 This is BIG --&gt 
+      1118   912762331708383232 
+      2017-0 Pelosi weighs in  
+      1119   912758168463265792 
+      2017-0 RT @LACaldwellDC: 
+      1120   912743869888024578 
+      2017-0 Graham on healthc 
+      1121   912743552337289218 
+      2017-0 McConnell turns m 
+      1122   912743299219361794 
+      2017-0 Senate Majority L 
+      1123   912741770034806790 
+      2017-0 RT @LACaldwellDC: 
+      1124   912741687428096002 
+      2017-0 RT @AndrewNBCNews 
+      1125   912729830566895617 
+      2017-0 "Our faith does w 
+      1126   912725737739780096 
+      2017-0 Rep Mike Conaway  
+      1127   912725223916675072 
+      2017-0 Roger Stone also  
+      1128   912725127992881153 
+      2017-0 Roger Stone says  
+      1129   912725013366788096 
+      2017-0 Roger Stone tells 
+      1130   912718158997463041 
+      2017-0 GOP Rep Peter Kin 
+      1131   912691114725044229 
+      2017-0 RT @GarrettHaake: 
+      1132   912681441997262849 
+      2017-0 VP Pence is expec 
+      1133   912664150840627201 
+      2017-0 What is longtime  
+      1134   912663925715619840 
+      2017-0 Roger Stone has a 
+      1135   912446552450502656 
+      2017-0 RT @NBCNightlyNew 
+      1136   912446022240096257 
+      2017-0 RT @jimmykimmel:  
+      1137   912445292817108992 
+      2017-0 .@kasie next on @ 
+      1138   912439185503653888 
+      2017-0 BIG --&gt; 3rd GO 
+      1139   912434163759886337 
+      2017-0 !!! --&gt; https: 
+      1140   912433779624628225 
+      2017-0 RT @NBCNightlyNew 
+      1141   912411740952043522 
+      2017-0 RT @LesterHoltNBC 
+      1142   912405635991564288 
+      2017-0 TWO YEARS AGO TOD 
+      1143   912382326260236290 
+      2017-0 RT @kwelkernbc: D 
+      1144   912381717012508672 
+      2017-0 RT @AndrewNBCNews 
+      1145   912381077901201408 
+      2017-0 RT @BrandonRittim 
+      1146   912380543790145537 
+      2017-0 RT @kasie: Republ 
+      1147   912378859068301313 
+      2017-0 Very intense mome 
+      1148   912374867013652480 
+      2017-0 In other news...  
+      1149   912373152784818182 
+      2017-0 RT @frankthorp: S 
+      1150   912371024360038400 
+      2017-0 .@PeteWilliamsNBC 
+      1151   912367430546202624 
+      2017-0 Happening tomorro 
+      1152   912356827924451329 
+      2017-0 RT @mitchellrepor 
+      1153   912356731157704705 
+      2017-0 Pelosi on @mitche 
+      1154   912355220784603137 
+      2017-0 Pelosi to @mitche 
+      1155   912354917641330688 
+      2017-0 House Democratic  
+      1156   912337969398370304 
+      2017-0 RT @frankthorp: T 
+      1157   912336727787925504 
+      2017-0 Well this could b 
+      1158   912328561322631168 
+      2017-0 --&gt; https://t. 
+      1159   911572514945499136 
+      2017-0 RT @realDonaldTru 
+      1160   911425650401140736 
+      2017-0 --&gt; https://t. 
+      1161   911413372163362816 
+      2017-0 President Donald  
+      1162   911402315994796032 
+      2017-0 Trump wraps up a  
+      1163   911400667889192960 
+      2017-0 Trump on healthca 
+      1164   911390105759305728 
+      2017-0 RT @NancyPelosi:  
+      1165   911388989562736641 
+      2017-0 General John Kell 
+      1166   911388111598387201 
+      2017-0 Trump in AL: How  
+      1167   911387810887880705 
+      2017-0 Trump: Roy has a  
+      1168   911387492468879361 
+      2017-0 Trump in AL "we h 
+      1169   911387180920123392 
+      2017-0 RT @ajjaffe: “I 
+      1170   911386535286714369 
+      2017-0 President Trump s 
+      1171   911384535790686208 
+      2017-0 Here we go... Oba 
+      1172   911384138388779008 
+      2017-0 Trump on North Ko 
+      1173   911383686171459584 
+      2017-0 Trump in AL about 
+      1174   911383250857283585 
+      2017-0 TRUMP in AL on Am 
+      1175   911382256761147392 
+      2017-0 TRUMP: You love J 
+      1176   911381165755584519 
+      2017-0 President Trump t 
+      1177   911380182841401344 
+      2017-0 Sen Strange in AL 
+      1178   911379918474371072 
+      2017-0 Packed arena as S 
+      1179   911372206940282880 
+      2017-0 President Trump / 
+      1180   911294973542305797 
+      2017-0 This was Cornyn j 
+      1181   911292601738956800 
+      2017-0 Wonder if Preside 
+      1182   911291629713133568 
+      2017-0 --&gt; https://t. 
+      1183   911289215694118913 
+      2017-0 Next week was alw 
+      1184   910999028099424257 
+      2017-0 RT @SnapologySWFL 
+      1185   910998801753759744 
+      2017-0 RT @LACaldwellDC: 
+      1186   910978584227049472 
+      2017-0 RT @frankthorp: � 
+      1187   910975032448491525 
+      2017-0 RT @AndrewNBCNews 
+      1188   910973962200453122 
+      2017-0 RT @frankthorp: D 
+      1189   910964813135847424 
+      2017-0 RT @RepAdamSchiff 
+      1190   910951140925337600 
+      2017-0 RT @EamonJavers:  
+      1191   910950581866569728 
+      2017-0 RT @alanhe: Pence 
+      1192   910950075295309825 
+      2017-0 --&gt; https://t. 
+      1193   910947583295619073 
+      2017-0 --&gt; https://t. 
+      1194   910925298295803905 
+      2017-0 Sen Cornyn on if  
+      1195   910910742320357376 
+      2017-0 .@SenTedCruz w/ S 
+      1196   910906057031118848 
+      2017-0 .@SpeakerRyan @Se 
+      1197   910882954741780480 
+      2017-0 Remember, next we 
+      1198   910881941372665856 
+      2017-0 --&gt; House Repu 
+      1199   910875072797306881 
+      2017-0 TX Rep Culberson  
+      1200   910691739438022656 
+      2017-0 RT @JakeSherman:  
+      1201   910597743076413440 
+      2017-0 Speaker Ryan: I a 
+      1202   910597251327758336 
+      2017-0 Speaker Ryan in M 
+      1203   910597064861642756 
+      2017-0 .@SpeakerRyan aft 
+      1204   910596953133780992 
+      2017-0 Speaker Ryan in F 
+      1205   910596581518397441 
+      2017-0 Both @marcorubio  
+      1206   910596422176792582 
+      2017-0 Sen @marcorubio i 
+      1207   910595836941406209 
+      2017-0 FL GOP @RepCurbel 
+      1208   910595080267943936 
+      2017-0 The bipartisan de 
+      1209   908033300144500742 
+      2017-0 As Sanders unveil 
+      1210   908403697130012672 
+      2017-0 Per @KenDilanianN 
+      1211   908356604172668928 
+      2017-0 GOP Rep Mo Brooks 
+      1212   908337585185021954 
+      2017-0 NEW: A top aide t 
+      1213   910259617934008320 
+      2017-0 NEW: Speaker Paul 
+      1214   910212965189799943 
+      2017-0 RT @sahilkapur: " 
+      1215   910186380915068928 
+      2017-0 Pence &amp; Graha 
+      1216   910183551085236225 
+      2017-0 #healthcare https 
+      1217   909875193790660608 
+      2017-0 --&gt; https://t. 
+      1218   909858588973187072 
+      2017-0 RT @alivitali: Fo 
+      1219   908361936437497857 
+      2017-0 Meadows: if there 
+      1220   908361264031830016 
+      2017-0 Freedom Caucus Ch 
+      1221   908360525444239360 
+      2017-0 House Freedom Cau 
+      1222   908356275414687746 
+      2017-0 GOP Rep Mo Brooks 
+      1223   908355927216140288 
+      2017-0 RT @MariannaNBCNe 
+      1224   908349069533347840 
+      2017-0 THIS. https://t.c 
+      1225   908345671840878592 
+      2017-0 RT @NBCPolitics:  
+      1226   908345067517214720 
+      2017-0 --&gt; https://t. 
+      1227   908344756824100864 
+      2017-0 RT @AP_Politics:  
+      1228   908335658141458432 
+      2017-0 RT @ericawerner:  
+      1229   908324899328086016 
+      2017-0 Spkr Ryan ystdy:  
+      1230   908324656939257856 
+      2017-0 Ryan yestdy on DR 
+      1231   908324505503879168 
+      2017-0 Spkr Ryan has not 
+      1232   908323263402725376 
+      2017-0 RT @RepCurbelo: T 
+      1233   908306770732429312 
+      2017-0 New Pelosi &amp;  
+      1234   908164810373844992 
+      2017-0 #GOP --&gt; https 
+      1235   908158170853466113 
+      2017-0 --&gt; https://t. 
+      1236   908156717095059457 
+      2017-0 The food served w 
+      1237   908108778733744129 
+      2017-0 Dem Rep Gottheime 
+      1238   908108504812146688 
+      2017-0 Rep. Gottheimer ( 
+      1239   908077020642504704 
+      2017-0 RT @Lin_Manuel: S 
+      1240   908066627731816449 
+      2017-0 RT @mj_lee: Ted C 
+      1241   908057163200954368 
+      2017-0 THIS. #whatyearis 
+      1242   908042641203503105 
+      2017-0 NEW: House Energy 
+      1243   908040819327856640 
+      2017-0 RT @cimarcos: .@E 
+      1244   908040582873993216 
+      2017-0 Proud Californian 
+      1245   908039229590196224 
+      2017-0 RT @NBCPolitics:  
+      1246   908039111050715136 
+      2017-0 --&gt; https://t. 
+      1247   908035933546610688 
+      2017-0 RT @kasie: Coveri 
+      1248   908035879356248079 
+      2017-0 --&gt; https://t. 
+      1249   907625071988101120 
+      2017-0 House Dem Whip Ho 
+      1250   906164065373999105 
+      2017-0 House passes the  
+      1251   905475179803025408 
+      2017-0 Democratic Congre 
+      1252   908007554063761408 
+      2017-0 --&gt; https://t. 
+      1253   908000296827326464 
+      2017-0 ! --&gt; https:// 
+      1254   907984287621840896 
+      2017-0 Dem leaders Pelos 
+      1255   907982295633625088 
+      2017-0 Speaker Ryan reit 
+      1256   907982069766246401 
+      2017-0 Ryan on mtg w/ De 
+      1257   907981850756435974 
+      2017-0 Ryan--&gt; https: 
+      1258   907981563312443393 
+      2017-0 Speaker Ryan's re 
+      1259   907981145698177026 
+      2017-0 Speaker Ryan on 2 
+      1260   907979802354876417 
+      2017-0 RT @seungminkim:  
+      1261   907969126123139073 
+      2017-0 Bill text will co 
+      1262   907968267960164352 
+      2017-0 Chairman Brady sa 
+      1263   907739799196499968 
+      2017-0 House passed join 
+      1264   907736538448109568 
+      2017-0 Spox confirms Dem 
+      1265   907733603173486592 
+      2017-0 RT @deirdrewalshc 
+      1266   907732739163656192 
+      2017-0 Bipartisan group  
+      1267   907699253279158273 
+      2017-0 Now we just need  
+      1268   907676614921682945 
+      2017-0 RT @NBCNewsBusine 
+      1269   907669934443986944 
+      2017-0 RT @AlyssaNewcomb 
+      1270   907669057121517568 
+      2017-0 GOP Rep Loudermil 
+      1271   907658209149714432 
+      2017-0 RT @RepGoodlatte: 
+      1272   907626308783546369 
+      2017-0 Hoyer won't direc 
+      1273   907625753784840192 
+      2017-0 Dem Whip Hoyer: W 
+      1274   907621184967147521 
+      2017-0 RT @ericawerner:  
+      1275   907585571874328578 
+      2017-0 Well this is diff 
+      1276   907411510271586304 
+      2017-0 RT @MariannaNBCNe 
+      1277   907347812236582912 
+      2017-0 #Irma --&gt; http 
+      1278   907342976631832576 
+      2017-0 RT @frankthorp: H 
+      1279   907342778673360898 
+      2017-0 OMG, @KatyTurNBC  
+      1280   907336420972429312 
+      2017-0 RT @CraigCaplan:  
+      1281   907321349747695616 
+      2017-0 My fam's neighbor 
+      1282   907313011001610242 
+      2017-0 RT @SvrWxChaser:  
+      1283   907269237386960899 
+      2017-0 --&gt; https://t. 
+      1284   907221228401958912 
+      2017-0 RT @NBCNews: Watc 
+      1285   907015056516435973 
+      2017-0 RT @weatherbryan: 
+      1286   906975980685807616 
+      2017-0 #Irma https://t.c 
+      1287   906971683570974725 
+      2017-0 RT @NBCNightlyNew 
+      1288   906967228372996096 
+      2017-0 #Irma makes 2nd U 
+      1289   906966617241812998 
+      2017-0 RT @RosLehtinen:  
+      1290   906966449838858243 
+      2017-0 --&gt; https://t. 
+      1291   906964734045454338 
+      2017-0 RT @NBCNightlyNew 
+      1292   906959278656954371 
+      2017-0 Wow. https://t.co 
+      1293   906959169508560896 
+      2017-0 RT @JimCantore: E 
+      1294   906950115205767168 
+      2017-0 Took this photo b 
+      1295   906941229564395521 
+      2017-0 --&gt; https://t. 
+      1296   906938834239270914 
+      2017-0 It's such a beaut 
+      1297   906938650587537408 
+      2017-0 RT @kasie: Here's 
+      1298   906938126089834497 
+      2017-0 Due to the large  
+      1299   906920931083395072 
+      2017-0 RT @NWSMiami: 12: 
+      1300   906919376997306368 
+      2017-0 One week ago on t 
+      1301   906894839509405696 
+      2017-0 RT @NBCNightlyNew 
+      1302   906874543750381568 
+      2017-0 RT @NBCNewsPR: NE 
+      1303   906872928318435328 
+      2017-0 RT @MSNBC: BREAKI 
+      1304   906857286664167424 
+      2017-0 RT @ericfisher: I 
+      1305   906839518824865792 
+      2017-0 RT @NHC_Atlantic: 
+      1306   906717137816965121 
+      2017-0 RT @NHC_Atlantic: 
+      1307   906706688455127042 
+      2017-0 RT @AP: BREAKING: 
+      1308   906638592440721408 
+      2017-0 This was exactly  
+      1309   906612123530342400 
+      2017-0 RT @weatherchanne 
+      1310   906502399560478720 
+      2017-0 RT @AP: The Lates 
+      1311   906368906557882368 
+      2017-0 RT @MichaelRLowry 
+      1312   906368573685334017 
+      2017-0 Hoping this shift 
+      1313   906257062044344322 
+      2017-0 RT @JakeSherman:  
+      1314   906212179921305601 
+      2017-0 RT @JakeSherman:  
+      1315   906207270677221377 
+      2017-0 House passes $15  
+      1316   906195242587750400 
+      2017-0 RT @frankthorp: W 
+      1317   906190433621078017 
+      2017-0 RT @elwasson: Mod 
+      1318   906182312009900032 
+      2017-0 RT @RosLehtinen:  
+      1319   906171166175494144 
+      2017-0 11 FL Republicans 
+      1320   906150256286597121 
+      2017-0 Source in the roo 
+      1321   906149859463442437 
+      2017-0 RT @kaylatausche: 
+      1322   906148393927487489 
+      2017-0 Mnuchin keeps tel 
+      1323   906147658800168961 
+      2017-0 Mnuchin and Mulva 
+      1324   906146979436224512 
+      2017-0 There was loud la 
+      1325   906146693195980801 
+      2017-0 Inside GOP conf I 
+      1326   906121222920040448 
+      2017-0 RT @TODAYshow: A  
+      1327   905972460738281473 
+      2017-0 RT @BillClinton:  
+      1328   905972228944265216 
+      2017-0 RT @CraigCaplan:  
+      1329   905967885981536256 
+      2017-0 RT @colinwilhelm: 
+      1330   905952170805211136 
+      2017-0 RT @cathymcmorris 
+      1331   905948860907958272 
+      2017-0 RT @NBCNews: EXCL 
+      1332   905945779294142470 
+      2017-0 +1 https://t.co/6 
+      1333   905944029103353856 
+      2017-0 Leader of moderat 
+      1334   905885698372329473 
+      2017-0 NEWT WEIGHS IN -- 
+      1335   905881691541123072 
+      2017-0 RT @CraigCaplan:  
+      1336   905880647021027328 
+      2017-0 RT @carlquintanil 
+      1337   905848957779238914 
+      2017-0 tune in --&gt; ht 
+      1338   905814455749136384 
+      2017-0 But specifically  
+      1339   905808001252155392 
+      2017-0 Pelosi on WH meet 
+      1340   905799907302408200 
+      2017-0 And adding, per s 
+      1341   905793519482228736 
+      2017-0 This Trump/Pelosi 
+      1342   905778170443558912 
+      2017-0 Spkr Ryan on Trum 
+      1343   905776877863919617 
+      2017-0 Speaker Ryan aske 
+      1344   905751105392562176 
+      2017-0 RT @CraigCaplan:  
+      1345   905619839292764160 
+      2017-0 RT @NBCNightlyNew 
+      1346   905618942609297408 
+      2017-0 RT @LACaldwellDC: 
+      1347   905520608431280128 
+      2017-0 RT @JakeSherman:  
+      1348   905502594411450368 
+      2017-0 Asked if she was  
+      1349   905502345500479488 
+      2017-0 Pelosi on WH mtg  
+      1350   905502114071420930 
+      2017-0 Pelosi: think we  
+      1351   905493042026729475 
+      2017-0 Video: Former Nat 
+      1352   905492566782738432 
+      2017-0 RT @NBCNightlyNew 
+      1353   905492486168207364 
+      2017-0 Per source: GOP l 
+      1354   905488383786577920 
+      2017-0 RT @LACaldwellDC: 
+      1355   905477028702552069 
+      2017-0 Freedom Caucus sp 
+      1356   905476810942681088 
+      2017-0 President Trump a 
+      1357   902976630917931008 
+      2017-0 Speaker Ryan prai 
+      1358   905469738494636033 
+      2017-0 House overwhelmin 
+      1359   902882702654939137 
+      2017-0 As Congress retur 
+      1360   902994218699894784 
+      2017-0 House Appropriati 
+      1361   905153331726868480 
+      2017-0 Freedom Caucus Ch 
+      1362   905465710373109761 
+      2017-0 RT @mattsgorman:  
+      1363   905462815363932160 
+      2017-0 House voting NOW  
+      1364   905462415181144069 
+      2017-0 RT @CarrieNBCNews 
+      1365   905457745670889472 
+      2017-0 RT @NHC_Atlantic: 
+      1366   905455710305218560 
+      2017-0 RT @MariannaNBCNe 
+      1367   905455666847985665 
+      2017-0 RT @BresPolitico: 
+      1368   905450509187801089 
+      2017-0 RT @mikememoli: . 
+      1369   905436165746065408 
+      2017-0 "We will stay unt 
+      1370   905435725700718592 
+      2017-0 First House GOP p 
+      1371   905430249420328960 
+      2017-0 Spkr Ryan told Ho 
+      1372   905429025258164224 
+      2017-0 --&gt; https://t. 
+      1373   905428521979445250 
+      2017-0 Pelosi &amp; Schu 
+      1374   905426841053351938 
+      2017-0 Speaker Ryan told 
+      1375   905424065514614784 
+      2017-0 Former National S 
+      1376   905209873704550401 
+      2017-0 House will vote o 
+      1377   905209674223554565 
+      2017-0 GOP Whip Scalise  
+      1378   905198367436832768 
+      2017-0 RT @LACaldwellDC: 
+      1379   905157844311441408 
+      2017-0 !! --&gt; https:/ 
+      1380   905139978996473856 
+      2017-0 What great news!  
+      1381   905114882718261248 
+      2017-0 --&gt; https://t. 
+      1382   905112904520929282 
+      2017-0 NEW: Dem Whip Hoy 
+      1383   905112086925242369 
+      2017-0 RT @KateNocera: R 
+      1384   905111986773614592 
+      2017-0 Dem Whip Hoyer be 
+      1385   905111506974642177 
+      2017-0 RT @JoeBiden: Bro 
+      1386   905110347325083648 
+      2017-0 Dem Rep Conyers:  
+      1387   905109487509524488 
+      2017-0 Dem Whip Hoyer as 
+      1388   905108855000059904 
+      2017-0 Wow. https://t.co 
+      1389   905108591258079237 
+      2017-0 RT @RepGoodlatte: 
+      1390   905107799859920896 
+      2017-0 Dem Whip Hoyer pr 
+      1391   905107404697870336 
+      2017-0 RT @justinamash:  
+      1392   905107249818951680 
+      2017-0 Dem Whip Hoyer: H 
+      1393   905098070161010689 
+      2017-0 THIS WEEK IN CONG 
+      1394   903808740633214977 
+      2017-0 House vote next w 
+      1395   903787649856675841 
+      2017-0 House GOP leaders 
+      1396   903787425117429762 
+      2017-0 NEW: House Majori 
+      1397   903784532310016000 
+      2017-0 Congress returns  
+      1398   903784349857980417 
+      2017-0 we know Congress  
+      1399   903783785589854208 
+      2017-0 NEW: WH is reques 
+      1400   903661157386526721 
+      2017-0 --&gt; https://t. 
+      1401   903447858896134144 
+      2017-0 RT @HallieJackson 
+      1402   903444110647885829 
+      2017-0 RT @RepKihuen: I' 
+      1403   903393113972117506 
+      2017-0 RT @TIME: 12 time 
+      1404   903391118829772802 
+      2017-0 McCarthy will be  
+      1405   903390921743532032 
+      2017-0 House Majority Ld 
+      1406   903341750856667136 
+      2017-0 RT @frankthorp: W 
+      1407   903329669453361155 
+      2017-0 Spkr Ryan asked i 
+      1408   903327797237751808 
+      2017-0 Spkr Ryan asked a 
+      1409   903327364331003905 
+      2017-0 Speaker Ryan aske 
+      1410   903325013503336449 
+      2017-0 Speaker Ryan on T 
+      1411   903324426523074560 
+      2017-0 Speaker Ryan in W 
+      1412   903323293171765248 
+      2017-0 RT @JenniferJJaco 
+      1413   903314848104243200 
+      2017-0 --&gt; https://t. 
+      1414   903250261967335424 
+      2017-0 RT @scottwongDC:  
+      1415   903077721902854144 
+      2017-0 RT @rachaelmbade: 
+      1416   903006077024956417 
+      2017-0 RT @LACaldwellDC: 
+      1417   903004321155092485 
+      2017-0 House members wil 
+      1418   902999764500979713 
+      2017-0 RT @ericawerner:  
+      1419   902977811111186432 
+      2017-0 GOP Rep Babin has 
+      1420   900416827595005952 
+      2017-0 Inbox: CNBC EXCLU 
+      1421   902268975261913088 
+      2017-0 President Trump a 
+      1422   902231218070179845 
+      2017-0 .@SenTedCruz live 
+      1423   900773752362762241 
+      2017-0 Speaker Ryan on G 
+      1424   902726119484522496 
+      2017-0 Another excellent 
+      1425   902641559216300033 
+      2017-0 RT @KFILE: Rep. R 
+      1426   902618941557788673 
+      2017-0 "...awaiting requ 
+      1427   902618798490050572 
+      2017-0 House Approp Chai 
+      1428   902599402136768512 
+      2017-0 RT @CNBC: Harvey  
+      1429   902329453543645184 
+      2017-0 --&gt; https://t. 
+      1430   902309130735677441 
+      2017-0 RT @KatyTurNBC: M 
+      1431   902274748771598340 
+      2017-0 Spkr Ryan spox: W 
+      1432   902273983839645696 
+      2017-0 Who wants to be J 
+      1433   902272803566743553 
+      2017-0 President Trump o 
+      1434   902272392919216128 
+      2017-0 President Trump a 
+      1435   902271404959309824 
+      2017-0 +1 https://t.co/K 
+      1436   902271251938508810 
+      2017-0 Speaker Ryan spox 
+      1437   902270252637151232 
+      2017-0 "I assumed the ra 
+      1438   902268348523798528 
+      2017-0 Trump asked if $$ 
+      1439   902268086677630976 
+      2017-0 President Trump o 
+      1440   902267941504286720 
+      2017-0 President Trump a 
+      1441   902264590339235841 
+      2017-0 RT @Bencjacobs: G 
+      1442   902263722680479744 
+      2017-0 RT @tvkatesnow: P 
+      1443   902260703125495810 
+      2017-0 --&gt; https://t. 
+      1444   902238097701789700 
+      2017-0 RT @LACaldwellDC: 
+      1445   902232190746062848 
+      2017-0 Cruz says he spok 
+      1446   902231780870299648 
+      2017-0 .@SenTedCruz on @ 
+      1447   902231503987466241 
+      2017-0 Earlier mandatory 
+      1448   900772349460463617 
+      2017-0 $$$$$$ https://t. 
+      1449   900772126382104576 
+      2017-0 RT @kaylatausche: 
+      1450   900771657949761537 
+      2017-0 Says the Senate w 
+      1451   900771527272022016 
+      2017-0 Speaker Ryan on @ 
+      1452   900771275064225793 
+      2017-0 Speaker Ryan live 
+      1453   900767165095096320 
+      2017-0 Also when Ryan wa 
+      1454   900759742959636480 
+      2017-0 Spkr Ryan asked a 
+      1455   900758660414033920 
+      2017-0 Next Q to Spkr Ry 
+      1456   900757968743837696 
+      2017-0 Speaker Ryan on t 
+      1457   900757230659620864 
+      2017-0 Speaker Ryan in t 
+      1458   900756409700163586 
+      2017-0 Speaker Ryan: It' 
+      1459   900756055155548160 
+      2017-0 Speaker Ryan on P 
+      1460   900755935525707776 
+      2017-0 Boeing employee t 
+      1461   900753489030074369 
+      2017-0 Ryan: Right now w 
+      1462   900752813206130688 
+      2017-0 Ryan: "We are try 
+      1463   900752432707256321 
+      2017-0 Ryan touts Congre 
+      1464   900752044524318720 
+      2017-0 At Speaker Ryan t 
+      1465   900751772917956609 
+      2017-0 Here come the Boe 
+      1466   900751541614727168 
+      2017-0 Ryan: Tax rate he 
+      1467   900751066303610880 
+      2017-0 Speaker Ryan to B 
+      1468   900750842852028418 
+      2017-0 Ryan at Boeing: I 
+      1469   900750333491761155 
+      2017-0 Speaker Ryan just 
+      1470   900742498208710658 
+      2017-0 Speaker Ryan tour 
+      1471   900719672898633728 
+      2017-0 RT @HallieJackson 
+      1472   900719504639926272 
+      2017-0 Spkr Ryan said ys 
+      1473   900718992175677441 
+      2017-0 Pelosi on raising 
+      1474   900718608317272064 
+      2017-0 Tune in --&gt; ht 
+      1475   900717647318228992 
+      2017-0 RT @cachomiak: Ma 
+      1476   900715915414650880 
+      2017-0 Ystdy asked Ryan  
+      1477   900715658748452864 
+      2017-0 Trump needs all o 
+      1478   900715313985077248 
+      2017-0 Well, September i 
+      1479   900715155108921344 
+      2017-0 RT @realDonaldTru 
+      1480   900421663854010368 
+      2017-0 Spkr Ryan on Trum 
+      1481   900412636910698496 
+      2017-0 At the top of the 
+      1482   900411171055878144 
+      2017-0 Speaker Ryan tell 
+      1483   900410458724679680 
+      2017-0 First question fr 
+      1484   900410049180217344 
+      2017-0 I am very inspire 
+      1485   900409670455574528 
+      2017-0 Speaker Ryan ment 
+      1486   900409358915207168 
+      2017-0 "We feel very con 
+      1487   898207677356150784 
+      2017-0 Flake camp on Tru 
+      1488   898213892240945152 
+      2017-0 NEW: House Democr 
+      1489   899802702007472128 
+      2017-0 President Trump:  
+      1490   898191139538423808 
+      2017-0 --&gt; https://t. 
+      1491   900390431761997825 
+      2017-0 Speaker Ryan gets 
+      1492   900382643547590656 
+      2017-0 Speaker Ryan will 
+      1493   900181025602420737 
+      2017-0 RT @scottwongDC:  
+      1494   900180982564757504 
+      2017-0 RT @SaraMurray: " 
+      1495   900147912730173440 
+      2017-0 RT @NBCNews: JUST 
+      1496   900074051535765507 
+      2017-0 Fascinating --&gt 
+      1497   900063048819507200 
+      2017-0 RT @JakeSherman:  
+      1498   899986794237788161 
+      2017-0 RT @joshgerstein: 
+      1499   899823758868873216 
+      2017-0 Speaker Ryan says 
+      1500   899823586944450561 
+      2017-0 Final question fo 
+      1501   899815440159043584 
+      2017-0 Reminder, Congres 
+      1502   899815271862591488 
+      2017-0 Speaker Ryan reit 
+      1503   899813786730803200 
+      2017-0 Speaker Ryan tout 
+      1504   899813164208009220 
+      2017-0 Speaker Ryan: do  
+      1505   899812317755564032 
+      2017-0 Speaker Ryan: "He 
+      1506   899811642728472577 
+      2017-0 Speaker Ryan on i 
+      1507   899811281296904193 
+      2017-0 Speaker Ryan on w 
+      1508   899810646627319808 
+      2017-0 Speaker Ryan on c 
+      1509   899809988880850945 
+      2017-0 Speaker Ryan on t 
+      1510   899809517805998084 
+      2017-0 Speaker Ryan on T 
+      1511   899806840162312192 
+      2017-0 And now, the CNN  
+      1512   899803204065443840 
+      2017-0 RT @marcorubio: N 
+      1513   899802544834306048 
+      2017-0 RT @LACaldwellDC: 
+      1514   899800842961924096 
+      2017-0 RT @LACaldwellDC: 
+      1515   899800600132694020 
+      2017-0 President Trump o 
+      1516   899705150281011200 
+      2017-0 RT @NBCNightlyNew 
+      1517   899700103363137537 
+      2017-0 Viewing #eclipse2 
+      1518   899699659261837312 
+      2017-0 RT @SteveScalise: 
+      1519   899694150177705985 
+      2017-0 --&gt; https://t. 
+      1520   899693810392993793 
+      2017-0 RT @ZekeJMiller:  
+      1521   899662519182266368 
+      2017-0 Top D on House Ov 
+      1522   899662000581685251 
+      2017-0  https://t.co/nV6 
+      1523   899661870356934656 
+      2017-0 House Oversight C 
+      1524   899649470123487232 
+      2017-0 House Republicans 
+      1525   899631066562088961 
+      2017-0 RT @ZekeJMiller:  
+      1526   899631013206339584 
+      2017-0 RT @jpaceDC: MUSC 
+      1527   899630177659088896 
+      2017-0 New Speaker Ryan  
+      1528   899613081407553537 
+      2017-0 This week - Speak 
+      1529   899368436530335744 
+      2017-0 This at same time 
+      1530   898642071572987904 
+      2017-0 RT @MeghanMcCain: 
+      1531   898641930409693184 
+      2017-0 RT @MariannaNBCNe 
+      1532   898624713844375552 
+      2017-0 So sad. https://t 
+      1533   898605964248657921 
+      2017-0 Pelosi stmt on Ba 
+      1534   898591688318267393 
+      2017-0 RT @BresPolitico: 
+      1535   898589482747932674 
+      2017-0 --&gt; https://t. 
+      1536   898587941844512768 
+      2017-0 Friday. https://t 
+      1537   898541137874563073 
+      2017-0 RT @NComerfordTV: 
+      1538   898533816045772800 
+      2017-0 --&gt; https://t. 
+      1539   898531319486881792 
+      2017-0 RT @scottwongDC:  
+      1540   898304528650444800 
+      2017-0 RT @BillCassidy:  
+      1541   898292176697806848 
+      2017-0 RT @NBCPolitics:  
+      1542   898290920461938688 
+      2017-0 RT @AP: BREAKING: 
+      1543   898272049323532288 
+      2017-0 RT @SenSchumer: M 
+      1544   898249969404194817 
+      2017-0 @_mollyedw Glad y 
+      1545   898245617130098689 
+      2017-0 RT @PatrickMcHenr 
+      1546   898245205186490368 
+      2017-0 !! --&gt; https:/ 
+      1547   898243475682062336 
+      2017-0 Pelosi --&gt; htt 
+      1548   898242541199511552 
+      2017-0 RT @WhipHoyer: Mo 
+      1549   898240232637820928 
+      2017-0 RT @cathymcmorris 
+      1550   898239277116555264 
+      2017-0 Scalise on Barcel 
+      1551   898238720226324480 
+      2017-0 RT @RepAdamSchiff 
+      1552   898238034293993472 
+      2017-0 House GOP Leader  
+      1553   898237589135790084 
+      2017-0 --&gt; https://t. 
+      1554   898232877833388033 
+      2017-0 RT @albamonica: F 
+      1555   898231336191897601 
+      2017-0 RT @JakeSherman:  
+      1556   898226778375950337 
+      2017-0 House Judiciary C 
+      1557   898220120887177216 
+      2017-0 RT @NBCNews: BREA 
+      1558   898214460778795008 
+      2017-0 RT @kasie: AMAZIN 
+      1559   898214359922561024 
+      2017-0 NEW: GOP Rep Issa 
+      1560   898201951212634114 
+      2017-0 RT @albamonica: W 
+      1561   898189030847918080 
+      2017-0 RT @KatyTurNBC: ! 
+      1562   898184547254378497 
+      2017-0 Dem Ldr Pelosi ys 
+      1563   898183948211191808 
+      2017-0 More @RepCohen: " 
+      1564   898183729813876736 
+      2017-0 .@RepCohen announ 
+      1565   898160481785049088 
+      2017-0 On Instagram. htt 
+      1566   898155612382658560 
+      2017-0 RT @JakeSherman:  
+      1567   897940600988872705 
+      2017-0 House Homeland Se 
+      1568   897927344739962880 
+      2017-0 RT @JakeSherman:  
+      1569   897919391404306433 
+      2017-0 RT @MeetThePress: 
+      1570   897918949328867328 
+      2017-0 Pelosi: you hear  
+      1571   897918376215031812 
+      2017-0 Pelosi: What we s 
+      1572   897885833050640384 
+      2017-0 RT @BenjySarlin:  
+      1573   897870554346246146 
+      2017-0 Well that's one w 
+      1574   897137168103202817 
+      2017-0 Sen Warner on @mi 
+      1575   897553763891851266 
+      2017-0 President Trump:  
+      1576   897829108050210816 
+      2017-0 Neither Ryan nor  
+      1577   897579176991100928 
+      2017-0 SPEAKER RYAN weig 
+      1578   897572234960809985 
+      2017-0 SCHUMER --&gt; ht 
+      1579   897570562461110273 
+      2017-0 RUBIO --&gt; http 
+      1580   897174266076160001 
+      2017-0 Pelosi: It should 
+      1581   897828303347777536 
+      2017-0 MCCONNELL--&gt; h 
+      1582   897817564910411776 
+      2017-0 RT @cimarcos: BUT 
+      1583   897811930479566848 
+      2017-0 RT @HallieJackson 
+      1584   897800552633049088 
+      2017-0 RT @rebeccagberg: 
+      1585   897795111848996864 
+      2017-0 RT @nytpolitics:  
+      1586   897654310342995968 
+      2017-0 RT @RepEdRoyce: T 
+      1587   897595584927985670 
+      2017-0 RT @BrandonRittim 
+      1588   897593007398154241 
+      2017-0 RT @scottwongDC:  
+      1589   897589301210472449 
+      2017-0 RT @RepErikPaulse 
+      1590   897588335622991872 
+      2017-0 NRCC chairman Rep 
+      1591   897587625627979777 
+      2017-0 And now a tweet f 
+      1592   897587390050684932 
+      2017-0 Number 2 House GO 
+      1593   897584039682617345 
+      2017-0 RT @NBCNightlyNew 
+      1594   897582839079854081 
+      2017-0 GOP Freedom Caucu 
+      1595   897580024873852928 
+      2017-0 RT @RepCharlieDen 
+      1596   897579726969204736 
+      2017-0 Speaker Ryan is f 
+      1597   897579007243427841 
+      2017-0 --&gt; https://t. 
+      1598   897575877986353152 
+      2017-0 RT @RichardTrumka 
+      1599   897574924113641472 
+      2017-0 RT @pkcapitol: Th 
+      1600   897574862885183488 
+      2017-0 RT @RonWyden: Off 
+      1601   897572736133865473 
+      2017-0 RT @SenSchumer: B 
+      1602   897571871075573761 
+      2017-0 RT @CHueyBurns: C 
+      1603   897570383074910213 
+      2017-0 --&gt; https://t. 
+      1604   897567272692305921 
+      2017-0 So far we haven't 
+      1605   897567072271650817 
+      2017-0 RT @LisaMascaro:  
+      1606   897563592492367873 
+      2017-0 RT @TeamPelosi: D 
+      1607   897562128390905856 
+      2017-0 RT @scottwongDC:  
+      1608   897562079489556480 
+      2017-0 GOP Rep on Trump  
+      1609   897560781939769345 
+      2017-0 I was JUST thinki 
+      1610   897559857212948480 
+      2017-0 --&gt; https://t. 
+      1611   897559333868904449 
+      2017-0 RT @MarkWarner: N 
+      1612   897557015039528964 
+      2017-0 House Ds call for 
+      1613   897554828448206850 
+      2017-0 --&gt; https://t. 
+      1614   897554258467409921 
+      2017-0 RT @BresPolitico: 
+      1615   897552848514404352 
+      2017-0 And if you are tu 
+      1616   897552415465119744 
+      2017-0 RT @kaylatausche: 
+      1617   897551693180620800 
+      2017-0 President Trump i 
+      1618   897528250855034880 
+      2017-0 RT @edatpost: Nic 
+      1619   897524273459466240 
+      2017-0 RT @mkraju: "Thos 
+      1620   897497575368015873 
+      2017-0 RT @RepAdamSchiff 
+      1621   897467885349740549 
+      2017-0 RT @VaughnHillyar 
+      1622   897300454081794048 
+      2017-0 RT @jeneps: Three 
+      1623   897230884918710272 
+      2017-0 RT @AP: BREAKING: 
+      1624   897183967476154368 
+      2017-0 RT @DaviSusan: So 
+      1625   897178493544431616 
+      2017-0 RT @MariannaNBCNe 
+      1626   897130871756599298 
+      2017-0 RT @KellyO: NEW:  
+      1627   897097832385085440 
+      2017-0 CNN announces Spe 
+      1628   896888304259350528 
+      2017-0 RT @VaughnHillyar 
+      1629   896881238367195137 
+      2017-0 RT @scottwongDC:  
+      1630   896823867976687617 
+      2017-0 RT @GovernorVA: M 
+      1631   896728520868712449 
+      2017-0 RT @MariannaNBCNe 
+      1632   896511832416014336 
+      2017-0 RT @SpeakerRyan:  
+      1633   896499855811530754 
+      2017-0 RT @SpeakerRyan:  
+      1634   896499398351474688 
+      2017-0 RT @BresPolitico: 
+      1635   896437679105220610 
+      2017-0 RT @JakeSherman:  
+      1636   895375597865771010 
+      2017-0 RT @rachaelmbade: 
+      1637   895364541105745922 
+      2017-0 RT @mobrooksforse 
+      1638   895363832339734528 
+      2017-0 Schiff: Tillerson 
+      1639   895363250933596160 
+      2017-0 Schiff on Trump/N 
+      1640   895362750213443584 
+      2017-0 RT @jasoninthehou 
+      1641   895350791858524161 
+      2017-0 RT @frankthorp: N 
+      1642   895341107730681857 
+      2017-0 RT @HarvardIOP: M 
+      1643   893517109963173889 
+      2017-0 !!! CC @kasie htt 
+      1644   895317945856868352 
+      2017-0 --&gt; https://t. 
+      1645   895298821848215552 
+      2017-0 RT @daveweigel: A 
+      1646   895296927004340224 
+      2017-0 RT @NBCNews: JUST 
+      1647   895281448617476097 
+      2017-0 Pelosi calls Prez 
+      1648   895251897795448832 
+      2017-0 RT @MeetThePress: 
+      1649   895029318144974852 
+      2017-0 RT @AP_Politics:  
+      1650   894596203807113217 
+      2017-0 RT @idaveprice: � 
+      1651   893525074841673728 
+      2017-0 THIS. https://t.c 
+      1652   893524331585732608 
+      2017-0 RT @billclinton:  
+      1653   893521466620248064 
+      2017-0 RT @chucktodd: I' 
+      1654   893511072698728449 
+      2017-0 --&gt; https://t. 
+      1655   893503067051655169 
+      2017-0 Awesome! https:// 
+      1656   893199773993402368 
+      2017-0 RT @NBCNewsPR: JU 
+      1657   893199277488562176 
+      2017-0 RT @Tom_Winter: A 
+      1658   893195443269709824 
+      2017-0 Guess this is the 
+      1659   893194202061975553 
+      2017-0 Thursday. https:/ 
+      1660   893171885466415104 
+      2017-0 --&gt; https://t. 
+      1661   893154072307617792 
+      2017-0 RT @RepKinzinger: 
+      1662   893154022886191104 
+      2017-0 RT @WilliamAlliso 
+      1663   893145108106891264 
+      2017-0 RT @LACaldwellDC: 
+      1664   893134100764270592 
+      2017-0 #Kasie https://t. 
+      1665   892767827136057344 
+      2017-0 President Trump:  
+      1666   892766809220415489 
+      2017-0 TRUMP says he fav 
+      1667   892757078590332928 
+      2017-0 President Trump h 
+      1668   892743541109248000 
+      2017-0 RT @AP: BREAKING: 
+      1669   892557099607240705 
+      2017-0 Lucky to learn fr 
+      1670   892504854123487233 
+      2017-0 RT @NBCNightlyNew 
+      1671   892495752940978176 
+      2017-0 THIS: The Senate  
+      1672   892475674526711810 
+      2017-0 RT @JakeSherman:  
+      1673   892454691669508096 
+      2017-0 !! --&gt; Sanders 
+      1674   892454021268721664 
+      2017-0 RT @MariannaNBCNe 
+      1675   892453864196231168 
+      2017-0 RT @BenjySarlin:  
+      1676   892450297293004804 
+      2017-0 Jeff Flake takes  
+Return to previous page 
+

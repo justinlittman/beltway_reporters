@@ -1,0 +1,70 @@
+TWITTER REPORT 
+
+   Dataset contains external users as mentions and replies. 
+   Input data: Twitter JSON all 
+   Start time: Wed Nov 15 08:17:02 2017
+ 
+   Data Description 
+   Import Summary 
+
+      This is an overview of the import process that was used to create the dataset. 
+
+      Twitter file(s) imported       /Users/justinlittman/Data/usher/beltway_reporters/ 
+      Twitter file format            Twitter JSON                                       
+      Dynamic meta-network?          No, all tweets are in one meta-network             
+   Import Data Statistics 
+
+      This is an overview of the tweet activity in the dataset. The dataset contains 
+      only one meta-network and all tweets are analyzed. 
+
+      Network                        Twitter JSON all          
+      First tweet date               2007-02-08 21:57:04-05    
+      Last tweet date                2017-11-01 00:00:00-04    
+      Number of tweets               2432918                   
+      Number of tweets with geotag   1730                      
+      Number of tweets with URL      1387523                   
+      Number of retweets             826613                    
+      Number of tweeters             2355                      
+      Number of verified tweeters    1294                      
+      Number of news agency tweeters 51                        
+      Number of mentions             404312                    
+      Number of distinct hashtags    48681                     
+      Number of distinct hashtags us 33614                     
+      Number of distinct words       0                         
+      Number of distinct words used  0                         
+      Number of distinct locations   991                       
+      The following links give more detailed statistics by category. 
+
+      Tweet Statistics 
+      All Tweeters Statistics 
+      Verified Tweeter Statistics 
+      News Agency Tweeter Statistics 
+   Available Analyses 
+
+      Click on an analysis below for detailed results. 
+      Analysis of Tweeters - Super Spreaders 
+      Analysis of Tweeters - Super Friends 
+      Analysis of Tweeters - Other Influencers 
+      Analysis of Tweeters - Attributes 
+      Analysis of Hashtags 
+      Analysis of Words 
+      Analysis of Locations 
+      Analysis of Tweets 
+      Analysis of Tweets - Attributes 
+   Research Notes 
+
+      Paths in re-tweet networks tend to be small and hierarchical which makes many 
+      traditional social network measures empirically uninteresting. 
+      Closeness is not calculated for twitter data because: a) most nodes are not 
+      reachable, and b) it is expensive to calculate given the size of the data. 
+      Traditional betweenness is not calculated because: a) given the length of 
+      chains, most nodes have only a small value and it does not discriminate among 
+      nodes, and b) it is expensive to calculate given the size of the data. 
+      Eigenvector centrality is not calculated because: a) there are rarely cases of 
+      mutual retweeting and so dense interconnected networks that would lead to high 
+      values, and b) it is expensive to calculate given the size of the data. 
+      Verified actors have a plus(+) appended to their name. News sources have an 
+      asterisk(*) appended to their name. 
+
+Produced by ORA-NetScenes, a joint product of the CASOS center at Carnegie Mellon University and Netanomics 
+

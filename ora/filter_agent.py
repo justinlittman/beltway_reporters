@@ -1,13 +1,10 @@
 import csv
+import argparse
 
-
-def load_limit_user_ids():
+def load_limit_user_ids(seed_list_filepaths):
     limit_user_ids = set()
-    for lookup_filepath in (
-            '../jupyter/lookups/periodical_press_lookup.csv',
-            '../jupyter/lookups/senate_press_lookup.csv',
-            '../jupyter/lookups/radio_and_television_lookup.csv'):
-        limit_user_ids.update(load_seed_list(lookup_filepath))
+    for seed_list_filepath in seed_list_filepaths:
+        limit_user_ids.update(load_seed_list(seed_list_filepath))
     return limit_user_ids
 
 
@@ -36,10 +33,12 @@ def filter_agents(input_filepath, output_filepath, limit_user_ids):
             writer.writerow(row)
 
 if __name__ == '__main__':
-    limit_user_ids = load_limit_user_ids()
-    filter_agents('agent_Agent-2017-07-09.csv', 'agent_Agent-2017-07-09-filtered.tsv', limit_user_ids)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('agent_input_file')
+    parser.add_argument('agent_output_file')
+    parser.add_argument('seed_list_files', nargs='+')
+    args = parser.parse_args()
 
-    # From Nodeset: Agent > Editor click Nodes > Clean Nodeset > Export Blank Change List
-    # Wait for change list. For some reason, it take a long time to export.
-    # Run this on change list
-    # From Data Management > Change List Manager click Load > Change List and then
+    limit_user_ids = load_limit_user_ids(args.seed_list_files)
+    assert args.agent_output_file.endswith('.tsv')
+    filter_agents(args.agent_input_file, args.agent_output_file, limit_user_ids)

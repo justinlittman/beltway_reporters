@@ -1,0 +1,85 @@
+All Tweeters Statistics 
+
+   This summarizes the activity of all tweeters. 
+   Network                        Twitter JSON all          
+   Number of tweets               1939032                   
+   Number of tweeters             2355                      
+   Number of retweets             826613                    
+   Number of hashtags             358440                    
+   Number of distinct hashtags    158600                    
+   Number of words                0                         
+   Number of distinct words       0                         
+   Number of mentions             357329                    
+   Number of distinct mentions    86970                     
+   Number of locations            1323                      
+   Number of distinct locations   958                       
+   Average tweets per tweeter     823.368                   
+   Min tweets per tweeter         1                         
+   Max tweets per tweeter         52893                     
+   Stddev tweets per tweeter      1898.787                  
+   Average retweets per tweeter   351.003                   
+   Min retweets per tweeter       0                         
+   Max retweets per tweeter       52841                     
+   Stddev retweets per tweeter    1381.027                  
+   Average followers per tweeter  17184.549                 
+   Min followers per tweeter      0                         
+   Max followers per tweeter      2220396                   
+   Stddev followers per tweeter   96349.193                 
+   Average hashtags per tweeter   152.204                   
+   Min hashtags per tweeter       0                         
+   Max hashtags per tweeter       20485                     
+   Stddev hashtags per tweeter    577.419                   
+   Average distinct hashtags per  67.346                    
+   Min distinct hashtags per twee 0                         
+   Max distinct hashtags per twee 2794                      
+   Stddev distinct hashtags per t 137.412                   
+   Average words per tweeter      N/A                       
+   Min words per tweeter          N/A                       
+   Max words per tweeter          N/A                       
+   Stddev words per tweeter       N/A                       
+   Average distinct words per twe N/A                       
+   Min distinct words per tweeter N/A                       
+   Max distinct words per tweeter N/A                       
+   Stddev distinct words per twee N/A                       
+   Average mentions per tweeter   151.732                   
+   Min mentions per tweeter       0                         
+   Max mentions per tweeter       3916                      
+   Stddev mentions per tweeter    308.428                   
+   Average distinct mentions per  36.930                    
+   Min distinct mentions per twee 0                         
+   Max distinct mentions per twee 442                       
+   Stddev distinct mentions per t 51.986                    
+   Average locations per tweeter  0.562                     
+   Min locations per tweeter      0                         
+   Max locations per tweeter      114                       
+   Stddev locations per tweeter   4.428                     
+   Average distinct locations per 0.407                     
+   Min distinct locations per twe 0                         
+   Max distinct locations per twe 57                        
+   Stddev distinct locations per  2.850                     
+   Average tweeters per hashtag   2.260                     
+   Min tweeters per hashtag       1                         
+   Max tweeters per hashtag       1841                      
+   Stddev tweeters per hashtag    11.941                    
+   Average distinct tweeters per  1                         
+   Min distinct tweeters per hash 1                         
+   Max distinct tweeters per hash 1                         
+   Stddev distinct tweeters per h 0                         
+   Average tweeters per word      N/A                       
+   Min tweeters per word          N/A                       
+   Max tweeters per word          N/A                       
+   Stddev tweeters per word       N/A                       
+   Average distinct tweeters per  N/A                       
+   Min distinct tweeters per word N/A                       
+   Max distinct tweeters per word N/A                       
+   Stddev distinct tweeters per w N/A                       
+   Average tweeters per location  1.381                     
+   Min tweeters per location      1                         
+   Max tweeters per location      36                        
+   Stddev tweeters per location   1.606                     
+   Average distinct tweeters per  1                         
+   Min distinct tweeters per loca 1                         
+   Max distinct tweeters per loca 1                         
+   Stddev distinct tweeters per l 0                         
+Return to previous page 
+

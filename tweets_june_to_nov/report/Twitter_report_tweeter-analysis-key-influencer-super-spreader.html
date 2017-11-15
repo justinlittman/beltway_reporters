@@ -1,0 +1,3734 @@
+<html><meta charset='utf-8'>
+<head>
+<a name='top'/>
+<title>Analysis of Tweeters - Super Spreaders</title>
+<link rel='stylesheet' type='text/css' href='Twitter_report-style-sheet.css'/>
+<link rel='stylesheet' type='text/css' href = 'https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css'>
+<script type='text/javascript' language='javascript' src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+<script type='text/javascript' language='javascript' src='https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js'></script>
+<script type='text/javascript' language='javascript' src='RankedTables.js'></script>
+<script type='text/javascript' language='javascript' src='Chart.js'></script>
+</head>
+<h1>Analysis of Tweeters - Super Spreaders</h1>
+<blockquote>
+<p>This section finds locations of influence using various metrics. Tweeters with a plus(+) appended to their name are verified. Tweeters with an asterisk(*) appended to their name are known news agencies.</p>
+<p><a href="Twitter_report.html">Return to previous page</a></p>
+<h2>Recurring Top Ranked Agent</h2>
+<blockquote>
+<p>This chart shows the Agent that is repeatedly top-ranked in the node-level measures listed below. The value shown is the percentage of measures for which the Agent node was ranked in the top three. If there are multiple networks, then a measure is computed multiple times and nodes are ranked multiple times for the measure.</p>
+<p>There are 2381 nodes in the nodeset.</p>
+<p><div class='chart'><table><td class='chart-y-axis-title'>Percent of measures</td><td><canvas class='chart-canvas' id='Twitter_report-Twitter_JSON_all-key-influencer-super-spreader-Agent-overall-top-ranked-barchart'></canvas></td></table><script type='text/javascript' src='Twitter_report-Twitter_JSON_all-key-influencer-super-spreader-Agent-overall-top-ranked-barchart.js'></script></div></p>
+</blockquote>
+<h2>Super Spreaders</h2>
+<blockquote>
+<p>Below is a list of the Super Spreaders identified in the report, and the percentage of the measures for which it is in the top three (3).</p>
+<p>Click the name of an agent to view a detailed analysis of its activity.</p>
+<table class='measures-ranked'>
+<col width='50px'/>
+<col width='300px'/>
+<col width='40px'/>
+<col class='multi-even' width='300px'/>
+<col class='multi-even' width='100px'/>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Tweeter Name</th>
+<th>%Measures Ranked Top</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td><a href="Twitter_report_key-influencer-super-spreader-Twitter_JSON_all-14529929.html">jaketapper[+][*]</a></td>
+<td>66.7%</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="Twitter_report_key-influencer-super-spreader-Twitter_JSON_all-407013776.html">burgessev[+]</a></td>
+<td>33.3%</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="Twitter_report_key-influencer-super-spreader-Twitter_JSON_all-22771961.html">Acosta[+]</a></td>
+<td>33.3%</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="Twitter_report_key-influencer-super-spreader-Twitter_JSON_all-259395895.html">JohnJHarwood[+]</a></td>
+<td>33.3%</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="Twitter_report_key-influencer-super-spreader-Twitter_JSON_all-19186003.html">seungminkim[+]</a></td>
+<td>33.3%</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="Twitter_report_key-influencer-super-spreader-Twitter_JSON_all-163995093.html">AlexNBCNews[+][*]</a></td>
+<td>33.3%</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="Twitter_report_key-influencer-super-spreader-Twitter_JSON_all-21612122.html">HotlineJosh[+]</a></td>
+<td>33.3%</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="Twitter_report_key-influencer-super-spreader-Twitter_JSON_all-55394190.html">ASimendinger</a></td>
+<td>33.3%</td>
+</tr>
+</table>
+</blockquote>
+<p><a name="tableOfContents"></a></p>
+<h2>Measure List</h2>
+<blockquote>
+<p><a href="#twitter-totalMentionsDegree">Often Mentioned/Retweeted by Others (out-degree centrality)</a></p>
+<p><a href="#twitter-totalMentionsPageRank">Iteratively Mentioned/Retweeted by Others (page rank centrality)</a></p>
+<p><a href="#twitter-totalMentionsKcore">Often Mentioned/Retweeted by Groups of Others (member of large k-core)</a></p>
+</blockquote>
+<p><a name="twitter-totalMentionsDegree"></a></p>
+<h2>Often Mentioned/Retweeted by Others (out-degree centrality)</h2>
+<blockquote>
+<p>This is Total Degree Centrality computed on the sum of the mentioned-by and retweeted-by networks.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Agent x Agent - Mentioned-By, Agent x Agent - Retweeted-By</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='400px'/>
+<col width='80px'/>
+<col width='80px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='250px'/>
+<col width='400px'/>
+<thead>
+<tr>
+<td>Rank</td>
+<td>Agent</td>
+<td>Value</td>
+<td>Unscaled</td>
+<td>Tweet count</td>
+<td>Average mentions per tweet</td>
+<td>Most common hashtags</td>
+<td>Most common locations</td>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>jaketapper[+][*]</td>
+<td style='color:red'>6.714e-04</td>
+<td style='color:red'>11259</td>
+<td>11953</td>
+<td>0.177529</td>
+<td>TheLead (781)<br>CNNSOTU (345)<br>LasVegasLost (59)<br>BigSlickKC (34)<br>Irma (30)</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>JohnJHarwood[+]</td>
+<td style='color:red'>5.956e-04</td>
+<td style='color:red'>9987</td>
+<td>13942</td>
+<td>0.279013</td>
+<td>Natitude (18)<br>GA06 (17)<br>Charlottesville (15)<br>BREAKING (13)<br>Obamacare (11)</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>HotlineJosh[+]</td>
+<td style='color:red'>4.951e-04</td>
+<td style='color:red'>8302</td>
+<td>18697</td>
+<td>0.209445</td>
+<td>Nats (139)<br>GA06 (86)<br>Irma (80)<br>VAGov (77)<br>ALSen (73)</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:red'>daveweigel[+]</td>
+<td style='color:red'>4.850e-04</td>
+<td style='color:red'>8133</td>
+<td>11007</td>
+<td>0.151994</td>
+<td>ALSen (57)<br>NN17 (34)<br>GA06 (31)<br>VAGov (28)<br>DSAcon17 (21)</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:red'>CahnEmily[+]</td>
+<td style='color:red'>4.842e-04</td>
+<td style='color:red'>8119</td>
+<td>15550</td>
+<td>0.235627</td>
+<td>TheBachelorette (89)<br>GA06 (75)<br>DACA (36)<br>Irma (36)<br>VAGov (35)</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:red'>jmartNYT[+]</td>
+<td style='color:red'>4.549e-04</td>
+<td style='color:red'>7628</td>
+<td>7374</td>
+<td>0.259967</td>
+<td>ALSen (74)<br>VAGov (34)<br>GA06 (32)<br>alpolitics (22)<br>FF (18)</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:red'>seungminkim[+]</td>
+<td style='color:red'>4.371e-04</td>
+<td style='color:red'>7330</td>
+<td>3806</td>
+<td>0.370993</td>
+<td>ALSen (49)<br>DACA (10)<br>nvsen (9)<br>FF (6)<br>Charlottesville (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:red'>BresPolitico</td>
+<td style='color:red'>4.327e-04</td>
+<td style='color:red'>7256</td>
+<td>4938</td>
+<td>0.524099</td>
+<td>Obamacare (20)<br>BREAKING (17)<br>Charlottesville (15)<br>ALSen (14)<br>MOSEN (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:red'>burgessev[+]</td>
+<td style='color:red'>4.141e-04</td>
+<td style='color:red'>6943</td>
+<td>2870</td>
+<td>0.384321</td>
+<td>Obamacare (2)<br>TribFest17 (2)<br>FakeHill50Ledes (2)<br>BCRA (2)<br>MOSEN (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:red'>JaredRizzi[+]</td>
+<td style='color:red'>4.091e-04</td>
+<td style='color:red'>6860</td>
+<td>11235</td>
+<td>0.297285</td>
+<td>Charlottesville (22)<br>ALSen (17)<br>UNGA (14)<br>Harvey (13)<br>Afghanistan (12)</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:red'>mkraju[+]</td>
+<td style='color:red'>4.078e-04</td>
+<td style='color:red'>6838</td>
+<td>2380</td>
+<td>0.332773</td>
+<td>ALSen (12)<br>TheLead (11)<br>GrahamCassidy (9)<br>Cubs (9)<br>insidepolitics (9)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:red'>StevenTDennis[+]</td>
+<td style='color:red'>3.944e-04</td>
+<td style='color:red'>6614</td>
+<td>6111</td>
+<td>0.220749</td>
+<td>Irma (23)<br>Charlottesville (18)<br>Harvey (17)<br>PuertoRico (10)<br>FF (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:red'>Fahrenthold[+]</td>
+<td style='color:red'>3.774e-04</td>
+<td style='color:red'>6329</td>
+<td>6000</td>
+<td>0.304833</td>
+<td>Harvey (51)<br>Irma (17)<br>Trump (15)<br>PuertoRico (11)<br>FOIA (9)</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:red'>JakeSherman[+]</td>
+<td style='color:red'>3.575e-04</td>
+<td style='color:red'>5995</td>
+<td>4362</td>
+<td>0.281293</td>
+<td>PlaybookLoyal (10)<br>BREAKING (3)<br>txlege (3)<br>PlaybookExchange (3)<br>JFKfiles (2)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Gainesville, VA(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Manhattan, NY(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Arlington, VA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Maryland, USA(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:red'>MEPFuller[+]</td>
+<td style='color:red'>3.492e-04</td>
+<td style='color:red'>5856</td>
+<td>4406</td>
+<td>0.207217</td>
+<td>FakeHill50Ledes (5)<br>SolarEclipse2017 (2)<br>Charlottesville (2)<br>GohmertHour (2)<br>GA06 (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:red'>sahilkapur[+]</td>
+<td style='color:red'>3.465e-04</td>
+<td style='color:red'>5811</td>
+<td>5098</td>
+<td>0.16889</td>
+<td>WDYM (9)<br>Irma (8)<br>GA06 (7)<br>TRIHAF (4)<br>Pivot (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:red'>DavidMDrucker[+]</td>
+<td style='color:red'>3.393e-04</td>
+<td style='color:red'>5690</td>
+<td>10710</td>
+<td>0.171522</td>
+<td>ALSen (120)<br>GA06 (84)<br>Obamacare (57)<br>oops (39)<br>Da (35)</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:red'>ericgeller[+]</td>
+<td style='color:red'>3.313e-04</td>
+<td style='color:red'>5555</td>
+<td>20978</td>
+<td>0.122605</td>
+<td>GameOfThrones (15)<br>FF (13)<br>PROSUMMIT (12)<br>FakeNews (10)<br>Intelligence2017 (10)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Bethesda, MD(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:red'>ZekeJMiller[+][*]</td>
+<td style='color:red'>3.197e-04</td>
+<td style='color:red'>5360</td>
+<td>3922</td>
+<td>0.17899</td>
+<td>Charlottesville (4)<br>DPRK (4)<br>BREAKING (4)<br>LVMPDnews (2)<br>USSJohnSMcCain (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:red'>GlennThrush[+]</td>
+<td style='color:red'>3.189e-04</td>
+<td style='color:red'>5348</td>
+<td>1692</td>
+<td>0.166667</td>
+<td>NewProfilePic (2)<br>G20 (2)<br>OTD (1)<br>journalism (1)<br>WhiteHouse (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:red'>Phil_Mattingly[+]</td>
+<td style='color:red'>3.115e-04</td>
+<td style='color:red'>5223</td>
+<td>3420</td>
+<td>0.420468</td>
+<td>BREAKING (12)<br>GoBucks (6)<br>SCOTUS (6)<br>CNNSOTU (6)<br>TheLead (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:red'>BenjySarlin[+]</td>
+<td style='color:red'>3.009e-04</td>
+<td style='color:red'>5046</td>
+<td>4805</td>
+<td>0.185848</td>
+<td>DACA (4)<br>Harvey (3)<br>Irma (2)<br>FF (2)<br>ThisTown (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:red'>dylanlscott[+]</td>
+<td style='color:red'>3.000e-04</td>
+<td style='color:red'>5031</td>
+<td>8067</td>
+<td>0.214454</td>
+<td>Harvey (12)<br>FF (8)<br>analysis (5)<br>BREAKING (4)<br>GrahamCassidy (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:red'>AaronMehta[+]</td>
+<td style='color:red'>2.836e-04</td>
+<td style='color:red'>4756</td>
+<td>7618</td>
+<td>0.229325</td>
+<td>ASC17 (44)<br>DNconf (39)<br>AUSA2017 (26)<br>NorthKorea (21)<br>HooverOTB (19)</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:red'>frankthorp[+]</td>
+<td style='color:red'>2.786e-04</td>
+<td style='color:red'>4671</td>
+<td>2143</td>
+<td>0.211853</td>
+<td>Harvey (18)<br>DACA (17)<br>LasVegas (8)<br>Eclipse (7)<br>tbt (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:red'>mmurraypolitics[+]</td>
+<td style='color:red'>2.782e-04</td>
+<td style='color:red'>4665</td>
+<td>4347</td>
+<td>0.417529</td>
+<td>MTPDaily (18)<br>GA06 (17)<br>VAGov (15)<br>MTP (12)<br>VAGovDebate (8)</td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:red'>ddale8[+]</td>
+<td style='color:red'>2.717e-04</td>
+<td style='color:red'>4556</td>
+<td>6351</td>
+<td>0.118407</td>
+<td>cdnpoli (9)<br>NAFTA (8)<br>PuertoRico (7)<br>Charlottesville (6)<br>BREAKING (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:red'>markknoller[+][*]</td>
+<td style='color:red'>2.684e-04</td>
+<td style='color:red'>4500</td>
+<td>5270</td>
+<td>0.0335863</td>
+<td>Israel (1)<br>Comey (1)<br>s (1)<br>Trump (1)<br>BREAKING (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:red'>pkcapitol[+]</td>
+<td style='color:red'>2.440e-04</td>
+<td style='color:red'>4092</td>
+<td>2047</td>
+<td>0.559844</td>
+<td>FlyEaglesFly (10)<br>FlyEagelsFly (5)<br>GA06 (4)<br>CongressionalBaseballGame (4)<br>Obamacare (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td style='color:red'>edatpost[+]</td>
+<td style='color:red'>2.431e-04</td>
+<td style='color:red'>4077</td>
+<td>2947</td>
+<td>0.360706</td>
+<td>ComeyHearing (45)<br>PuertoRico (23)<br>DACA (21)<br>Harvey (19)<br>HealthcareBill (10)</td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td style='color:red'>jbendery[+]</td>
+<td style='color:red'>2.431e-04</td>
+<td style='color:red'>4076</td>
+<td>6570</td>
+<td>0.179909</td>
+<td>Charlottesville (12)<br>PuertoRico (12)<br>FF (10)<br>ParisAccord (5)<br>SolarEclipse2017 (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td style='color:red'>ryanbeckwith[+]</td>
+<td style='color:red'>2.347e-04</td>
+<td style='color:red'>3936</td>
+<td>10360</td>
+<td>0.175579</td>
+<td>Charlottesville (17)<br>GA06 (10)<br>journalism (8)<br>metoo (8)<br>Harvey (8)</td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td style='color:red'>nielslesniewski[+]</td>
+<td style='color:red'>2.303e-04</td>
+<td style='color:red'>3861</td>
+<td>3579</td>
+<td>0.273261</td>
+<td>Harvey (18)<br>ALSen (11)<br>Senate (10)<br>jetfumes (10)<br>Irma (8)</td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td style='color:red'>chrisgeidner[+]</td>
+<td style='color:red'>2.298e-04</td>
+<td style='color:red'>3853</td>
+<td>11057</td>
+<td>0.108709</td>
+<td>SCOTUS (276)<br>TravelBan (86)<br>tonyawards (28)<br>FOIA (12)<br>tbt (10)</td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td style='color:red'>scottwongDC[+]</td>
+<td style='color:red'>2.289e-04</td>
+<td style='color:red'>3838</td>
+<td>4562</td>
+<td>0.313897</td>
+<td>Charlottesville (42)<br>BREAKING (39)<br>NBAFinals (17)<br>GA06 (15)<br>DubNation (14)</td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
+<td style='color:red'>jonathanvswan[+]</td>
+<td style='color:red'>2.266e-04</td>
+<td style='color:red'>3800</td>
+<td>4077</td>
+<td>0.284523</td>
+<td>axiosam (46)<br>axiossneakpeek (15)<br>FF (7)<br>axios360 (6)<br>axiosvitals (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
+<td style='color:red'>LeeCamp[+]</td>
+<td style='color:red'>2.247e-04</td>
+<td style='color:red'>3768</td>
+<td>8374</td>
+<td>0.285885</td>
+<td>RedactedTonight (63)<br>Trump (63)<br>Yemen (56)<br>climatechange (47)<br>healthcare (43)</td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td style='color:red'>peterbakernyt[+][*]</td>
+<td style='color:red'>2.243e-04</td>
+<td style='color:red'>3761</td>
+<td>1683</td>
+<td>0.330362</td>
+<td>frontlinePBS (25)<br>Timestalks (3)<br>11MSNBC (3)<br>GlobalPOLITICO (2)<br>JeremyNoTwitterBash (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td style='color:red'>margbrennan[+]</td>
+<td style='color:red'>2.228e-04</td>
+<td style='color:red'>3736</td>
+<td>5839</td>
+<td>0.285494</td>
+<td>IranDeal (47)<br>Charlottesville (43)<br>US (41)<br>Syria (41)<br>Iran (40)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Manhattan, NY(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>40</td>
+<td style='color:red'>POLITICO_Steve[+]</td>
+<td style='color:red'>2.139e-04</td>
+<td style='color:red'>3587</td>
+<td>6684</td>
+<td>0.198235</td>
+<td>Irma (178)<br>Harvey (91)<br>Maria (90)<br>VAGov (49)<br>ALSen (44)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Del Monte Forest, CA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>California, USA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>San Francisco, CA(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>41</td>
+<td style='color:red'>Acosta[+]</td>
+<td style='color:red'>2.070e-04</td>
+<td style='color:red'>3471</td>
+<td>1284</td>
+<td>0.232866</td>
+<td>wherearethetapes (6)<br>CNN (4)<br>4thofjulyweekend (3)<br>G20 (3)<br>EIJ17 (2)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Paradise, NV(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>42</td>
+<td style='color:red'>NeilWMcCabe</td>
+<td style='color:red'>2.056e-04</td>
+<td style='color:red'>3448</td>
+<td>19708</td>
+<td>0.135579</td>
+<td>USArmyReserve (138)<br>maga (114)<br>FakeNews (97)<br>mapoli (84)<br>masen (69)</td>
+<td></td>
+</tr>
+<tr>
+<td>43</td>
+<td style='color:red'>kasie[+]</td>
+<td style='color:red'>2.050e-04</td>
+<td style='color:red'>3437</td>
+<td>1436</td>
+<td>0.369081</td>
+<td>KasieDC (11)<br>KCDC (10)<br>FF (5)<br>healthcare (5)<br>MTP (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>44</td>
+<td style='color:red'>ericawerner[+]</td>
+<td style='color:red'>2.047e-04</td>
+<td style='color:red'>3432</td>
+<td>1012</td>
+<td>0.272727</td>
+<td>WashWeek (2)<br>Russia (1)<br>PressPool (1)<br>Iran (1)<br>DC (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>45</td>
+<td style='color:red'>brianbeutler[+]</td>
+<td style='color:red'>1.985e-04</td>
+<td style='color:red'>3328</td>
+<td>10161</td>
+<td>0.147623</td>
+<td>cnftweet (8)<br>actually (8)<br>bothsides (5)<br>Charlottesville (4)<br>maga (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>46</td>
+<td style='color:red'>RichardRubinDC[+]</td>
+<td style='color:red'>1.955e-04</td>
+<td style='color:red'>3278</td>
+<td>3382</td>
+<td>0.275281</td>
+<td>TRIH (64)<br>DBCFT (33)<br>taxreform (4)<br>duckrabbit (3)<br>parlsincharge (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>47</td>
+<td style='color:red'>ChadPergram[+]</td>
+<td style='color:red'>1.938e-04</td>
+<td style='color:red'>3250</td>
+<td>6270</td>
+<td>0</td>
+<td>BREAKING (101)<br>AlexandriaShooting (58)<br>HealthcareBill (52)<br>shooting (37)<br>LasVegas (26)</td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td style='color:red'>samstein[+]</td>
+<td style='color:red'>1.932e-04</td>
+<td style='color:red'>3239</td>
+<td>2504</td>
+<td>0.146965</td>
+<td>CandidateConfessional (9)<br>Redsox (2)<br>SCOTUS (1)<br>tbt (1)<br>TXSEN (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>49</td>
+<td style='color:red'>Hadas_Gold[+]</td>
+<td style='color:red'>1.923e-04</td>
+<td style='color:red'>3224</td>
+<td>2745</td>
+<td>0.239344</td>
+<td>BREAKING (8)<br>Btw17 (3)<br>npcbee (3)<br>Trump (3)<br>mtpol (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td style='color:red'>EricLiptonNYT[+][*]</td>
+<td style='color:red'>1.908e-04</td>
+<td style='color:red'>3200</td>
+<td>3738</td>
+<td>0.277421</td>
+<td>Irma (21)<br>Harvey (19)<br>Houston (8)<br>HurricaneIrma (5)<br>frontlinePBS (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>51</td>
+<td style='color:red'>TenaciousTopper[+]</td>
+<td style='color:red'>1.908e-04</td>
+<td style='color:red'>3200</td>
+<td>1940</td>
+<td>0.831443</td>
+<td>OnThisDay (118)<br>funweatherfact (59)<br>weatherfact (58)<br>3dayoutlook (54)<br>weekend (24)</td>
+<td></td>
+</tr>
+<tr>
+<td>52</td>
+<td style='color:red'>jimsciutto[+]</td>
+<td style='color:red'>1.899e-04</td>
+<td style='color:red'>3184</td>
+<td>2285</td>
+<td>0.0910284</td>
+<td>NorthKorea (79)<br>Russia (65)<br>AspenSecurity (27)<br>RussianConnection (25)<br>ISIS (19)</td>
+<td></td>
+</tr>
+<tr>
+<td>53</td>
+<td style='color:red'>igorbobic[+]</td>
+<td style='color:red'>1.849e-04</td>
+<td style='color:red'>3100</td>
+<td>3938</td>
+<td>0.253936</td>
+<td>ALSen (7)<br>BREAKING (6)<br>Charlottesville (5)<br>GOT (5)<br>nvsen (4)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Del Mar, CA(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>54</td>
+<td style='color:red'>RebeccaShabad[+][*]</td>
+<td style='color:red'>1.843e-04</td>
+<td style='color:red'>3090</td>
+<td>5274</td>
+<td>0.266591</td>
+<td>Harvey (57)<br>Houston (32)<br>Charlottesville (31)<br>Irma (27)<br>BREAKING (17)</td>
+<td></td>
+</tr>
+<tr>
+<td>55</td>
+<td style='color:red'>hbwx[+]</td>
+<td style='color:red'>1.827e-04</td>
+<td style='color:red'>3064</td>
+<td>3861</td>
+<td>0.419062</td>
+<td>Irma (60)<br>DCA (39)<br>DCwx (35)<br>climate (33)<br>Harvey (27)</td>
+<td></td>
+</tr>
+<tr>
+<td>56</td>
+<td style='color:red'>connorobrienNH[+]</td>
+<td style='color:red'>1.787e-04</td>
+<td style='color:red'>2997</td>
+<td>3294</td>
+<td>0.273224</td>
+<td>FY18NDAA (495)<br>DNconf (11)<br>ForeverGIBill (7)<br>SecDef (6)<br>BREAKING (4)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Boston, MA(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Potomac, MD(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>57</td>
+<td style='color:red'>SamLitzinger</td>
+<td style='color:red'>1.781e-04</td>
+<td style='color:red'>2987</td>
+<td>18347</td>
+<td>0.0931487</td>
+<td>adopt (714)<br>dog (577)<br>AdoptDontShop (451)<br>cat (362)<br>pets (273)</td>
+<td></td>
+</tr>
+<tr>
+<td>58</td>
+<td style='color:red'>JonathanLanday[+]</td>
+<td style='color:red'>1.780e-04</td>
+<td style='color:red'>2985</td>
+<td>11186</td>
+<td>0.13946</td>
+<td>Iran (92)<br>Russia (89)<br>Syria (80)<br>Trump (73)<br>BREAKING (70)</td>
+<td></td>
+</tr>
+<tr>
+<td>59</td>
+<td style='color:red'>davidshepardson[+]</td>
+<td style='color:red'>1.753e-04</td>
+<td style='color:red'>2940</td>
+<td>5709</td>
+<td>0.231915</td>
+<td>Harvey (24)<br>DACA (10)<br>Charlottesville (10)<br>BREAKING (10)<br>PuertoRico (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>60</td>
+<td style='color:red'>OKnox[+]</td>
+<td style='color:red'>1.726e-04</td>
+<td style='color:red'>2894</td>
+<td>4841</td>
+<td>0.191283</td>
+<td>BREAKING (30)<br>Harvey (19)<br>UPDATE (14)<br>NorthKorea (9)<br>FF (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>61</td>
+<td style='color:red'>jrovner[+]</td>
+<td style='color:red'>1.719e-04</td>
+<td style='color:red'>2883</td>
+<td>3801</td>
+<td>0.274665</td>
+<td>GrahamCassidy (31)<br>GoBlue (16)<br>helphearing (15)<br>WTHealth (12)<br>ACA (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>62</td>
+<td style='color:red'>kenvogel[+]</td>
+<td style='color:red'>1.704e-04</td>
+<td style='color:red'>2858</td>
+<td>1678</td>
+<td>0.164482</td>
+<td>Charlottesville (11)<br>CampaignFinanceTweetOfTheWeek (7)<br>FakeNews (6)<br>GlensShaw (6)<br>FlyEaglesFly (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>63</td>
+<td style='color:red'>ValerieInsinna[+]</td>
+<td style='color:red'>1.701e-04</td>
+<td style='color:red'>2853</td>
+<td>3572</td>
+<td>0.345745</td>
+<td>DNconf (43)<br>ASC17 (39)<br>PAS17 (38)<br>avgeek (15)<br>FY18NDAA (15)</td>
+<td></td>
+</tr>
+<tr>
+<td>64</td>
+<td style='color:red'>rachaelmbade[+]</td>
+<td style='color:red'>1.682e-04</td>
+<td style='color:red'>2820</td>
+<td>1565</td>
+<td>0.368051</td>
+<td>s (3)<br>insidepolitics (2)<br>taxreform (1)<br>MTAL (1)<br>BREAKING (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>65</td>
+<td style='color:red'>DonnaYoungDC</td>
+<td style='color:red'>1.650e-04</td>
+<td style='color:red'>2766</td>
+<td>11790</td>
+<td>0.119338</td>
+<td>pharma (1841)<br>Obamacare (1449)<br>FDA (1085)<br>ACA (1037)<br>Trumpcare (956)</td>
+<td></td>
+</tr>
+<tr>
+<td>66</td>
+<td style='color:red'>jenhab[+]</td>
+<td style='color:red'>1.638e-04</td>
+<td style='color:red'>2747</td>
+<td>1090</td>
+<td>0.677982</td>
+<td>Obamacare (12)<br>BREAKING (4)<br>ACA (3)<br>PROSUMMIT (2)<br>GrahamCassidy (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>67</td>
+<td style='color:red'>JeffYoung[+]</td>
+<td style='color:red'>1.627e-04</td>
+<td style='color:red'>2729</td>
+<td>3554</td>
+<td>0.336241</td>
+<td>ACA (6)<br>BCRA (6)<br>Obamacare (5)<br>FF (4)<br>PresidentSupervillain (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>68</td>
+<td style='color:red'>KateNocera[+]</td>
+<td style='color:red'>1.604e-04</td>
+<td style='color:red'>2689</td>
+<td>2692</td>
+<td>0.417905</td>
+<td>GA06 (11)<br>am2dm (10)<br>SCOTUS (10)<br>ALSen (8)<br>TravelBan (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>69</td>
+<td style='color:red'>joshledermanAP[+]</td>
+<td style='color:red'>1.602e-04</td>
+<td style='color:red'>2687</td>
+<td>1699</td>
+<td>0.206004</td>
+<td>Cuba (63)<br>Qatar (35)<br>NorthKorea (35)<br>Iran (27)<br>Syria (20)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Wyoming, USA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Montana, USA(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>70</td>
+<td style='color:red'>joshgerstein[+]</td>
+<td style='color:red'>1.579e-04</td>
+<td style='color:red'>2648</td>
+<td>3342</td>
+<td>0.253142</td>
+<td>SCOTUS (79)<br>TravelBan (60)<br>FOIA (52)<br>DACA (34)<br>Benghazi (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>71</td>
+<td style='color:red'>PoliticoKevin[+]</td>
+<td style='color:red'>1.568e-04</td>
+<td style='color:red'>2629</td>
+<td>2633</td>
+<td>0.339916</td>
+<td>VAGov (120)<br>ALSen (61)<br>tnsen (20)<br>azsen (19)<br>MOSEN (17)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Hempfield, PA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>North Beach Haven, NJ(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>72</td>
+<td style='color:red'>BretBaier[+][*]</td>
+<td style='color:red'>1.564e-04</td>
+<td style='color:red'>2622</td>
+<td>4466</td>
+<td>0.215853</td>
+<td>SpecialReport (126)<br>BREAKING (37)<br>Irma (32)<br>Trump (22)<br>Harvey (17)</td>
+<td></td>
+</tr>
+<tr>
+<td>73</td>
+<td style='color:red'>heatherscope[+]</td>
+<td style='color:red'>1.563e-04</td>
+<td style='color:red'>2621</td>
+<td>1574</td>
+<td>0.647395</td>
+<td>ALSen (4)<br>CongressionalBaseballGame (3)<br>DACA (2)<br>BREAKING (2)<br>GA06 (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>74</td>
+<td style='color:red'>reporterjoe[+]</td>
+<td style='color:red'>1.517e-04</td>
+<td style='color:red'>2543</td>
+<td>2217</td>
+<td>0.474515</td>
+<td>FY18NDAA (106)<br>DNconf (7)<br>FF (6)<br>SecDef (6)<br>AUSA2017 (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>75</td>
+<td style='color:red'>rlocker12[+]</td>
+<td style='color:red'>1.508e-04</td>
+<td style='color:red'>2529</td>
+<td>6419</td>
+<td>0.212027</td>
+<td>HMpilgrimage2017 (36)<br>JFKfiles (14)<br>EO9066 (12)<br>WWII (11)<br>SCOTUS (10)</td>
+<td></td>
+</tr>
+<tr>
+<td>76</td>
+<td style='color:red'>TeddyDavisCNN</td>
+<td style='color:red'>1.505e-04</td>
+<td style='color:red'>2523</td>
+<td>2942</td>
+<td>0.411965</td>
+<td>CNNSOTU (377)<br>SCOTUS (17)<br>Charlottesville (17)<br>CNNDebateNIght (11)<br>TheLead (10)</td>
+<td></td>
+</tr>
+<tr>
+<td>77</td>
+<td style='color:red'>rickklein[+][*]</td>
+<td style='color:red'>1.477e-04</td>
+<td style='color:red'>2477</td>
+<td>2626</td>
+<td>0.375857</td>
+<td>PowerhousePolitics (47)<br>ThisWeek (39)<br>GA06 (16)<br>Harvey (8)<br>Trump (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>78</td>
+<td style='color:red'>KevinBogardus</td>
+<td style='color:red'>1.465e-04</td>
+<td style='color:red'>2457</td>
+<td>1641</td>
+<td>0.738574</td>
+<td>EPA (64)<br>FOIA4eva (39)<br>FOIA (36)<br>ParisAgreement (23)<br>cleanPowerPlan (20)</td>
+<td></td>
+</tr>
+<tr>
+<td>79</td>
+<td style='color:red'>jameshohmann[+]</td>
+<td style='color:red'>1.456e-04</td>
+<td style='color:red'>2442</td>
+<td>2454</td>
+<td>0.471068</td>
+<td>Trump (30)<br>Russia (16)<br>Daily202 (10)<br>VAGov (10)<br>DACA (8)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(3)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>New Jersey, USA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Minneapolis, MN(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Falcon Heights, MN(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>80</td>
+<td style='color:red'>IsaacDovere[+]</td>
+<td style='color:red'>1.455e-04</td>
+<td style='color:red'>2440</td>
+<td>3213</td>
+<td>0.196701</td>
+<td>OffMessage (21)<br>Detroit (2)<br>PressPool (2)<br>s (2)<br>Trump (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>81</td>
+<td style='color:red'>mikememoli[+]</td>
+<td style='color:red'>1.404e-04</td>
+<td style='color:red'>2355</td>
+<td>1643</td>
+<td>0.377358</td>
+<td>fitn (8)<br>Charlottesville (5)<br>ACA (3)<br>SolarEclipse2017 (2)<br>Harvey (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>82</td>
+<td style='color:red'>sdonnan[+][*]</td>
+<td style='color:red'>1.401e-04</td>
+<td style='color:red'>2349</td>
+<td>11426</td>
+<td>0.0981971</td>
+<td>NAFTA (433)<br>trade (93)<br>TPP (55)<br>Brexit (46)<br>China (38)</td>
+<td></td>
+</tr>
+<tr>
+<td>83</td>
+<td style='color:red'>AshleyRParker[+]</td>
+<td style='color:red'>1.400e-04</td>
+<td style='color:red'>2347</td>
+<td>727</td>
+<td>0.264099</td>
+<td>ParkerFamilyVacation (2)<br>WashWeek (2)<br>CNNSOTU (2)<br>truth (2)<br>psa (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>84</td>
+<td style='color:red'>mikedebonis[+]</td>
+<td style='color:red'>1.381e-04</td>
+<td style='color:red'>2316</td>
+<td>1541</td>
+<td>0.309539</td>
+<td>GrahamCassidy (9)<br>Charlottesville (5)<br>DACA (4)<br>taxreform (3)<br>BCRA (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>85</td>
+<td style='color:red'>Oriana0214[+]</td>
+<td style='color:red'>1.351e-04</td>
+<td style='color:red'>2265</td>
+<td>4557</td>
+<td>0.195962</td>
+<td>ASC17 (74)<br>GameOfThrones (30)<br>BREAKING (29)<br>SecDef (21)<br>NorthKorea (16)</td>
+<td></td>
+</tr>
+<tr>
+<td>86</td>
+<td style='color:red'>mitchellreports[+]</td>
+<td style='color:red'>1.348e-04</td>
+<td style='color:red'>2261</td>
+<td>3490</td>
+<td>0.255014</td>
+<td>AMR (535)<br>MTP (38)<br>Comey (32)<br>NorthKorea (16)<br>AspenSecurity (15)</td>
+<td></td>
+</tr>
+<tr>
+<td>87</td>
+<td style='color:red'>KatherineBScott</td>
+<td style='color:red'>1.346e-04</td>
+<td style='color:red'>2257</td>
+<td>3796</td>
+<td>0.278978</td>
+<td>taxreform (14)<br>FY18NDAA (11)<br>climatechange (10)<br>OTD (8)<br>Trumpcare (8)</td>
+<td></td>
+</tr>
+<tr>
+<td>88</td>
+<td style='color:red'>tamarakeithNPR[+]</td>
+<td style='color:red'>1.346e-04</td>
+<td style='color:red'>2257</td>
+<td>2200</td>
+<td>0.463636</td>
+<td>wemakeNPR (17)<br>WomenofNPR (8)<br>Charlottesville (7)<br>Harvey (6)<br>WeMakeNPRTogether (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>89</td>
+<td style='color:red'>vplus[+]</td>
+<td style='color:red'>1.343e-04</td>
+<td style='color:red'>2252</td>
+<td>4469</td>
+<td>0.248154</td>
+<td>Irma (29)<br>twinpeaks (10)<br>eclipse2017 (7)<br>TwinPeaks2017 (4)<br>Eclipse (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>90</td>
+<td style='color:red'>Jordanfabian[+]</td>
+<td style='color:red'>1.328e-04</td>
+<td style='color:red'>2227</td>
+<td>1623</td>
+<td>0.349969</td>
+<td>BREAKING (5)<br>SolarEclipse2017 (3)<br>UNGA (3)<br>Trump (3)<br>vegasshooting (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>91</td>
+<td style='color:red'>ZoeTillman[+]</td>
+<td style='color:red'>1.313e-04</td>
+<td style='color:red'>2202</td>
+<td>2027</td>
+<td>0.148495</td>
+<td>SCOTUS (67)<br>FOIA (22)<br>DACA (13)<br>am2dm (10)<br>TravelBan (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>92</td>
+<td style='color:red'>jeremyherb[+]</td>
+<td style='color:red'>1.313e-04</td>
+<td style='color:red'>2201</td>
+<td>1344</td>
+<td>0.427083</td>
+<td>FY18NDAA (65)<br>FF (6)<br>barcelona (2)<br>Qatar (2)<br>GoGiants (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>93</td>
+<td style='color:red'>colinwilhelm[+]</td>
+<td style='color:red'>1.312e-04</td>
+<td style='color:red'>2200</td>
+<td>3586</td>
+<td>0.29894</td>
+<td>fintech (17)<br>PuertoRico (16)<br>TRIH (14)<br>PROSUMMIT (12)<br>Nats (10)</td>
+<td></td>
+</tr>
+<tr>
+<td>94</td>
+<td style='color:red'>kelmej[+]</td>
+<td style='color:red'>1.307e-04</td>
+<td style='color:red'>2191</td>
+<td>5093</td>
+<td>0.168467</td>
+<td>FY18 (54)<br>POTUS (41)<br>ACA (21)<br>FY18NDAA (12)<br>Harvey (8)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Virginia, USA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Phoenix, AZ(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Arlington, VA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>95</td>
+<td style='color:red'>DonnaCassataAP</td>
+<td style='color:red'>1.300e-04</td>
+<td style='color:red'>2180</td>
+<td>3597</td>
+<td>0.278287</td>
+<td>US (15)<br>Cuba (10)<br>PuertoRico (9)<br>Yankees (9)<br>Trump (9)</td>
+<td></td>
+</tr>
+<tr>
+<td>96</td>
+<td style='color:red'>aseitzwald[+]</td>
+<td style='color:red'>1.267e-04</td>
+<td style='color:red'>2124</td>
+<td>2050</td>
+<td>0.274146</td>
+<td>ALSen (18)<br>GA06 (16)<br>VAGov (11)<br>SC05 (3)<br>MI11 (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>97</td>
+<td style='color:red'>lindsaywise</td>
+<td style='color:red'>1.249e-04</td>
+<td style='color:red'>2095</td>
+<td>3408</td>
+<td>0.281103</td>
+<td>ksleg (290)<br>MOLeg (144)<br>MOSEN (69)<br>Harvey (26)<br>HurricaneIrma (15)</td>
+<td></td>
+</tr>
+<tr>
+<td>98</td>
+<td style='color:red'>ShaneGoldmacher[+]</td>
+<td style='color:red'>1.239e-04</td>
+<td style='color:red'>2078</td>
+<td>2393</td>
+<td>0.216047</td>
+<td>VAGov (5)<br>BREAKING (4)<br>Charlottesville (3)<br>GA06 (3)<br>ALSen (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>99</td>
+<td style='color:red'>eyokley[+]</td>
+<td style='color:red'>1.229e-04</td>
+<td style='color:red'>2061</td>
+<td>3044</td>
+<td>0.295335</td>
+<td>MOSEN (94)<br>ALSen (50)<br>MOLeg (43)<br>azsen (40)<br>WVSen (22)</td>
+<td></td>
+</tr>
+<tr>
+<td>100</td>
+<td style='color:red'>VickoftheHill</td>
+<td style='color:red'>1.227e-04</td>
+<td style='color:red'>2058</td>
+<td>3972</td>
+<td>0.278701</td>
+<td>NAFTA (43)<br>BREAKING (32)<br>DACA (9)<br>Trump (9)<br>DefendDACA (5)</td>
+<td></td>
+</tr>
+
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Scaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>2.594e-05</td>
+<td>Lower quartile:</td>
+<td>1.342e-06</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>6.714e-04</td>
+<td>Std.dev:</td>
+<td>5.449e-05</td>
+<td>Median:</td>
+<td>6.560e-06</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>2.496e-05</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<p><a name="twitter-totalMentionsPageRank"></a></p>
+<h2>Iteratively Mentioned/Retweeted by Others (page rank centrality)</h2>
+<blockquote>
+<p>This is Page Rank Centrality computed on the sum of the mentioned-by and retweeted-by networks.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Agent x Agent - Mentioned-By, Agent x Agent - Retweeted-By</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='400px'/>
+<col width='80px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='250px'/>
+<col width='400px'/>
+<thead>
+<tr>
+<td>Rank</td>
+<td>Agent</td>
+<td>Value</td>
+<td>Tweet count</td>
+<td>Average mentions per tweet</td>
+<td>Most common hashtags</td>
+<td>Most common locations</td>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>jaketapper[+][*]</td>
+<td style='color:red'>0.011</td>
+<td>11953</td>
+<td>0.177529</td>
+<td>TheLead (781)<br>CNNSOTU (345)<br>LasVegasLost (59)<br>BigSlickKC (34)<br>Irma (30)</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>burgessev[+]</td>
+<td style='color:red'>0.010</td>
+<td>2870</td>
+<td>0.384321</td>
+<td>Obamacare (2)<br>TribFest17 (2)<br>FakeHill50Ledes (2)<br>BCRA (2)<br>MOSEN (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>seungminkim[+]</td>
+<td style='color:red'>0.010</td>
+<td>3806</td>
+<td>0.370993</td>
+<td>ALSen (49)<br>DACA (10)<br>nvsen (9)<br>FF (6)<br>Charlottesville (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:red'>mkraju[+]</td>
+<td style='color:red'>0.009</td>
+<td>2380</td>
+<td>0.332773</td>
+<td>ALSen (12)<br>TheLead (11)<br>GrahamCassidy (9)<br>Cubs (9)<br>insidepolitics (9)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:red'>jmartNYT[+]</td>
+<td style='color:red'>0.008</td>
+<td>7374</td>
+<td>0.259967</td>
+<td>ALSen (74)<br>VAGov (34)<br>GA06 (32)<br>alpolitics (22)<br>FF (18)</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:red'>frankthorp[+]</td>
+<td style='color:red'>0.008</td>
+<td>2143</td>
+<td>0.211853</td>
+<td>Harvey (18)<br>DACA (17)<br>LasVegas (8)<br>Eclipse (7)<br>tbt (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:red'>GlennThrush[+]</td>
+<td style='color:red'>0.008</td>
+<td>1692</td>
+<td>0.166667</td>
+<td>NewProfilePic (2)<br>G20 (2)<br>OTD (1)<br>journalism (1)<br>WhiteHouse (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:red'>JakeSherman[+]</td>
+<td style='color:red'>0.007</td>
+<td>4362</td>
+<td>0.281293</td>
+<td>PlaybookLoyal (10)<br>BREAKING (3)<br>txlege (3)<br>PlaybookExchange (3)<br>JFKfiles (2)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Gainesville, VA(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Manhattan, NY(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Arlington, VA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Maryland, USA(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:red'>Phil_Mattingly[+]</td>
+<td style='color:red'>0.007</td>
+<td>3420</td>
+<td>0.420468</td>
+<td>BREAKING (12)<br>GoBucks (6)<br>SCOTUS (6)<br>CNNSOTU (6)<br>TheLead (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:red'>peterbakernyt[+][*]</td>
+<td style='color:red'>0.007</td>
+<td>1683</td>
+<td>0.330362</td>
+<td>frontlinePBS (25)<br>Timestalks (3)<br>11MSNBC (3)<br>GlobalPOLITICO (2)<br>JeremyNoTwitterBash (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:red'>daveweigel[+]</td>
+<td style='color:red'>0.007</td>
+<td>11007</td>
+<td>0.151994</td>
+<td>ALSen (57)<br>NN17 (34)<br>GA06 (31)<br>VAGov (28)<br>DSAcon17 (21)</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:red'>BresPolitico</td>
+<td style='color:red'>0.006</td>
+<td>4938</td>
+<td>0.524099</td>
+<td>Obamacare (20)<br>BREAKING (17)<br>Charlottesville (15)<br>ALSen (14)<br>MOSEN (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:red'>markknoller[+][*]</td>
+<td style='color:red'>0.006</td>
+<td>5270</td>
+<td>0.0335863</td>
+<td>Israel (1)<br>Comey (1)<br>s (1)<br>Trump (1)<br>BREAKING (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:red'>pkcapitol[+]</td>
+<td style='color:red'>0.006</td>
+<td>2047</td>
+<td>0.559844</td>
+<td>FlyEaglesFly (10)<br>FlyEagelsFly (5)<br>GA06 (4)<br>CongressionalBaseballGame (4)<br>Obamacare (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:red'>MEPFuller[+]</td>
+<td style='color:red'>0.006</td>
+<td>4406</td>
+<td>0.207217</td>
+<td>FakeHill50Ledes (5)<br>SolarEclipse2017 (2)<br>Charlottesville (2)<br>GohmertHour (2)<br>GA06 (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:red'>ericawerner[+]</td>
+<td style='color:red'>0.005</td>
+<td>1012</td>
+<td>0.272727</td>
+<td>WashWeek (2)<br>Russia (1)<br>PressPool (1)<br>Iran (1)<br>DC (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:red'>sahilkapur[+]</td>
+<td style='color:red'>0.005</td>
+<td>5098</td>
+<td>0.16889</td>
+<td>WDYM (9)<br>Irma (8)<br>GA06 (7)<br>TRIHAF (4)<br>Pivot (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:red'>StevenTDennis[+]</td>
+<td style='color:red'>0.005</td>
+<td>6111</td>
+<td>0.220749</td>
+<td>Irma (23)<br>Charlottesville (18)<br>Harvey (17)<br>PuertoRico (10)<br>FF (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:red'>ZekeJMiller[+][*]</td>
+<td style='color:red'>0.005</td>
+<td>3922</td>
+<td>0.17899</td>
+<td>Charlottesville (4)<br>DPRK (4)<br>BREAKING (4)<br>LVMPDnews (2)<br>USSJohnSMcCain (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:red'>kasie[+]</td>
+<td style='color:red'>0.005</td>
+<td>1436</td>
+<td>0.369081</td>
+<td>KasieDC (11)<br>KCDC (10)<br>FF (5)<br>healthcare (5)<br>MTP (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:red'>Acosta[+]</td>
+<td style='color:red'>0.005</td>
+<td>1284</td>
+<td>0.232866</td>
+<td>wherearethetapes (6)<br>CNN (4)<br>4thofjulyweekend (3)<br>G20 (3)<br>EIJ17 (2)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Paradise, NV(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:red'>AshleyRParker[+]</td>
+<td style='color:red'>0.005</td>
+<td>727</td>
+<td>0.264099</td>
+<td>ParkerFamilyVacation (2)<br>WashWeek (2)<br>CNNSOTU (2)<br>truth (2)<br>psa (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:red'>edatpost[+]</td>
+<td style='color:red'>0.005</td>
+<td>2947</td>
+<td>0.360706</td>
+<td>ComeyHearing (45)<br>PuertoRico (23)<br>DACA (21)<br>Harvey (19)<br>HealthcareBill (10)</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:red'>kenvogel[+]</td>
+<td style='color:red'>0.004</td>
+<td>1678</td>
+<td>0.164482</td>
+<td>Charlottesville (11)<br>CampaignFinanceTweetOfTheWeek (7)<br>FakeNews (6)<br>GlensShaw (6)<br>FlyEaglesFly (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:red'>Fahrenthold[+]</td>
+<td style='color:red'>0.004</td>
+<td>6000</td>
+<td>0.304833</td>
+<td>Harvey (51)<br>Irma (17)<br>Trump (15)<br>PuertoRico (11)<br>FOIA (9)</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:red'>BenjySarlin[+]</td>
+<td style='color:red'>0.004</td>
+<td>4805</td>
+<td>0.185848</td>
+<td>DACA (4)<br>Harvey (3)<br>Irma (2)<br>FF (2)<br>ThisTown (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:red'>dylanlscott[+]</td>
+<td style='color:red'>0.004</td>
+<td>8067</td>
+<td>0.214454</td>
+<td>Harvey (12)<br>FF (8)<br>analysis (5)<br>BREAKING (4)<br>GrahamCassidy (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:red'>adamgoldmanNYT[+]</td>
+<td style='color:red'>0.004</td>
+<td>1479</td>
+<td>0.2238</td>
+<td>Charlottesville (3)<br>s (2)<br>Irma (2)<br>book (2)<br>SecDef (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:red'>joshledermanAP[+]</td>
+<td style='color:red'>0.004</td>
+<td>1699</td>
+<td>0.206004</td>
+<td>Cuba (63)<br>Qatar (35)<br>NorthKorea (35)<br>Iran (27)<br>Syria (20)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Wyoming, USA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Montana, USA(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>30</td>
+<td style='color:red'>rachaelmbade[+]</td>
+<td style='color:red'>0.004</td>
+<td>1565</td>
+<td>0.368051</td>
+<td>s (3)<br>insidepolitics (2)<br>taxreform (1)<br>MTAL (1)<br>BREAKING (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td style='color:red'>RichardRubinDC[+]</td>
+<td style='color:red'>0.004</td>
+<td>3382</td>
+<td>0.275281</td>
+<td>TRIH (64)<br>DBCFT (33)<br>taxreform (4)<br>duckrabbit (3)<br>parlsincharge (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td style='color:red'>jenhab[+]</td>
+<td style='color:red'>0.004</td>
+<td>1090</td>
+<td>0.677982</td>
+<td>Obamacare (12)<br>BREAKING (4)<br>ACA (3)<br>PROSUMMIT (2)<br>GrahamCassidy (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td style='color:red'>jeffzeleny[+]</td>
+<td style='color:red'>0.004</td>
+<td>612</td>
+<td>0.227124</td>
+<td>TheLead (2)<br>eclipse2017 (2)<br>Irma (2)<br>DPRK (1)<br>WhiteHouse (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td style='color:red'>jimsciutto[+]</td>
+<td style='color:red'>0.003</td>
+<td>2285</td>
+<td>0.0910284</td>
+<td>NorthKorea (79)<br>Russia (65)<br>AspenSecurity (27)<br>RussianConnection (25)<br>ISIS (19)</td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td style='color:red'>ChadPergram[+]</td>
+<td style='color:red'>0.003</td>
+<td>6270</td>
+<td>0</td>
+<td>BREAKING (101)<br>AlexandriaShooting (58)<br>HealthcareBill (52)<br>shooting (37)<br>LasVegas (26)</td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
+<td style='color:red'>chucktodd[+][*]</td>
+<td style='color:red'>0.003</td>
+<td>1277</td>
+<td>0.153485</td>
+<td>MTP (111)<br>MTPDaily (56)<br>VAGovDebate (8)<br>MTP70 (7)<br>Harvey (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
+<td style='color:red'>AlexNBCNews[+][*]</td>
+<td style='color:red'>0.003</td>
+<td>1676</td>
+<td>0.250597</td>
+<td>Irma (24)<br>Harvey (7)<br>TeamScalise (7)<br>Charlottesville (7)<br>ALSen (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td style='color:red'>JohnJHarwood[+]</td>
+<td style='color:red'>0.003</td>
+<td>13942</td>
+<td>0.279013</td>
+<td>Natitude (18)<br>GA06 (17)<br>Charlottesville (15)<br>BREAKING (13)<br>Obamacare (11)</td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td style='color:red'>jonkarl[+]</td>
+<td style='color:red'>0.003</td>
+<td>748</td>
+<td>0.370321</td>
+<td>PowerhousePolitics (7)<br>Harvey (6)<br>ThisWeek (4)<br>NatsNation (2)<br>axios360 (2)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Portland, TX(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>40</td>
+<td style='color:red'>OKnox[+]</td>
+<td style='color:red'>0.003</td>
+<td>4841</td>
+<td>0.191283</td>
+<td>BREAKING (30)<br>Harvey (19)<br>UPDATE (14)<br>NorthKorea (9)<br>FF (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>41</td>
+<td style='color:red'>ericgeller[+]</td>
+<td style='color:red'>0.003</td>
+<td>20978</td>
+<td>0.122605</td>
+<td>GameOfThrones (15)<br>FF (13)<br>PROSUMMIT (12)<br>FakeNews (10)<br>Intelligence2017 (10)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Bethesda, MD(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>42</td>
+<td style='color:red'>samstein[+]</td>
+<td style='color:red'>0.003</td>
+<td>2504</td>
+<td>0.146965</td>
+<td>CandidateConfessional (9)<br>Redsox (2)<br>SCOTUS (1)<br>tbt (1)<br>TXSEN (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>43</td>
+<td style='color:red'>danmericaCNN[+]</td>
+<td style='color:red'>0.003</td>
+<td>1231</td>
+<td>0.277011</td>
+<td>Charlottesville (4)<br>Nationals (2)<br>POTUS (1)<br>coal (1)<br>URGENT (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>44</td>
+<td style='color:red'>chrisgeidner[+]</td>
+<td style='color:red'>0.003</td>
+<td>11057</td>
+<td>0.108709</td>
+<td>SCOTUS (276)<br>TravelBan (86)<br>tonyawards (28)<br>FOIA (12)<br>tbt (10)</td>
+<td></td>
+</tr>
+<tr>
+<td>45</td>
+<td style='color:red'>ddale8[+]</td>
+<td style='color:red'>0.003</td>
+<td>6351</td>
+<td>0.118407</td>
+<td>cdnpoli (9)<br>NAFTA (8)<br>PuertoRico (7)<br>Charlottesville (6)<br>BREAKING (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>46</td>
+<td style='color:red'>nielslesniewski[+]</td>
+<td style='color:red'>0.003</td>
+<td>3579</td>
+<td>0.273261</td>
+<td>Harvey (18)<br>ALSen (11)<br>Senate (10)<br>jetfumes (10)<br>Irma (8)</td>
+<td></td>
+</tr>
+<tr>
+<td>47</td>
+<td style='color:red'>jpaceDC[+]</td>
+<td style='color:red'>0.003</td>
+<td>447</td>
+<td>0.373602</td>
+<td>Cuba (5)<br>FF (2)<br>Russia (2)<br>Harvey (2)<br>Qatar (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td style='color:red'>juliehdavis[+]</td>
+<td style='color:red'>0.003</td>
+<td>747</td>
+<td>0.278447</td>
+<td>s (2)<br>Russia (2)<br>WashWeek (1)<br>EU (1)<br>Syria (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>49</td>
+<td style='color:red'>joshgerstein[+]</td>
+<td style='color:red'>0.003</td>
+<td>3342</td>
+<td>0.253142</td>
+<td>SCOTUS (79)<br>TravelBan (60)<br>FOIA (52)<br>DACA (34)<br>Benghazi (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td style='color:red'>GarrettHaake[+]</td>
+<td style='color:red'>0.003</td>
+<td>2187</td>
+<td>0.188386</td>
+<td>ALSen (11)<br>VVS17 (9)<br>VAGov (9)<br>GA06 (9)<br>Harvey (8)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Corpus Christi, TX(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>51</td>
+<td style='color:red'>jbendery[+]</td>
+<td style='color:red'>0.003</td>
+<td>6570</td>
+<td>0.179909</td>
+<td>Charlottesville (12)<br>PuertoRico (12)<br>FF (10)<br>ParisAccord (5)<br>SolarEclipse2017 (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>52</td>
+<td style='color:red'>jeremyherb[+]</td>
+<td style='color:red'>0.003</td>
+<td>1344</td>
+<td>0.427083</td>
+<td>FY18NDAA (65)<br>FF (6)<br>barcelona (2)<br>Qatar (2)<br>GoGiants (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>53</td>
+<td style='color:red'>AaronMehta[+]</td>
+<td style='color:red'>0.003</td>
+<td>7618</td>
+<td>0.229325</td>
+<td>ASC17 (44)<br>DNconf (39)<br>AUSA2017 (26)<br>NorthKorea (21)<br>HooverOTB (19)</td>
+<td></td>
+</tr>
+<tr>
+<td>54</td>
+<td style='color:red'>PeterAlexander[+]</td>
+<td style='color:red'>0.003</td>
+<td>360</td>
+<td>0.102778</td>
+<td>prouderbrother (2)<br>AMR (1)<br>opioid (1)<br>JFK (1)<br>IndependenceDay (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>55</td>
+<td style='color:red'>mikedebonis[+]</td>
+<td style='color:red'>0.003</td>
+<td>1541</td>
+<td>0.309539</td>
+<td>GrahamCassidy (9)<br>Charlottesville (5)<br>DACA (4)<br>taxreform (3)<br>BCRA (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>56</td>
+<td style='color:red'>DavidMDrucker[+]</td>
+<td style='color:red'>0.003</td>
+<td>10710</td>
+<td>0.171522</td>
+<td>ALSen (120)<br>GA06 (84)<br>Obamacare (57)<br>oops (39)<br>Da (35)</td>
+<td></td>
+</tr>
+<tr>
+<td>57</td>
+<td style='color:red'>Hadas_Gold[+]</td>
+<td style='color:red'>0.003</td>
+<td>2745</td>
+<td>0.239344</td>
+<td>BREAKING (8)<br>Btw17 (3)<br>npcbee (3)<br>Trump (3)<br>mtpol (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>58</td>
+<td style='color:red'>AndrewBeatty[+]</td>
+<td style='color:red'>0.003</td>
+<td>2223</td>
+<td>0.183086</td>
+<td>BREAKING (86)<br>AFP (21)<br>MUNGAGA (8)<br>BreakingNews (7)<br>UPDATE (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>59</td>
+<td style='color:red'>mitchellreports[+]</td>
+<td style='color:red'>0.003</td>
+<td>3490</td>
+<td>0.255014</td>
+<td>AMR (535)<br>MTP (38)<br>Comey (32)<br>NorthKorea (16)<br>AspenSecurity (15)</td>
+<td></td>
+</tr>
+<tr>
+<td>60</td>
+<td style='color:red'>rickklein[+][*]</td>
+<td style='color:red'>0.003</td>
+<td>2626</td>
+<td>0.375857</td>
+<td>PowerhousePolitics (47)<br>ThisWeek (39)<br>GA06 (16)<br>Harvey (8)<br>Trump (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>61</td>
+<td style='color:red'>EricLiptonNYT[+][*]</td>
+<td style='color:red'>0.003</td>
+<td>3738</td>
+<td>0.277421</td>
+<td>Irma (21)<br>Harvey (19)<br>Houston (8)<br>HurricaneIrma (5)<br>frontlinePBS (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>62</td>
+<td style='color:red'>LACaldwellDC[+]</td>
+<td style='color:red'>0.003</td>
+<td>784</td>
+<td>0.204082</td>
+<td>BasqueFry (4)<br>AlSmithDinner2017 (4)<br>ComeyHearing (3)<br>BadNewsBabes (2)<br>FF (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>63</td>
+<td style='color:red'>justinsink[+]</td>
+<td style='color:red'>0.003</td>
+<td>1016</td>
+<td>0.332677</td>
+<td>FF (5)<br>CynicalTolu (3)<br>Charlottesville (2)<br>Trump (1)<br>infrastructureweek (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>64</td>
+<td style='color:red'>jonathanvswan[+]</td>
+<td style='color:red'>0.003</td>
+<td>4077</td>
+<td>0.284523</td>
+<td>axiosam (46)<br>axiossneakpeek (15)<br>FF (7)<br>axios360 (6)<br>axiosvitals (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>65</td>
+<td style='color:red'>ElizLanders[+]</td>
+<td style='color:red'>0.003</td>
+<td>1525</td>
+<td>0.207213</td>
+<td>CNN (8)<br>DACA (8)<br>Irma (7)<br>UNGA (6)<br>G20 (6)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(6)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Évora, Portugal(3)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(3)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>San Carlos de Bariloche, Argentina(3)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Manhattan, NY(2)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>66</td>
+<td style='color:red'>DanaBashCNN[+][*]</td>
+<td style='color:red'>0.003</td>
+<td>442</td>
+<td>0.640271</td>
+<td>CNNSOTU (20)<br>badasswomenDC (16)<br>insidepolitics (8)<br>HealthCareDebate (4)<br>badasswomen (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>67</td>
+<td style='color:red'>ZoeTillman[+]</td>
+<td style='color:red'>0.003</td>
+<td>2027</td>
+<td>0.148495</td>
+<td>SCOTUS (67)<br>FOIA (22)<br>DACA (13)<br>am2dm (10)<br>TravelBan (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>68</td>
+<td style='color:red'>JaredRizzi[+]</td>
+<td style='color:red'>0.002</td>
+<td>11235</td>
+<td>0.297285</td>
+<td>Charlottesville (22)<br>ALSen (17)<br>UNGA (14)<br>Harvey (13)<br>Afghanistan (12)</td>
+<td></td>
+</tr>
+<tr>
+<td>69</td>
+<td style='color:red'>SaraMurray[+]</td>
+<td style='color:red'>0.002</td>
+<td>927</td>
+<td>0.492988</td>
+<td>CNN (4)<br>TheLead (3)<br>NorthKorea (2)<br>Harvey (2)<br>Charlottesville (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>70</td>
+<td style='color:red'>WaPoSean[+]</td>
+<td style='color:red'>0.002</td>
+<td>999</td>
+<td>0.521522</td>
+<td>healthcare (9)<br>Obamacare (7)<br>HealthcareBill (4)<br>taxreform (3)<br>Trump (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>71</td>
+<td style='color:red'>kelsey_snell[+]</td>
+<td style='color:red'>0.002</td>
+<td>1144</td>
+<td>0.684441</td>
+<td>FF (5)<br>npcbee (5)<br>TRIH (4)<br>gocubsgo (3)<br>HealthcareBill (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>72</td>
+<td style='color:red'>margbrennan[+]</td>
+<td style='color:red'>0.002</td>
+<td>5839</td>
+<td>0.285494</td>
+<td>IranDeal (47)<br>Charlottesville (43)<br>US (41)<br>Syria (41)<br>Iran (40)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Manhattan, NY(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>73</td>
+<td style='color:red'>mj_lee[+]</td>
+<td style='color:red'>0.002</td>
+<td>1180</td>
+<td>0.318644</td>
+<td>Irma (3)<br>Comey (2)<br>NGA (2)<br>ISIS (1)<br>AHCA (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>74</td>
+<td style='color:red'>TenaciousTopper[+]</td>
+<td style='color:red'>0.002</td>
+<td>1940</td>
+<td>0.831443</td>
+<td>OnThisDay (118)<br>funweatherfact (59)<br>weatherfact (58)<br>3dayoutlook (54)<br>weekend (24)</td>
+<td></td>
+</tr>
+<tr>
+<td>75</td>
+<td style='color:red'>rebeccaballhaus[+]</td>
+<td style='color:red'>0.002</td>
+<td>1482</td>
+<td>0.213225</td>
+<td>GA06 (2)<br>UNGA (2)<br>MTAL (1)<br>ParisAgreement (1)<br>DOJ (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>76</td>
+<td style='color:red'>PostRoz[+]</td>
+<td style='color:red'>0.002</td>
+<td>320</td>
+<td>0.440625</td>
+<td>Russia (1)<br>DACA (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>77</td>
+<td style='color:red'>IsaacDovere[+]</td>
+<td style='color:red'>0.002</td>
+<td>3213</td>
+<td>0.196701</td>
+<td>OffMessage (21)<br>Detroit (2)<br>PressPool (2)<br>s (2)<br>Trump (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>78</td>
+<td style='color:red'>kyledcheney[+]</td>
+<td style='color:red'>0.002</td>
+<td>1349</td>
+<td>0.134915</td>
+<td>ComeyHearing (6)<br>s (2)<br>tbt (1)<br>ASCO17 (1)<br>EddieVedder (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>79</td>
+<td style='color:red'>gdebenedetti[+]</td>
+<td style='color:red'>0.002</td>
+<td>1595</td>
+<td>0.21442</td>
+<td>GA06 (32)<br>NN17 (4)<br>VAGov (4)<br>gapol (3)<br>ALSen (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>80</td>
+<td style='color:red'>JDiamond1[+]</td>
+<td style='color:red'>0.002</td>
+<td>1327</td>
+<td>0.25471</td>
+<td>DACA (8)<br>Charlottesville (5)<br>BREAKING (4)<br>HurricaneHarvey (4)<br>LasVegasShooting (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>81</td>
+<td style='color:red'>mmurraypolitics[+]</td>
+<td style='color:red'>0.002</td>
+<td>4347</td>
+<td>0.417529</td>
+<td>MTPDaily (18)<br>GA06 (17)<br>VAGov (15)<br>MTP (12)<br>VAGovDebate (8)</td>
+<td></td>
+</tr>
+<tr>
+<td>82</td>
+<td style='color:red'>KThomasDC[+]</td>
+<td style='color:red'>0.002</td>
+<td>1291</td>
+<td>0.26646</td>
+<td>Harvey (6)<br>G20 (6)<br>DACA (6)<br>NKorea (5)<br>US (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>83</td>
+<td style='color:red'>igorbobic[+]</td>
+<td style='color:red'>0.002</td>
+<td>3938</td>
+<td>0.253936</td>
+<td>ALSen (7)<br>BREAKING (6)<br>Charlottesville (5)<br>GOT (5)<br>nvsen (4)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Del Mar, CA(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>84</td>
+<td style='color:red'>LucasFoxNews[+][*]</td>
+<td style='color:red'>0.002</td>
+<td>1716</td>
+<td>0.131702</td>
+<td>Fallen16 (16)<br>BREAKING (16)<br>USSJohnSMcCain (14)<br>ISIS (13)<br>SpecialReport (9)</td>
+<td></td>
+</tr>
+<tr>
+<td>85</td>
+<td style='color:red'>bykowicz[+]</td>
+<td style='color:red'>0.002</td>
+<td>1635</td>
+<td>0.324771</td>
+<td>Harvey (6)<br>Trump (5)<br>HarveyRelief (4)<br>Charlottesville (4)<br>Qatar (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>86</td>
+<td style='color:red'>HotlineJosh[+]</td>
+<td style='color:red'>0.002</td>
+<td>18697</td>
+<td>0.209445</td>
+<td>Nats (139)<br>GA06 (86)<br>Irma (80)<br>VAGov (77)<br>ALSen (73)</td>
+<td></td>
+</tr>
+<tr>
+<td>87</td>
+<td style='color:red'>DavidNakamura[+]</td>
+<td style='color:red'>0.002</td>
+<td>1327</td>
+<td>0.148455</td>
+<td>DACA (36)<br>UNGA (19)<br>FF (6)<br>Irma (3)<br>Harvey (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>88</td>
+<td style='color:red'>rachanadixit[+]</td>
+<td style='color:red'>0.002</td>
+<td>524</td>
+<td>0.46374</td>
+<td>FF (4)<br>Obamacare (3)<br>BREAKING (3)<br>ACA (1)<br>FDA (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>89</td>
+<td style='color:red'>deirdrewalshcnn[+][*]</td>
+<td style='color:red'>0.002</td>
+<td>878</td>
+<td>0.242597</td>
+<td>ComeyHearing (5)<br>VAGov (2)<br>CongressionalBaseball (2)<br>Harvey (2)<br>Irma (2)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>90</td>
+<td style='color:red'>hbwx[+]</td>
+<td style='color:red'>0.002</td>
+<td>3861</td>
+<td>0.419062</td>
+<td>Irma (60)<br>DCA (39)<br>DCwx (35)<br>climate (33)<br>Harvey (27)</td>
+<td></td>
+</tr>
+<tr>
+<td>91</td>
+<td style='color:red'>connorobrienNH[+]</td>
+<td style='color:red'>0.002</td>
+<td>3294</td>
+<td>0.273224</td>
+<td>FY18NDAA (495)<br>DNconf (11)<br>ForeverGIBill (7)<br>SecDef (6)<br>BREAKING (4)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Boston, MA(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Potomac, MD(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>92</td>
+<td style='color:red'>BretBaier[+][*]</td>
+<td style='color:red'>0.002</td>
+<td>4466</td>
+<td>0.215853</td>
+<td>SpecialReport (126)<br>BREAKING (37)<br>Irma (32)<br>Trump (22)<br>Harvey (17)</td>
+<td></td>
+</tr>
+<tr>
+<td>93</td>
+<td style='color:red'>sarahkliff[+]</td>
+<td style='color:red'>0.002</td>
+<td>1208</td>
+<td>0.208609</td>
+<td>Obamacare (3)<br>ACA (3)<br>FF (3)<br>SkinnyRepeal (2)<br>WashWeek (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>94</td>
+<td style='color:red'>KenDilanianNBC[+]</td>
+<td style='color:red'>0.002</td>
+<td>1599</td>
+<td>0.218887</td>
+<td>AspenSecurity (23)<br>Hardball (8)<br>TheBeat (5)<br>Deadline (4)<br>AMR (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>95</td>
+<td style='color:red'>mikememoli[+]</td>
+<td style='color:red'>0.002</td>
+<td>1643</td>
+<td>0.377358</td>
+<td>fitn (8)<br>Charlottesville (5)<br>ACA (3)<br>SolarEclipse2017 (2)<br>Harvey (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>96</td>
+<td style='color:red'>jeneps[+]</td>
+<td style='color:red'>0.002</td>
+<td>1771</td>
+<td>0.177301</td>
+<td>DACA (2)<br>PuertoRico (2)<br>VAGov (1)<br>discrimination (1)<br>maga (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>97</td>
+<td style='color:red'>FoxReports</td>
+<td style='color:red'>0.002</td>
+<td>1080</td>
+<td>0.242593</td>
+<td>RyanTownHall (4)<br>ComeyDay (3)<br>SeersuckerDay (2)<br>westcoastbestcoast (2)<br>Obamacare (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>98</td>
+<td style='color:red'>nytmike[+]</td>
+<td style='color:red'>0.002</td>
+<td>121</td>
+<td>0.322314</td>
+<td>s (1)<br>2017Jambo (1)<br>BobbyV (1)<br>gryngem (1)<br>rulebreaking (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>99</td>
+<td style='color:red'>MajorCBS[+]</td>
+<td style='color:red'>0.002</td>
+<td>2072</td>
+<td>0.149614</td>
+<td>Harvey (61)<br>Irma (49)<br>DPRK (48)<br>WH (23)<br>BCRA (20)</td>
+<td></td>
+</tr>
+<tr>
+<td>100</td>
+<td style='color:red'>POLITICO_Steve[+]</td>
+<td style='color:red'>0.002</td>
+<td>6684</td>
+<td>0.198235</td>
+<td>Irma (178)<br>Harvey (91)<br>Maria (90)<br>VAGov (49)<br>ALSen (44)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Del Monte Forest, CA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>California, USA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>San Francisco, CA(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Scaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>7.284e-05</td>
+<td>Mean:</td>
+<td>4.200e-04</td>
+<td>Lower quartile:</td>
+<td>8.411e-05</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.011</td>
+<td>Std.dev:</td>
+<td>8.546e-04</td>
+<td>Median:</td>
+<td>1.477e-04</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>3.523e-04</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+<p><a name="twitter-totalMentionsKcore"></a></p>
+<h2>Often Mentioned/Retweeted by Groups of Others (member of large k-core)</h2>
+<blockquote>
+<p>This is the largest k such that the node belongs to the k-core. The k-core is computed using out-degree on the sum of the mentioned-by and retweeted-by networks.</p>
+<p class='measures-value-classification'>If the node of interest has a higher than normal value (greater than 1 standard deviation(s) above the mean) the row is colored <span style='color:red'>red</span>. The row is <span style='color:green'>green</span> if the node is within 1 standard deviation of the mean. Finally, the row is colored <span style='color:blue'>blue</span> if the node has a lower than normal value (less than one standard deviation(s) below the mean).</p>
+<p>Input network(s): Agent x Agent - Mentioned-By, Agent x Agent - Retweeted-By</p>
+<table class='measures-ranked'>
+<col width='40px'/>
+<col width='400px'/>
+<col width='80px'/>
+<col width='80px'/>
+<col width='150px'/>
+<col width='150px'/>
+<col width='250px'/>
+<col width='400px'/>
+<thead>
+<tr>
+<td>Rank</td>
+<td>Agent</td>
+<td>Value</td>
+<td>Unscaled</td>
+<td>Tweet count</td>
+<td>Average mentions per tweet</td>
+<td>Most common hashtags</td>
+<td>Most common locations</td>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td style='color:red'>ASimendinger</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2555</td>
+<td>0.23953</td>
+<td>DACA (28)<br>Irma (23)<br>Harvey (13)<br>HurricaneHarvey (11)<br>Charlottesville (9)</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td style='color:red'>Acosta[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1284</td>
+<td>0.232866</td>
+<td>wherearethetapes (6)<br>CNN (4)<br>4thofjulyweekend (3)<br>G20 (3)<br>EIJ17 (2)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Paradise, NV(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td style='color:red'>AlexNBCNews[+][*]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1676</td>
+<td>0.250597</td>
+<td>Irma (24)<br>Harvey (7)<br>TeamScalise (7)<br>Charlottesville (7)<br>ALSen (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td style='color:red'>AlexPappas[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>846</td>
+<td>0.191489</td>
+<td>ALSen (28)<br>foxnews (18)<br>RollTide (3)<br>Trump (2)<br>BREAKING (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td style='color:red'>AliABCNews[+][*]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1267</td>
+<td>0.1618</td>
+<td>DACA (8)<br>ALSen (6)<br>CancerLobbyDay (3)<br>Charlottesville (2)<br>Pride2017 (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td style='color:red'>AndrewBeatty[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2223</td>
+<td>0.183086</td>
+<td>BREAKING (86)<br>AFP (21)<br>MUNGAGA (8)<br>BreakingNews (7)<br>UPDATE (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td style='color:red'>AndrewRestuccia[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>437</td>
+<td>0.727689</td>
+<td>ParisAgreement (1)<br>Paris (1)<br>BREAKING (1)<br>climate (1)<br>tbt (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td style='color:red'>AnnieLinskey[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1258</td>
+<td>0.387917</td>
+<td>Hardball (5)<br>HooverOTB (3)<br>BREAKING (3)<br>Harvey (3)<br>Charlottesville (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td style='color:red'>AshleyRParker[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>727</td>
+<td>0.264099</td>
+<td>ParkerFamilyVacation (2)<br>WashWeek (2)<br>CNNSOTU (2)<br>truth (2)<br>psa (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td style='color:red'>BCAppelbaum[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2192</td>
+<td>0.117245</td>
+<td>Irma (5)<br>Maria (2)<br>NAFTA (2)<br>Ohio (1)<br>economy (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td style='color:red'>BenjySarlin[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>4805</td>
+<td>0.185848</td>
+<td>DACA (4)<br>Harvey (3)<br>Irma (2)<br>FF (2)<br>ThisTown (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td style='color:red'>BresPolitico</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>4938</td>
+<td>0.524099</td>
+<td>Obamacare (20)<br>BREAKING (17)<br>Charlottesville (15)<br>ALSen (14)<br>MOSEN (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td style='color:red'>ByronTau[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1289</td>
+<td>0.216447</td>
+<td>BREAKING (2)<br>GA06 (1)<br>longreads (1)<br>TrumpRussia (1)<br>podcast (1)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>14</td>
+<td style='color:red'>ByronYork[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1508</td>
+<td>0.0437666</td>
+<td>Resist (7)<br>SFPRIDE (2)<br>s (1)<br>Russia (1)<br>resistance (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td style='color:red'>CHueyBurns[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1103</td>
+<td>0.208522</td>
+<td>Hardball (4)<br>MTPDaily (3)<br>BigPicture (2)<br>GA06 (2)<br>science (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td style='color:red'>CahnEmily[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>15550</td>
+<td>0.235627</td>
+<td>TheBachelorette (89)<br>GA06 (75)<br>DACA (36)<br>Irma (36)<br>VAGov (35)</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td style='color:red'>CarrieNBCNews[+][*]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>356</td>
+<td>0.174157</td>
+<td>FF (3)<br>OnePursuit (1)<br>WVSen (1)<br>tbt (1)<br>ALSen (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td style='color:red'>ChadPergram[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>6270</td>
+<td>0</td>
+<td>BREAKING (101)<br>AlexandriaShooting (58)<br>HealthcareBill (52)<br>shooting (37)<br>LasVegas (26)</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td style='color:red'>CraigCaplan[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3505</td>
+<td>0.0313837</td>
+<td>GrahamCassidy (76)<br>FY18NDAA (63)<br>ALSen (54)<br>Harvey (28)<br>GA06 (27)</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td style='color:red'>DanaBashCNN[+][*]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>442</td>
+<td>0.640271</td>
+<td>CNNSOTU (20)<br>badasswomenDC (16)<br>insidepolitics (8)<br>HealthCareDebate (4)<br>badasswomen (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td style='color:red'>DaniellaMicaela[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3815</td>
+<td>0.214417</td>
+<td>Politicon2017 (80)<br>CNNJobsChat (17)<br>GameOfThrones (12)<br>ThronesYall (10)<br>GOT (10)</td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td style='color:red'>DaviSusan[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1050</td>
+<td>0.317143</td>
+<td>ALSen (6)<br>wemakeNPR (5)<br>Paris (4)<br>GrahamCassidy (3)<br>ThisTown (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td style='color:red'>DavidMDrucker[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>10710</td>
+<td>0.171522</td>
+<td>ALSen (120)<br>GA06 (84)<br>Obamacare (57)<br>oops (39)<br>Da (35)</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td style='color:red'>DavidNakamura[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1327</td>
+<td>0.148455</td>
+<td>DACA (36)<br>UNGA (19)<br>FF (6)<br>Irma (3)<br>Harvey (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td style='color:red'>DefenseBaron[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>4374</td>
+<td>0.111568</td>
+<td>iswsc17 (71)<br>FDDSummit (57)<br>D1TechSummit (57)<br>AUSA2017 (42)<br>Irma (32)</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td style='color:red'>DevlinBarrett[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>702</td>
+<td>0.210826</td>
+<td>Charlottesville (4)<br>Comey (1)<br>OTD (1)<br>SCOTUS (1)<br>FakeNews (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td style='color:red'>DomenicoNPR[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1306</td>
+<td>0.191424</td>
+<td>wemakeNPR (7)<br>GA06 (4)<br>LGM (3)<br>WeMakeNPRTogether (3)<br>maga (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td style='color:red'>EamonJavers[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1682</td>
+<td>0.0921522</td>
+<td>usmnt (5)<br>USA (4)<br>DACA (3)<br>LasVegas (2)<br>DeliveringAlpha (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td style='color:red'>EliLake[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3119</td>
+<td>0.134659</td>
+<td>FF (10)<br>Iran (7)<br>notaparody (6)<br>AlsoFa (5)<br>NBAFinals2017 (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td style='color:red'>ElizLanders[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1525</td>
+<td>0.207213</td>
+<td>CNN (8)<br>DACA (8)<br>Irma (7)<br>UNGA (6)<br>G20 (6)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(6)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Évora, Portugal(3)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(3)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>San Carlos de Bariloche, Argentina(3)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Manhattan, NY(2)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>31</td>
+<td style='color:red'>Emma_Dumain</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2299</td>
+<td>0.264463</td>
+<td>thestate (22)<br>scpol (20)<br>FF (14)<br>scnews (12)<br>Charlottesville (10)</td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td style='color:red'>EricLiptonNYT[+][*]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3738</td>
+<td>0.277421</td>
+<td>Irma (21)<br>Harvey (19)<br>Houston (8)<br>HurricaneIrma (5)<br>frontlinePBS (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td style='color:red'>EvanMcS[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1283</td>
+<td>0.155105</td>
+<td>analysis (37)<br>Charlottesville (5)<br>ALSen (3)<br>AmIRightFolks (2)<br>Comania (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td style='color:red'>Fahrenthold[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>6000</td>
+<td>0.304833</td>
+<td>Harvey (51)<br>Irma (17)<br>Trump (15)<br>PuertoRico (11)<br>FOIA (9)</td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td style='color:red'>FoxReports</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1080</td>
+<td>0.242593</td>
+<td>RyanTownHall (4)<br>ComeyDay (3)<br>SeersuckerDay (2)<br>westcoastbestcoast (2)<br>Obamacare (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
+<td style='color:red'>GarrettHaake[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2187</td>
+<td>0.188386</td>
+<td>ALSen (11)<br>VVS17 (9)<br>VAGov (9)<br>GA06 (9)<br>Harvey (8)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Corpus Christi, TX(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>37</td>
+<td style='color:red'>GlennThrush[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1692</td>
+<td>0.166667</td>
+<td>NewProfilePic (2)<br>G20 (2)<br>OTD (1)<br>journalism (1)<br>WhiteHouse (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td style='color:red'>GrahamDavidA[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3898</td>
+<td>0.13648</td>
+<td>onbrand (4)<br>ncpol (4)<br>defenddurham (2)<br>wral (2)<br>engagement (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td style='color:red'>Hadas_Gold[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2745</td>
+<td>0.239344</td>
+<td>BREAKING (8)<br>Btw17 (3)<br>npcbee (3)<br>Trump (3)<br>mtpol (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td style='color:red'>HotlineJosh[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>18697</td>
+<td>0.209445</td>
+<td>Nats (139)<br>GA06 (86)<br>Irma (80)<br>VAGov (77)<br>ALSen (73)</td>
+<td></td>
+</tr>
+<tr>
+<td>41</td>
+<td style='color:red'>HouseInSession</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>834</td>
+<td>0.0191847</td>
+<td>goodtrouble (1)<br>HonestAds (1)<br>barcelona (1)<br>charlotesville (1)<br>sadness (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>42</td>
+<td style='color:red'>HowardMortman</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2916</td>
+<td>0.212963</td>
+<td>tbt (98)<br>FlashbackFriday (68)<br>eclipse2017 (41)<br>ELEVATORCAM (41)<br>SCOTUS (36)</td>
+<td></td>
+</tr>
+<tr>
+<td>43</td>
+<td style='color:red'>IsaacDovere[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3213</td>
+<td>0.196701</td>
+<td>OffMessage (21)<br>Detroit (2)<br>PressPool (2)<br>s (2)<br>Trump (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>44</td>
+<td style='color:red'>JDiamond1[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1327</td>
+<td>0.25471</td>
+<td>DACA (8)<br>Charlottesville (5)<br>BREAKING (4)<br>HurricaneHarvey (4)<br>LasVegasShooting (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>45</td>
+<td style='color:red'>JakeSherman[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>4362</td>
+<td>0.281293</td>
+<td>PlaybookLoyal (10)<br>BREAKING (3)<br>txlege (3)<br>PlaybookExchange (3)<br>JFKfiles (2)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Gainesville, VA(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Manhattan, NY(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Arlington, VA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Maryland, USA(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>46</td>
+<td style='color:red'>JamesArkin[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>727</td>
+<td>0.253095</td>
+<td>RallyTogether (5)<br>RollTribe (3)<br>ALSen (2)<br>tbt (1)<br>OHgov (1)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Columbus, OH(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>47</td>
+<td style='color:red'>JaredRizzi[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>11235</td>
+<td>0.297285</td>
+<td>Charlottesville (22)<br>ALSen (17)<br>UNGA (14)<br>Harvey (13)<br>Afghanistan (12)</td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td style='color:red'>JaxAlemany[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1051</td>
+<td>0.192198</td>
+<td>lovettorleaveit (3)<br>HurricaneHarvey (3)<br>Harvey (3)<br>Trump (3)<br>Zanzibar (2)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Nairobi, Kenya(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>49</td>
+<td style='color:red'>JeffYoung[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3554</td>
+<td>0.336241</td>
+<td>ACA (6)<br>BCRA (6)<br>Obamacare (5)<br>FF (4)<br>PresidentSupervillain (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>50</td>
+<td style='color:red'>JohnJHarwood[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>13942</td>
+<td>0.279013</td>
+<td>Natitude (18)<br>GA06 (17)<br>Charlottesville (15)<br>BREAKING (13)<br>Obamacare (11)</td>
+<td></td>
+</tr>
+<tr>
+<td>51</td>
+<td style='color:red'>John_Hudson[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1558</td>
+<td>0.163671</td>
+<td>UNGA (6)<br>Syria (5)<br>Paris (4)<br>Russia (4)<br>Iran (4)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>52</td>
+<td style='color:red'>Jordanfabian[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1623</td>
+<td>0.349969</td>
+<td>BREAKING (5)<br>SolarEclipse2017 (3)<br>UNGA (3)<br>Trump (3)<br>vegasshooting (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>53</td>
+<td style='color:red'>KThomasDC[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1291</td>
+<td>0.26646</td>
+<td>Harvey (6)<br>G20 (6)<br>DACA (6)<br>NKorea (5)<br>US (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>54</td>
+<td style='color:red'>KateBennett_DC[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2170</td>
+<td>0.0806452</td>
+<td>badasswomenDC (9)<br>G20 (8)<br>MissAmerica (5)<br>fashiondetective (5)<br>FLOTUSinCanada (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>55</td>
+<td style='color:red'>KateNocera[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2692</td>
+<td>0.417905</td>
+<td>GA06 (11)<br>am2dm (10)<br>SCOTUS (10)<br>ALSen (8)<br>TravelBan (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>56</td>
+<td style='color:red'>KellyO[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1204</td>
+<td>0.0357143</td>
+<td>Comey (27)<br>Hamburg (17)<br>G20 (15)<br>KellyOCam (7)<br>Harvey (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>57</td>
+<td style='color:red'>KenDilanianNBC[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1599</td>
+<td>0.218887</td>
+<td>AspenSecurity (23)<br>Hardball (8)<br>TheBeat (5)<br>Deadline (4)<br>AMR (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>58</td>
+<td style='color:red'>Kevinliptakcnn[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>394</td>
+<td>0.319797</td>
+<td>UNGA (5)<br>tbt (2)<br>GE2017 (2)<br>NorthKorea (1)<br>ISIS (1)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Paris, France(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Manhattan, NY(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>59</td>
+<td style='color:red'>KilloughCNN[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>526</td>
+<td>0.268061</td>
+<td>CNNTownHall (9)<br>ALSen (6)<br>China (1)<br>tbt (1)<br>Russia (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>60</td>
+<td style='color:red'>LACaldwellDC[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>784</td>
+<td>0.204082</td>
+<td>BasqueFry (4)<br>AlSmithDinner2017 (4)<br>ComeyHearing (3)<br>BadNewsBabes (2)<br>FF (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>61</td>
+<td style='color:red'>LauraLitvan[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1411</td>
+<td>0.254429</td>
+<td>BCRA (38)<br>Obamacare (31)<br>GrahamCassidy (29)<br>DACA (15)<br>Russia (12)</td>
+<td></td>
+</tr>
+<tr>
+<td>62</td>
+<td style='color:red'>LisaDNews[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>691</td>
+<td>0.154848</td>
+<td>NewsHourChats (15)<br>Harvey (2)<br>CSPAN2 (2)<br>healthcare (1)<br>FakeNews (1)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>63</td>
+<td style='color:red'>MEPFuller[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>4406</td>
+<td>0.207217</td>
+<td>FakeHill50Ledes (5)<br>SolarEclipse2017 (2)<br>Charlottesville (2)<br>GohmertHour (2)<br>GA06 (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>64</td>
+<td style='color:red'>MajorCBS[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2072</td>
+<td>0.149614</td>
+<td>Harvey (61)<br>Irma (49)<br>DPRK (48)<br>WH (23)<br>BCRA (20)</td>
+<td></td>
+</tr>
+<tr>
+<td>65</td>
+<td style='color:red'>MarkLandler[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>102</td>
+<td>0.392157</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>66</td>
+<td style='color:red'>Marshall_Cohen[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1383</td>
+<td>0.355025</td>
+<td>ComeyHearing (7)<br>GA06 (7)<br>Russia (5)<br>NASScon (3)<br>azsen (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>67</td>
+<td style='color:red'>MattLaslo[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3426</td>
+<td>0.157618</td>
+<td>GrahamCassidy (10)<br>GrahamCasiddy (7)<br>Trumpcare (4)<br>DACA (4)<br>NewRule (3)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(5)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>68</td>
+<td style='color:red'>McCormackJohn</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3531</td>
+<td>0.232795</td>
+<td>GA06 (9)<br>BREAKING (8)<br>Charlottesville (8)<br>Harvey (7)<br>Irma (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>69</td>
+<td style='color:red'>MichaelRWarren[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2393</td>
+<td>0.206018</td>
+<td>GA06 (9)<br>Charlottesville (5)<br>ALSen (4)<br>VAGov (3)<br>insidepolitics (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>70</td>
+<td style='color:red'>NYTnickc[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2394</td>
+<td>0.185881</td>
+<td>FF (9)<br>VAGov (7)<br>NJGovDebate (7)<br>njshutdown (7)<br>Charlottesville (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>71</td>
+<td style='color:red'>NoahGrayCNN[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>212</td>
+<td>0.372642</td>
+<td>Harvey (4)<br>tbt (2)<br>HoustonStrong (2)<br>TotalEclipseAtTheWhiteHouse (2)<br>ThisWeek (1)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Virginia, USA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Bethesda, MD(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>72</td>
+<td style='color:red'>OKnox[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>4841</td>
+<td>0.191283</td>
+<td>BREAKING (30)<br>Harvey (19)<br>UPDATE (14)<br>NorthKorea (9)<br>FF (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>73</td>
+<td style='color:red'>Olivianuzzi</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2523</td>
+<td>0.173206</td>
+<td>TheBeat (3)<br>FF (2)<br>blessed (2)<br>FraudNewsCNN (2)<br>NYMag50 (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>74</td>
+<td style='color:red'>POLITICO_Steve[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>6684</td>
+<td>0.198235</td>
+<td>Irma (178)<br>Harvey (91)<br>Maria (90)<br>VAGov (49)<br>ALSen (44)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Del Monte Forest, CA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>California, USA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>San Francisco, CA(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>75</td>
+<td style='color:red'>PeterAlexander[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>360</td>
+<td>0.102778</td>
+<td>prouderbrother (2)<br>AMR (1)<br>opioid (1)<br>JFK (1)<br>IndependenceDay (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>76</td>
+<td style='color:red'>PeterHamby[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1095</td>
+<td>0.161644</td>
+<td>GoodLuckAmerica (10)<br>VAGov (9)<br>Harvey (4)<br>Murrow (3)<br>RVA (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>77</td>
+<td style='color:red'>PeterSullivan4</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1490</td>
+<td>0.166443</td>
+<td>BCRA (3)<br>Obamacare (1)<br>FF (1)<br>AHCA (1)<br>BREAKING (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>78</td>
+<td style='color:red'>Phil_Mattingly[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3420</td>
+<td>0.420468</td>
+<td>BREAKING (12)<br>GoBucks (6)<br>SCOTUS (6)<br>CNNSOTU (6)<br>TheLead (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>79</td>
+<td style='color:red'>Philip_Elliott[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2789</td>
+<td>0.212621</td>
+<td>Charlottesville (21)<br>JFKfiles (8)<br>transgender (5)<br>Senate (5)<br>charlotesville (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>80</td>
+<td style='color:red'>PoliticoKevin[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2633</td>
+<td>0.339916</td>
+<td>VAGov (120)<br>ALSen (61)<br>tnsen (20)<br>azsen (19)<br>MOSEN (17)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Hempfield, PA(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>North Beach Haven, NJ(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>81</td>
+<td style='color:red'>PoliticoScott[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>582</td>
+<td>0.38488</td>
+<td>GA06 (37)<br>ALSen (14)<br>VAGov (7)<br>nvsen (7)<br>MOSEN (6)</td>
+<td></td>
+</tr>
+<tr>
+<td>82</td>
+<td style='color:red'>PoliticsReid[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1478</td>
+<td>0.101489</td>
+<td>WashWeek (2)<br>fitn (2)<br>nhpolitics (2)<br>Ebola (2)<br>journalism (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>83</td>
+<td style='color:red'>PostRoz[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>320</td>
+<td>0.440625</td>
+<td>Russia (1)<br>DACA (1)</td>
+<td></td>
+</tr>
+<tr>
+<td>84</td>
+<td style='color:red'>RameshPonnuru[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1492</td>
+<td>0.241287</td>
+<td>MTPDaily (10)<br>ALSen (7)<br>SCOTUS (3)<br>VAGov (3)<br>GA06 (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>85</td>
+<td style='color:red'>RebeccaShabad[+][*]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>5274</td>
+<td>0.266591</td>
+<td>Harvey (57)<br>Houston (32)<br>Charlottesville (31)<br>Irma (27)<br>BREAKING (17)</td>
+<td></td>
+</tr>
+<tr>
+<td>86</td>
+<td style='color:red'>Redistrict[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>377</td>
+<td>0.066313</td>
+<td>GA06 (46)<br>VAGov (26)<br>SC05 (17)<br>TX35 (5)<br>TX27 (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>87</td>
+<td style='color:red'>RichardRubinDC[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3382</td>
+<td>0.275281</td>
+<td>TRIH (64)<br>DBCFT (33)<br>taxreform (4)<br>duckrabbit (3)<br>parlsincharge (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>88</td>
+<td style='color:red'>RonBrownstein</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2374</td>
+<td>0.271272</td>
+<td>Medicaid (42)<br>BCRA (35)<br>ACA (27)<br>DACA (27)<br>immigration (23)</td>
+<td></td>
+</tr>
+<tr>
+<td>89</td>
+<td style='color:red'>RosieGray[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1720</td>
+<td>0.263953</td>
+<td>infrastructureweek (8)<br>ALSen (8)<br>Charlottesville (2)<br>AMJoy (2)<br>Trump (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>90</td>
+<td style='color:red'>SabrinaSiddiqui[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2223</td>
+<td>0.25596</td>
+<td>Hardball (5)<br>Trump (3)<br>Harvey (3)<br>BREAKING (3)<br>Dreamers (3)</td>
+<td><table style='border:0px;padding:0px'>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='100px'/>
+<col style='border:0px;padding:0px' width='50px'/>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>South East, England(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Farnham, England(2)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Naperville, IL(1)</td>
+</tr>
+<tr style='border:0px;padding:0px'>
+<td style='border:0px;padding:0px'>Washington, DC(1)</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>91</td>
+<td style='color:red'>SangerNYT[*]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>425</td>
+<td>0.336471</td>
+<td>OTD (11)<br>nytimes (10)<br>NorthKorea (5)<br>NKorea (2)<br>KimJongUn (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>92</td>
+<td style='color:red'>SaraMurray[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>927</td>
+<td>0.492988</td>
+<td>CNN (4)<br>TheLead (3)<br>NorthKorea (2)<br>Harvey (2)<br>Charlottesville (2)</td>
+<td></td>
+</tr>
+<tr>
+<td>93</td>
+<td style='color:red'>SarahMMimms[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>3653</td>
+<td>0.235697</td>
+<td>am2dm (86)<br>TheBachelorette (22)<br>GA06 (8)<br>GameOfThrones (5)<br>TwinPeaks2017 (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>94</td>
+<td style='color:red'>ShaneGoldmacher[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2393</td>
+<td>0.216047</td>
+<td>VAGov (5)<br>BREAKING (4)<br>Charlottesville (3)<br>GA06 (3)<br>ALSen (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>95</td>
+<td style='color:red'>Shawna[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>904</td>
+<td>0.224558</td>
+<td>MTP (6)<br>BeatCancer (5)<br>Emmys (5)<br>Charlottesville (4)<br>ComeyTestimony (4)</td>
+<td></td>
+</tr>
+<tr>
+<td>96</td>
+<td style='color:red'>StevenTDennis[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>6111</td>
+<td>0.220749</td>
+<td>Irma (23)<br>Charlottesville (18)<br>Harvey (17)<br>PuertoRico (10)<br>FF (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>97</td>
+<td style='color:red'>StuPolitics</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2989</td>
+<td>0.133155</td>
+<td>ALSen (7)<br>GA06 (5)<br>VAGov (4)<br>azsen (4)<br>NY22 (3)</td>
+<td></td>
+</tr>
+<tr>
+<td>98</td>
+<td style='color:red'>SusanPage[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1152</td>
+<td>0.256076</td>
+<td>frontpage (58)<br>Trump (16)<br>Obamacare (8)<br>HooverOTB (8)<br>NorthKorea (7)</td>
+<td></td>
+</tr>
+<tr>
+<td>99</td>
+<td style='color:red'>TalKopan[+]</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>1955</td>
+<td>0.330435</td>
+<td>DACA (19)<br>CambridgeCyber (7)<br>NASScon (6)<br>Sammies2017 (6)<br>MNF (5)</td>
+<td></td>
+</tr>
+<tr>
+<td>100</td>
+<td style='color:red'>TeddyDavisCNN</td>
+<td style='color:red'>0.017</td>
+<td style='color:red'>41</td>
+<td>2942</td>
+<td>0.411965</td>
+<td>CNNSOTU (377)<br>SCOTUS (17)<br>Charlottesville (17)<br>CNNDebateNIght (11)<br>TheLead (10)</td>
+<td></td>
+</tr>
+
+</table>
+<table class='measures-context'>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='200px'/>
+<col width='100px'/>
+<tr>
+<th colspan='6'>Scaled value statistics</th>
+</tr>
+<tr>
+<td>Min:</td>
+<td>0</td>
+<td>Mean:</td>
+<td>0.005</td>
+<td>Lower quartile:</td>
+<td>8.403e-04</td>
+</tr>
+<tr>
+<td>Max:</td>
+<td>0.017</td>
+<td>Std.dev:</td>
+<td>0.006</td>
+<td>Median:</td>
+<td>0.003</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upper quartile:</td>
+<td>0.008</td>
+</tr>
+</table>
+</blockquote>
+<p><a href="#tableOfContents">Back to measure list</a></p>
+</blockquote>
+<p><a href="Twitter_report.html">Return to previous page</a></p>
+</html>

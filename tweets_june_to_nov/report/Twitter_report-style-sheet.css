@@ -1,0 +1,22 @@
+img { width:100%; }
+table { width:100%; border: 1px solid darkgrey; padding: 3px;	border-collapse: collapse; }
+td { border: 1px solid darkgrey; padding: 5px; text-align:left; }
+th { border: 1px solid darkgrey; padding: 5px; text-align:left; background-color:lightgrey }
+table.measures-ranked { border:0; }
+table.measures-context { width:auto; border:0; }
+.measures-context td { border:0; }
+.measures-context td:nth-child(odd) { font-weight:bold; }
+col.compare-first { background-color:#DCE6F1; }
+col.compare-second { background-color:#F2DCDB; }
+col.multi-odd { }
+col.multi-even { background-color:#EEECE1; }
+.chart { width:auto; height:auto; }
+.chart td{ border:none; }
+.chart table{ border:none; }
+.chart-title{ font-size:16pt; text-align:center; }
+.chart-x-axis-title { text-align:center; color:gray; }
+.chart-y-axis-title { writing-mode:sideways-lr; color:grey; }
+.chart-canvas { }
+.chart-legend { text-align:center; }
+.chart-legend li span { display:inline-block; width: 12px; height: 12px; margin-right:5px; }
+.chart-legend li { display: inline; padding: 10px; }
