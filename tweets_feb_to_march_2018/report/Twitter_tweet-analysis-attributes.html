@@ -1,0 +1,1944 @@
+<html><meta charset='utf-8'>
+<head>
+<a name='top'/>
+<title>Analysis of Tweet Attributes</title>
+<link rel='stylesheet' type='text/css' href='Twitter-style-sheet.css'/>
+<link rel='stylesheet' type='text/css' href = 'https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css'>
+<script type='text/javascript' language='javascript' src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+<script type='text/javascript' language='javascript' src='https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js'></script>
+<script type='text/javascript' language='javascript' src='RankedTables.js'></script>
+<script type='text/javascript' language='javascript' src='Chart.js'></script>
+</head>
+<h1>Analysis of Tweet Attributes</h1>
+<blockquote>
+<p>This section analyzes tweets by language group.</p>
+<p><a href="Twitter.html">Return to previous page</a></p>
+<h2>Continuous Attribute Statistics</h2>
+<blockquote>
+<h3>General Statistics</h3>
+<p>This table shows statistics for the values of each continuous attribute. A missing attribute value is treated as a zero.</p>
+<table>
+<col width='200px'/>
+<col width='200px'/>
+<col width='200px'/>
+<col width='200px'/>
+<col width='200px'/>
+<tr>
+<th>Attribute</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr>
+<td>Latitude</td>
+<td>0</td>
+<td>0.021</td>
+<td>51.543</td>
+<td>0.890</td>
+</tr>
+<tr>
+<td>Longitude</td>
+<td>-122.943</td>
+<td>-0.044</td>
+<td>128.896</td>
+<td>2.005</td>
+</tr>
+<tr>
+<td>RETWEET_COUNT</td>
+<td>0</td>
+<td>801.698</td>
+<td>453930</td>
+<td>7790.297</td>
+</tr>
+</table>
+</blockquote>
+<h2>Continous Attribute Latitude by Language</h2>
+<blockquote>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>En</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.021</td>
+<td style='color:green'>51.543</td>
+<td style='color:green'>0.894</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Fr</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Und</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.005</td>
+<td style='color:green'>51.543</td>
+<td style='color:green'>0.460</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Pl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>It</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Tr</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Tl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.045</td>
+<td style='color:green'>26.183</td>
+<td style='color:green'>1.082</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>In</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.019</td>
+<td style='color:green'>14.633</td>
+<td style='color:green'>0.526</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ca</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.377</td>
+<td style='color:green'>38.890</td>
+<td style='color:green'>3.657</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Vi</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>No</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>De</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.082</td>
+<td style='color:green'>38.270</td>
+<td style='color:green'>1.771</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Cy</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.210</td>
+<td style='color:green'>37.823</td>
+<td style='color:green'>2.811</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Pt</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Es</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.081</td>
+<td style='color:green'>40.786</td>
+<td style='color:green'>1.654</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Nl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Et</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Hu</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ht</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Hi</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ro</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.151</td>
+<td style='color:green'>38.894</td>
+<td style='color:green'>2.421</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Da</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Zh</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Fi</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Lt</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Sv</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Eu</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Is</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Lv</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ko</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ur</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ar</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ru</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Cs</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Sl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ja</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Uk</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Iw</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Km</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Fa</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>My</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>El</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Bn</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ps</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>0.021</td>
+<td>51.543</td>
+<td>0.890</td>
+</tr>
+</table>
+</blockquote>
+<h2>Continous Attribute Longitude by Language</h2>
+<blockquote>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>En</td>
+<td style='color:green'>-122.943</td>
+<td style='color:green'>-0.044</td>
+<td style='color:green'>128.896</td>
+<td style='color:green'>2.012</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Fr</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Und</td>
+<td style='color:green'>-95.235</td>
+<td style='color:green'>-0.002</td>
+<td style='color:green'>46.575</td>
+<td style='color:green'>0.705</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Pl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>It</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Tr</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Tl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.086</td>
+<td style='color:green'>50.583</td>
+<td style='color:green'>2.090</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>In</td>
+<td style='color:green'>-88.133</td>
+<td style='color:green'>-0.114</td>
+<td style='color:green'>0</td>
+<td style='color:green'>3.168</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ca</td>
+<td style='color:green'>-77.007</td>
+<td style='color:green'>-0.225</td>
+<td style='color:green'>34.767</td>
+<td style='color:green'>6.158</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Vi</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>No</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>De</td>
+<td style='color:green'>-77.450</td>
+<td style='color:green'>-0.166</td>
+<td style='color:green'>0</td>
+<td style='color:green'>3.584</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Cy</td>
+<td style='color:green'>-80.435</td>
+<td style='color:green'>-0.447</td>
+<td style='color:green'>0</td>
+<td style='color:green'>5.979</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Pt</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Es</td>
+<td style='color:green'>-118.288</td>
+<td style='color:green'>-0.232</td>
+<td style='color:green'>0</td>
+<td style='color:green'>4.479</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Nl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Et</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Hu</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ht</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Hi</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ro</td>
+<td style='color:green'>-77.024</td>
+<td style='color:green'>-0.300</td>
+<td style='color:green'>0</td>
+<td style='color:green'>4.795</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Da</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Zh</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Fi</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Lt</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Sv</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Eu</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Is</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Lv</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ko</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ur</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ar</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ru</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Cs</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Sl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ja</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Uk</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Iw</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Km</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Fa</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>My</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>El</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Bn</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ps</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>-122.943</td>
+<td>-0.044</td>
+<td>128.896</td>
+<td>2.005</td>
+</tr>
+</table>
+</blockquote>
+<h2>Continous Attribute RETWEET_COUNT by Language</h2>
+<blockquote>
+<table>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<col width='100px'/>
+<tr>
+<th>Group</th>
+<th>Min</th>
+<th>Mean</th>
+<th>Max</th>
+<th>Std.dev</th>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>En</td>
+<td style='color:green'>0</td>
+<td style='color:green'>825.422</td>
+<td style='color:green'>453930</td>
+<td style='color:green'>7923.184</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Fr</td>
+<td style='color:green'>0</td>
+<td style='color:green'>184.784</td>
+<td style='color:green'>43766</td>
+<td style='color:green'>2141.473</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Und</td>
+<td style='color:green'>0</td>
+<td style='color:green'>290.213</td>
+<td style='color:green'>275455</td>
+<td style='color:green'>4252.779</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Pl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>107.860</td>
+<td style='color:green'>3710</td>
+<td style='color:green'>477.440</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>It</td>
+<td style='color:green'>0</td>
+<td style='color:green'>142.662</td>
+<td style='color:green'>14056</td>
+<td style='color:green'>1192.358</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Tr</td>
+<td style='color:green'>0</td>
+<td style='color:green'>57.044</td>
+<td style='color:green'>1648</td>
+<td style='color:green'>225.727</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Tl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>427.229</td>
+<td style='color:green'>34408</td>
+<td style='color:green'>2367.363</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>In</td>
+<td style='color:green'>0</td>
+<td style='color:green'>251.940</td>
+<td style='color:green'>56943</td>
+<td style='color:green'>3103.216</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ca</td>
+<td style='color:green'>0</td>
+<td style='color:green'>340.707</td>
+<td style='color:green'>29695</td>
+<td style='color:green'>3045.013</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Vi</td>
+<td style='color:green'>0</td>
+<td style='color:green'>81.818</td>
+<td style='color:green'>291</td>
+<td style='color:green'>127.761</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>No</td>
+<td style='color:green'>0</td>
+<td style='color:green'>632.755</td>
+<td style='color:green'>17110</td>
+<td style='color:green'>3012.549</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>De</td>
+<td style='color:green'>0</td>
+<td style='color:green'>72.097</td>
+<td style='color:green'>2375</td>
+<td style='color:green'>300.109</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Cy</td>
+<td style='color:green'>0</td>
+<td style='color:green'>582</td>
+<td style='color:green'>24725</td>
+<td style='color:green'>3640.769</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Pt</td>
+<td style='color:green'>0</td>
+<td style='color:green'>175.074</td>
+<td style='color:green'>5597</td>
+<td style='color:green'>754.452</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Es</td>
+<td style='color:green'>0</td>
+<td style='color:green'>127.657</td>
+<td style='color:green'>28156</td>
+<td style='color:green'>896.142</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Nl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>33.987</td>
+<td style='color:green'>1331</td>
+<td style='color:green'>150.595</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Et</td>
+<td style='color:green'>0</td>
+<td style='color:green'>136.895</td>
+<td style='color:green'>5427</td>
+<td style='color:green'>687.495</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Hu</td>
+<td style='color:green'>0</td>
+<td style='color:green'>11.303</td>
+<td style='color:green'>132</td>
+<td style='color:green'>31.586</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ht</td>
+<td style='color:green'>0</td>
+<td style='color:green'>742.679</td>
+<td style='color:green'>14153</td>
+<td style='color:green'>2765.104</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Hi</td>
+<td style='color:green'>0</td>
+<td style='color:green'>914.706</td>
+<td style='color:green'>15490</td>
+<td style='color:green'>3637.862</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ro</td>
+<td style='color:green'>0</td>
+<td style='color:green'>545.292</td>
+<td style='color:green'>18723</td>
+<td style='color:green'>3041.771</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Da</td>
+<td style='color:green'>0</td>
+<td style='color:green'>241.199</td>
+<td style='color:green'>10192</td>
+<td style='color:green'>933.438</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Zh</td>
+<td style='color:green'>0</td>
+<td style='color:green'>92.275</td>
+<td style='color:green'>469</td>
+<td style='color:green'>114.487</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Fi</td>
+<td style='color:green'>0</td>
+<td style='color:green'>1279.027</td>
+<td style='color:green'>17322</td>
+<td style='color:green'>4323.624</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Lt</td>
+<td style='color:green'>0</td>
+<td style='color:green'>488.765</td>
+<td style='color:green'>3106</td>
+<td style='color:green'>1027.438</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Sv</td>
+<td style='color:green'>0</td>
+<td style='color:green'>116.410</td>
+<td style='color:green'>1011</td>
+<td style='color:green'>288.690</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Eu</td>
+<td style='color:green'>0</td>
+<td style='color:green'>12.297</td>
+<td style='color:green'>263</td>
+<td style='color:green'>46.798</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Is</td>
+<td style='color:green'>0</td>
+<td style='color:green'>3.136</td>
+<td style='color:green'>38</td>
+<td style='color:green'>8.220</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Lv</td>
+<td style='color:green'>0</td>
+<td style='color:green'>1.080</td>
+<td style='color:green'>12</td>
+<td style='color:green'>2.841</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ko</td>
+<td style='color:green'>0</td>
+<td style='color:green'>2813.200</td>
+<td style='color:green'>27947</td>
+<td style='color:green'>6407.892</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ur</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ar</td>
+<td style='color:green'>0</td>
+<td style='color:green'>178.585</td>
+<td style='color:green'>1239</td>
+<td style='color:green'>311.044</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ru</td>
+<td style='color:green'>0</td>
+<td style='color:green'>119.829</td>
+<td style='color:green'>2932</td>
+<td style='color:green'>422.896</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Cs</td>
+<td style='color:green'>0</td>
+<td style='color:green'>21.632</td>
+<td style='color:green'>351</td>
+<td style='color:green'>77.846</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Sl</td>
+<td style='color:green'>0</td>
+<td style='color:green'>10.462</td>
+<td style='color:green'>58</td>
+<td style='color:green'>20.511</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ja</td>
+<td style='color:green'>0</td>
+<td style='color:green'>3109.641</td>
+<td style='color:green'>46907</td>
+<td style='color:green'>10306.098</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Uk</td>
+<td style='color:green'>0</td>
+<td style='color:green'>40.571</td>
+<td style='color:green'>1429</td>
+<td style='color:green'>104.935</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Iw</td>
+<td style='color:green'>0</td>
+<td style='color:green'>27.317</td>
+<td style='color:green'>186</td>
+<td style='color:green'>52.213</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Km</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0.846</td>
+<td style='color:green'>4</td>
+<td style='color:green'>1.167</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Fa</td>
+<td style='color:green'>0</td>
+<td style='color:green'>44.647</td>
+<td style='color:green'>783</td>
+<td style='color:green'>100.719</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>My</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>El</td>
+<td style='color:green'>7</td>
+<td style='color:green'>7</td>
+<td style='color:green'>7</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Bn</td>
+<td style='color:green'>3</td>
+<td style='color:green'>3</td>
+<td style='color:green'>3</td>
+<td style='color:green'>0</td>
+</tr>
+<tr style='color:green'>
+<td style='color:green'>Ps</td>
+<td style='color:green'>52</td>
+<td style='color:green'>52</td>
+<td style='color:green'>52</td>
+<td style='color:green'>0</td>
+</tr>
+<tr>
+<th>All nodes</th>
+<td>0</td>
+<td>801.698</td>
+<td>453930</td>
+<td>7790.297</td>
+</tr>
+</table>
+</blockquote>
+<h2>Categorical Attributes: Language x HAS_URL</h2>
+<blockquote>
+<p>This table shows the joint frequency of the attribute values.</p>
+<table>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<tr>
+<td></td>
+<th>1</th>
+<th>No Value</th>
+</tr>
+<tr>
+<th>En</th>
+<td>478939</td>
+<td>339963</td>
+</tr>
+<tr>
+<th>Fr</th>
+<td>1084</td>
+<td>781</td>
+</tr>
+<tr>
+<th>Und</th>
+<td>13404</td>
+<td>9209</td>
+</tr>
+<tr>
+<th>Pl</th>
+<td>167</td>
+<td>75</td>
+</tr>
+<tr>
+<th>It</th>
+<td>139</td>
+<td>139</td>
+</tr>
+<tr>
+<th>Tr</th>
+<td>57</td>
+<td>56</td>
+</tr>
+<tr>
+<th>Tl</th>
+<td>294</td>
+<td>291</td>
+</tr>
+<tr>
+<th>In</th>
+<td>378</td>
+<td>395</td>
+</tr>
+<tr>
+<th>Ca</th>
+<td>124</td>
+<td>64</td>
+</tr>
+<tr>
+<th>Vi</th>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr>
+<th>No</th>
+<td>79</td>
+<td>76</td>
+</tr>
+<tr>
+<th>De</th>
+<td>233</td>
+<td>233</td>
+</tr>
+<tr>
+<th>Cy</th>
+<td>73</td>
+<td>107</td>
+</tr>
+<tr>
+<th>Pt</th>
+<td>144</td>
+<td>128</td>
+</tr>
+<tr>
+<th>Es</th>
+<td>2098</td>
+<td>1556</td>
+</tr>
+<tr>
+<th>Nl</th>
+<td>107</td>
+<td>118</td>
+</tr>
+<tr>
+<th>Et</th>
+<td>107</td>
+<td>103</td>
+</tr>
+<tr>
+<th>Hu</th>
+<td>11</td>
+<td>22</td>
+</tr>
+<tr>
+<th>Ht</th>
+<td>143</td>
+<td>190</td>
+</tr>
+<tr>
+<th>Hi</th>
+<td>13</td>
+<td>38</td>
+</tr>
+<tr>
+<th>Ro</th>
+<td>198</td>
+<td>59</td>
+</tr>
+<tr>
+<th>Da</th>
+<td>164</td>
+<td>107</td>
+</tr>
+<tr>
+<th>Zh</th>
+<td>182</td>
+<td>62</td>
+</tr>
+<tr>
+<th>Fi</th>
+<td>32</td>
+<td>42</td>
+</tr>
+<tr>
+<th>Lt</th>
+<td>16</td>
+<td>18</td>
+</tr>
+<tr>
+<th>Sv</th>
+<td>54</td>
+<td>85</td>
+</tr>
+<tr>
+<th>Eu</th>
+<td>24</td>
+<td>40</td>
+</tr>
+<tr>
+<th>Is</th>
+<td>13</td>
+<td>9</td>
+</tr>
+<tr>
+<th>Lv</th>
+<td>11</td>
+<td>14</td>
+</tr>
+<tr>
+<th>Ko</th>
+<td>10</td>
+<td>30</td>
+</tr>
+<tr>
+<th>Ur</th>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<th>Ar</th>
+<td>26</td>
+<td>27</td>
+</tr>
+<tr>
+<th>Ru</th>
+<td>68</td>
+<td>49</td>
+</tr>
+<tr>
+<th>Cs</th>
+<td>20</td>
+<td>18</td>
+</tr>
+<tr>
+<th>Sl</th>
+<td>3</td>
+<td>10</td>
+</tr>
+<tr>
+<th>Ja</th>
+<td>9</td>
+<td>30</td>
+</tr>
+<tr>
+<th>Uk</th>
+<td>716</td>
+<td>356</td>
+</tr>
+<tr>
+<th>Iw</th>
+<td>10</td>
+<td>31</td>
+</tr>
+<tr>
+<th>Km</th>
+<td>13</td>
+<td>0</td>
+</tr>
+<tr>
+<th>Fa</th>
+<td>457</td>
+<td>528</td>
+</tr>
+<tr>
+<th>My</th>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<th>El</th>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<th>Bn</th>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr>
+<th>Ps</th>
+<td>0</td>
+<td>2</td>
+</tr>
+</table>
+</blockquote>
+<h2>Categorical Attributes: Language x IS_GEOTAGGED</h2>
+<blockquote>
+<p>This table shows the joint frequency of the attribute values.</p>
+<table>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<tr>
+<td></td>
+<th>1</th>
+<th>No Value</th>
+</tr>
+<tr>
+<th>En</th>
+<td>474</td>
+<td>818428</td>
+</tr>
+<tr>
+<th>Fr</th>
+<td>0</td>
+<td>1865</td>
+</tr>
+<tr>
+<th>Und</th>
+<td>3</td>
+<td>22610</td>
+</tr>
+<tr>
+<th>Pl</th>
+<td>0</td>
+<td>242</td>
+</tr>
+<tr>
+<th>It</th>
+<td>0</td>
+<td>278</td>
+</tr>
+<tr>
+<th>Tr</th>
+<td>0</td>
+<td>113</td>
+</tr>
+<tr>
+<th>Tl</th>
+<td>1</td>
+<td>584</td>
+</tr>
+<tr>
+<th>In</th>
+<td>1</td>
+<td>772</td>
+</tr>
+<tr>
+<th>Ca</th>
+<td>2</td>
+<td>186</td>
+</tr>
+<tr>
+<th>Vi</th>
+<td>0</td>
+<td>11</td>
+</tr>
+<tr>
+<th>No</th>
+<td>0</td>
+<td>155</td>
+</tr>
+<tr>
+<th>De</th>
+<td>1</td>
+<td>465</td>
+</tr>
+<tr>
+<th>Cy</th>
+<td>1</td>
+<td>179</td>
+</tr>
+<tr>
+<th>Pt</th>
+<td>0</td>
+<td>272</td>
+</tr>
+<tr>
+<th>Es</th>
+<td>10</td>
+<td>3644</td>
+</tr>
+<tr>
+<th>Nl</th>
+<td>0</td>
+<td>225</td>
+</tr>
+<tr>
+<th>Et</th>
+<td>0</td>
+<td>210</td>
+</tr>
+<tr>
+<th>Hu</th>
+<td>0</td>
+<td>33</td>
+</tr>
+<tr>
+<th>Ht</th>
+<td>0</td>
+<td>333</td>
+</tr>
+<tr>
+<th>Hi</th>
+<td>0</td>
+<td>51</td>
+</tr>
+<tr>
+<th>Ro</th>
+<td>1</td>
+<td>256</td>
+</tr>
+<tr>
+<th>Da</th>
+<td>0</td>
+<td>271</td>
+</tr>
+<tr>
+<th>Zh</th>
+<td>0</td>
+<td>244</td>
+</tr>
+<tr>
+<th>Fi</th>
+<td>0</td>
+<td>74</td>
+</tr>
+<tr>
+<th>Lt</th>
+<td>0</td>
+<td>34</td>
+</tr>
+<tr>
+<th>Sv</th>
+<td>0</td>
+<td>139</td>
+</tr>
+<tr>
+<th>Eu</th>
+<td>0</td>
+<td>64</td>
+</tr>
+<tr>
+<th>Is</th>
+<td>0</td>
+<td>22</td>
+</tr>
+<tr>
+<th>Lv</th>
+<td>0</td>
+<td>25</td>
+</tr>
+<tr>
+<th>Ko</th>
+<td>0</td>
+<td>40</td>
+</tr>
+<tr>
+<th>Ur</th>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<th>Ar</th>
+<td>0</td>
+<td>53</td>
+</tr>
+<tr>
+<th>Ru</th>
+<td>0</td>
+<td>117</td>
+</tr>
+<tr>
+<th>Cs</th>
+<td>0</td>
+<td>38</td>
+</tr>
+<tr>
+<th>Sl</th>
+<td>0</td>
+<td>13</td>
+</tr>
+<tr>
+<th>Ja</th>
+<td>0</td>
+<td>39</td>
+</tr>
+<tr>
+<th>Uk</th>
+<td>0</td>
+<td>1072</td>
+</tr>
+<tr>
+<th>Iw</th>
+<td>0</td>
+<td>41</td>
+</tr>
+<tr>
+<th>Km</th>
+<td>0</td>
+<td>13</td>
+</tr>
+<tr>
+<th>Fa</th>
+<td>0</td>
+<td>985</td>
+</tr>
+<tr>
+<th>My</th>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<th>El</th>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<th>Bn</th>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<th>Ps</th>
+<td>0</td>
+<td>2</td>
+</tr>
+</table>
+</blockquote>
+<h2>Categorical Attributes: Language x IS_RETWEET</h2>
+<blockquote>
+<p>This table shows the joint frequency of the attribute values.</p>
+<table>
+<col width='150px'/>
+<col width='150px'/>
+<col width='150px'/>
+<tr>
+<td></td>
+<th>1</th>
+<th>No Value</th>
+</tr>
+<tr>
+<th>En</th>
+<td>285289</td>
+<td>533613</td>
+</tr>
+<tr>
+<th>Fr</th>
+<td>389</td>
+<td>1476</td>
+</tr>
+<tr>
+<th>Und</th>
+<td>3057</td>
+<td>19556</td>
+</tr>
+<tr>
+<th>Pl</th>
+<td>43</td>
+<td>199</td>
+</tr>
+<tr>
+<th>It</th>
+<td>64</td>
+<td>214</td>
+</tr>
+<tr>
+<th>Tr</th>
+<td>23</td>
+<td>90</td>
+</tr>
+<tr>
+<th>Tl</th>
+<td>98</td>
+<td>487</td>
+</tr>
+<tr>
+<th>In</th>
+<td>112</td>
+<td>661</td>
+</tr>
+<tr>
+<th>Ca</th>
+<td>55</td>
+<td>133</td>
+</tr>
+<tr>
+<th>Vi</th>
+<td>3</td>
+<td>8</td>
+</tr>
+<tr>
+<th>No</th>
+<td>27</td>
+<td>128</td>
+</tr>
+<tr>
+<th>De</th>
+<td>119</td>
+<td>347</td>
+</tr>
+<tr>
+<th>Cy</th>
+<td>42</td>
+<td>138</td>
+</tr>
+<tr>
+<th>Pt</th>
+<td>55</td>
+<td>217</td>
+</tr>
+<tr>
+<th>Es</th>
+<td>1008</td>
+<td>2646</td>
+</tr>
+<tr>
+<th>Nl</th>
+<td>38</td>
+<td>187</td>
+</tr>
+<tr>
+<th>Et</th>
+<td>38</td>
+<td>172</td>
+</tr>
+<tr>
+<th>Hu</th>
+<td>5</td>
+<td>28</td>
+</tr>
+<tr>
+<th>Ht</th>
+<td>82</td>
+<td>251</td>
+</tr>
+<tr>
+<th>Hi</th>
+<td>7</td>
+<td>44</td>
+</tr>
+<tr>
+<th>Ro</th>
+<td>82</td>
+<td>175</td>
+</tr>
+<tr>
+<th>Da</th>
+<td>86</td>
+<td>185</td>
+</tr>
+<tr>
+<th>Zh</th>
+<td>86</td>
+<td>158</td>
+</tr>
+<tr>
+<th>Fi</th>
+<td>32</td>
+<td>42</td>
+</tr>
+<tr>
+<th>Lt</th>
+<td>6</td>
+<td>28</td>
+</tr>
+<tr>
+<th>Sv</th>
+<td>37</td>
+<td>102</td>
+</tr>
+<tr>
+<th>Eu</th>
+<td>7</td>
+<td>57</td>
+</tr>
+<tr>
+<th>Is</th>
+<td>2</td>
+<td>20</td>
+</tr>
+<tr>
+<th>Lv</th>
+<td>1</td>
+<td>24</td>
+</tr>
+<tr>
+<th>Ko</th>
+<td>17</td>
+<td>23</td>
+</tr>
+<tr>
+<th>Ur</th>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<th>Ar</th>
+<td>21</td>
+<td>32</td>
+</tr>
+<tr>
+<th>Ru</th>
+<td>26</td>
+<td>91</td>
+</tr>
+<tr>
+<th>Cs</th>
+<td>6</td>
+<td>32</td>
+</tr>
+<tr>
+<th>Sl</th>
+<td>3</td>
+<td>10</td>
+</tr>
+<tr>
+<th>Ja</th>
+<td>14</td>
+<td>25</td>
+</tr>
+<tr>
+<th>Uk</th>
+<td>278</td>
+<td>794</td>
+</tr>
+<tr>
+<th>Iw</th>
+<td>19</td>
+<td>22</td>
+</tr>
+<tr>
+<th>Km</th>
+<td>0</td>
+<td>13</td>
+</tr>
+<tr>
+<th>Fa</th>
+<td>328</td>
+<td>657</td>
+</tr>
+<tr>
+<th>My</th>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<th>El</th>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<th>Bn</th>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<th>Ps</th>
+<td>1</td>
+<td>1</td>
+</tr>
+</table>
+</blockquote>
+<h2>Categorical Attributes: Language x </h2>
+<blockquote>
+<p>This table shows the joint frequency of the attribute values.</p>
+<table>
+<col width='150px'/>
+<col width='150px'/>
+<tr>
+<td></td>
+<th>No Value</th>
+</tr>
+<tr>
+<th>En</th>
+<td>818902</td>
+</tr>
+<tr>
+<th>Fr</th>
+<td>1865</td>
+</tr>
+<tr>
+<th>Und</th>
+<td>22613</td>
+</tr>
+<tr>
+<th>Pl</th>
+<td>242</td>
+</tr>
+<tr>
+<th>It</th>
+<td>278</td>
+</tr>
+<tr>
+<th>Tr</th>
+<td>113</td>
+</tr>
+<tr>
+<th>Tl</th>
+<td>585</td>
+</tr>
+<tr>
+<th>In</th>
+<td>773</td>
+</tr>
+<tr>
+<th>Ca</th>
+<td>188</td>
+</tr>
+<tr>
+<th>Vi</th>
+<td>11</td>
+</tr>
+<tr>
+<th>No</th>
+<td>155</td>
+</tr>
+<tr>
+<th>De</th>
+<td>466</td>
+</tr>
+<tr>
+<th>Cy</th>
+<td>180</td>
+</tr>
+<tr>
+<th>Pt</th>
+<td>272</td>
+</tr>
+<tr>
+<th>Es</th>
+<td>3654</td>
+</tr>
+<tr>
+<th>Nl</th>
+<td>225</td>
+</tr>
+<tr>
+<th>Et</th>
+<td>210</td>
+</tr>
+<tr>
+<th>Hu</th>
+<td>33</td>
+</tr>
+<tr>
+<th>Ht</th>
+<td>333</td>
+</tr>
+<tr>
+<th>Hi</th>
+<td>51</td>
+</tr>
+<tr>
+<th>Ro</th>
+<td>257</td>
+</tr>
+<tr>
+<th>Da</th>
+<td>271</td>
+</tr>
+<tr>
+<th>Zh</th>
+<td>244</td>
+</tr>
+<tr>
+<th>Fi</th>
+<td>74</td>
+</tr>
+<tr>
+<th>Lt</th>
+<td>34</td>
+</tr>
+<tr>
+<th>Sv</th>
+<td>139</td>
+</tr>
+<tr>
+<th>Eu</th>
+<td>64</td>
+</tr>
+<tr>
+<th>Is</th>
+<td>22</td>
+</tr>
+<tr>
+<th>Lv</th>
+<td>25</td>
+</tr>
+<tr>
+<th>Ko</th>
+<td>40</td>
+</tr>
+<tr>
+<th>Ur</th>
+<td>2</td>
+</tr>
+<tr>
+<th>Ar</th>
+<td>53</td>
+</tr>
+<tr>
+<th>Ru</th>
+<td>117</td>
+</tr>
+<tr>
+<th>Cs</th>
+<td>38</td>
+</tr>
+<tr>
+<th>Sl</th>
+<td>13</td>
+</tr>
+<tr>
+<th>Ja</th>
+<td>39</td>
+</tr>
+<tr>
+<th>Uk</th>
+<td>1072</td>
+</tr>
+<tr>
+<th>Iw</th>
+<td>41</td>
+</tr>
+<tr>
+<th>Km</th>
+<td>13</td>
+</tr>
+<tr>
+<th>Fa</th>
+<td>985</td>
+</tr>
+<tr>
+<th>My</th>
+<td>4</td>
+</tr>
+<tr>
+<th>El</th>
+<td>2</td>
+</tr>
+<tr>
+<th>Bn</th>
+<td>2</td>
+</tr>
+<tr>
+<th>Ps</th>
+<td>2</td>
+</tr>
+</table>
+</blockquote>
+</blockquote>
+<p><a href="Twitter.html">Return to previous page</a></p>
+</html>
