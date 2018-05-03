@@ -1,0 +1,4 @@
+Attribute,Min,Mean,Max,Std.dev,
+Latitude,-42.720,0.027,64.251,1.048,
+Longitude,-159.500,-0.047,147.195,2.042,
+RETWEET_COUNT,0,702.562,794570,7897.916,
