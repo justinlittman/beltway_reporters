@@ -8,12 +8,15 @@ import csv
 logger = logging.getLogger()
 
 
-def tweet_load_iter(limit=None, tweet_transform_func=None, limit_user_ids=None):
+def tweet_load_iter(limit=None, tweet_transform_func=None, limit_user_ids=None, tweet_filepaths=None, tweet_glob='tweets/*.json.gz'):
+    if tweet_filepaths is None:
+        tweet_filepaths = glob.glob(tweet_glob)
+
     # Load tweets from gzipped, line-oriented JSON files, possibly transforming with provided function
     # and limiting by number of tweets and a set of user ids.
     # Returns an iterator.
     count = 0
-    for filepath in glob.glob('tweets/*.json.gz'):
+    for filepath in tweet_filepaths:
         logging.info('Loading from %s', filepath)
         with gzip.open(filepath) as file:
             for line in file:
@@ -35,18 +38,20 @@ def tweet_load_iter(limit=None, tweet_transform_func=None, limit_user_ids=None):
                     return
 
 
-def load_tweet_df(tweet_transform_func, columns, limit=None, dedupe_columns=None, limit_by_user_ids=True):
+def load_tweet_df(tweet_transform_func, columns, limit=None, dedupe_columns=None, limit_by_user_ids=True, lookup_filepaths=None, tweet_filepaths=None):
+    if lookup_filepaths is None:
+        lookup_filepaths = (
+                'lookups/periodical_press_lookup.csv',
+                'lookups/senate_press_lookup.csv',
+                'lookups/radio_and_television_lookup.csv')
     limit_user_ids = None
     if limit_by_user_ids:
         limit_user_ids = set()
-        for lookup_filepath in (
-                'lookups/periodical_press_lookup.csv',
-                'lookups/senate_press_lookup.csv',
-                'lookups/radio_and_television_lookup.csv'):
+        for lookup_filepath in lookup_filepaths:
             limit_user_ids.update(load_seed_list_dict(lookup_filepath).keys())
 
     tweet_df = pd.DataFrame(
-        tweet_load_iter(tweet_transform_func=tweet_transform_func, limit=limit, limit_user_ids=limit_user_ids),
+        tweet_load_iter(tweet_transform_func=tweet_transform_func, limit=limit, limit_user_ids=limit_user_ids, tweet_filepaths=tweet_filepaths),
         columns=columns)
     if dedupe_columns:
         tweet_df.drop_duplicates(dedupe_columns, keep='last', inplace=True)
@@ -64,6 +69,11 @@ def tweet_type(tweet):
         return 'quote'
     return 'original'
 
+def tweet_text(tweet_json):
+    # This handles compat, extended, and extended streaming tweets.
+    return tweet_json.get('full_text') \
+           or tweet_json.get('extended_tweet', {}).get('full_text') \
+           or tweet_json.get('text','')
 
 def load_seed_list_dict(filepath):
     """
