@@ -9,7 +9,7 @@ backgroundColor: 'rgba(255,0,0,0.2)',
 borderColor: 'rgba(255,0,0,1)',
 borderWidth: 1,
 fill:true,
-data : [0.205067,0.283971,1,]
+data : [0.205067,0.28394,1,]
 },
 {
 label: 'Tweeter Average',
@@ -17,7 +17,7 @@ backgroundColor: 'rgba(0,255,0,0.2)',
 borderColor: 'rgba(0,255,0,1)',
 borderWidth: 1,
 fill:true,
-data : [0.0384181,0.0353046,0.304405,]
+data : [0.0381307,0.0352383,0.303494,]
 },
 ]
 }

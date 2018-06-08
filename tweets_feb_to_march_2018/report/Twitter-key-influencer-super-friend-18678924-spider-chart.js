@@ -17,7 +17,7 @@ backgroundColor: 'rgba(0,255,0,0.2)',
 borderColor: 'rgba(0,255,0,1)',
 borderWidth: 1,
 fill:true,
-data : [0.0374862,0.0453733,0.0114709,0.260412,]
+data : [0.0367475,0.0452622,0.0114633,0.259531,]
 },
 ]
 }

@@ -1,7 +1,7 @@
 Chart.defaults.global.legend.position = 'bottom'
 
 var data = {
-labels:['jaketapper','jmartNYT','AaronMehta','APAndrewTaylor','JakeSherman','HotlineJosh','Acosta','AlexNBCNews','hbwx',],
+labels:['jaketapper','jmartNYT','ValerieInsinna','AaronMehta','APAndrewTaylor','JakeSherman','HotlineJosh','Acosta','AlexNBCNews',],
 datasets : [
 {
 label: 'Agent (Twitter JSON all_filtered)',
